@@ -6317,7 +6317,7 @@
      "monomer, dimer, trimer, tetramer（单体、二聚体、三聚体、四聚体）"
     ],
     "correct": 1,
-    "a": "** The four levels of protein structure are primary, secondary, tertiary, and quaternary.\n蛋白质结构的四个层级是：一级、二级、三级和四级结构。"
+    "a": "The four levels of protein structure are primary, secondary, tertiary, and quaternary.\n蛋白质结构的四个层级是：一级、二级、三级和四级结构。"
    },
    {
     "id": "Quiz 1 - Introduction (MCQ).md::1",
@@ -6331,7 +6331,7 @@
      "4000 kDa"
     ],
     "correct": 2,
-    "a": "** NMR structural studies are limited to proteins of ≤ 40 kDa.\nNMR 结构研究仅适用于 ≤ 40 kDa 的蛋白质。"
+    "a": "NMR structural studies are limited to proteins of ≤ 40 kDa.\nNMR 结构研究仅适用于 ≤ 40 kDa 的蛋白质。"
    },
    {
     "id": "Quiz 1 - Introduction (MCQ).md::2",
@@ -6345,7 +6345,7 @@
      "|F| = √(A² + B²)"
     ],
     "correct": 0,
-    "a": "** The Larmor frequency is ω = γ × B₀, the product of the gyromagnetic ratio and the external magnetic field.\n拉莫尔频率 ω = γ × B₀，即旋磁比与外加磁场 B₀ 的乘积。"
+    "a": "The Larmor frequency is ω = γ × B₀, the product of the gyromagnetic ratio and the external magnetic field.\n拉莫尔频率 ω = γ × B₀，即旋磁比与外加磁场 B₀ 的乘积。"
    },
    {
     "id": "Quiz 1 - Introduction (MCQ).md::3",
@@ -6359,7 +6359,7 @@
      "¹⁵N, ¹³C, ²H"
     ],
     "correct": 3,
-    "a": "** NMR labeling requires the spin-active isotopes ¹⁵N, ¹³C, and ²H (deuterium).\nNMR 标记需要具有自旋的 ¹⁵N、¹³C 和 ²H（氘）同位素。"
+    "a": "NMR labeling requires the spin-active isotopes ¹⁵N, ¹³C, and ²H (deuterium).\nNMR 标记需要具有自旋的 ¹⁵N、¹³C 和 ²H（氘）同位素。"
    },
    {
     "id": "Quiz 1 - Introduction (MCQ).md::4",
@@ -6373,7 +6373,7 @@
      "MR（分子置换）"
     ],
     "correct": 1,
-    "a": "** SeMet provides the anomalous scatterer selenium, enabling MAD (multi-wavelength anomalous dispersion) phasing."
+    "a": "SeMet provides the anomalous scatterer selenium, enabling MAD (multi-wavelength anomalous dispersion) phasing."
    },
    {
     "id": "Quiz 1 - Introduction (MCQ).md::5",
@@ -6387,7 +6387,7 @@
      "HSQC spectrum（HSQC 谱图）"
     ],
     "correct": 0,
-    "a": "** The X-ray pipeline proceeds crystal → diffraction → electron density map → atomic model.\nX 射线流程为：晶体 → 衍射 → 电子密度图 → 原子模型。"
+    "a": "The X-ray pipeline proceeds crystal → diffraction → electron density map → atomic model.\nX 射线流程为：晶体 → 衍射 → 电子密度图 → 原子模型。"
    },
    {
     "id": "Quiz 1 - Introduction (MCQ).md::6",
@@ -6401,7 +6401,7 @@
      "TOP10"
     ],
     "correct": 2,
-    "a": "** The pET system uses E. coli BL21(DE3), which carries the T7 RNA polymerase under the lac promoter.\npET 系统使用大肠杆菌 BL21(DE3)，其携带受 lac 启动子调控的 T7 RNA 聚合酶基因。"
+    "a": "The pET system uses E. coli BL21(DE3), which carries the T7 RNA polymerase under the lac promoter.\npET 系统使用大肠杆菌 BL21(DE3)，其携带受 lac 启动子调控的 T7 RNA 聚合酶基因。"
    },
    {
     "id": "Quiz 1 - Introduction (MCQ).md::7",
@@ -6415,7 +6415,7 @@
      "SEC-MALS（尺寸排阻色谱-多角度光散射）"
     ],
     "correct": 3,
-    "a": "** SEC-MALS light-scattering signal is proportional to molar mass × concentration.\nSEC-MALS 的光散射信号与摩尔质量 × 浓度成正比。"
+    "a": "SEC-MALS light-scattering signal is proportional to molar mass × concentration.\nSEC-MALS 的光散射信号与摩尔质量 × 浓度成正比。"
    }
   ]
  },
@@ -6435,7 +6435,7 @@
      "soluble (undersaturation) zone（可溶/不饱和区）"
     ],
     "correct": 2,
-    "a": "** In the metastable (supersaturation) zone, crystals grow but do not nucleate spontaneously.\n在亚稳（过饱和）区，晶体可以生长但不会自发成核。"
+    "a": "In the metastable (supersaturation) zone, crystals grow but do not nucleate spontaneously.\n在亚稳（过饱和）区，晶体可以生长但不会自发成核。"
    },
    {
     "id": "Quiz 2 - Crystallogenesis (MCQ).md::1",
@@ -6449,7 +6449,7 @@
      "evaporation and equilibration（蒸发与平衡）"
     ],
     "correct": 0,
-    "a": "** Crystals form through two key steps: nucleation and crystalline growth.\n晶体通过两个关键步骤形成：成核与晶体生长。"
+    "a": "Crystals form through two key steps: nucleation and crystalline growth.\n晶体通过两个关键步骤形成：成核与晶体生长。"
    },
    {
     "id": "Quiz 2 - Crystallogenesis (MCQ).md::2",
@@ -6463,7 +6463,7 @@
      "concentration and type（浓度与类型）"
     ],
     "correct": 3,
-    "a": "** The two most important precipitant factors are its concentration and its type.\n沉淀剂的两个最重要因素是其浓度与类型。"
+    "a": "The two most important precipitant factors are its concentration and its type.\n沉淀剂的两个最重要因素是其浓度与类型。"
    },
    {
     "id": "Quiz 2 - Crystallogenesis (MCQ).md::3",
@@ -6477,7 +6477,7 @@
      "side-by-side（并排）"
     ],
     "correct": 1,
-    "a": "** In a hanging drop, the droplet is inverted over the reservoir.\n在悬滴法中，液滴倒置悬挂于储液池之上。"
+    "a": "In a hanging drop, the droplet is inverted over the reservoir.\n在悬滴法中，液滴倒置悬挂于储液池之上。"
    },
    {
     "id": "Quiz 2 - Crystallogenesis (MCQ).md::4",
@@ -6491,7 +6491,7 @@
      "absent（不发生）"
     ],
     "correct": 2,
-    "a": "** Nucleation must be slow to get a few large crystals.\n成核必须缓慢，才能得到少数大晶体。"
+    "a": "Nucleation must be slow to get a few large crystals.\n成核必须缓慢，才能得到少数大晶体。"
    },
    {
     "id": "Quiz 2 - Crystallogenesis (MCQ).md::5",
@@ -6505,7 +6505,7 @@
      "lysozyme（溶菌酶）"
     ],
     "correct": 3,
-    "a": "** Lysozyme is the standard teaching example for crystallization.\n溶菌酶是结晶教学的标准示例。"
+    "a": "Lysozyme is the standard teaching example for crystallization.\n溶菌酶是结晶教学的标准示例。"
    },
    {
     "id": "Quiz 2 - Crystallogenesis (MCQ).md::6",
@@ -6519,7 +6519,7 @@
      "partial oxygen（氧分压）"
     ],
     "correct": 0,
-    "a": "** In vapor diffusion, water evaporates from the drop until vapor pressure equilibrates.\n在气相扩散中，水从液滴蒸发直至蒸气压达到平衡。"
+    "a": "In vapor diffusion, water evaporates from the drop until vapor pressure equilibrates.\n在气相扩散中，水从液滴蒸发直至蒸气压达到平衡。"
    },
    {
     "id": "Quiz 2 - Crystallogenesis (MCQ).md::7",
@@ -6533,7 +6533,7 @@
      "tape（胶带）"
     ],
     "correct": 1,
-    "a": "** The drop is sealed over the reservoir with grease to allow slow evaporation (equilibration).\n液滴用油脂密封于储液池上方，以实现缓慢蒸发（平衡）。"
+    "a": "The drop is sealed over the reservoir with grease to allow slow evaporation (equilibration).\n液滴用油脂密封于储液池上方，以实现缓慢蒸发（平衡）。"
    }
   ]
  },
@@ -6553,7 +6553,7 @@
      "32"
     ],
     "correct": 1,
-    "a": "** There are 230 space groups in total.\n空间群总共有 230 个。"
+    "a": "There are 230 space groups in total.\n空间群总共有 230 个。"
    },
    {
     "id": "Quiz 3 - Crystal Symmetry and Space Groups (MCQ).md::1",
@@ -6567,7 +6567,7 @@
      "65"
     ],
     "correct": 3,
-    "a": "** Of the 230 space groups, only 65 are possible for macromolecules.\n在 230 个空间群中，只有 65 个适用于大分子。"
+    "a": "Of the 230 space groups, only 65 are possible for macromolecules.\n在 230 个空间群中，只有 65 个适用于大分子。"
    },
    {
     "id": "Quiz 3 - Crystal Symmetry and Space Groups (MCQ).md::2",
@@ -6581,7 +6581,7 @@
      "2-fold axes（二重轴）"
     ],
     "correct": 0,
-    "a": "** Mirrors, glide planes and inversions are forbidden for chiral macromolecules.\n镜面、滑移面和反演对手性大分子是禁止的。"
+    "a": "Mirrors, glide planes and inversions are forbidden for chiral macromolecules.\n镜面、滑移面和反演对手性大分子是禁止的。"
    },
    {
     "id": "Quiz 3 - Crystal Symmetry and Space Groups (MCQ).md::3",
@@ -6595,7 +6595,7 @@
      "n of the unit cell"
     ],
     "correct": 2,
-    "a": "** Screw axis n_m = n-fold rotation + translation by m/n of the unit cell.\n螺旋轴 n_m = n 重旋转 + 沿晶胞方向平移 m/n。"
+    "a": "Screw axis n_m = n-fold rotation + translation by m/n of the unit cell.\n螺旋轴 n_m = n 重旋转 + 沿晶胞方向平移 m/n。"
    },
    {
     "id": "Quiz 3 - Crystal Symmetry and Space Groups (MCQ).md::4",
@@ -6609,7 +6609,7 @@
      "1/6"
     ],
     "correct": 1,
-    "a": "** A 3₁ screw axis means translation by 1/3 of the cell.\n3₁ 螺旋轴表示平移晶胞的 1/3。"
+    "a": "A 3₁ screw axis means translation by 1/3 of the cell.\n3₁ 螺旋轴表示平移晶胞的 1/3。"
    },
    {
     "id": "Quiz 3 - Crystal Symmetry and Space Groups (MCQ).md::5",
@@ -6623,7 +6623,7 @@
      "unit cell（晶胞）"
     ],
     "correct": 0,
-    "a": "** The asymmetric unit is the smallest volume from which the unit cell can be built by symmetry.\n不对称单元是能够通过对称性构建出晶胞的最小体积单元。"
+    "a": "The asymmetric unit is the smallest volume from which the unit cell can be built by symmetry.\n不对称单元是能够通过对称性构建出晶胞的最小体积单元。"
    },
    {
     "id": "Quiz 3 - Crystal Symmetry and Space Groups (MCQ).md::6",
@@ -6637,7 +6637,7 @@
      "crystal lattice（晶格）"
     ],
     "correct": 3,
-    "a": "** The hierarchy is particle → motif → unit cell → crystal lattice.\n层级为：粒子 → 基元 → 晶胞 → 晶格。"
+    "a": "The hierarchy is particle → motif → unit cell → crystal lattice.\n层级为：粒子 → 基元 → 晶胞 → 晶格。"
    },
    {
     "id": "Quiz 3 - Crystal Symmetry and Space Groups (MCQ).md::7",
@@ -6651,7 +6651,7 @@
      "Bravais lattice type（布拉维点阵类型）"
     ],
     "correct": 2,
-    "a": "** Enantiomeric space groups differ only in handedness.\n对映体空间群之间唯一的区别在于手性（左右手性）。"
+    "a": "Enantiomeric space groups differ only in handedness.\n对映体空间群之间唯一的区别在于手性（左右手性）。"
    }
   ]
  },
@@ -6671,7 +6671,7 @@
      "ω = γ × B₀"
     ],
     "correct": 0,
-    "a": "** Bragg's law is nλ = 2d sinθ.\n布拉格定律为 nλ = 2d sinθ。"
+    "a": "Bragg's law is nλ = 2d sinθ.\n布拉格定律为 nλ = 2d sinθ。"
    },
    {
     "id": "Quiz 4 - X-ray Diffraction and Bragg's Law (MCQ).md::1",
@@ -6685,7 +6685,7 @@
      "the order of diffraction（衍射级数）"
     ],
     "correct": 2,
-    "a": "** In Bragg's law, d is the distance between lattice planes.\n在布拉格定律中，d 是晶面间距。"
+    "a": "In Bragg's law, d is the distance between lattice planes.\n在布拉格定律中，d 是晶面间距。"
    },
    {
     "id": "Quiz 4 - X-ray Diffraction and Bragg's Law (MCQ).md::2",
@@ -6699,7 +6699,7 @@
      "B/A"
     ],
     "correct": 1,
-    "a": "** The amplitude is |F| = √(A² + B²).\n振幅为 |F| = √(A² + B²)。"
+    "a": "The amplitude is |F| = √(A² + B²).\n振幅为 |F| = √(A² + B²)。"
    },
    {
     "id": "Quiz 4 - X-ray Diffraction and Bragg's Law (MCQ).md::3",
@@ -6713,7 +6713,7 @@
      "lost（丢失）"
     ],
     "correct": 3,
-    "a": "** In a diffraction experiment, the phase information is lost.\n在衍射实验中，相位信息会丢失。"
+    "a": "In a diffraction experiment, the phase information is lost.\n在衍射实验中，相位信息会丢失。"
    },
    {
     "id": "Quiz 4 - X-ray Diffraction and Bragg's Law (MCQ).md::4",
@@ -6727,7 +6727,7 @@
      "fractional（分数）"
     ],
     "correct": 0,
-    "a": "** Miller indices are relatively prime; Laue indices include the order n.\n米勒指数是互质的；劳厄指数则包含衍射级数 n。"
+    "a": "Miller indices are relatively prime; Laue indices include the order n.\n米勒指数是互质的；劳厄指数则包含衍射级数 n。"
    },
    {
     "id": "Quiz 4 - X-ray Diffraction and Bragg's Law (MCQ).md::5",
@@ -6741,7 +6741,7 @@
      "incoherent（不相干的）"
     ],
     "correct": 2,
-    "a": "** Thomson scattering is elastic and coherent.\n汤姆逊散射是弹性的且相干的。"
+    "a": "Thomson scattering is elastic and coherent.\n汤姆逊散射是弹性的且相干的。"
    },
    {
     "id": "Quiz 4 - X-ray Diffraction and Bragg's Law (MCQ).md::6",
@@ -6755,7 +6755,7 @@
      "Argand diagram（阿尔冈图）"
     ],
     "correct": 1,
-    "a": "** X-rays are generated by X-ray tubes, rotating anodes, and synchrotrons.\nX 射线由 X 射线管、旋转阳极和同步辐射加速器产生。"
+    "a": "X-rays are generated by X-ray tubes, rotating anodes, and synchrotrons.\nX 射线由 X 射线管、旋转阳极和同步辐射加速器产生。"
    },
    {
     "id": "Quiz 4 - X-ray Diffraction and Bragg's Law (MCQ).md::7",
@@ -6769,7 +6769,7 @@
      "B/A"
     ],
     "correct": 3,
-    "a": "** The phase satisfies tan φ = B/A.\n相位满足 tan φ = B/A。"
+    "a": "The phase satisfies tan φ = B/A.\n相位满足 tan φ = B/A。"
    }
   ]
  },
@@ -6789,7 +6789,7 @@
      "l·c*"
     ],
     "correct": 3,
-    "a": "** The reciprocal lattice vector is u = h·a* + k·b* + l·c*.\n倒易点阵矢量为 u = h·a* + k·b* + l·c*。"
+    "a": "The reciprocal lattice vector is u = h·a* + k·b* + l·c*.\n倒易点阵矢量为 u = h·a* + k·b* + l·c*。"
    },
    {
     "id": "Quiz 5 - Reciprocal Space and Structure Factors (MCQ).md::1",
@@ -6803,7 +6803,7 @@
      "V/(b × c)"
     ],
     "correct": 1,
-    "a": "** a* = (b × c)/V, the cross product of b and c divided by the unit-cell volume.\na* = (b × c)/V，即 b 与 c 的叉积除以晶胞体积。"
+    "a": "a* = (b × c)/V, the cross product of b and c divided by the unit-cell volume.\na* = (b × c)/V，即 b 与 c 的叉积除以晶胞体积。"
    },
    {
     "id": "Quiz 5 - Reciprocal Space and Structure Factors (MCQ).md::2",
@@ -6817,7 +6817,7 @@
      "difference（差）"
     ],
     "correct": 0,
-    "a": "** The reciprocal vector length equals the inverse (reciprocal) of the interplanar spacing, |d*| = 1/d.\n倒易矢量的长度等于晶面间距的倒数，即 |d*| = 1/d。"
+    "a": "The reciprocal vector length equals the inverse (reciprocal) of the interplanar spacing, |d*| = 1/d.\n倒易矢量的长度等于晶面间距的倒数，即 |d*| = 1/d。"
    },
    {
     "id": "Quiz 5 - Reciprocal Space and Structure Factors (MCQ).md::3",
@@ -6831,7 +6831,7 @@
      "anti-parallel（反平行）"
     ],
     "correct": 2,
-    "a": "** Reciprocal lattice vectors are perpendicular to the lattice planes.\n倒易点阵矢量垂直于晶面。"
+    "a": "Reciprocal lattice vectors are perpendicular to the lattice planes.\n倒易点阵矢量垂直于晶面。"
    },
    {
     "id": "Quiz 5 - Reciprocal Space and Structure Factors (MCQ).md::4",
@@ -6845,7 +6845,7 @@
      "|F_hkl|²"
     ],
     "correct": 3,
-    "a": "** The intensity I_hkl of a spot is determined by |F_hkl|².\n衍射点的强度 I_hkl 由 |F_hkl|² 决定。"
+    "a": "The intensity I_hkl of a spot is determined by |F_hkl|².\n衍射点的强度 I_hkl 由 |F_hkl|² 决定。"
    },
    {
     "id": "Quiz 5 - Reciprocal Space and Structure Factors (MCQ).md::5",
@@ -6859,7 +6859,7 @@
      "infinite（无限）"
     ],
     "correct": 1,
-    "a": "** A large real-space cell gives small reciprocal spacing.\n实空间中较大的晶胞对应较小的倒易间距。"
+    "a": "A large real-space cell gives small reciprocal spacing.\n实空间中较大的晶胞对应较小的倒易间距。"
    },
    {
     "id": "Quiz 5 - Reciprocal Space and Structure Factors (MCQ).md::6",
@@ -6873,7 +6873,7 @@
      "randomly（随机）"
     ],
     "correct": 0,
-    "a": "** Protein crystals give closely spaced diffraction spots because of their large unit cells.\n由于晶胞较大，蛋白质晶体给出紧密排列的衍射点。"
+    "a": "Protein crystals give closely spaced diffraction spots because of their large unit cells.\n由于晶胞较大，蛋白质晶体给出紧密排列的衍射点。"
    },
    {
     "id": "Quiz 5 - Reciprocal Space and Structure Factors (MCQ).md::7",
@@ -6887,7 +6887,7 @@
      "1 Å⁻¹"
     ],
     "correct": 2,
-    "a": "** a* = 1/a = 1/100 Å = 0.01 Å⁻¹.\na* = 1/a = 1/100 Å = 0.01 Å⁻¹。"
+    "a": "a* = 1/a = 1/100 Å = 0.01 Å⁻¹.\na* = 1/a = 1/100 Å = 0.01 Å⁻¹。"
    }
   ]
  },
@@ -6907,7 +6907,7 @@
      "2 sinθ/λ（散射角表达式）"
     ],
     "correct": 0,
-    "a": "** The Ewald sphere has radius 1/λ, where λ is the X-ray wavelength.\n埃瓦尔德球的半径为 1/λ，其中 λ 为 X 射线波长。"
+    "a": "The Ewald sphere has radius 1/λ, where λ is the X-ray wavelength.\n埃瓦尔德球的半径为 1/λ，其中 λ 为 X 射线波长。"
    },
    {
     "id": "Quiz 6 - X-ray Data Collection (MCQ).md::1",
@@ -6921,7 +6921,7 @@
      "blind（盲区的）"
     ],
     "correct": 1,
-    "a": "** High resolution means a small D_max, so the resolution sphere radius 1/D_max is big.\n高分辨率意味着 D_max 很小，因此分辨率球半径 1/D_max 很大。"
+    "a": "High resolution means a small D_max, so the resolution sphere radius 1/D_max is big.\n高分辨率意味着 D_max 很小，因此分辨率球半径 1/D_max 很大。"
    },
    {
     "id": "Quiz 6 - X-ray Data Collection (MCQ).md::2",
@@ -6935,7 +6935,7 @@
      "relocates（重新定位）"
     ],
     "correct": 2,
-    "a": "** Mosaicity reflects crystal imperfection and inflates the reciprocal lattice points, making spots bigger.\n马赛克度反映晶体的不完整性，使倒易格点膨胀、衍射斑点变大。"
+    "a": "Mosaicity reflects crystal imperfection and inflates the reciprocal lattice points, making spots bigger.\n马赛克度反映晶体的不完整性，使倒易格点膨胀、衍射斑点变大。"
    },
    {
     "id": "Quiz 6 - X-ray Data Collection (MCQ).md::3",
@@ -6949,7 +6949,7 @@
      "I_(−h−k−l)（负指数）"
     ],
     "correct": 3,
-    "a": "** Friedel's law states I_hkl = I_(−h−k−l), so the diffraction pattern is always centrosymmetric.\n弗里德尔定律指出 I_hkl = I_(−h−k−l)，因此衍射花样总是中心对称的。"
+    "a": "Friedel's law states I_hkl = I_(−h−k−l), so the diffraction pattern is always centrosymmetric.\n弗里德尔定律指出 I_hkl = I_(−h−k−l)，因此衍射花样总是中心对称的。"
    },
    {
     "id": "Quiz 6 - X-ray Data Collection (MCQ).md::4",
@@ -6963,7 +6963,7 @@
      "phasing（定相）"
     ],
     "correct": 0,
-    "a": "** The pipeline is spot finding → indexing → integration → scaling.\n数据处理流程为：斑点搜寻 → 指标化 → 积分 → 比例缩放。"
+    "a": "The pipeline is spot finding → indexing → integration → scaling.\n数据处理流程为：斑点搜寻 → 指标化 → 积分 → 比例缩放。"
    },
    {
     "id": "Quiz 6 - X-ray Data Collection (MCQ).md::5",
@@ -6977,7 +6977,7 @@
      "n/2（半整数）"
     ],
     "correct": 1,
-    "a": "** I-centered extinction: reflections are absent unless h + k + l = 2n (even).\nI 心晶格的系统消光：当 h + k + l 为偶数（2n）时才有衍射，奇数时系统消光。"
+    "a": "I-centered extinction: reflections are absent unless h + k + l = 2n (even).\nI 心晶格的系统消光：当 h + k + l 为偶数（2n）时才有衍射，奇数时系统消光。"
    },
    {
     "id": "Quiz 6 - X-ray Data Collection (MCQ).md::6",
@@ -6991,7 +6991,7 @@
      "(hkl) with h + k + l = 2n（三指数和为偶数）"
     ],
     "correct": 2,
-    "a": "** A 3-fold screw axis along c gives (00l) reflections only when l = 3n.\n沿 c 轴的 3 次螺旋轴使 (00l) 反射仅在 l = 3n 时出现，否则系统消光。"
+    "a": "A 3-fold screw axis along c gives (00l) reflections only when l = 3n.\n沿 c 轴的 3 次螺旋轴使 (00l) 反射仅在 l = 3n 时出现，否则系统消光。"
    },
    {
     "id": "Quiz 6 - X-ray Data Collection (MCQ).md::7",
@@ -7005,7 +7005,7 @@
      "cannot（不能）"
     ],
     "correct": 3,
-    "a": "** Enantiomeric space groups P3₁21 and P3₂21 cannot be distinguished at indexing; this requires anomalous scattering.\n对映异构空间群 P3₁21 与 P3₂21 在指标化阶段无法区分，需借助反常散射才能区分。"
+    "a": "Enantiomeric space groups P3₁21 and P3₂21 cannot be distinguished at indexing; this requires anomalous scattering.\n对映异构空间群 P3₁21 与 P3₂21 在指标化阶段无法区分，需借助反常散射才能区分。"
    }
   ]
  },
@@ -7025,7 +7025,7 @@
      "0.5 至 0.6"
     ],
     "correct": 0,
-    "a": "** R_cryst for a refined structure is typically 0.1 to 0.3; above ~0.55 it is close to random.\n精修后结构的 R_cryst 通常在 0.1–0.3 之间；超过约 0.55 则接近随机（random）水平。"
+    "a": "R_cryst for a refined structure is typically 0.1 to 0.3; above ~0.55 it is close to random.\n精修后结构的 R_cryst 通常在 0.1–0.3 之间；超过约 0.55 则接近随机（random）水平。"
    },
    {
     "id": "Quiz 7 - Reading Crystallographic Information (MCQ).md::1",
@@ -7039,7 +7039,7 @@
      "merged（合并）"
     ],
     "correct": 1,
-    "a": "** R_free uses reflections excluded from refinement, giving an unbiased validation measure.\nR_free 使用精修中被排除的反射计算，是独立的无偏验证指标。"
+    "a": "R_free uses reflections excluded from refinement, giving an unbiased validation measure.\nR_free 使用精修中被排除的反射计算，是独立的无偏验证指标。"
    },
    {
     "id": "Quiz 7 - Reading Crystallographic Information (MCQ).md::2",
@@ -7053,7 +7053,7 @@
      "the multiplicity（多重度）"
     ],
     "correct": 2,
-    "a": "** The slope of the Wilson plot gives the average temperature (B) factor.\n威尔逊图的斜率给出平均温度因子（B factor）。"
+    "a": "The slope of the Wilson plot gives the average temperature (B) factor.\n威尔逊图的斜率给出平均温度因子（B factor）。"
    },
    {
     "id": "Quiz 7 - Reading Crystallographic Information (MCQ).md::3",
@@ -7067,7 +7067,7 @@
      "6（六个）"
     ],
     "correct": 3,
-    "a": "** Anisotropic B-factors need 6 parameters per atom (the symmetric U/B tensor).\n各向异性 B 因子每个原子需要 6 个参数（对称的 U/B 张量）。"
+    "a": "Anisotropic B-factors need 6 parameters per atom (the symmetric U/B tensor).\n各向异性 B 因子每个原子需要 6 个参数（对称的 U/B 张量）。"
    },
    {
     "id": "Quiz 7 - Reading Crystallographic Information (MCQ).md::4",
@@ -7081,7 +7081,7 @@
      "crystal contacts（晶体接触）"
     ],
     "correct": 0,
-    "a": "** Blue means low B-factor (stable/well-ordered); red means high B-factor (flexible).\n蓝色代表低 B 因子（稳定/有序），红色代表高 B 因子（柔性）。"
+    "a": "Blue means low B-factor (stable/well-ordered); red means high B-factor (flexible).\n蓝色代表低 B 因子（稳定/有序），红色代表高 B 因子（柔性）。"
    },
    {
     "id": "Quiz 7 - Reading Crystallographic Information (MCQ).md::5",
@@ -7095,7 +7095,7 @@
      "libration（摆动）"
     ],
     "correct": 1,
-    "a": "** TLS stands for Translation, Libration, and Screw-rotation tensors.\nTLS 代表平移（Translation）、摆动（Libration）与螺旋旋转（Screw-rotation）张量。"
+    "a": "TLS stands for Translation, Libration, and Screw-rotation tensors.\nTLS 代表平移（Translation）、摆动（Libration）与螺旋旋转（Screw-rotation）张量。"
    },
    {
     "id": "Quiz 7 - Reading Crystallographic Information (MCQ).md::6",
@@ -7109,7 +7109,7 @@
      "enantiomers（对映异构体）"
     ],
     "correct": 2,
-    "a": "** NCS-related molecules are chemically identical but not strictly identical, showing small rms deviations.\nNCS 关联的分子化学上相同但并非严格相同，会显示微小的 rms 偏差。"
+    "a": "NCS-related molecules are chemically identical but not strictly identical, showing small rms deviations.\nNCS 关联的分子化学上相同但并非严格相同，会显示微小的 rms 偏差。"
    },
    {
     "id": "Quiz 7 - Reading Crystallographic Information (MCQ).md::7",
@@ -7123,7 +7123,7 @@
      "loops（环区）"
     ],
     "correct": 3,
-    "a": "** Loops are the most mobile and show the largest rms deviations between NCS copies.\n环区（loops）最灵活，NCS 拷贝之间其 rms 偏差最大。"
+    "a": "Loops are the most mobile and show the largest rms deviations between NCS copies.\n环区（loops）最灵活，NCS 拷贝之间其 rms 偏差最大。"
    }
   ]
  },
@@ -7143,7 +7143,7 @@
      "the wavelengths（波长）"
     ],
     "correct": 0,
-    "a": "** The phase problem is that the phases are missing; only structure factor amplitudes are measured.\n相位问题指相位缺失，实验只能测得结构因子振幅，而相位无法直接测量。"
+    "a": "The phase problem is that the phases are missing; only structure factor amplitudes are measured.\n相位问题指相位缺失，实验只能测得结构因子振幅，而相位无法直接测量。"
    },
    {
     "id": "Quiz 8 - Experimental Phasing (MCQ).md::1",
@@ -7157,7 +7157,7 @@
      "|F_P| − |F_H|（振幅之差）"
     ],
     "correct": 1,
-    "a": "** In isomorphous replacement, F_PH = F_P + F_H (protein plus heavy-atom contribution).\n同晶置换中，F_PH = F_P + F_H，即蛋白贡献加重原子贡献。"
+    "a": "In isomorphous replacement, F_PH = F_P + F_H (protein plus heavy-atom contribution).\n同晶置换中，F_PH = F_P + F_H，即蛋白贡献加重原子贡献。"
    },
    {
     "id": "Quiz 8 - Experimental Phasing (MCQ).md::2",
@@ -7171,7 +7171,7 @@
      "differences（差值）"
     ],
     "correct": 2,
-    "a": "** The Patterson uses only the squares of the amplitudes (no phases), showing inter-atomic vectors.\n帕特森函数只使用振幅的平方（无需相位），显示原子间的向量（vectors）。"
+    "a": "The Patterson uses only the squares of the amplitudes (no phases), showing inter-atomic vectors.\n帕特森函数只使用振幅的平方（无需相位），显示原子间的向量（vectors）。"
    },
    {
     "id": "Quiz 8 - Experimental Phasing (MCQ).md::3",
@@ -7185,7 +7185,7 @@
      "ambiguity（模糊性/双解）"
     ],
     "correct": 3,
-    "a": "** SIR produces a phase ambiguity (two possible phases); MIR is needed to resolve it.\n单同晶置换（SIR）产生相位模糊（两个可能的相位），需要多同晶置换（MIR）来消除。"
+    "a": "SIR produces a phase ambiguity (two possible phases); MIR is needed to resolve it.\n单同晶置换（SIR）产生相位模糊（两个可能的相位），需要多同晶置换（MIR）来消除。"
    },
    {
     "id": "Quiz 8 - Experimental Phasing (MCQ).md::4",
@@ -7199,7 +7199,7 @@
      "90°"
     ],
     "correct": 0,
-    "a": "** FOM = 1.0 means zero phase error; m = 0.5 means 60°, m = 0 means no phase information.\n品质因数 m = 1.0 表示相位误差为零；m = 0.5 对应 60°，m = 0 表示完全没有相位信息。"
+    "a": "FOM = 1.0 means zero phase error; m = 0.5 means 60°, m = 0 means no phase information.\n品质因数 m = 1.0 表示相位误差为零；m = 0.5 对应 60°，m = 0 表示完全没有相位信息。"
    },
    {
     "id": "Quiz 8 - Experimental Phasing (MCQ).md::5",
@@ -7213,7 +7213,7 @@
      "simplify（简化）"
     ],
     "correct": 1,
-    "a": "** Anomalous scatterers violate Friedel's law, making |F_hkl| ≠ |F_−h−k−l|.\n反常散射体违反弗里德尔定律，使 |F_hkl| ≠ |F_−h−k−l|。"
+    "a": "Anomalous scatterers violate Friedel's law, making |F_hkl| ≠ |F_−h−k−l|.\n反常散射体违反弗里德尔定律，使 |F_hkl| ≠ |F_−h−k−l|。"
    },
    {
     "id": "Quiz 8 - Experimental Phasing (MCQ).md::6",
@@ -7227,7 +7227,7 @@
      "barium salts（钡盐）"
     ],
     "correct": 2,
-    "a": "** Mercury (Hg) compounds derivatize Cys; rare earths, Ba²⁺ or uranyl acetate target Asp/Glu; tetrachloroplatinate targets His.\n汞（Hg）化合物用于衍生半胱氨酸；稀土、Ba²⁺ 或醋酸铀酰针对 Asp/Glu；四氯铂酸盐针对 His。"
+    "a": "Mercury (Hg) compounds derivatize Cys; rare earths, Ba²⁺ or uranyl acetate target Asp/Glu; tetrachloroplatinate targets His.\n汞（Hg）化合物用于衍生半胱氨酸；稀土、Ba²⁺ 或醋酸铀酰针对 Asp/Glu；四氯铂酸盐针对 His。"
    },
    {
     "id": "Quiz 8 - Experimental Phasing (MCQ).md::7",
@@ -7241,7 +7241,7 @@
      "one（一个）"
     ],
     "correct": 3,
-    "a": "** SAD uses anomalous differences at a single wavelength; MAD uses several (inflection, peak, high/low remote).\nSAD 只使用单一波长下的反常差异；MAD 则使用多个波长（拐点、峰值、高/低远端）。"
+    "a": "SAD uses anomalous differences at a single wavelength; MAD uses several (inflection, peak, high/low remote).\nSAD 只使用单一波长下的反常差异；MAD 则使用多个波长（拐点、峰值、高/低远端）。"
    }
   ]
  },
@@ -7261,7 +7261,7 @@
      "a single heavy atom（单个重原子）"
     ],
     "correct": 0,
-    "a": "** Molecular replacement uses a known similar structure to calculate initial phases.\n分子置换利用已知的相似结构来计算初始相位。"
+    "a": "Molecular replacement uses a known similar structure to calculate initial phases.\n分子置换利用已知的相似结构来计算初始相位。"
    },
    {
     "id": "Quiz 9 - Molecular Replacement (MCQ).md::1",
@@ -7275,7 +7275,7 @@
      "the symmetry operators（对称操作数）"
     ],
     "correct": 1,
-    "a": "** V_m = unit cell volume / (total molecular weight of the asymmetric unit), typically 1.7–3.5 Å³/Da.\nV_m = 晶胞体积 / 不对称单元总分子量，经验范围通常为 1.7–3.5 Å³/Da。"
+    "a": "V_m = unit cell volume / (total molecular weight of the asymmetric unit), typically 1.7–3.5 Å³/Da.\nV_m = 晶胞体积 / 不对称单元总分子量，经验范围通常为 1.7–3.5 Å³/Da。"
    },
    {
     "id": "Quiz 9 - Molecular Replacement (MCQ).md::2",
@@ -7289,7 +7289,7 @@
      "using random（使用随机）"
     ],
     "correct": 2,
-    "a": "** The Patterson can be calculated without phases; it is a vector map of the structure.\n帕特森图无需相位即可计算，它是结构的向量图（vector map）。"
+    "a": "The Patterson can be calculated without phases; it is a vector map of the structure.\n帕特森图无需相位即可计算，它是结构的向量图（vector map）。"
    },
    {
     "id": "Quiz 9 - Molecular Replacement (MCQ).md::3",
@@ -7303,7 +7303,7 @@
      "orientation（取向）"
     ],
     "correct": 3,
-    "a": "** The rotation function finds the model orientation; the translation function finds its position.\n旋转函数确定模型取向，平移函数（translation function）确定其位置。"
+    "a": "The rotation function finds the model orientation; the translation function finds its position.\n旋转函数确定模型取向，平移函数（translation function）确定其位置。"
    },
    {
     "id": "Quiz 9 - Molecular Replacement (MCQ).md::4",
@@ -7317,7 +7317,7 @@
      "8（八个）"
     ],
     "correct": 0,
-    "a": "** For 2 atoms there are N² = 4 vectors (2 self + 2 cross, i.e. N(N−1) peaks plus origin).\n2 个原子对应 N² = 4 个向量（含 2 个自向量和 2 个互向量，共 N(N−1) 个非原点峰加原点峰）。"
+    "a": "For 2 atoms there are N² = 4 vectors (2 self + 2 cross, i.e. N(N−1) peaks plus origin).\n2 个原子对应 N² = 4 个向量（含 2 个自向量和 2 个互向量，共 N(N−1) 个非原点峰加原点峰）。"
    },
    {
     "id": "Quiz 9 - Molecular Replacement (MCQ).md::5",
@@ -7331,7 +7331,7 @@
      "F_known − F_unk（反向差值）"
     ],
     "correct": 1,
-    "a": "** The least-biased density uses (2F_unk − F_known); the difference density uses (F_unk − F_known).\n最小偏倚密度使用 (2F_unk − F_known)；差值密度使用 (F_unk − F_known)。"
+    "a": "The least-biased density uses (2F_unk − F_known); the difference density uses (F_unk − F_known).\n最小偏倚密度使用 (2F_unk − F_known)；差值密度使用 (F_unk − F_known)。"
    },
    {
     "id": "Quiz 9 - Molecular Replacement (MCQ).md::6",
@@ -7345,7 +7345,7 @@
      "determined by symmetry（由对称性决定）"
     ],
     "correct": 2,
-    "a": "** In triclinic P1, the particle position is arbitrary; in axial space groups the position along one axis is undefined.\n在三斜 P1 晶胞中粒子位置是任意的；在轴向空间群中，沿某轴的位置无法确定。"
+    "a": "In triclinic P1, the particle position is arbitrary; in axial space groups the position along one axis is undefined.\n在三斜 P1 晶胞中粒子位置是任意的；在轴向空间群中，沿某轴的位置无法确定。"
    },
    {
     "id": "Quiz 9 - Molecular Replacement (MCQ).md::7",
@@ -7359,7 +7359,7 @@
      "non-crystallographic symmetry (NCS)（非晶体学对称性）"
     ],
     "correct": 3,
-    "a": "** The self-rotation function detects NCS (identical particles within the asymmetric unit).\n自旋转函数用于检测非晶体学对称性 NCS（不对称单元内相同的粒子）。"
+    "a": "The self-rotation function detects NCS (identical particles within the asymmetric unit).\n自旋转函数用于检测非晶体学对称性 NCS（不对称单元内相同的粒子）。"
    }
   ]
  },
@@ -7379,7 +7379,7 @@
      "find heavy atoms and locate them（寻找并定位重原子）"
     ],
     "correct": 0,
-    "a": "** Refinement fits the model into the data and calculates the best electron density.\n精修的两个目的是：将模型拟合到数据中，并计算最佳电子密度。"
+    "a": "Refinement fits the model into the data and calculates the best electron density.\n精修的两个目的是：将模型拟合到数据中，并计算最佳电子密度。"
    },
    {
     "id": "Quiz 10 - Model Building and Refinement (MCQ).md::1",
@@ -7393,7 +7393,7 @@
      "E_bond + E_angle（键能 + 角能）"
     ],
     "correct": 1,
-    "a": "** E_total = E_data + E_stereochemistry, balancing fit to data against chemical correctness.\nE_total = E_data + E_stereochemistry，在数据拟合与化学合理性之间取得平衡。"
+    "a": "E_total = E_data + E_stereochemistry, balancing fit to data against chemical correctness.\nE_total = E_data + E_stereochemistry，在数据拟合与化学合理性之间取得平衡。"
    },
    {
     "id": "Quiz 10 - Model Building and Refinement (MCQ).md::2",
@@ -7407,7 +7407,7 @@
      "occupancy errors（占有率误差）"
     ],
     "correct": 2,
-    "a": "** Simulated annealing escapes local minima during refinement.\n模拟退火用于在精修中跳出局部极小值（local minima）。"
+    "a": "Simulated annealing escapes local minima during refinement.\n模拟退火用于在精修中跳出局部极小值（local minima）。"
    },
    {
     "id": "Quiz 10 - Model Building and Refinement (MCQ).md::3",
@@ -7421,7 +7421,7 @@
      "well-ordered（有序良好的）"
     ],
     "correct": 3,
-    "a": "** Low B-factor means a well-ordered part; high B-factor means a flexible part.\n低 B 因子表示有序良好的部分；高 B 因子表示柔性的部分。"
+    "a": "Low B-factor means a well-ordered part; high B-factor means a flexible part.\n低 B 因子表示有序良好的部分；高 B 因子表示柔性的部分。"
    },
    {
     "id": "Quiz 10 - Model Building and Refinement (MCQ).md::4",
@@ -7435,7 +7435,7 @@
      "0.02"
     ],
     "correct": 0,
-    "a": "** Random atoms give R ≈ 0.63; a typical refined structure has R ≈ 0.20.\n随机原子给出 R ≈ 0.63；典型精修结构的 R ≈ 0.20。"
+    "a": "Random atoms give R ≈ 0.63; a typical refined structure has R ≈ 0.20.\n随机原子给出 R ≈ 0.63；典型精修结构的 R ≈ 0.20。"
    },
    {
     "id": "Quiz 10 - Model Building and Refinement (MCQ).md::5",
@@ -7449,7 +7449,7 @@
      "the phase error（相位误差）"
     ],
     "correct": 1,
-    "a": "** The 2Fo−Fc map represents the content (electron density) of the crystal; Fo−Fc shows differences.\n2Fo−Fc 图表示晶体的内容（电子密度）；Fo−Fc 图则表示晶体与模型的差异。"
+    "a": "The 2Fo−Fc map represents the content (electron density) of the crystal; Fo−Fc shows differences.\n2Fo−Fc 图表示晶体的内容（电子密度）；Fo−Fc 图则表示晶体与模型的差异。"
    },
    {
     "id": "Quiz 10 - Model Building and Refinement (MCQ).md::6",
@@ -7463,7 +7463,7 @@
      "never（从不）"
     ],
     "correct": 2,
-    "a": "** Rigid-body refinement is used early, just after molecular replacement, to correct overall placement.\n刚体精修在分子置换刚完成后（早期）使用，用于校正整体的放置。"
+    "a": "Rigid-body refinement is used early, just after molecular replacement, to correct overall placement.\n刚体精修在分子置换刚完成后（早期）使用，用于校正整体的放置。"
    },
    {
     "id": "Quiz 10 - Model Building and Refinement (MCQ).md::7",
@@ -7477,7 +7477,7 @@
      "the anisotropic displacement (U/B) tensor（各向异性位移 U/B 张量）"
     ],
     "correct": 3,
-    "a": "** ANISOU records give the anisotropic displacement (U/B) tensor.\nANISOU 记录给出各向异性位移（U/B）张量。"
+    "a": "ANISOU records give the anisotropic displacement (U/B) tensor.\nANISOU 记录给出各向异性位移（U/B）张量。"
    }
   ]
  },
@@ -7497,7 +7497,7 @@
      "Volume G（G 卷）"
     ],
     "correct": 0,
-    "a": "** Volume A describes space-group symmetry, the core reference for space-group determination.\nA 卷描述空间群对称性，是确定空间群的核心参考。"
+    "a": "Volume A describes space-group symmetry, the core reference for space-group determination.\nA 卷描述空间群对称性，是确定空间群的核心参考。"
    },
    {
     "id": "Quiz 11 - International Tables and Systematic Absences (MCQ).md::1",
@@ -7511,7 +7511,7 @@
      "32"
     ],
     "correct": 1,
-    "a": "** There are 7 crystal systems (triclinic, monoclinic, orthorhombic, tetragonal, trigonal, hexagonal, cubic), while 32 is the number of point groups.\n共有 7 个晶系（三斜、单斜、正交、四方、三方、六方、立方），而 32 是点群的数目。"
+    "a": "There are 7 crystal systems (triclinic, monoclinic, orthorhombic, tetragonal, trigonal, hexagonal, cubic), while 32 is the number of point groups.\n共有 7 个晶系（三斜、单斜、正交、四方、三方、六方、立方），而 32 是点群的数目。"
    },
    {
     "id": "Quiz 11 - International Tables and Systematic Absences (MCQ).md::2",
@@ -7525,7 +7525,7 @@
      "Screw axis（螺旋轴）"
     ],
     "correct": 2,
-    "a": "** A 2̄ axis (rotoinversion of order 2) is equivalent to a mirror plane, just as 1̄ is an inversion center.\n2̄ 轴（二阶旋转反演）等价于镜面，正如 1̄ 是反演中心。"
+    "a": "A 2̄ axis (rotoinversion of order 2) is equivalent to a mirror plane, just as 1̄ is an inversion center.\n2̄ 轴（二阶旋转反演）等价于镜面，正如 1̄ 是反演中心。"
    },
    {
     "id": "Quiz 11 - International Tables and Systematic Absences (MCQ).md::3",
@@ -7539,7 +7539,7 @@
      "Translational symmetry elements（平移对称元素）"
     ],
     "correct": 3,
-    "a": "** Systematic absences arise from translational symmetry elements: lattice centering, glide planes, and screw axes.\n系统消光由平移对称元素引起：晶格中心化、滑移面和螺旋轴。"
+    "a": "Systematic absences arise from translational symmetry elements: lattice centering, glide planes, and screw axes.\n系统消光由平移对称元素引起：晶格中心化、滑移面和螺旋轴。"
    },
    {
     "id": "Quiz 11 - International Tables and Systematic Absences (MCQ).md::4",
@@ -7553,7 +7553,7 @@
      "One fourfold axis（一个四重轴）"
     ],
     "correct": 0,
-    "a": "** The cubic system is characterized by four threefold axes along the body diagonals.\n立方晶系的特征是对角线方向有四个三重轴。"
+    "a": "The cubic system is characterized by four threefold axes along the body diagonals.\n立方晶系的特征是对角线方向有四个三重轴。"
    },
    {
     "id": "Quiz 11 - International Tables and Systematic Absences (MCQ).md::5",
@@ -7567,7 +7567,7 @@
      "h + k = 4n"
     ],
     "correct": 1,
-    "a": "** I-centered lattices give absences unless h + k + l = 2n (even).\n体心晶格要求 h + k + l = 2n（偶数），否则消光。"
+    "a": "I-centered lattices give absences unless h + k + l = 2n (even).\n体心晶格要求 h + k + l = 2n（偶数），否则消光。"
    },
    {
     "id": "Quiz 11 - International Tables and Systematic Absences (MCQ).md::6",
@@ -7581,7 +7581,7 @@
      "k = 6n"
     ],
     "correct": 2,
-    "a": "** A 2₁ screw axis along b makes 0k0 present only when k = 2n, halving the repeat along b.\n沿 b 的 2₁ 螺旋轴使 0k0 仅在 k = 2n 时出现，沿 b 的重复周期减半。"
+    "a": "A 2₁ screw axis along b makes 0k0 present only when k = 2n, halving the repeat along b.\n沿 b 的 2₁ 螺旋轴使 0k0 仅在 k = 2n 时出现，沿 b 的重复周期减半。"
    },
    {
     "id": "Quiz 11 - International Tables and Systematic Absences (MCQ).md::7",
@@ -7595,7 +7595,7 @@
      "Because both give the same condition 00l, l = 3n（因为两者都给出 00l, l = 3n 的相同条件）"
     ],
     "correct": 3,
-    "a": "** Both 3₁ and 3₂ give 00l present only when l = 3n, so absences cannot tell their handedness apart.\n3₁ 和 3₂ 都使 00l 仅在 l = 3n 时出现，因此消光无法区分二者手性。"
+    "a": "Both 3₁ and 3₂ give 00l present only when l = 3n, so absences cannot tell their handedness apart.\n3₁ 和 3₂ 都使 00l 仅在 l = 3n 时出现，因此消光无法区分二者手性。"
    }
   ]
  },
@@ -7615,7 +7615,7 @@
      "I = 3/2"
     ],
     "correct": 0,
-    "a": "** NMR-detectable biomolecular nuclei must have spin I = 1/2; quadrupolar (I > 1/2) nuclei give broad lines.\n生物分子 NMR 可观测的核必须具有自旋 I = 1/2；四极核（I > 1/2）谱线很宽。"
+    "a": "NMR-detectable biomolecular nuclei must have spin I = 1/2; quadrupolar (I > 1/2) nuclei give broad lines.\n生物分子 NMR 可观测的核必须具有自旋 I = 1/2；四极核（I > 1/2）谱线很宽。"
    },
    {
     "id": "Quiz 12 - NMR Isotopic Labeling (MCQ).md::1",
@@ -7629,7 +7629,7 @@
      "They relax too fast（它们弛豫太快）"
     ],
     "correct": 1,
-    "a": "** ¹²C has I = 0 and ¹⁴N has I = 1 (quadrupolar), so neither gives a sharp spin-1/2 signal; they are replaced by ¹³C and ¹⁵N.\n¹²C 的自旋 I = 0，¹⁴N 的自旋 I = 1（四极核），二者都无 1/2 自旋信号，故被 ¹³C 和 ¹⁵N 取代。"
+    "a": "¹²C has I = 0 and ¹⁴N has I = 1 (quadrupolar), so neither gives a sharp spin-1/2 signal; they are replaced by ¹³C and ¹⁵N.\n¹²C 的自旋 I = 0，¹⁴N 的自旋 I = 1（四极核），二者都无 1/2 自旋信号，故被 ¹³C 和 ¹⁵N 取代。"
    },
    {
     "id": "Quiz 12 - NMR Isotopic Labeling (MCQ).md::2",
@@ -7643,7 +7643,7 @@
      "³¹P"
     ],
     "correct": 2,
-    "a": "** ¹⁵N has a negative gyromagnetic ratio, while ¹H (2.675×10⁸) and ¹³C (0.673×10⁸) are positive.\n¹⁵N 的旋磁比为负，而 ¹H（2.675×10⁸）和 ¹³C（0.673×10⁸）为正。"
+    "a": "¹⁵N has a negative gyromagnetic ratio, while ¹H (2.675×10⁸) and ¹³C (0.673×10⁸) are positive.\n¹⁵N 的旋磁比为负，而 ¹H（2.675×10⁸）和 ¹³C（0.673×10⁸）为正。"
    },
    {
     "id": "Quiz 12 - NMR Isotopic Labeling (MCQ).md::3",
@@ -7657,7 +7657,7 @@
      "One（一个）"
     ],
     "correct": 3,
-    "a": "** Each amino acid (except proline, which lacks an amide proton) has exactly one backbone amide N–H, giving one HSQC cross-peak.\n每个氨基酸（脯氨酸无酰胺质子除外）只有一个主链酰胺 N–H，因此只产生一个 HSQC 交叉峰。"
+    "a": "Each amino acid (except proline, which lacks an amide proton) has exactly one backbone amide N–H, giving one HSQC cross-peak.\n每个氨基酸（脯氨酸无酰胺质子除外）只有一个主链酰胺 N–H，因此只产生一个 HSQC 交叉峰。"
    },
    {
     "id": "Quiz 12 - NMR Isotopic Labeling (MCQ).md::4",
@@ -7671,7 +7671,7 @@
      "Equal（相等）"
     ],
     "correct": 0,
-    "a": "** γ(¹H) = 6.5 × γ(²H); replacing protons with deuterons greatly reduces dipolar relaxation, which is why deuteration works.\nγ(¹H) = 6.5 × γ(²H)；用氘取代质子可大幅降低偶极弛豫，这正是氘代有效的原因。"
+    "a": "γ(¹H) = 6.5 × γ(²H); replacing protons with deuterons greatly reduces dipolar relaxation, which is why deuteration works.\nγ(¹H) = 6.5 × γ(²H)；用氘取代质子可大幅降低偶极弛豫，这正是氘代有效的原因。"
    },
    {
     "id": "Quiz 12 - NMR Isotopic Labeling (MCQ).md::5",
@@ -7685,7 +7685,7 @@
      "Glycerol and urea（甘油和尿素）"
     ],
     "correct": 1,
-    "a": "** M9 uses glucose as the carbon source and NH₄Cl as the nitrogen source; for labeling these are replaced by ¹³C₆-glucose and ¹⁵NH₄Cl.\nM9 以葡萄糖为碳源、NH₄Cl 为氮源；标记时分别用 ¹³C₆-葡萄糖和 ¹⁵NH₄Cl 取代。"
+    "a": "M9 uses glucose as the carbon source and NH₄Cl as the nitrogen source; for labeling these are replaced by ¹³C₆-glucose and ¹⁵NH₄Cl.\nM9 以葡萄糖为碳源、NH₄Cl 为氮源；标记时分别用 ¹³C₆-葡萄糖和 ¹⁵NH₄Cl 取代。"
    },
    {
     "id": "Quiz 12 - NMR Isotopic Labeling (MCQ).md::6",
@@ -7699,7 +7699,7 @@
      "glucose-d7（氘代葡萄糖）"
     ],
     "correct": 2,
-    "a": "** Ile δ1 methyl labeling uses α-ketoisobutyrate, while Leu/Ile/Val methyl labeling uses glucose-d7.\nIle δ1 甲基标记使用 α-酮异丁酸，而 Leu/Ile/Val 甲基标记使用氘代葡萄糖（glucose-d7）。"
+    "a": "Ile δ1 methyl labeling uses α-ketoisobutyrate, while Leu/Ile/Val methyl labeling uses glucose-d7.\nIle δ1 甲基标记使用 α-酮异丁酸，而 Leu/Ile/Val 甲基标记使用氘代葡萄糖（glucose-d7）。"
    },
    {
     "id": "Quiz 12 - NMR Isotopic Labeling (MCQ).md::7",
@@ -7713,7 +7713,7 @@
      "Inteins（内含肽）"
     ],
     "correct": 3,
-    "a": "** Segmental labeling uses inteins, which perform autocatalytic splicing to ligate a labeled domain to an unlabeled one.\n片段标记使用内含肽（intein），通过自催化剪接将标记结构域与未标记结构域连接。"
+    "a": "Segmental labeling uses inteins, which perform autocatalytic splicing to ligate a labeled domain to an unlabeled one.\n片段标记使用内含肽（intein），通过自催化剪接将标记结构域与未标记结构域连接。"
    }
   ]
  },
@@ -7733,7 +7733,7 @@
      "γB₀·2π"
     ],
     "correct": 0,
-    "a": "** The Larmor frequency is ν = γB₀/2π, proportional to the gyromagnetic ratio and the applied field B₀.\n拉莫尔频率 ν = γB₀/2π，正比于旋磁比和外加场 B₀。"
+    "a": "The Larmor frequency is ν = γB₀/2π, proportional to the gyromagnetic ratio and the applied field B₀.\n拉莫尔频率 ν = γB₀/2π，正比于旋磁比和外加场 B₀。"
    },
    {
     "id": "Quiz 13 - NMR Parameters I (MCQ).md::1",
@@ -7747,7 +7747,7 @@
      "They have no effect（它们没有影响）"
     ],
     "correct": 1,
-    "a": "** Shielding electrons induce local fields opposed to B₀, so the nucleus experiences a slightly reduced (local) field that determines its chemical shift.\n屏蔽电子诱导出与 B₀ 相反的局部场，使原子核感受到略小的（局部）场，从而决定其化学位移。"
+    "a": "Shielding electrons induce local fields opposed to B₀, so the nucleus experiences a slightly reduced (local) field that determines its chemical shift.\n屏蔽电子诱导出与 B₀ 相反的局部场，使原子核感受到略小的（局部）场，从而决定其化学位移。"
    },
    {
     "id": "Quiz 13 - NMR Parameters I (MCQ).md::2",
@@ -7761,7 +7761,7 @@
      "δ_measured / δ_random coil（实测值除以无规卷曲值）"
     ],
     "correct": 2,
-    "a": "** Δδ = δ_measured − δ_random coil; it reflects secondary-structure deviations and is used by CSI and TALOS.\nΔδ = δ_measured − δ_random coil；它反映二级结构偏离，被 CSI 和 TALOS 使用。"
+    "a": "Δδ = δ_measured − δ_random coil; it reflects secondary-structure deviations and is used by CSI and TALOS.\nΔδ = δ_measured − δ_random coil；它反映二级结构偏离，被 CSI 和 TALOS 使用。"
    },
    {
     "id": "Quiz 13 - NMR Parameters I (MCQ).md::3",
@@ -7775,7 +7775,7 @@
      "φ and ψ torsion angles（φ 和 ψ 扭转角）"
     ],
     "correct": 3,
-    "a": "** TALOS estimates φ and ψ backbone torsion angles from chemical shifts, complementing the CSI secondary-structure identification.\nTALOS 从化学位移估算主链 φ 和 ψ 扭转角，与 CSI 的二级结构识别互补。"
+    "a": "TALOS estimates φ and ψ backbone torsion angles from chemical shifts, complementing the CSI secondary-structure identification.\nTALOS 从化学位移估算主链 φ 和 ψ 扭转角，与 CSI 的二级结构识别互补。"
    },
    {
     "id": "Quiz 13 - NMR Parameters I (MCQ).md::4",
@@ -7789,7 +7789,7 @@
      "The K_D value（K_D 值）"
     ],
     "correct": 0,
-    "a": "** In slow exchange, separate peaks appear for each state and their intensities reflect the populations of the two states.\n慢交换中每个状态出现独立峰，峰强度反映两种状态的数量布居。"
+    "a": "In slow exchange, separate peaks appear for each state and their intensities reflect the populations of the two states.\n慢交换中每个状态出现独立峰，峰强度反映两种状态的数量布居。"
    },
    {
     "id": "Quiz 13 - NMR Parameters I (MCQ).md::5",
@@ -7803,7 +7803,7 @@
      "Line width ∝ R₂²（线宽正比于 R₂²）"
     ],
     "correct": 1,
-    "a": "** Line width is proportional to R₂ (transverse relaxation rate), so faster relaxation gives broader lines.\n线宽正比于 R₂（横向弛豫速率），弛豫越快谱线越宽。"
+    "a": "Line width is proportional to R₂ (transverse relaxation rate), so faster relaxation gives broader lines.\n线宽正比于 R₂（横向弛豫速率），弛豫越快谱线越宽。"
    },
    {
     "id": "Quiz 13 - NMR Parameters I (MCQ).md::6",
@@ -7817,7 +7817,7 @@
      "HN(CO)CA"
     ],
     "correct": 2,
-    "a": "** COSY (with TOCSY, HNCA, HNCACB/HNCACO) is intraresidual; NOESY, HNCO and HN(CO)CA are interresidual (sequential).\nCOSY（以及 TOCSY、HNCA、HNCACB/HNCACO）是残基内实验；NOESY、HNCO、HN(CO)CA 是残基间（顺序）实验。"
+    "a": "COSY (with TOCSY, HNCA, HNCACB/HNCACO) is intraresidual; NOESY, HNCO and HN(CO)CA are interresidual (sequential).\nCOSY（以及 TOCSY、HNCA、HNCACB/HNCACO）是残基内实验；NOESY、HNCO、HN(CO)CA 是残基间（顺序）实验。"
    },
    {
     "id": "Quiz 13 - NMR Parameters I (MCQ).md::7",
@@ -7831,7 +7831,7 @@
      "Reference and saturation spectrum（参考谱与饱和谱）"
     ],
     "correct": 3,
-    "a": "** STD = reference spectrum − saturation (on-resonance) spectrum; the difference reveals ligand protons close to the protein.\nSTD = 参考谱 − 饱和（共振）谱；差值谱揭示靠近蛋白的配体质子。"
+    "a": "STD = reference spectrum − saturation (on-resonance) spectrum; the difference reveals ligand protons close to the protein.\nSTD = 参考谱 − 饱和（共振）谱；差值谱揭示靠近蛋白的配体质子。"
    }
   ]
  },
@@ -7851,7 +7851,7 @@
      "PRE"
     ],
     "correct": 0,
-    "a": "** The six parameters are chemical shift, NOE, NH exchange, J coupling, RDC and PRE; TALOS is a program, not a parameter.\n六大参数是化学位移、NOE、酰胺质子交换、J 耦合、RDC 和 PRE；TALOS 是程序而非参数。"
+    "a": "The six parameters are chemical shift, NOE, NH exchange, J coupling, RDC and PRE; TALOS is a program, not a parameter.\n六大参数是化学位移、NOE、酰胺质子交换、J 耦合、RDC 和 PRE；TALOS 是程序而非参数。"
    },
    {
     "id": "Quiz 14 - NMR Parameters II (MCQ).md::1",
@@ -7865,7 +7865,7 @@
      "24 Å"
     ],
     "correct": 1,
-    "a": "** NOE is a through-space dipolar effect detectable for distances up to about 6 Å (with r⁻⁶ dependence).\nNOE 是通过空间的偶极效应，可检测约 6 Å 以内的距离（依赖 r⁻⁶）。"
+    "a": "NOE is a through-space dipolar effect detectable for distances up to about 6 Å (with r⁻⁶ dependence).\nNOE 是通过空间的偶极效应，可检测约 6 Å 以内的距离（依赖 r⁻⁶）。"
    },
    {
     "id": "Quiz 14 - NMR Parameters II (MCQ).md::2",
@@ -7879,7 +7879,7 @@
      "Unobservable（不可观测）"
     ],
     "correct": 2,
-    "a": "** Large (slowly tumbling) molecules give negative NOE; small molecules give positive NOE.\n大分子（缓慢翻滚）给出负 NOE；小分子给出正 NOE。"
+    "a": "Large (slowly tumbling) molecules give negative NOE; small molecules give positive NOE.\n大分子（缓慢翻滚）给出负 NOE；小分子给出正 NOE。"
    },
    {
     "id": "Quiz 14 - NMR Parameters II (MCQ).md::3",
@@ -7893,7 +7893,7 @@
      "ROE"
     ],
     "correct": 3,
-    "a": "** For medium molecules (ω₀τc ≈ 1) the NOE is not observable, so ROE (rotating-frame Overhauser effect) is used instead.\n中等大小分子（ω₀τc ≈ 1）的 NOE 不可观测，故改用 ROE（旋转坐标系欧沃豪斯效应）。"
+    "a": "For medium molecules (ω₀τc ≈ 1) the NOE is not observable, so ROE (rotating-frame Overhauser effect) is used instead.\n中等大小分子（ω₀τc ≈ 1）的 NOE 不可观测，故改用 ROE（旋转坐标系欧沃豪斯效应）。"
    },
    {
     "id": "Quiz 14 - NMR Parameters II (MCQ).md::4",
@@ -7907,7 +7907,7 @@
      "Positive（正）"
     ],
     "correct": 0,
-    "a": "** Rapid isotropic tumbling averages dipolar couplings to zero in solution; in solids they are enormous. Partial alignment leaves a small RDC of a few Hz.\n溶液中的快速各向同性翻滚使偶极耦合平均为零；固体中则非常大。部分取向会残留几 Hz 的 RDC。"
+    "a": "Rapid isotropic tumbling averages dipolar couplings to zero in solution; in solids they are enormous. Partial alignment leaves a small RDC of a few Hz.\n溶液中的快速各向同性翻滚使偶极耦合平均为零；固体中则非常大。部分取向会残留几 Hz 的 RDC。"
    },
    {
     "id": "Quiz 14 - NMR Parameters II (MCQ).md::5",
@@ -7921,7 +7921,7 @@
      "J_iso / J_aniso"
     ],
     "correct": 1,
-    "a": "** RDC = J_aniso − J_iso, the part of the coupling that survives partial alignment.\nRDC = J_aniso − J_iso，即部分取向中残留下来的耦合部分。"
+    "a": "RDC = J_aniso − J_iso, the part of the coupling that survives partial alignment.\nRDC = J_aniso − J_iso，即部分取向中残留下来的耦合部分。"
    },
    {
     "id": "Quiz 14 - NMR Parameters II (MCQ).md::6",
@@ -7935,7 +7935,7 @@
      "PRE complicated by Curie relaxation（受居里弛豫复杂化的 PRE）"
     ],
     "correct": 2,
-    "a": "** Isotropic centers give a simple PRE ∝ r⁻⁶ with no PCS; anisotropic centers (Co²⁺, lanthanides) also give PCS (Curie relaxation).\n各向同性中心给出简单的 PRE ∝ r⁻⁶ 且无 PCS；各向异性中心（Co²⁺、镧系）还会产生 PCS（居里弛豫）。"
+    "a": "Isotropic centers give a simple PRE ∝ r⁻⁶ with no PCS; anisotropic centers (Co²⁺, lanthanides) also give PCS (Curie relaxation).\n各向同性中心给出简单的 PRE ∝ r⁻⁶ 且无 PCS；各向异性中心（Co²⁺、镧系）还会产生 PCS（居里弛豫）。"
    },
    {
     "id": "Quiz 14 - NMR Parameters II (MCQ).md::7",
@@ -7949,7 +7949,7 @@
      "Folding (tertiary structure) information（折叠/三级结构信息）"
     ],
     "correct": 3,
-    "a": "** Long-range NOEs connect residues far apart in sequence, defining the fold (tertiary structure).\n长程 NOE 连接序列上相距很远的残基，从而定义折叠（三级结构）。"
+    "a": "Long-range NOEs connect residues far apart in sequence, defining the fold (tertiary structure).\n长程 NOE 连接序列上相距很远的残基，从而定义折叠（三级结构）。"
    }
   ]
  },
@@ -7969,7 +7969,7 @@
      "V_kinetic"
     ],
     "correct": 0,
-    "a": "** The total potential is V = V_physical + V_experimental, where experimental restraints add their pseudoenergy to the physical force field.\n总势能 V = V_physical + V_experimental，实验约束以赝势能形式加入物理力场。"
+    "a": "The total potential is V = V_physical + V_experimental, where experimental restraints add their pseudoenergy to the physical force field.\n总势能 V = V_physical + V_experimental，实验约束以赝势能形式加入物理力场。"
    },
    {
     "id": "Quiz 15 - NMR Structure Calculation (MCQ).md::1",
@@ -7983,7 +7983,7 @@
      "A quantum potential（量子势）"
     ],
     "correct": 1,
-    "a": "** NMR restraints are introduced as a pseudopotential (pseudoenergy) that penalizes violations during the dynamics.\nNMR 约束以赝势（赝势能）形式引入，在动力学过程中对违反进行惩罚。"
+    "a": "NMR restraints are introduced as a pseudopotential (pseudoenergy) that penalizes violations during the dynamics.\nNMR 约束以赝势（赝势能）形式引入，在动力学过程中对违反进行惩罚。"
    },
    {
     "id": "Quiz 15 - NMR Structure Calculation (MCQ).md::2",
@@ -7997,7 +7997,7 @@
      "50"
     ],
     "correct": 2,
-    "a": "** The final ensemble consists of the ~20 lowest-energy structures selected from many simulated-annealing runs.\n最终系综由多次模拟退火中选出的约 20 个最低能量结构组成。"
+    "a": "The final ensemble consists of the ~20 lowest-energy structures selected from many simulated-annealing runs.\n最终系综由多次模拟退火中选出的约 20 个最低能量结构组成。"
    },
    {
     "id": "Quiz 15 - NMR Structure Calculation (MCQ).md::3",
@@ -8011,7 +8011,7 @@
      "RMSD relative to the average structure（相对平均结构的 RMSD）"
     ],
     "correct": 3,
-    "a": "** Precision is the RMSD of ensemble members relative to their average structure; accuracy is the deviation from the real structure.\n精密度是系综成员相对其平均结构的 RMSD；准确度是与真实结构的偏差。"
+    "a": "Precision is the RMSD of ensemble members relative to their average structure; accuracy is the deviation from the real structure.\n精密度是系综成员相对其平均结构的 RMSD；准确度是与真实结构的偏差。"
    },
    {
     "id": "Quiz 15 - NMR Structure Calculation (MCQ).md::4",
@@ -8025,7 +8025,7 @@
      "kJ·mol⁻¹·nm⁻¹"
     ],
     "correct": 0,
-    "a": "** The NOE force constant K_NOE has units kcal·mol⁻¹·nm⁻²; a larger K_NOE gives a steeper potential.\nNOE 力常数 K_NOE 的单位为 kcal·mol⁻¹·nm⁻²；K_NOE 越大势能越陡。"
+    "a": "The NOE force constant K_NOE has units kcal·mol⁻¹·nm⁻²; a larger K_NOE gives a steeper potential.\nNOE 力常数 K_NOE 的单位为 kcal·mol⁻¹·nm⁻²；K_NOE 越大势能越陡。"
    },
    {
     "id": "Quiz 15 - NMR Structure Calculation (MCQ).md::5",
@@ -8039,7 +8039,7 @@
      "It removes the restraints（它去除约束）"
     ],
     "correct": 1,
-    "a": "** Higher temperature means higher kinetic energy, which lets the system cross potential-energy barriers and explore conformations.\n温度越高动能越大，使体系能跨越势能垒并探索构象。"
+    "a": "Higher temperature means higher kinetic energy, which lets the system cross potential-energy barriers and explore conformations.\n温度越高动能越大，使体系能跨越势能垒并探索构象。"
    },
    {
     "id": "Quiz 15 - NMR Structure Calculation (MCQ).md::6",
@@ -8053,7 +8053,7 @@
      "Dynamics（动力学）"
     ],
     "correct": 2,
-    "a": "** HADDOCK = High Ambiguity Driven DOCKing, a docking program driven by ambiguous interaction restraints.\nHADDOCK = High Ambiguity Driven DOCKing（高模糊性驱动对接），一种由模糊相互作用约束驱动的对接程序。"
+    "a": "HADDOCK = High Ambiguity Driven DOCKing, a docking program driven by ambiguous interaction restraints.\nHADDOCK = High Ambiguity Driven DOCKing（高模糊性驱动对接），一种由模糊相互作用约束驱动的对接程序。"
    },
    {
     "id": "Quiz 15 - NMR Structure Calculation (MCQ).md::7",
@@ -8067,7 +8067,7 @@
      "Diminish spin diffusion（减弱自旋扩散）"
     ],
     "correct": 3,
-    "a": "** D₂O is used in cross-saturation to diminish spin diffusion, so only direct interfacial contacts transfer saturation.\n交叉饱和中用 D₂O 减弱自旋扩散，使只有直接的界面接触才传递饱和。"
+    "a": "D₂O is used in cross-saturation to diminish spin diffusion, so only direct interfacial contacts transfer saturation.\n交叉饱和中用 D₂O 减弱自旋扩散，使只有直接的界面接触才传递饱和。"
    }
   ]
  },
@@ -12264,6 +12264,1596 @@
     "q_en": "The Guinier plot after sharpening shows that the [          ] was compensated (term).",
     "q_zh": "",
     "a": "B-factor"
+   }
+  ]
+ },
+ {
+  "id": "iscb",
+  "name": "Quiz 0 - SEM EDX 3D EM [选择]",
+  "cards": [
+   {
+    "id": "Quiz 0 - SEM EDX 3D EM (MCQ).md::0",
+    "type": "mcq",
+    "q_en": "Which electrons are low-energy (< 50 eV) and escape from the top 1–10 nm of the sample surface?",
+    "q_zh": "哪种电子是低能电子（< 50 eV），从样品表面 1–10 nm 逸出？",
+    "options": [
+     "Backscattered electrons（背散射电子）",
+     "Secondary electrons（二次电子）",
+     "Auger electrons（俄歇电子）",
+     "Transmitted electrons（透射电子）"
+    ],
+    "correct": 1,
+    "a": "Secondary electrons are low-energy electrons (< 50 eV) escaping from the top 1–10 nm of the sample.\n二次电子是从样品表层 1–10 nm 逸出的低能电子（< 50 eV）。"
+   },
+   {
+    "id": "Quiz 0 - SEM EDX 3D EM (MCQ).md::1",
+    "type": "mcq",
+    "q_en": "Which signal's brightness reflects the average atomic number (Z), giving compositional contrast?",
+    "q_zh": "哪种信号的亮度反映平均原子序数（Z），从而产生成分衬度？",
+    "options": [
+     "Secondary electrons（二次电子）",
+     "Characteristic X-rays（特征 X 射线）",
+     "Backscattered electrons（背散射电子）",
+     "EELS signal（电子能量损失谱信号）"
+    ],
+    "correct": 2,
+    "a": "BSE brightness reflects the average atomic number (Z), producing compositional contrast.\n背散射电子的亮度反映平均原子序数（Z），产生成分衬度。"
+   },
+   {
+    "id": "Quiz 0 - SEM EDX 3D EM (MCQ).md::2",
+    "type": "mcq",
+    "q_en": "Which detector counts electrons directly without a scintillator?",
+    "q_zh": "哪种探测器不经过闪烁体、直接计数电子？",
+    "options": [
+     "Everhart–Thornley detector（E-T 探测器）",
+     "CCD camera（CCD 相机）",
+     "SDD (Silicon Drift Detector)（硅漂移探测器）",
+     "DED (Direct Electron Detector)（直接电子探测器）"
+    ],
+    "correct": 3,
+    "a": "The Direct Electron Detector (DED) counts electrons directly, with no scintillator.\n直接电子探测器（DED）不经闪烁体，直接计数电子。"
+   },
+   {
+    "id": "Quiz 0 - SEM EDX 3D EM (MCQ).md::3",
+    "type": "mcq",
+    "q_en": "In the Everhart–Thornley detector, the positively biased grid (≈ +200 V) attracts which type of electron?",
+    "q_zh": "在 E-T 探测器中，加正偏压（约 +200 V）的栅网吸引哪类电子？",
+    "options": [
+     "Low-energy secondary electrons（低能二次电子）",
+     "High-energy backscattered electrons（高能背散射电子）",
+     "Auger electrons（俄歇电子）",
+     "Primary beam electrons（入射电子束）"
+    ],
+    "correct": 0,
+    "a": "The positively biased grid (≈ +200 V) attracts the low-energy secondary electrons.\n加正偏压（约 +200 V）的栅网吸引低能二次电子。"
+   },
+   {
+    "id": "Quiz 0 - SEM EDX 3D EM (MCQ).md::4",
+    "type": "mcq",
+    "q_en": "Which technique tilts the specimen ±60–70° and reconstructs the volume by back-projection?",
+    "q_zh": "哪种技术将样品倾斜 ±60–70°，并通过反投影重构体积？",
+    "options": [
+     "SBF-SEM（连续块面扫描电镜）",
+     "Electron tomography（电子断层扫描）",
+     "FIB/SEM（聚焦离子束扫描电镜）",
+     "Negative staining（负染色）"
+    ],
+    "correct": 1,
+    "a": "Electron tomography tilts the specimen ±60–70° and reconstructs the volume by back-projection.\n电子断层扫描将样品倾斜 ±60–70°，通过反投影重构体积。"
+   },
+   {
+    "id": "Quiz 0 - SEM EDX 3D EM (MCQ).md::5",
+    "type": "mcq",
+    "q_en": "Which 3D EM technique uses a gallium ion beam to mill ≈5–10 nm layers?",
+    "q_zh": "哪种三维电镜技术用镓离子束铣削约 5–10 nm 的薄层？",
+    "options": [
+     "Electron tomography（电子断层扫描）",
+     "Immunogold TEM（免疫金 TEM）",
+     "FIB/SEM（聚焦离子束扫描电镜）",
+     "Cryo-EM（冷冻电镜）"
+    ],
+    "correct": 2,
+    "a": "FIB/SEM mills ≈5–10 nm layers with a gallium ion beam and images each fresh block face.\nFIB/SEM 用镓离子束铣削约 5–10 nm 薄层，并对每个新块面成像。"
+   },
+   {
+    "id": "Quiz 0 - SEM EDX 3D EM (MCQ).md::6",
+    "type": "mcq",
+    "q_en": "A synapse plus its perisynaptic astrocyte process is called the ______ synapse.",
+    "q_zh": "突触加上其周围的星形胶质细胞突起，称为 ______ 突触。",
+    "options": [
+     "Bipartite synapse（二分突触）",
+     "Axo-dendritic synapse（轴树突触）",
+     "Chemical synapse（化学突触）",
+     "Tripartite synapse（三方突触）"
+    ],
+    "correct": 3,
+    "a": "A synapse together with its perisynaptic astrocyte process is called the tripartite synapse.\n突触加上其周围的星形胶质细胞突起称为三方（tripartite）突触。"
+   },
+   {
+    "id": "Quiz 0 - SEM EDX 3D EM (MCQ).md::7",
+    "type": "mcq",
+    "q_en": "Which fixative cross-links proteins during chemical fixation?",
+    "q_zh": "化学固定中，哪种固定剂交联蛋白质？",
+    "options": [
+     "Glutaraldehyde（戊二醛）",
+     "Osmium tetroxide (OsO₄)（四氧化锇）",
+     "Uranyl acetate（醋酸铀酰）",
+     "Lead citrate（柠檬酸铅）"
+    ],
+    "correct": 0,
+    "a": "Glutaraldehyde cross-links proteins and is used with osmium tetroxide in chemical fixation.\n戊二醛交联蛋白，与四氧化锇一起用于化学固定。"
+   }
+  ]
+ },
+ {
+  "id": "iscb",
+  "name": "Quiz 1 - TEM I Microscope and Image Formation [选择]",
+  "cards": [
+   {
+    "id": "Quiz 1 - TEM I Microscope and Image Formation (MCQ).md::0",
+    "type": "mcq",
+    "q_en": "According to the Rayleigh/Abbe criterion, optical resolution d = ______ λ / NA.",
+    "q_zh": "按 Rayleigh/Abbe 判据，光学分辨率 d = ______ λ / NA。",
+    "options": [
+     "1.22",
+     "0.61",
+     "0.50",
+     "2.00"
+    ],
+    "correct": 1,
+    "a": "The Rayleigh/Abbe criterion gives optical resolution d = 0.61 λ / NA.\nRayleigh/Abbe 判据给出光学分辨率 d = 0.61 λ / NA。"
+   },
+   {
+    "id": "Quiz 1 - TEM I Microscope and Image Formation (MCQ).md::1",
+    "type": "mcq",
+    "q_en": "Which aberration arises from the energy dispersion of the incident electrons?",
+    "q_zh": "哪种像差源于入射电子的能量分散？",
+    "options": [
+     "Spherical aberration（球差）",
+     "Astigmatism（像散）",
+     "Chromatic aberration（色差）",
+     "Defocus（离焦）"
+    ],
+    "correct": 2,
+    "a": "Chromatic aberration arises from the energy dispersion of the incident electrons.\n色差源于入射电子的能量分散。"
+   },
+   {
+    "id": "Quiz 1 - TEM I Microscope and Image Formation (MCQ).md::2",
+    "type": "mcq",
+    "q_en": "Which lens forms the image and is the most important for image quality?",
+    "q_zh": "哪个透镜成像，并且对成像质量最关键？",
+    "options": [
+     "Condenser lens（聚光镜）",
+     "Projector lens（投影镜）",
+     "Wehnelt cylinder（维内尔特圆筒）",
+     "Objective lens（物镜）"
+    ],
+    "correct": 3,
+    "a": "The objective lens forms the image and is the most critical lens for image quality.\n物镜成像，是决定成像质量的最关键透镜。"
+   },
+   {
+    "id": "Quiz 1 - TEM I Microscope and Image Formation (MCQ).md::3",
+    "type": "mcq",
+    "q_en": "Which detector figure of merit is defined as (S/N)²_output / (S/N)²_input?",
+    "q_zh": "哪个探测器品质因数定义为 (S/N)²_output / (S/N)²_input？",
+    "options": [
+     "DQE（探测量子效率）",
+     "CTF（衬度传递函数）",
+     "FSC（傅里叶壳层相关）",
+     "SNR（信噪比）"
+    ],
+    "correct": 0,
+    "a": "DQE (detective quantum efficiency) is defined as (S/N)²_output / (S/N)²_input.\nDQE（探测量子效率）定义为 (S/N)²_output / (S/N)²_input。"
+   },
+   {
+    "id": "Quiz 1 - TEM I Microscope and Image Formation (MCQ).md::4",
+    "type": "mcq",
+    "q_en": "The loss of beam symmetry that makes a spherical object appear ellipsoid is called ______.",
+    "q_zh": "使球形物体看起来呈椭球状的光束对称性损失称为 ______。",
+    "options": [
+     "Chromatic aberration（色差）",
+     "Astigmatism（像散）",
+     "Spherical aberration（球差）",
+     "Beam drift（束漂移）"
+    ],
+    "correct": 1,
+    "a": "Astigmatism is the loss of beam symmetry that makes a spherical object appear ellipsoid.\n像散是使球形物体呈现椭球状的光束对称性损失。"
+   },
+   {
+    "id": "Quiz 1 - TEM I Microscope and Image Formation (MCQ).md::5",
+    "type": "mcq",
+    "q_en": "In phase contrast, scattered electrons are delayed in phase by ______ relative to non-scattered electrons.",
+    "q_zh": "在相位衬度中，散射电子相对非散射电子相位延迟 ______。",
+    "options": [
+     "π",
+     "2π",
+     "π/2",
+     "π/4"
+    ],
+    "correct": 2,
+    "a": "Scattered electrons are delayed in phase by π/2 relative to non-scattered electrons.\n散射电子相对非散射电子相位延迟 π/2。"
+   },
+   {
+    "id": "Quiz 1 - TEM I Microscope and Image Formation (MCQ).md::6",
+    "type": "mcq",
+    "q_en": "Which type of contrast is predominant for thin biological samples?",
+    "q_zh": "哪种衬度在薄生物样品中占主导？",
+    "options": [
+     "Amplitude contrast（振幅衬度）",
+     "Mass-thickness contrast（质量厚度衬度）",
+     "Z contrast（原子序数衬度）",
+     "Phase contrast（相位衬度）"
+    ],
+    "correct": 3,
+    "a": "Phase contrast is predominant for thin biological samples.\n相位衬度在薄生物样品中占主导。"
+   },
+   {
+    "id": "Quiz 1 - TEM I Microscope and Image Formation (MCQ).md::7",
+    "type": "mcq",
+    "q_en": "Dubochet et al. (1982) established the principle of ______ of the sample.",
+    "q_zh": "Dubochet 等人（1982 年）确立了样品的 ______ 原理。",
+    "options": [
+     "Vitrification（玻璃化）",
+     "Negative staining（负染色）",
+     "Chemical fixation（化学固定）",
+     "Dehydration（脱水）"
+    ],
+    "correct": 0,
+    "a": "Dubochet et al. (1982) established the principle of vitrification of the sample.\nDubochet 等人（1982 年）确立了样品玻璃化（vitrification）的原理。"
+   }
+  ]
+ },
+ {
+  "id": "iscb",
+  "name": "Quiz 2 - TEM II Single Particle Workflow [选择]",
+  "cards": [
+   {
+    "id": "Quiz 2 - TEM II Single Particle Workflow (MCQ).md::0",
+    "type": "mcq",
+    "q_en": "Averaging N images of the same orientation improves the signal-to-noise ratio by ______.",
+    "q_zh": "对同一取向的 N 张图像求平均，信噪比提高 ______。",
+    "options": [
+     "N",
+     "√N",
+     "N²",
+     "log N"
+    ],
+    "correct": 1,
+    "a": "Averaging N images of the same orientation improves the signal-to-noise ratio by √N.\n对同一取向的 N 张图像求平均，信噪比提高 √N 倍。"
+   },
+   {
+    "id": "Quiz 2 - TEM II Single Particle Workflow (MCQ).md::1",
+    "type": "mcq",
+    "q_en": "Which 2D classification method is implemented in the software Imagic?",
+    "q_zh": "哪种二维分类方法在 Imagic 软件中实现？",
+    "options": [
+     "Bayesian approach（贝叶斯方法）",
+     "Maximum likelihood（最大似然）",
+     "MSA (multivariate statistical analysis)（多变量统计分析）",
+     "SGD (stochastic gradient descent)（随机梯度下降）"
+    ],
+    "correct": 2,
+    "a": "MSA (multivariate statistical analysis) is implemented in Imagic, while the Bayesian approach is in Relion.\nMSA（多变量统计分析）在 Imagic 中实现，而贝叶斯方法在 Relion 中实现。"
+   },
+   {
+    "id": "Quiz 2 - TEM II Single Particle Workflow (MCQ).md::2",
+    "type": "mcq",
+    "q_en": "With D4 symmetry, 1 particle is equivalent to how many particles in C1?",
+    "q_zh": "在 D4 对称性下，1 个颗粒相当于 C1 中的多少个颗粒？",
+    "options": [
+     "2",
+     "4",
+     "6",
+     "8"
+    ],
+    "correct": 3,
+    "a": "With D4 symmetry, 1 particle is equivalent to 8 particles in C1.\n在 D4 对称性下，1 个颗粒相当于 C1 中的 8 个颗粒。"
+   },
+   {
+    "id": "Quiz 2 - TEM II Single Particle Workflow (MCQ).md::3",
+    "type": "mcq",
+    "q_en": "Particle movement during data collection is due to which effect?",
+    "q_zh": "数据收集期间颗粒的移动是由哪种效应引起的？",
+    "options": [
+     "Charging（荷电效应）",
+     "Astigmatism（像散）",
+     "Spherical aberration（球差）",
+     "Chromatic aberration（色差）"
+    ],
+    "correct": 0,
+    "a": "Particles move during data collection due to a charging effect.\n数据收集期间颗粒移动是由荷电（charging）效应引起的。"
+   },
+   {
+    "id": "Quiz 2 - TEM II Single Particle Workflow (MCQ).md::4",
+    "type": "mcq",
+    "q_en": "The direct electron detector stores how many frames per movie?",
+    "q_zh": "直接电子探测器每部影片存储多少帧？",
+    "options": [
+     "4 to 6",
+     "40 to 60",
+     "10 to 20",
+     "100 to 200"
+    ],
+    "correct": 1,
+    "a": "The direct electron detector stores 40 to 60 frames per movie.\n直接电子探测器每部影片存储 40 到 60 帧。"
+   },
+   {
+    "id": "Quiz 2 - TEM II Single Particle Workflow (MCQ).md::5",
+    "type": "mcq",
+    "q_en": "Which method assigns a single orientation per image using the highest cross-correlation?",
+    "q_zh": "哪种方法利用最高互相关为每张图像分配一个取向？",
+    "options": [
+     "Maximum likelihood（最大似然）",
+     "Bayesian approach（贝叶斯方法）",
+     "Highest-CC criterion（最高互相关判据）",
+     "SGD（随机梯度下降）"
+    ],
+    "correct": 2,
+    "a": "The highest-CC criterion assigns one orientation per image, choosing the projection with the best cross-correlation.\n最高互相关判据为每张图像分配一个取向，选择互相关最高的投影。"
+   },
+   {
+    "id": "Quiz 2 - TEM II Single Particle Workflow (MCQ).md::6",
+    "type": "mcq",
+    "q_en": "Which technique reconstructs the 3D volume from oriented images in projection matching?",
+    "q_zh": "投影匹配中，哪种技术从定向图像重构三维体积？",
+    "options": [
+     "Fourier inversion（傅里叶反演）",
+     "Radon transform（Radon 变换）",
+     "Abel transform（Abel 变换）",
+     "Back-projection（反投影）"
+    ],
+    "correct": 3,
+    "a": "Projection matching uses back-projection to reconstruct the 3D volume from oriented images.\n投影匹配使用反投影从定向图像重构三维体积。"
+   },
+   {
+    "id": "Quiz 2 - TEM II Single Particle Workflow (MCQ).md::7",
+    "type": "mcq",
+    "q_en": "In search mode of the low-dose strategy, we image at ______ magnification with a weak beam.",
+    "q_zh": "低剂量策略的搜索模式中，我们以 ______ 倍率、弱束流成像。",
+    "options": [
+     "Low（低）",
+     "High（高）",
+     "Medium（中）",
+     "Zero（零）"
+    ],
+    "correct": 0,
+    "a": "In search mode we image at low magnification with a weak beam to locate the area.\n搜索模式以低倍率、弱束流成像以定位区域。"
+   }
+  ]
+ },
+ {
+  "id": "iscb",
+  "name": "Quiz 3 - Cryo-EM Data Processing [选择]",
+  "cards": [
+   {
+    "id": "Quiz 3 - Cryo-EM Data Processing (MCQ).md::0",
+    "type": "mcq",
+    "q_en": "The gold-standard resolution criterion is FSC = ______.",
+    "q_zh": "金标准分辨率判据是 FSC = ______。",
+    "options": [
+     "0.5",
+     "0.143",
+     "0.61",
+     "0.7"
+    ],
+    "correct": 1,
+    "a": "The gold-standard resolution criterion is FSC = 0.143.\n金标准分辨率判据是 FSC = 0.143。"
+   },
+   {
+    "id": "Quiz 3 - Cryo-EM Data Processing (MCQ).md::1",
+    "type": "mcq",
+    "q_en": "Which of the following is NOT one of the four concepts for handling heterogeneity?",
+    "q_zh": "以下哪一项不是处理异质性的四个概念之一？",
+    "options": [
+     "3D classification（三维分类）",
+     "Masking（掩膜）",
+     "Motion correction（运动校正）",
+     "Subtraction（减去）"
+    ],
+    "correct": 2,
+    "a": "The four concepts are 3D classification, global vs local refinement, masking, and subtraction — motion correction is not among them.\n四个概念是三维分类、全局与局部精修、掩膜和减去；运动校正不属于其中。"
+   },
+   {
+    "id": "Quiz 3 - Cryo-EM Data Processing (MCQ).md::2",
+    "type": "mcq",
+    "q_en": "At the start of the pipeline, which type of refinement is used because orientations are unknown?",
+    "q_zh": "管线开始时，因取向未知而使用哪种精修？",
+    "options": [
+     "Local refinement（局部精修）",
+     "Flexible fitting（柔性拟合）",
+     "Post-processing（后处理）",
+     "Global refinement（全局精修）"
+    ],
+    "correct": 3,
+    "a": "At the start of the pipeline, global refinement is used because orientations are unknown.\n管线开始时因取向未知而使用全局精修。"
+   },
+   {
+    "id": "Quiz 3 - Cryo-EM Data Processing (MCQ).md::3",
+    "type": "mcq",
+    "q_en": "The Gaussian amplitude decay modeling the loss of contrast at high resolution is the ______ factor.",
+    "q_zh": "模拟高分辨率衬度损失的高斯振幅衰减是 ______ 因子。",
+    "options": [
+     "B-factor（B 因子）",
+     "DQE（探测量子效率）",
+     "CTF（衬度传递函数）",
+     "FSC（傅里叶壳层相关）"
+    ],
+    "correct": 0,
+    "a": "The B-factor (overall temperature factor) models the Gaussian amplitude decay at high resolution.\nB 因子（整体温度因子）模拟高分辨率的振幅高斯衰减。"
+   },
+   {
+    "id": "Quiz 3 - Cryo-EM Data Processing (MCQ).md::4",
+    "type": "mcq",
+    "q_en": "FSC splits the dataset into how many halves?",
+    "q_zh": "FSC 将数据集分成几半？",
+    "options": [
+     "Three（三）",
+     "Two（两）",
+     "Four（四）",
+     "Ten（十）"
+    ],
+    "correct": 1,
+    "a": "FSC splits the dataset into two halves and reconstructs each independently.\nFSC 将数据集分成两半并分别独立重构。"
+   },
+   {
+    "id": "Quiz 3 - Cryo-EM Data Processing (MCQ).md::5",
+    "type": "mcq",
+    "q_en": "To focus on a flexible part, we ______ the rigid parts.",
+    "q_zh": "为了聚焦柔性部分，我们 ______ 刚性部分。",
+    "options": [
+     "Sharpen（锐化）",
+     "Mask（掩膜）",
+     "Subtract（减去）",
+     "Classify（分类）"
+    ],
+    "correct": 2,
+    "a": "To focus on a flexible part, we subtract the rigid parts (the rigid signal) first.\n为聚焦柔性部分，先减去刚性部分的信号。"
+   },
+   {
+    "id": "Quiz 3 - Cryo-EM Data Processing (MCQ).md::6",
+    "type": "mcq",
+    "q_en": "In CryoSparc, 3D MSA is called ______.",
+    "q_zh": "在 CryoSparc 中，三维 MSA 被称为 ______。",
+    "options": [
+     "3D auto-refine（三维自动精修）",
+     "Heterogeneous refinement（异质精修）",
+     "Local refinement（局部精修）",
+     "3D variability（三维变异性）"
+    ],
+    "correct": 3,
+    "a": "In CryoSparc, 3D MSA is called \"3D variability\".\n在 CryoSparc 中，三维 MSA 被称为\"3D variability\"（三维变异性）。"
+   },
+   {
+    "id": "Quiz 3 - Cryo-EM Data Processing (MCQ).md::7",
+    "type": "mcq",
+    "q_en": "Negative-stain EM gives only the ______ of the molecule at 15–20 Å resolution.",
+    "q_zh": "负染色电镜在 15–20 Å 分辨率下只给出分子的 ______。",
+    "options": [
+     "Envelope（包络）",
+     "Atomic coordinates（原子坐标）",
+     "Secondary structure（二级结构）",
+     "Side chains（侧链）"
+    ],
+    "correct": 0,
+    "a": "Negative-stain EM gives only the envelope of the molecule at 15–20 Å resolution.\n负染色电镜在 15–20 Å 分辨率下只给出分子的包络（envelope）。"
+   }
+  ]
+ },
+ {
+  "id": "iscb",
+  "name": "Quiz 4 - TP Image Processing Theory [选择]",
+  "cards": [
+   {
+    "id": "Quiz 4 - TP Image Processing Theory (MCQ).md::0",
+    "type": "mcq",
+    "q_en": "A band-pass filter retains only the frequencies between which two cutoffs?",
+    "q_zh": "带通滤波器只保留哪两个截止频率之间的频率？",
+    "options": [
+     "the low-frequency cutoff (LCF) and the high-frequency cutoff (HCF)（低频截止与高频截止）",
+     "the Nyquist frequency and the sampling frequency（奈奎斯特频率与采样频率）",
+     "the defocus and the spherical aberration（离焦量与球差）",
+     "the phase component and the amplitude component（相位分量与振幅分量）"
+    ],
+    "correct": 0,
+    "a": "A band-pass filter keeps the useful signal range by removing both low-frequency background and high-frequency noise.\n带通滤波器通过去除低频背景和高频噪声来保留有用的信号范围。"
+   },
+   {
+    "id": "Quiz 4 - TP Image Processing Theory (MCQ).md::1",
+    "type": "mcq",
+    "q_en": "The Nyquist frequency Nf is defined as:",
+    "q_zh": "奈奎斯特频率 Nf 定义为：",
+    "options": [
+     "1 / (2 × wavelength)（1/(2×波长)）",
+     "1 / (2 × pixel size)（1/(2×像素尺寸)）",
+     "1 / (2 × sampling frequency)（1/(2×采样频率)）",
+     "1.22 λ / (2 × NA)（1.22λ/(2NA)）"
+    ],
+    "correct": 1,
+    "a": "The Nyquist frequency equals one over twice the pixel size, giving the highest frequency that can be resolved.\n奈奎斯特频率等于像素尺寸两倍的倒数，即所能分辨的最高频率。"
+   },
+   {
+    "id": "Quiz 4 - TP Image Processing Theory (MCQ).md::2",
+    "type": "mcq",
+    "q_en": "Which set of parameters does the contrast transfer function (CTF) depend on?",
+    "q_zh": "对比度传递函数（CTF）取决于哪组参数？",
+    "options": [
+     "pixel size, magnification and defocus（像素尺寸、放大倍数与离焦量）",
+     "photon count, PSF width and NA（光子数、PSF 宽度与数值孔径）",
+     "defocus Δf, spherical aberration Cs and wavelength λ（离焦量 Δf、球差 Cs 与波长 λ）",
+     "amplitude contrast and phase contrast only（仅振幅对比与相位对比）"
+    ],
+    "correct": 2,
+    "a": "The CTF is determined by the defocus Δf, the spherical aberration Cs and the wavelength λ.\nCTF 由离焦量 Δf、球差 Cs 和波长 λ 决定。"
+   },
+   {
+    "id": "Quiz 4 - TP Image Processing Theory (MCQ).md::3",
+    "type": "mcq",
+    "q_en": "Phase contrast treats electrons as:",
+    "q_zh": "相位对比把电子视为：",
+    "options": [
+     "particles（粒子）",
+     "scattered photons（散射光子）",
+     "point sources（点光源）",
+     "waves（波）"
+    ],
+    "correct": 3,
+    "a": "Phase contrast arises from treating electrons as waves whose phase is shifted upon scattering.\n相位对比来自将电子视为波，散射时其相位发生移动。"
+   },
+   {
+    "id": "Quiz 4 - TP Image Processing Theory (MCQ).md::4",
+    "type": "mcq",
+    "q_en": "In cryo-EM, amplitude contrast contributes roughly:",
+    "q_zh": "在冷冻电镜中，振幅对比大约贡献：",
+    "options": [
+     "7%（7%）",
+     "30%（30%）",
+     "50%（50%）",
+     "90%（90%）"
+    ],
+    "correct": 0,
+    "a": "Amplitude contrast is about 7% in cryo-EM and about 30% in negative stain.\n振幅对比在冷冻电镜中约 7%，在负染色中约 30%。"
+   },
+   {
+    "id": "Quiz 4 - TP Image Processing Theory (MCQ).md::5",
+    "type": "mcq",
+    "q_en": "The acronym SGD stands for:",
+    "q_zh": "缩写 SGD 代表：",
+    "options": [
+     "Signal Gradient Descent（信号梯度下降）",
+     "Stochastic Gradient Descent（随机梯度下降）",
+     "Sequential Gradient Decomposition（顺序梯度分解）",
+     "Single-particle Gradient Determination（单颗粒梯度测定）"
+    ],
+    "correct": 1,
+    "a": "SGD stands for Stochastic Gradient Descent, which updates the map using a random subset of images at each iteration.\nSGD 即随机梯度下降，每次迭代用随机图像子集更新密度图。"
+   },
+   {
+    "id": "Quiz 4 - TP Image Processing Theory (MCQ).md::6",
+    "type": "mcq",
+    "q_en": "The \"gold standard\" FSC criterion is evaluated at a value of:",
+    "q_zh": "FSC「金标准」准则在哪个数值处评估？",
+    "options": [
+     "0.5（0.5）",
+     "0.3（0.3）",
+     "0.143（0.143）",
+     "0.01（0.01）"
+    ],
+    "correct": 2,
+    "a": "The gold-standard FSC criterion is read where the correlation crosses 0.143.\n金标准 FSC 准则在相关性穿过 0.143 处读取。"
+   },
+   {
+    "id": "Quiz 4 - TP Image Processing Theory (MCQ).md::7",
+    "type": "mcq",
+    "q_en": "In projection matching, the retained orientation is the one with the highest:",
+    "q_zh": "在投影匹配中，被保留的方向是具有最高______的方向：",
+    "options": [
+     "defocus（离焦量）",
+     "spherical aberration（球差）",
+     "photon count（光子数）",
+     "cross-correlation (CC)（互相关 CC）"
+    ],
+    "correct": 3,
+    "a": "Projection matching keeps the rotation and translation that give the highest cross-correlation.\n投影匹配保留给出最高互相关的旋转和平移。"
+   }
+  ]
+ },
+ {
+  "id": "iscb",
+  "name": "Quiz 5 - Fluorescence Microscopy [选择]",
+  "cards": [
+   {
+    "id": "Quiz 5 - Fluorescence Microscopy (MCQ).md::0",
+    "type": "mcq",
+    "q_en": "Fluorescence gives contrast because the emitted light is shifted toward which end compared to the excitation light?",
+    "q_zh": "荧光能提供对比，是因为发射光相对激发光移向哪一端？",
+    "options": [
+     "red（红端）",
+     "blue（蓝端）",
+     "ultraviolet（紫外端）",
+     "no shift（无偏移）"
+    ],
+    "correct": 0,
+    "a": "Fluorescence emission is shifted to longer wavelengths (red) relative to the blue excitation, a shift called the Stokes shift.\n荧光发射相对蓝光激发移向更长波长（红端），这一位移称为斯托克斯位移。"
+   },
+   {
+    "id": "Quiz 5 - Fluorescence Microscopy (MCQ).md::1",
+    "type": "mcq",
+    "q_en": "A nanobody is:",
+    "q_zh": "纳米抗体是：",
+    "options": [
+     "a light-chain-only antibody fragment（仅轻链的抗体片段）",
+     "a heavy-chain-only antibody of about 15 kDa（约 15 kDa 的仅重链抗体）",
+     "a full IgG of about 150 kDa（约 150 kDa 的全长 IgG）",
+     "a Fab fragment of about 50 kDa（约 50 kDa 的 Fab 片段）"
+    ],
+    "correct": 1,
+    "a": "A nanobody contains only the variable (VHH) domain of a heavy-chain-only antibody and is about 15 kDa.\n纳米抗体仅含仅重链抗体的可变（VHH）结构域，约 15 kDa。"
+   },
+   {
+    "id": "Quiz 5 - Fluorescence Microscopy (MCQ).md::2",
+    "type": "mcq",
+    "q_en": "Paraformaldehyde and glutaraldehyde are examples of:",
+    "q_zh": "多聚甲醛和戊二醛属于哪类固定剂？",
+    "options": [
+     "precipitant fixatives（沉淀型固定剂）",
+     "detergent permeabilizers（去污剂透化剂）",
+     "crosslinking fixatives（交联型固定剂）",
+     "DNA stains（DNA 染料）"
+    ],
+    "correct": 2,
+    "a": "Paraformaldehyde and glutaraldehyde crosslink proteins, preserving 3D structure but reducing antigenicity.\n多聚甲醛和戊二醛交联蛋白质，可保留三维结构但会降低抗原性。"
+   },
+   {
+    "id": "Quiz 5 - Fluorescence Microscopy (MCQ).md::3",
+    "type": "mcq",
+    "q_en": "Triton X-100 is best characterized as:",
+    "q_zh": "Triton X-100 最恰当的描述是：",
+    "options": [
+     "a mild detergent creating reversible holes（产生可逆孔道的温和去污剂）",
+     "a crosslinking fixative（交联固定剂）",
+     "a precipitant fixative（沉淀固定剂）",
+     "a harsh detergent that extracts lipids and permeabilizes the nucleus（提取脂质并透化细胞核的强去污剂）"
+    ],
+    "correct": 3,
+    "a": "Triton X-100 is harsh: it extracts large amounts of lipids and permeabilizes the nucleus.\nTriton X-100 作用强烈，会提取大量脂质并透化细胞核。"
+   },
+   {
+    "id": "Quiz 5 - Fluorescence Microscopy (MCQ).md::4",
+    "type": "mcq",
+    "q_en": "EGFP is about:",
+    "q_zh": "EGFP 大约是：",
+    "options": [
+     "27 kDa and can dimerize（约 27 kDa 且会二聚化）",
+     "15 kDa and monomeric（约 15 kDa 且单体）",
+     "50 kDa and tetrameric（约 50 kDa 且四聚体）",
+     "100 kDa and multimeric（约 100 kDa 且多聚体）"
+    ],
+    "correct": 0,
+    "a": "EGFP is about 27 kDa and can dimerize under some conditions, which is why the monomeric A206K variant is used.\nEGFP 约 27 kDa 且在某些条件下会二聚化，因此使用单体 A206K 变体。"
+   },
+   {
+    "id": "Quiz 5 - Fluorescence Microscopy (MCQ).md::5",
+    "type": "mcq",
+    "q_en": "Which GFP variant is used to avoid dimerization?",
+    "q_zh": "哪种 GFP 变体用于避免二聚化？",
+    "options": [
+     "VHH（VHH）",
+     "A206K（A206K）",
+     "CMV（CMV）",
+     "NHS-ester（NHS-酯）"
+    ],
+    "correct": 1,
+    "a": "The A206K mutation produces a monomeric GFP that avoids dimerization.\nA206K 突变产生避免二聚化的单体 GFP。"
+   },
+   {
+    "id": "Quiz 5 - Fluorescence Microscopy (MCQ).md::6",
+    "type": "mcq",
+    "q_en": "The blocking solution uses BSA or serum from the species of which antibody?",
+    "q_zh": "封闭液使用来自哪种抗体的物种的 BSA 或血清？",
+    "options": [
+     "the primary antibody（一抗）",
+     "the tertiary antibody（三抗）",
+     "the secondary antibody（二抗）",
+     "the Fab fragment（Fab 片段）"
+    ],
+    "correct": 2,
+    "a": "Blocking uses serum from the same species as the secondary antibody to prevent non-specific binding.\n封闭使用与二抗同物种的血清，以防止非特异性结合。"
+   },
+   {
+    "id": "Quiz 5 - Fluorescence Microscopy (MCQ).md::7",
+    "type": "mcq",
+    "q_en": "CRISPR/Cas9 was awarded the Nobel Prize in Chemistry in:",
+    "q_zh": "CRISPR/Cas9 在哪一年获得诺贝尔化学奖？",
+    "options": [
+     "1998（1998）",
+     "2008（2008）",
+     "2014（2014）",
+     "2020（2020）"
+    ],
+    "correct": 3,
+    "a": "The CRISPR/Cas9 genome-editing method was awarded the Nobel Prize in Chemistry in 2020.\nCRISPR/Cas9 基因编辑方法于 2020 年获得诺贝尔化学奖。"
+   }
+  ]
+ },
+ {
+  "id": "iscb",
+  "name": "Quiz 6 - Super-Resolution Microscopy [选择]",
+  "cards": [
+   {
+    "id": "Quiz 6 - Super-Resolution Microscopy (MCQ).md::0",
+    "type": "mcq",
+    "q_en": "Optical resolution is given by Δx = 1.22 λ / (2 × ___). Which term completes the formula?",
+    "q_zh": "光学分辨率公式为 Δx = 1.22 λ / (2 × ___)。哪一项补全该公式？",
+    "options": [
+     "NA (numerical aperture)（数值孔径）",
+     "pixel size（像素尺寸）",
+     "wavelength（波长）",
+     "magnification（放大倍数）"
+    ],
+    "correct": 0,
+    "a": "Resolution is Δx = 1.22λ/(2NA), where NA is the numerical aperture.\n分辨率公式为 Δx = 1.22λ/(2NA)，其中 NA 为数值孔径。"
+   },
+   {
+    "id": "Quiz 6 - Super-Resolution Microscopy (MCQ).md::1",
+    "type": "mcq",
+    "q_en": "The numerical aperture NA is defined as:",
+    "q_zh": "数值孔径 NA 定义为：",
+    "options": [
+     "n cos α（n cos α）",
+     "n sin α（n sin α）",
+     "λ / 2（λ/2）",
+     "1.22 λ（1.22λ）"
+    ],
+    "correct": 1,
+    "a": "NA = n sin α, where n is the refractive index and α the half-angle of light collection.\nNA = n sin α，其中 n 为折射率，α 为光收集半角。"
+   },
+   {
+    "id": "Quiz 6 - Super-Resolution Microscopy (MCQ).md::2",
+    "type": "mcq",
+    "q_en": "The acronym STED stands for:",
+    "q_zh": "缩写 STED 代表：",
+    "options": [
+     "Super Temporal Emission Detection（超时间发射检测）",
+     "Single-molecule Tracking Emission Depletion（单分子追踪发射耗尽）",
+     "Stimulated Emission Depletion（受激发射耗尽）",
+     "Stochastic Emission Detection（随机发射检测）"
+    ],
+    "correct": 2,
+    "a": "STED stands for STimulated Emission Depletion, a coordinate-targeted super-resolution method.\nSTED 即受激发射耗尽，是一种坐标定向的超分辨方法。"
+   },
+   {
+    "id": "Quiz 6 - Super-Resolution Microscopy (MCQ).md::3",
+    "type": "mcq",
+    "q_en": "PALM is based on which kind of label?",
+    "q_zh": "PALM 基于哪类标记？",
+    "options": [
+     "organic dyes（有机染料）",
+     "DNA strands（DNA 链）",
+     "quantum dots（量子点）",
+     "photoactivatable fluorescent proteins（可光活化荧光蛋白）"
+    ],
+    "correct": 3,
+    "a": "PALM relies on photoactivatable / photoconvertible fluorescent proteins.\nPALM 依赖可光活化/光转换的荧光蛋白。"
+   },
+   {
+    "id": "Quiz 6 - Super-Resolution Microscopy (MCQ).md::4",
+    "type": "mcq",
+    "q_en": "Localization precision σ is given by:",
+    "q_zh": "定位精度 σ 的公式为：",
+    "options": [
+     "s / √N（s/√N）",
+     "1.22 λ / (2 NA)（1.22λ/(2NA)）",
+     "√N / s（√N/s）",
+     "λ / NA（λ/NA）"
+    ],
+    "correct": 0,
+    "a": "σ = s/√N, where s is the PSF width and N the number of detected photons.\nσ = s/√N，其中 s 为 PSF 宽度，N 为检测到的光子数。"
+   },
+   {
+    "id": "Quiz 6 - Super-Resolution Microscopy (MCQ).md::5",
+    "type": "mcq",
+    "q_en": "FIONA achieves a localization accuracy of about:",
+    "q_zh": "FIONA 可达到约多高的定位精度？",
+    "options": [
+     "250 nm（250 nm）",
+     "1 nm（1 nm）",
+     "40 nm（40 nm）",
+     "100 nm（100 nm）"
+    ],
+    "correct": 1,
+    "a": "FIONA (Fluorescence Imaging with One Nanometer Accuracy) reaches about 1 nm accuracy.\nFIONA（一纳米精度荧光成像）可达约 1 nm 精度。"
+   },
+   {
+    "id": "Quiz 6 - Super-Resolution Microscopy (MCQ).md::6",
+    "type": "mcq",
+    "q_en": "In dSTORM, the vast majority of fluorophores are driven into which state?",
+    "q_zh": "在 dSTORM 中，绝大多数荧光团被推入哪种状态？",
+    "options": [
+     "the bright state（亮态）",
+     "the triplet state（三重态）",
+     "the dark (off) state（暗态/关闭态）",
+     "the ground state（基态）"
+    ],
+    "correct": 2,
+    "a": "dSTORM uses strong light plus an oxygen-scavenging system and thiols to send most fluorophores into a dark state, so only sparse molecules emit at a time.\ndSTORM 用强光加除氧系统和硫醇把大部分荧光团送入暗态，使每次只有稀疏分子发光。"
+   },
+   {
+    "id": "Quiz 6 - Super-Resolution Microscopy (MCQ).md::7",
+    "type": "mcq",
+    "q_en": "MinFlux combines which two techniques?",
+    "q_zh": "MinFlux 结合了哪两种技术？",
+    "options": [
+     "PALM and STORM（PALM 与 STORM）",
+     "TIRF and confocal（TIRF 与共聚焦）",
+     "confocal and wide-field（共聚焦与宽场）",
+     "STED and SMLM（STED 与 SMLM）"
+    ],
+    "correct": 3,
+    "a": "MinFlux combines STED and SMLM with 4-beam triangulation to exceed both.\nMinFlux 结合 STED 与 SMLM 并用四光束三角定位，超越二者。"
+   }
+  ]
+ },
+ {
+  "id": "iscb",
+  "name": "Quiz 7 - Fluorophores and Labeling [选择]",
+  "cards": [
+   {
+    "id": "Quiz 7 - Fluorophores and Labeling (MCQ).md::0",
+    "type": "mcq",
+    "q_en": "What is the fluorescence quantum yield Φ expressed as?",
+    "q_zh": "荧光量子产率 Φ 如何表示？",
+    "options": [
+     "kr / (kr + knr)（辐射速率 ÷ 辐射+非辐射速率之和）",
+     "1 / (1 + (R/R₀)⁶)（FRET 效率）",
+     "ε × Φ（亮度公式）",
+     "1 / (kr + knr)（荧光寿命）"
+    ],
+    "correct": 0,
+    "a": "The quantum yield is the ratio of radiative decay to all decay pathways, Φ = kr/(kr+knr).\n量子产率是辐射衰变占所有衰变途径的比例，即 Φ = kr/(kr+knr)。"
+   },
+   {
+    "id": "Quiz 7 - Fluorophores and Labeling (MCQ).md::1",
+    "type": "mcq",
+    "q_en": "GFP is excited at 488 nm; at which wavelength does it emit?",
+    "q_zh": "GFP 在 488 nm 激发，其发射波长是多少？",
+    "options": [
+     "405 nm（光活化波长）",
+     "516 nm（绿色荧光发射）",
+     "488 nm（激发波长）",
+     "350 nm（紫外激发）"
+    ],
+    "correct": 1,
+    "a": "GFP absorbs at 488 nm and emits green fluorescence at 516 nm.\nGFP 在 488 nm 吸收、516 nm 发出绿色荧光。"
+   },
+   {
+    "id": "Quiz 7 - Fluorophores and Labeling (MCQ).md::2",
+    "type": "mcq",
+    "q_en": "Which formula gives the FRET efficiency E?",
+    "q_zh": "下列哪个公式表示 FRET 效率 E？",
+    "options": [
+     "kr / (kr + knr)（量子产率）",
+     "1 / (kr + knr)（荧光寿命）",
+     "1 / (1 + (R/R₀)⁶)（FRET 效率）",
+     "ε × Φ（亮度）"
+    ],
+    "correct": 2,
+    "a": "FRET efficiency depends on the sixth power of the distance ratio, E = 1/(1+(R/R₀)⁶).\nFRET 效率依赖于距离比的六次方，E = 1/(1+(R/R₀)⁶)。"
+   },
+   {
+    "id": "Quiz 7 - Fluorophores and Labeling (MCQ).md::3",
+    "type": "mcq",
+    "q_en": "At R = R₀, FRET transfers what fraction of the donor excitation energy?",
+    "q_zh": "当 R = R₀ 时，FRET 转移了多少比例的供体激发能？",
+    "options": [
+     "25%（1/4）",
+     "100%（全部）",
+     "75%（3/4）",
+     "50%（一半）"
+    ],
+    "correct": 3,
+    "a": "R₀ is defined as the distance at which the FRET efficiency is 50%.\nR₀ 定义为 FRET 效率为 50% 时的距离。"
+   },
+   {
+    "id": "Quiz 7 - Fluorophores and Labeling (MCQ).md::4",
+    "type": "mcq",
+    "q_en": "Fluorescent proteins (FPs) belong to which labeling family?",
+    "q_zh": "荧光蛋白（FP）属于哪一类标记方法？",
+    "options": [
+     "Genetic labeling（遗传标记）",
+     "Chemical labeling（化学标记）",
+     "Immuno/natural labeling（免疫/天然标记）",
+     "Click labeling（点击化学标记）"
+    ],
+    "correct": 0,
+    "a": "FPs are genetically encoded and belong to genetic labeling.\n荧光蛋白由基因编码，属于遗传标记。"
+   },
+   {
+    "id": "Quiz 7 - Fluorophores and Labeling (MCQ).md::5",
+    "type": "mcq",
+    "q_en": "The SNAP-tag is an example of which type of label?",
+    "q_zh": "SNAP-tag 属于哪种标签？",
+    "options": [
+     "Fluorogenic dye（荧光原染料）",
+     "Self-labeling tag（自标记标签）",
+     "Photoactivatable FP（光激活荧光蛋白）",
+     "Quantum dot（量子点）"
+    ],
+    "correct": 1,
+    "a": "SNAP-tag is a self-labeling tag that covalently attaches a synthetic dye.\nSNAP-tag 是一种共价连接合成染料的自标记标签。"
+   },
+   {
+    "id": "Quiz 7 - Fluorophores and Labeling (MCQ).md::6",
+    "type": "mcq",
+    "q_en": "Which monomeric mutation prevents EGFP dimerization?",
+    "q_zh": "哪个单体化突变可避免 EGFP 二聚化？",
+    "options": [
+     "T203Y（黄色荧光蛋白突变）",
+     "S65T（亮度增强突变）",
+     "A206K（单体化突变）",
+     "Y66W（蓝色荧光蛋白突变）"
+    ],
+    "correct": 2,
+    "a": "The A206K mutation abolishes the dimer interface to make EGFP monomeric.\nA206K 突变消除二聚界面，使 EGFP 单体化。"
+   },
+   {
+    "id": "Quiz 7 - Fluorophores and Labeling (MCQ).md::7",
+    "type": "mcq",
+    "q_en": "A dye that only becomes fluorescent upon binding its target is called?",
+    "q_zh": "仅在结合靶标后才发荧光的染料称为什么？",
+    "options": [
+     "Caged dye（笼闭染料）",
+     "Photoconvertible dye（光转换染料）",
+     "Photoswitchable dye（光开关染料）",
+     "Fluorogenic dye（荧光原染料）"
+    ],
+    "correct": 3,
+    "a": "A fluorogenic dye is non-fluorescent until it binds its target.\n荧光原染料在结合靶标前不发荧光。"
+   }
+  ]
+ },
+ {
+  "id": "iscb",
+  "name": "Quiz 8 - SAXS and SANS [选择]",
+  "cards": [
+   {
+    "id": "Quiz 8 - SAXS and SANS (MCQ).md::0",
+    "type": "mcq",
+    "q_en": "What is the magnitude of the scattering vector Q?",
+    "q_zh": "散射矢量 Q 的模长是多少？",
+    "options": [
+     "(4π/λ) sin θ（散射矢量公式）",
+     "(2π/λ) sin θ（错误系数）",
+     "(4π/λ) cos θ（错误函数）",
+     "(π/λ) sin θ（错误系数）"
+    ],
+    "correct": 0,
+    "a": "|Q| = (4π/λ) sin θ, where 2θ is the scattering angle.\n|Q| = (4π/λ) sin θ，其中 2θ 为散射角。"
+   },
+   {
+    "id": "Quiz 8 - SAXS and SANS (MCQ).md::1",
+    "type": "mcq",
+    "q_en": "In the Guinier approximation I(Q) ≈ I(0) exp(−Rg²Q²/n), what is n?",
+    "q_zh": "Guinier 近似 I(Q) ≈ I(0) exp(−Rg²Q²/n) 中，n 是多少？",
+    "options": [
+     "2",
+     "3",
+     "6",
+     "4"
+    ],
+    "correct": 1,
+    "a": "The Guinier approximation is I(Q) ≈ I(0) exp(−Rg²Q²/3).\nGuinier 近似为 I(Q) ≈ I(0) exp(−Rg²Q²/3)。"
+   },
+   {
+    "id": "Quiz 8 - SAXS and SANS (MCQ).md::2",
+    "type": "mcq",
+    "q_en": "For a given molecular weight, which shape has the smallest radius of gyration?",
+    "q_zh": "在分子量相同的情况下，哪种形状的回转半径最小？",
+    "options": [
+     "Rod（棒状）",
+     "Disc（盘状）",
+     "Sphere（球体）",
+     "Random coil（无规线团）"
+    ],
+    "correct": 2,
+    "a": "A sphere is the most compact shape and therefore has the smallest Rg for a given mass.\n球体是最紧凑的形状，因此在给定质量下回转半径最小。"
+   },
+   {
+    "id": "Quiz 8 - SAXS and SANS (MCQ).md::3",
+    "type": "mcq",
+    "q_en": "X-ray scattering length is proportional to the number of?",
+    "q_zh": "X 射线散射长度与什么的数量成正比？",
+    "options": [
+     "Protons（质子）",
+     "Neutrons（中子）",
+     "Isotopes（同位素）",
+     "Electrons（电子）"
+    ],
+    "correct": 3,
+    "a": "X-rays scatter from electrons, so the scattering length scales with electron number.\nX 射线与电子发生散射，因此散射长度随电子数变化。"
+   },
+   {
+    "id": "Quiz 8 - SAXS and SANS (MCQ).md::4",
+    "type": "mcq",
+    "q_en": "In SANS, how do you make a homogeneous macromolecule effectively invisible?",
+    "q_zh": "在 SANS 中，如何让同质大分子\"隐形\"？",
+    "options": [
+     "Adjust the D₂O/H₂O ratio（调节 D₂O/H₂O 比例）",
+     "Lower the temperature（降低温度）",
+     "Change the pH（改变 pH）",
+     "Increase the salt concentration（增大盐浓度）"
+    ],
+    "correct": 0,
+    "a": "Matching the solvent scattering-length density to the component by tuning D2O/H2O makes it contrast-matched (invisible).\n通过调节 D₂O/H₂O 使溶剂散射长度密度与组分匹配，实现对比度匹配（隐形）。"
+   },
+   {
+    "id": "Quiz 8 - SAXS and SANS (MCQ).md::5",
+    "type": "mcq",
+    "q_en": "For high-throughput studies of a homogeneous single-body system, which technique is preferred?",
+    "q_zh": "对于均一单组分体系的高通量研究，优先选择哪种技术？",
+    "options": [
+     "SANS",
+     "SAXS",
+     "Both equally（两者相同）",
+     "Neither（都不合适）"
+    ],
+    "correct": 1,
+    "a": "SAXS is preferred for homogeneous single-body systems and for high-throughput work.\n对于均一单组分体系和高通量工作，优先选择 SAXS。"
+   },
+   {
+    "id": "Quiz 8 - SAXS and SANS (MCQ).md::6",
+    "type": "mcq",
+    "q_en": "What is the typical SANS exposure time?",
+    "q_zh": "SANS 的典型曝光时间是多少？",
+    "options": [
+     "1–10 seconds",
+     "1–10 minutes",
+     "10–20 minutes",
+     "1 hour"
+    ],
+    "correct": 2,
+    "a": "SANS exposures take about 10–20 minutes, far longer than SAXS (1–10 s).\nSANS 曝光约需 10–20 分钟，远长于 SAXS（1–10 秒）。"
+   },
+   {
+    "id": "Quiz 8 - SAXS and SANS (MCQ).md::7",
+    "type": "mcq",
+    "q_en": "How much radiation damage does SANS cause?",
+    "q_zh": "SANS 造成的辐射损伤有多大？",
+    "options": [
+     "Severe（严重）",
+     "Some（一定）",
+     "High（高）",
+     "None（无）"
+    ],
+    "correct": 3,
+    "a": "Neutrons deposit little energy, so SANS causes essentially no radiation damage.\n中子沉积能量极少，因此 SANS 基本无辐射损伤。"
+   }
+  ]
+ },
+ {
+  "id": "iscb",
+  "name": "Quiz 9 - Image Processing Practicals [选择]",
+  "cards": [
+   {
+    "id": "Quiz 9 - Image Processing Practicals (MCQ).md::0",
+    "type": "mcq",
+    "q_en": "What is the Nyquist frequency?",
+    "q_zh": "奈奎斯特频率是什么？",
+    "options": [
+     "1 / (2 × pixel size)（奈奎斯特频率公式）",
+     "1 / (pixel size)（缺少因子 2）",
+     "2 × pixel size（量纲错误）",
+     "(4π/λ) sin θ（散射矢量）"
+    ],
+    "correct": 0,
+    "a": "The Nyquist frequency is 1/(2 × pixel size); it is the highest spatial frequency a given pixel size can represent.\n奈奎斯特频率为 1/(2 × 像素尺寸)，是给定像素尺寸所能表示的最高空间频率。"
+   },
+   {
+    "id": "Quiz 9 - Image Processing Practicals (MCQ).md::1",
+    "type": "mcq",
+    "q_en": "To resolve 3 Å detail, the pixel size must be at most?",
+    "q_zh": "要分辨 3 Å 的细节，像素尺寸最大为多少？",
+    "options": [
+     "3 Å",
+     "1.5 Å",
+     "0.75 Å",
+     "6 Å"
+    ],
+    "correct": 1,
+    "a": "Nyquist sampling requires the pixel to be ≤ half the target detail, so ≤1.5 Å for 3 Å.\n奈奎斯特采样要求像素 ≤ 目标细节的一半，因此对 3 Å 应为 ≤1.5 Å。"
+   },
+   {
+    "id": "Quiz 9 - Image Processing Practicals (MCQ).md::2",
+    "type": "mcq",
+    "q_en": "Dose-weighting down-weights which movie frames?",
+    "q_zh": "剂量加权会降低哪些帧的权重？",
+    "options": [
+     "Early frames（早期帧）",
+     "Middle frames（中间帧）",
+     "Late frames（后期帧）",
+     "All frames equally（所有帧等权）"
+    ],
+    "correct": 2,
+    "a": "Late frames are more radiation-damaged, so dose-weighting down-weights them.\n后期帧辐射损伤更严重，因此剂量加权降低其权重。"
+   },
+   {
+    "id": "Quiz 9 - Image Processing Practicals (MCQ).md::3",
+    "type": "mcq",
+    "q_en": "What box size (in pixels) was used for particle extraction in the practical?",
+    "q_zh": "实践课中粒子提取所用的 box 尺寸（像素）是多少？",
+    "options": [
+     "128",
+     "512",
+     "1024",
+     "256"
+    ],
+    "correct": 3,
+    "a": "Particles were extracted with a 256-pixel box size.\n粒子以 256 像素的 box 尺寸提取。"
+   },
+   {
+    "id": "Quiz 9 - Image Processing Practicals (MCQ).md::4",
+    "type": "mcq",
+    "q_en": "What symmetry does β-galactosidase have?",
+    "q_zh": "β-半乳糖苷酶具有哪种对称性？",
+    "options": [
+     "D2",
+     "C2",
+     "C3",
+     "I（二十面体）"
+    ],
+    "correct": 0,
+    "a": "β-galactosidase has D2 symmetry.\nβ-半乳糖苷酶具有 D2 对称性。"
+   },
+   {
+    "id": "Quiz 9 - Image Processing Practicals (MCQ).md::5",
+    "type": "mcq",
+    "q_en": "Which orientation-assignment criterion gives a probability to each orientation?",
+    "q_zh": "哪种取向分配准则会为每个取向赋予概率？",
+    "options": [
+     "Highest-CC（最高相关）",
+     "Maximum-likelihood（最大似然）",
+     "Projection matching（投影匹配）",
+     "CTF fitting（CTF 拟合）"
+    ],
+    "correct": 1,
+    "a": "Maximum-likelihood assigns a probability to every orientation, whereas highest-CC assigns only one.\n最大似然为每个取向赋予概率，而最高相关只分配一个取向。"
+   },
+   {
+    "id": "Quiz 9 - Image Processing Practicals (MCQ).md::6",
+    "type": "mcq",
+    "q_en": "Which Chimera command fixes the mirror-hand (handedness) problem?",
+    "q_zh": "哪个 Chimera 命令用于修正镜像手性（对映）问题？",
+    "options": [
+     "Fit in map（拟合进密度图）",
+     "Matchmaker（结构比对）",
+     "vop zflip（密度翻转）",
+     "Volume resample（体积重采样）"
+    ],
+    "correct": 2,
+    "a": "The command `vop zflip` flips the map to fix the mirror-hand problem.\n`vop zflip` 命令翻转密度图以修正镜像手性问题。"
+   },
+   {
+    "id": "Quiz 9 - Image Processing Practicals (MCQ).md::7",
+    "type": "mcq",
+    "q_en": "Sharpening compensates for which factor?",
+    "q_zh": "锐化（sharpening）补偿的是哪个因子？",
+    "options": [
+     "T（正则化参数）",
+     "R（分辨率）",
+     "Q（散射矢量）",
+     "B（B-factor）"
+    ],
+    "correct": 3,
+    "a": "Post-processing sharpening compensates the B-factor that dampens high-resolution amplitudes.\n后处理锐化补偿衰减高分辨率振幅的 B-factor。"
+   }
+  ]
+ },
+ {
+  "id": "iscb",
+  "name": "Quiz 0 - SEM EDX 3D EM [简答]",
+  "cards": [
+   {
+    "id": "Quiz 0 - SEM EDX 3D EM (Short Answer).md::0",
+    "type": "sa",
+    "q_en": "Why do secondary electrons give topographic contrast while backscattered electrons give compositional contrast?",
+    "q_zh": "为什么二次电子产生形貌衬度，而背散射电子产生成分衬度？",
+    "a": "SE are low-energy electrons whose yield depends on surface orientation and edges, so they reveal surface topography. BSE are high-energy electrons elastically scattered out of the sample, and their brightness reflects the average atomic number (Z), giving compositional contrast.\n二次电子是低能电子，其产额依赖表面取向与边缘，因此反映表面形貌。背散射电子是高能弹性散射电子，其亮度反映平均原子序数（Z），产生成分衬度。"
+   },
+   {
+    "id": "Quiz 0 - SEM EDX 3D EM (Short Answer).md::1",
+    "type": "sa",
+    "q_en": "How does EDX identify the elements present in a sample?",
+    "q_zh": "EDX 如何鉴定样品中的元素？",
+    "a": "EDX detects the characteristic X-rays emitted when inner-shell vacancies are filled by outer electrons. Because the energy of each characteristic X-ray is unique to each element (e.g. Ca Kα = 3.69 keV), the detected energies reveal the elemental composition.\nEDX 检测内层空位被外层电子填补时发出的特征 X 射线。由于每种特征 X 射线能量对每个元素唯一（如 Ca Kα = 3.69 keV），检测到的能量即可揭示元素组成。"
+   },
+   {
+    "id": "Quiz 0 - SEM EDX 3D EM (Short Answer).md::2",
+    "type": "sa",
+    "q_en": "Compare FIB/SEM and SBF-SEM in terms of volume covered and Z-resolution.",
+    "q_zh": "从覆盖体积与 Z 轴分辨率两方面比较 FIB/SEM 与 SBF-SEM。",
+    "a": "SBF-SEM covers a large volume but has lower Z-resolution (≈20–50 nm slices). FIB/SEM covers a smaller volume but achieves higher Z-resolution (≈5–10 nm slices).\nSBF-SEM 覆盖体积大但 Z 分辨率较低（约 20–50 nm 切片）；FIB/SEM 覆盖体积小但 Z 分辨率较高（约 5–10 nm 切片）。"
+   },
+   {
+    "id": "Quiz 0 - SEM EDX 3D EM (Short Answer).md::3",
+    "type": "sa",
+    "q_en": "What is the \"missing wedge\" artifact, and why does it arise in electron tomography?",
+    "q_zh": "什么是\"缺失楔\"伪影？它为什么出现在电子断层扫描中？",
+    "a": "The missing wedge is a resolution-limiting artifact caused by the limited tilt range (±60–70°), which leaves a wedge of Fourier space unsampled. This produces anisotropic resolution, degrading the reconstruction along the tilt axis.\n缺失楔是因倾斜范围受限（±60–70°）导致傅里叶空间中一块楔形区域未被采样而产生的分辨率限制伪影，使重构沿倾斜轴方向分辨率各向异性。"
+   },
+   {
+    "id": "Quiz 0 - SEM EDX 3D EM (Short Answer).md::4",
+    "type": "sa",
+    "q_en": "Why should heavy-metal staining be avoided before EDX analysis?",
+    "q_zh": "为什么 EDX 分析前应避免重金属染色？",
+    "a": "Heavy-metal stains such as osmium, uranium, and lead produce characteristic X-ray peaks that overlap with and interfere with the elements of interest in the sample. This contaminates the EDX spectrum and prevents accurate elemental identification.\n锇、铀、铅等重金属染色剂会产生特征 X 射线峰，与样品中待测元素的信号重叠并干扰，污染 EDX 能谱，妨碍准确的元素鉴定。"
+   }
+  ]
+ },
+ {
+  "id": "iscb",
+  "name": "Quiz 1 - TEM I Microscope and Image Formation [简答]",
+  "cards": [
+   {
+    "id": "Quiz 1 - TEM I Microscope and Image Formation (Short Answer).md::0",
+    "type": "sa",
+    "q_en": "Why does a higher accelerating voltage give a shorter electron wavelength, and how does this improve resolution?",
+    "q_zh": "为什么更高的加速电压会给出更短的电子波长？这如何提高分辨率？",
+    "a": "The electron wavelength is λ = h / √(2·mₑ·e·V), so a higher accelerating voltage V shortens the wavelength. Since resolution d ≈ 0.61 λ/NA, a shorter wavelength directly improves (decreases) the resolution limit.\n电子波长 λ = h / √(2·mₑ·e·V)，加速电压 V 越高波长越短。由于分辨率 d ≈ 0.61 λ/NA，更短的波长直接改善（降低）分辨率极限。"
+   },
+   {
+    "id": "Quiz 1 - TEM I Microscope and Image Formation (Short Answer).md::1",
+    "type": "sa",
+    "q_en": "Compare amplitude contrast and phase contrast.",
+    "q_zh": "比较振幅衬度与相位衬度。",
+    "a": "Amplitude contrast treats electrons as particles: thicker/denser regions scatter more electrons and appear darker, dominant in negative stain (~30%) but minor in cryo-EM (~7%). Phase contrast arises from wave interference, where scattered electrons are delayed in phase by π/2, and is predominant for thin biological samples in cryo-EM.\n振幅衬度把电子当作粒子：较厚/较致密区域散射更多电子而显得更暗，在负染色中占主导（约 30%），在冷冻电镜中占比小（约 7%）。相位衬度来自波的干涉，散射电子相位延迟 π/2，是冷冻电镜薄生物样品的主导衬度。"
+   },
+   {
+    "id": "Quiz 1 - TEM I Microscope and Image Formation (Short Answer).md::2",
+    "type": "sa",
+    "q_en": "Describe the low-dose strategy and its three modes.",
+    "q_zh": "描述低剂量策略及其三种模式。",
+    "a": "To avoid radiation damage, the low-dose strategy divides imaging into three modes: search mode (low magnification, weak beam, to locate the area), focus mode (high magnification but focused away from the area of interest, 2–4 µm away), and expose mode (high magnification, recording the picture with ~1 s exposure).\n为避免辐射损伤，低剂量策略将成像分为三种模式：搜索模式（低倍率、弱束流，用于定位区域）、聚焦模式（高倍率但在远离目标区 2–4 µm 处聚焦）、曝光模式（高倍率、约 1 秒曝光记录图像）。"
+   },
+   {
+    "id": "Quiz 1 - TEM I Microscope and Image Formation (Short Answer).md::3",
+    "type": "sa",
+    "q_en": "What is the CTF, and why do we collect images at several defoci?",
+    "q_zh": "什么是 CTF？为什么要在多个离焦量下收集图像？",
+    "a": "The CTF (contrast transfer function) translates phase fluctuations into amplitude modulation, and in Fourier space the recorded image equals the real image multiplied by its CTF. Because each image lacks information at certain frequencies (where the CTF crosses zero), we collect at several defoci to fill all frequencies.\nCTF（衬度传递函数）把相位波动转化为振幅调制；在傅里叶空间中，记录图像等于真实图像乘以 CTF。由于每张图像在 CTF 过零处缺失某些频率信息，因此需要在多个离焦量下收集以填补所有频率。"
+   },
+   {
+    "id": "Quiz 1 - TEM I Microscope and Image Formation (Short Answer).md::4",
+    "type": "sa",
+    "q_en": "Compare negative staining and cryo-EM in terms of contrast, artifacts, and resolution.",
+    "q_zh": "从衬度、伪影和分辨率三方面比较负染色与冷冻电镜。",
+    "a": "Negative staining gives high contrast and makes small proteins visible, but resolution is limited to ~15 Å and it introduces artifacts such as flattening and drying. Cryo-EM preserves the native hydrated state via vitrification (amorphous ice) and can reach atomic resolution, but has low contrast and is highly sensitive to radiation damage.\n负染色衬度高、可观察小蛋白，但分辨率限于约 15 Å，且引入压扁、干燥等伪影。冷冻电镜通过玻璃化（无定形冰）保存天然含水状态，可达到原子分辨率，但衬度低且对辐射损伤高度敏感。"
+   }
+  ]
+ },
+ {
+  "id": "iscb",
+  "name": "Quiz 2 - TEM II Single Particle Workflow [简答]",
+  "cards": [
+   {
+    "id": "Quiz 2 - TEM II Single Particle Workflow (Short Answer).md::0",
+    "type": "sa",
+    "q_en": "Why is the problem of cryo-EM structure determination \"ill-posed\"?",
+    "q_zh": "为什么冷冻电镜结构测定是一个\"不适定\"（ill-posed）问题？",
+    "a": "Cryo-EM structure determination is ill-posed because the images have very low signal-to-noise ratio and each 2D projection does not uniquely determine the 3D object. The orientation (Euler angles) of each particle is unknown, so the reconstruction must be solved simultaneously with the orientations.\n冷冻电镜结构测定是不适定的，因为图像信噪比极低，且单张二维投影不能唯一确定三维物体。每个颗粒的取向（欧拉角）未知，因此重构必须与取向同时求解。"
+   },
+   {
+    "id": "Quiz 2 - TEM II Single Particle Workflow (Short Answer).md::1",
+    "type": "sa",
+    "q_en": "Describe the three steps of particle picking.",
+    "q_zh": "描述颗粒挑选（particle picking）的三个步骤。",
+    "a": "The three steps are: manual picking (selecting particles by hand), automatic picking (using software such as Gautomatch, Topaz, Boxnet, or CrYOLO), and cleaning (removing false positives to keep good particles).\n三个步骤是：手动挑选（手工选择颗粒）、自动挑选（用 Gautomatch、Topaz、Boxnet 或 CrYOLO 等软件）、清理（去除假阳性、保留好颗粒）。"
+   },
+   {
+    "id": "Quiz 2 - TEM II Single Particle Workflow (Short Answer).md::2",
+    "type": "sa",
+    "q_en": "Compare the highest-CC criterion and the maximum likelihood approach for orientation assignment.",
+    "q_zh": "比较最高互相关判据与最大似然方法在取向分配上的差异。",
+    "a": "The highest-CC criterion assigns one single orientation per image, choosing the projection with the best cross-correlation. Maximum likelihood assigns a probability to every orientation for each image, which gives cleaner references and a higher radius of convergence.\n最高互相关判据为每张图像分配唯一一个取向，选择互相关最高的投影。最大似然为每张图像的每个取向分配一个概率，从而得到更干净的参考和更高的收敛半径。"
+   },
+   {
+    "id": "Quiz 2 - TEM II Single Particle Workflow (Short Answer).md::3",
+    "type": "sa",
+    "q_en": "How does projection matching work (describe its steps)?",
+    "q_zh": "投影匹配如何工作（描述其步骤）？",
+    "a": "Projection matching compares each experimental image to all projections of the current 3D model and assigns the angles of the best-matching projection. The oriented images are then combined by back-projection to build a new 3D reconstruction, and the process is repeated until convergence.\n投影匹配把每张实验图像与当前三维模型的所有投影进行比较，分配最匹配投影的角度。定向后的图像再通过反投影合成新的三维重构，如此反复迭代直至收敛。"
+   },
+   {
+    "id": "Quiz 2 - TEM II Single Particle Workflow (Short Answer).md::4",
+    "type": "sa",
+    "q_en": "Explain the principle \"garbage in → garbage out\" in the context of dataset cleaning.",
+    "q_zh": "结合数据集清理，解释\"垃圾进 → 垃圾出\"这一原则。",
+    "a": "If the input images are of poor quality (contaminated, mis-picked, or low-contrast particles), the resulting 2D classes and 3D reconstruction will also be poor. Therefore, before proceeding to 3D, one must always check the quality of sample purification, EM data, and 2D class averages, and remove bad particles.\n若输入图像质量差（污染、误挑选或低衬度颗粒），得到的二维分类与三维重构质量也会很差。因此进入三维之前，必须检查样品纯化、电镜数据与二维类平均的质量，并剔除不良颗粒。"
+   }
+  ]
+ },
+ {
+  "id": "iscb",
+  "name": "Quiz 3 - Cryo-EM Data Processing [简答]",
+  "cards": [
+   {
+    "id": "Quiz 3 - Cryo-EM Data Processing (Short Answer).md::0",
+    "type": "sa",
+    "q_en": "What does it mean for a dataset to be heterogeneous, and what are the four concepts for handling it?",
+    "q_zh": "数据集\"异质\"（heterogeneous）意味着什么？处理它的四个概念是什么？",
+    "a": "A dataset is heterogeneous when the particles are in different conformational states, are flexible, or have different symmetries. The four concepts for handling heterogeneity are 3D classification, global vs local refinement, masking, and subtraction.\n当颗粒处于不同构象状态、具有柔性或具有不同对称性时，数据集就是异质的。处理异质性的四个概念是：三维分类、全局与局部精修、掩膜和减去。"
+   },
+   {
+    "id": "Quiz 3 - Cryo-EM Data Processing (Short Answer).md::1",
+    "type": "sa",
+    "q_en": "Compare global and local refinement — when is each used?",
+    "q_zh": "比较全局精修与局部精修——各自在何时使用？",
+    "a": "Global refinement searches the entire Euler sphere and is used at the start of the pipeline when orientations are unknown. Local refinement searches only around the already-correct angles and is used in the middle of the pipeline, especially in cases of masking or subtraction so the angles stay correct.\n全局精修搜索整个欧拉球，用于管线开始时取向未知的情况。局部精修只在已基本正确的角度附近搜索，用于管线中段，尤其在有掩膜或减去操作时以保持角度正确。"
+   },
+   {
+    "id": "Quiz 3 - Cryo-EM Data Processing (Short Answer).md::2",
+    "type": "sa",
+    "q_en": "How does the FSC determine resolution, and what is the gold-standard criterion?",
+    "q_zh": "FSC 如何确定分辨率？金标准判据是什么？",
+    "a": "FSC splits the dataset into two halves, reconstructs each independently, and compares the two half-maps in Fourier space shell by shell. Resolution is taken where the correlation drops to a criterion; the gold-standard criterion is FSC = 0.143.\nFSC 将数据集分成两半、分别重构，并在傅里叶空间中逐壳层比较两个半图。分辨率取相关性下降到判据处的值；金标准判据为 FSC = 0.143。"
+   },
+   {
+    "id": "Quiz 3 - Cryo-EM Data Processing (Short Answer).md::3",
+    "type": "sa",
+    "q_en": "What is the B-factor, and why do we sharpen the map?",
+    "q_zh": "什么是 B 因子？为什么要对密度图做锐化（sharpen）？",
+    "a": "The B-factor is an overall temperature factor that models the Gaussian amplitude decay of structure factors at high resolution, damping high-resolution contrast. Sharpening boosts (restores) these damped high-resolution features to improve map interpretability.\nB 因子是整体温度因子，模拟结构因子在高分辨率的振幅高斯衰减，抑制高分辨率衬度。锐化通过增强（恢复）这些被抑制的高分辨率特征来改善密度图的可解读性。"
+   },
+   {
+    "id": "Quiz 3 - Cryo-EM Data Processing (Short Answer).md::4",
+    "type": "sa",
+    "q_en": "How are masking and subtraction used to refine a flexible region?",
+    "q_zh": "如何使用掩膜与减去来精修一个柔性区域？",
+    "a": "Subtraction removes the rigid signal so that only the flexible part remains to be refined. A mask (either a global mask or a smaller local mask around the flexible region) is then applied to focus classification and refinement on that region, using masked 3D classification followed by masked local refinement.\n减去先移除刚性信号，使只剩柔性部分待精修。再施加掩膜（全局掩膜或围绕柔性区域的较小局部掩膜），通过带掩膜的三维分类和随后的带掩膜局部精修聚焦于该区域。"
+   }
+  ]
+ },
+ {
+  "id": "iscb",
+  "name": "Quiz 4 - TP Image Processing Theory [简答]",
+  "cards": [
+   {
+    "id": "Quiz 4 - TP Image Processing Theory (Short Answer).md::0",
+    "type": "sa",
+    "q_en": "What is the Nyquist sampling criterion, and what happens if it is violated?",
+    "q_zh": "什么是奈奎斯特采样准则？如果违反会发生什么？",
+    "a": "Correct sampling requires the sampling frequency to be at least twice the signal frequency (F_sampling ≥ 2 × F_signal). If violated, the signal is incorrectly sampled and high-frequency detail becomes aliased or uninterpretable.\n正确采样要求采样频率至少为信号频率的两倍（F_sampling ≥ 2 × F_signal）。若违反，信号被错误采样，高频细节会混叠或无法解析。"
+   },
+   {
+    "id": "Quiz 4 - TP Image Processing Theory (Short Answer).md::1",
+    "type": "sa",
+    "q_en": "What is the contrast transfer function (CTF) and why must we correct it?",
+    "q_zh": "什么是对比度传递函数（CTF）？为什么必须校正它？",
+    "a": "The CTF describes how defocus, spherical aberration and wavelength translate phase fluctuations into amplitude modulation in Fourier space. It oscillates with zero-crossings, so we correct it by phase-flipping the negative frequency bands to restore the signal.\nCTF 描述了离焦量、球差和波长如何在傅里叶空间把相位波动调制成振幅调制。它振荡且有过零点，因此通过翻转负频带的相位来校正以恢复信号。"
+   },
+   {
+    "id": "Quiz 4 - TP Image Processing Theory (Short Answer).md::2",
+    "type": "sa",
+    "q_en": "What is the difference between amplitude contrast and phase contrast?",
+    "q_zh": "振幅对比与相位对比有什么区别？",
+    "a": "Amplitude contrast treats electrons as particles and dominates in thick or stained samples (about 30% in negative stain). Phase contrast treats electrons as waves, is predominant for thin samples, and contributes only about 7% in cryo-EM.\n振幅对比把电子视为粒子，在厚样品或染色样品中占主导（负染色约 30%）。相位对比把电子视为波，在薄样品中占主导，在冷冻电镜中仅贡献约 7%。"
+   },
+   {
+    "id": "Quiz 4 - TP Image Processing Theory (Short Answer).md::3",
+    "type": "sa",
+    "q_en": "How does projection matching assign orientations, and how does maximum likelihood improve on it?",
+    "q_zh": "投影匹配如何确定方向？最大似然法又如何改进？",
+    "a": "Projection matching loops over all images, rotations, translations and projections, keeping the one with the highest cross-correlation. Maximum likelihood instead assigns a probability to every orientation, which avoids local minima and gives better convergence.\n投影匹配遍历所有图像、旋转、平移和投影，保留互相关最高的那个。最大似然法给每个方向赋予概率，避免局部极小并提高收敛性。"
+   },
+   {
+    "id": "Quiz 4 - TP Image Processing Theory (Short Answer).md::4",
+    "type": "sa",
+    "q_en": "What is the FSC, and how is it used to determine resolution?",
+    "q_zh": "什么是 FSC？如何用它确定分辨率？",
+    "a": "The Fourier shell correlation (FSC) compares two half-dataset reconstructions in Fourier space as a function of spatial frequency. Resolution is read where the FSC crosses the 0.143 \"gold-standard\" criterion.\n傅里叶壳层相关（FSC）在傅里叶空间比较两个半数据集重构随空间频率的相关性。分辨率在 FSC 穿过 0.143「金标准」处读取。"
+   }
+  ]
+ },
+ {
+  "id": "iscb",
+  "name": "Quiz 5 - Fluorescence Microscopy [简答]",
+  "cards": [
+   {
+    "id": "Quiz 5 - Fluorescence Microscopy (Short Answer).md::0",
+    "type": "sa",
+    "q_en": "Compare immunofluorescence and fluorescent-protein (FP) tagging. What are the key advantages of each?",
+    "q_zh": "比较免疫荧光与荧光蛋白（FP）标记，各有什么主要优点？",
+    "a": "Immunofluorescence uses primary and secondary antibodies to detect the endogenous protein without genetic modification, giving signal amplification. FP tagging fuses a fluorescent protein to the gene of interest, requiring no fixation or permeabilization and allowing live-cell imaging.\n免疫荧光用一抗和二抗检测内源蛋白，无需遗传改造，且有信号放大。FP 标记把荧光蛋白与目标基因融合，无需固定和透化，可进行活细胞成像。"
+   },
+   {
+    "id": "Quiz 5 - Fluorescence Microscopy (Short Answer).md::1",
+    "type": "sa",
+    "q_en": "Why are fixation and permeabilization a trade-off? Contrast precipitant and crosslinking fixatives.",
+    "q_zh": "为什么固定与透化是一种权衡？对比沉淀型与交联型固定剂。",
+    "a": "Fixation must preserve structure while keeping epitopes accessible. Precipitant fixatives (methanol/acetone) precipitate proteins and extract lipids but can distort structure; crosslinking fixatives (paraformaldehyde/glutaraldehyde) preserve 3D structure but crosslink and reduce antigenicity.\n固定既要保留结构又要保持表位可及。沉淀型固定剂（甲醇/丙酮）沉淀蛋白并提取脂质但可能破坏结构；交联型固定剂（多聚甲醛/戊二醛）保留三维结构但会交联并降低抗原性。"
+   },
+   {
+    "id": "Quiz 5 - Fluorescence Microscopy (Short Answer).md::2",
+    "type": "sa",
+    "q_en": "What is a nanobody and why is it useful for labelling?",
+    "q_zh": "什么是纳米抗体？为什么它在标记中有用？",
+    "a": "A nanobody is a heavy-chain-only antibody fragment of about 15 kDa containing only the variable (VHH) domain. Its small size gives better penetration and epitope access, and it can be produced in large amounts in E. coli.\n纳米抗体是约 15 kDa 的仅重链抗体片段，只含可变（VHH）结构域。尺寸小使其穿透性和表位可及性更好，且可在大肠杆菌中大量生产。"
+   },
+   {
+    "id": "Quiz 5 - Fluorescence Microscopy (Short Answer).md::3",
+    "type": "sa",
+    "q_en": "How does lipid-based transfection work, and how is stable expression obtained?",
+    "q_zh": "脂质体转染如何工作？如何获得稳定表达？",
+    "a": "Lipid reagents form a micelle around the DNA and polycations hide its negative charges so it can enter cells. Stable expression is obtained by selecting cells with antibiotics (e.g. puromycin or G418), often after lentiviral integration or CRISPR knock-in.\n脂质试剂在 DNA 周围形成胶束，多聚阳离子掩盖其负电荷以使其进入细胞。稳定表达通过抗生素（如嘌呤霉素或 G418）筛选细胞获得，常在慢病毒整合或 CRISPR 敲入后进行。"
+   },
+   {
+    "id": "Quiz 5 - Fluorescence Microscopy (Short Answer).md::4",
+    "type": "sa",
+    "q_en": "What is the role of blocking, and why must the serum species be chosen carefully?",
+    "q_zh": "封闭的作用是什么？为什么血清物种要谨慎选择？",
+    "a": "Blocking with BSA or serum prevents non-specific antibody binding. The serum must come from the same species as the secondary antibody; otherwise the secondary antibody would bind to the blocking serum itself.\n用 BSA 或血清封闭可防止抗体非特异性结合。血清必须来自与二抗相同的物种，否则二抗会结合到封闭血清本身。"
+   }
+  ]
+ },
+ {
+  "id": "iscb",
+  "name": "Quiz 6 - Super-Resolution Microscopy [简答]",
+  "cards": [
+   {
+    "id": "Quiz 6 - Super-Resolution Microscopy (Short Answer).md::0",
+    "type": "sa",
+    "q_en": "What is the diffraction limit and how is it quantified?",
+    "q_zh": "什么是衍射极限？如何量化？",
+    "a": "The diffraction limit is the finest resolvable distance set by light diffraction, quantified by Δx = 1.22λ/(2NA). A point source images as an Airy disk (the PSF), and the best objectives (NA ≈ 1.45) give about 250 nm resolution in visible light.\n衍射极限是由光衍射决定的最小可分辨距离，用 Δx = 1.22λ/(2NA) 量化。点光源成像为艾里斑（PSF），最优物镜（NA≈1.45）在可见光下分辨率约 250 nm。"
+   },
+   {
+    "id": "Quiz 6 - Super-Resolution Microscopy (Short Answer).md::1",
+    "type": "sa",
+    "q_en": "Compare the STED and SMLM approaches to super-resolution.",
+    "q_zh": "比较 STED 与 SMLM 两种超分辨方法。",
+    "a": "STED is coordinate-targeted: a donut-shaped depletion beam suppresses emission everywhere except the center via the saturation effect. SMLM (PALM/STORM) is coordinate-stochastic: it activates a sparse subset of emitters and localizes single molecules one at a time.\nSTED 是坐标定向法：环形耗尽光束通过饱和效应只保留中心发射。SMLM（PALM/STORM）是坐标随机法：活化稀疏的发光子集并逐个定位单分子。"
+   },
+   {
+    "id": "Quiz 6 - Super-Resolution Microscopy (Short Answer).md::2",
+    "type": "sa",
+    "q_en": "What determines localization precision, and how can it be improved?",
+    "q_zh": "什么决定定位精度？如何提高？",
+    "a": "Localization precision σ = s/√N depends on the PSF width s and the number of detected photons N. It improves with brighter, photostable fluorophores and a high-NA objective that collects more photons.\n定位精度 σ = s/√N 取决于 PSF 宽度 s 和检测到的光子数 N。使用更亮、抗光漂白的荧光团和高数值孔径物镜收集更多光子可提高精度。"
+   },
+   {
+    "id": "Quiz 6 - Super-Resolution Microscopy (Short Answer).md::3",
+    "type": "sa",
+    "q_en": "What is dSTORM and how does it achieve single-molecule blinking?",
+    "q_zh": "什么是 dSTORM？它如何实现单分子闪烁？",
+    "a": "dSTORM uses strong illumination plus an oxygen-scavenging system and thiols to drive the vast majority of organic fluorophores into a long-lived dark state, so only sparse molecules emit at any moment and can be localized individually.\ndSTORM 用强光照加除氧系统和硫醇把绝大多数有机荧光团推入长寿命暗态，使任一时刻只有稀疏分子发光，从而逐个定位。"
+   },
+   {
+    "id": "Quiz 6 - Super-Resolution Microscopy (Short Answer).md::4",
+    "type": "sa",
+    "q_en": "Discuss the key trade-offs in super-resolution imaging, including label size.",
+    "q_zh": "讨论超分辨成像中的关键权衡，包括标记尺寸。",
+    "a": "There is always a trade-off between spatial resolution, temporal resolution and phototoxicity: STED is fast but needs very intense light, while SMLM reaches ~1–40 nm but takes seconds to minutes. Label size matters too — GFP is ~5 nm whereas an antibody Fab is >10 nm, and low-copy-number proteins give no structure.\n空间分辨率、时间分辨率和光毒性之间总有权衡：STED 快但需极强光，SMLM 可达 1–40 nm 但耗时数秒至数分钟。标记尺寸也很重要——GFP 约 5 nm 而抗体 Fab 大于 10 nm，低拷贝蛋白则无法形成结构。"
+   }
+  ]
+ },
+ {
+  "id": "iscb",
+  "name": "Quiz 7 - Fluorophores and Labeling [简答]",
+  "cards": [
+   {
+    "id": "Quiz 7 - Fluorophores and Labeling (Short Answer).md::0",
+    "type": "sa",
+    "q_en": "Define fluorescence quantum yield (Φ) and explain how non-radiative decay (knr) reduces it.",
+    "q_zh": "定义荧光量子产率（Φ），并解释非辐射衰变（knr）如何降低它。",
+    "a": "The quantum yield is the fraction of excited molecules that relax by emitting a photon, Φ = kr/(kr + knr). Increasing knr (internal conversion, intersystem crossing) adds non-radiative pathways, so fewer photons are emitted and Φ drops.\n量子产率是激发态分子以发光方式衰变的比例，Φ = kr/(kr + knr)。knr 增大（内转换、系间窜越）增加了非辐射途径，发出的光子变少，Φ 随之下降。"
+   },
+   {
+    "id": "Quiz 7 - Fluorophores and Labeling (Short Answer).md::1",
+    "type": "sa",
+    "q_en": "What is FRET and why is it described as a \"molecular ruler\"?",
+    "q_zh": "什么是 FRET？为什么它被称为\"分子尺\"？",
+    "a": "FRET is non-radiative energy transfer from an excited donor to a nearby acceptor, with efficiency E = 1/(1+(R/R₀)⁶). Because E depends steeply on the donor-acceptor distance, measuring E reports molecular distances on the ~2–10 nm scale.\nFRET 是激发态供体向邻近受体的非辐射能量转移，效率 E = 1/(1+(R/R₀)⁶)。由于 E 强烈依赖供体-受体距离，测量 E 即可读出约 2–10 nm 尺度的分子间距。"
+   },
+   {
+    "id": "Quiz 7 - Fluorophores and Labeling (Short Answer).md::2",
+    "type": "sa",
+    "q_en": "How is the GFP chromophore formed, and what step follows chromophore formation?",
+    "q_zh": "GFP 生色团是如何形成的？生色团形成之后还需什么步骤？",
+    "a": "The GFP chromophore forms autocatalytically from three residues (Ser-Tyr-Gly) without any enzyme. Folding must then be followed by maturation for the chromophore to become fluorescent.\nGFP 生色团由三个残基（Ser-Tyr-Gly）自催化形成，无需酶参与。折叠之后还必须经过成熟步骤，生色团才会发荧光。"
+   },
+   {
+    "id": "Quiz 7 - Fluorophores and Labeling (Short Answer).md::3",
+    "type": "sa",
+    "q_en": "Name the three labeling families and give one example of each.",
+    "q_zh": "说出三种标记方法家族，并各举一例。",
+    "a": "Genetic labeling (fluorescent proteins such as GFP), chemical labeling (click chemistry, affinity/self-labeling tags such as SNAP-tag), and immuno/natural labeling (antibodies, nanobodies, aptamers).\n遗传标记（如 GFP 等荧光蛋白）、化学标记（点击化学、SNAP-tag 等亲和/自标记标签）、免疫/天然标记（抗体、纳米抗体、适配体）。"
+   },
+   {
+    "id": "Quiz 7 - Fluorophores and Labeling (Short Answer).md::4",
+    "type": "sa",
+    "q_en": "Compare the main advantages and drawbacks of organic dyes versus fluorescent proteins.",
+    "q_zh": "比较有机染料与荧光蛋白的主要优缺点。",
+    "a": "Organic dyes offer a high photon budget and high photostability but may show non-specific binding and generate ROS. FPs give live-cell compatibility and stoichiometric labeling by genome editing, but have limited brightness, slow maturation and can perturb function.\n有机染料光子预算高、光稳定性好，但可能非特异性结合并产生 ROS；荧光蛋白适合活细胞、可通过基因组编辑实现化学计量标记，但亮度有限、成熟慢且可能干扰功能。"
+   }
+  ]
+ },
+ {
+  "id": "iscb",
+  "name": "Quiz 8 - SAXS and SANS [简答]",
+  "cards": [
+   {
+    "id": "Quiz 8 - SAXS and SANS (Short Answer).md::0",
+    "type": "sa",
+    "q_en": "What is plotted in a Guinier plot, and what do the slope and intercept give?",
+    "q_zh": "Guinier 图的坐标是什么？斜率和截距分别给出什么？",
+    "a": "ln[I(Q)] is plotted versus Q². The slope gives −Rg²/3 (hence the radius of gyration) and the intercept gives ln[I(0)].\n以 ln[I(Q)] 对 Q² 作图。斜率给出 −Rg²/3（从而得到回转半径），截距给出 ln[I(0)]。"
+   },
+   {
+    "id": "Quiz 8 - SAXS and SANS (Short Answer).md::1",
+    "type": "sa",
+    "q_en": "What is the distance distribution function p(r) and what does its maximum extent (Dmax) mean?",
+    "q_zh": "距离分布函数 p(r) 是什么？其最大延伸 Dmax 有何含义？",
+    "a": "p(r) = r² γ(r) is the histogram of all inter-atomic distance pairs weighted by scattering. It is zero beyond Dmax, the largest distance in the particle, which reports the particle's maximum dimension.\np(r) = r² γ(r) 是所有原子间距离对的加权直方图。它在 Dmax 之外为零，Dmax 是颗粒内最大距离，反映颗粒的最大尺寸。"
+   },
+   {
+    "id": "Quiz 8 - SAXS and SANS (Short Answer).md::2",
+    "type": "sa",
+    "q_en": "Explain contrast variation in SANS and why the D₂O/H₂O ratio is the key control.",
+    "q_zh": "解释 SANS 中的对比度变化，以及为什么 D₂O/H₂O 比例是关键控制手段。",
+    "a": "Contrast variation changes the solvent scattering-length density to match one component, making it invisible. Because H and D have very different neutron scattering lengths, the D2O/H2O ratio tunes the solvent density continuously.\n对比度变化通过改变溶剂散射长度密度来匹配某一组分，使其隐形。由于 H 与 D 的中子散射长度差异很大，D₂O/H₂O 比例可连续调节溶剂密度。"
+   },
+   {
+    "id": "Quiz 8 - SAXS and SANS (Short Answer).md::3",
+    "type": "sa",
+    "q_en": "Compare SAXS and SANS in terms of sample volume, exposure time, and when each is preferred.",
+    "q_zh": "从样品体积、曝光时间以及适用场景三方面比较 SAXS 与 SANS。",
+    "a": "SAXS uses ~15 µL and 1–10 s exposure; SANS uses ~150 µL and 10–20 min. SAXS is preferred for homogeneous single-body systems and high throughput; SANS for complex systems (protein-DNA/RNA, membrane proteins) via contrast variation.\nSAXS 约需 15 µL、曝光 1–10 秒；SANS 约需 150 µL、曝光 10–20 分钟。均一单组分体系和高通量优先选 SAXS；复杂体系（蛋白-DNA/RNA、膜蛋白）借助对比度变化选 SANS。"
+   },
+   {
+    "id": "Quiz 8 - SAXS and SANS (Short Answer).md::4",
+    "type": "sa",
+    "q_en": "Why are neutrons only available at large national facilities, and what makes their scattering length isotope-dependent?",
+    "q_zh": "为什么中子只能在大科学装置获得？为何中子散射长度依赖同位素？",
+    "a": "Neutrons are produced by nuclear reactors or spallation sources, which are large national facilities. Neutrons scatter from the nucleus, so the scattering length depends on both the element and its isotope (e.g. H vs D).\n中子由核反应堆或散裂源产生，属于大型国家装置。中子与原子核散射，因此散射长度同时取决于元素及其同位素（如 H 与 D）。"
+   }
+  ]
+ },
+ {
+  "id": "iscb",
+  "name": "Quiz 9 - Image Processing Practicals [简答]",
+  "cards": [
+   {
+    "id": "Quiz 9 - Image Processing Practicals (Short Answer).md::0",
+    "type": "sa",
+    "q_en": "Explain the Nyquist frequency and how pixel size limits the achievable resolution.",
+    "q_zh": "解释奈奎斯特频率，以及像素尺寸如何限制可达到的分辨率。",
+    "a": "The Nyquist frequency is 1/(2 × pixel size), the highest spatial frequency the sampling can represent. To resolve detail d, the pixel size must be ≤ d/2 (e.g. ≤1.5 Å for 3 Å).\n奈奎斯特频率为 1/(2 × 像素尺寸)，是采样所能表示的最高空间频率。要分辨细节 d，像素尺寸须 ≤ d/2（如对 3 Å 须 ≤1.5 Å）。"
+   },
+   {
+    "id": "Quiz 9 - Image Processing Practicals (Short Answer).md::1",
+    "type": "sa",
+    "q_en": "Why does dose-weighting down-weight the late movie frames?",
+    "q_zh": "为什么剂量加权会降低后期帧的权重？",
+    "a": "Late frames have accumulated more electron dose and are therefore more radiation-damaged, with less reliable high-resolution signal. Down-weighting them preserves the best information for the reconstruction.\n后期帧累积了更多电子剂量，辐射损伤更重，高分辨率信号更不可靠。降低其权重可为重构保留最佳信息。"
+   },
+   {
+    "id": "Quiz 9 - Image Processing Practicals (Short Answer).md::2",
+    "type": "sa",
+    "q_en": "What is the purpose of 2D classification and what does the regularization parameter T do?",
+    "q_zh": "2D 分类的目的是什么？正则化参数 T 起什么作用？",
+    "a": "2D classification averages noisy particles into class averages to separate good particles, conformations and junk. T balances the weight between the prior and the data in the Bayesian maximum-likelihood framework.\n2D 分类将含噪粒子平均成类平均图，以区分好粒子、不同构象与杂质。T 在贝叶斯最大似然框架中权衡先验与数据之间的权重。"
+   },
+   {
+    "id": "Quiz 9 - Image Processing Practicals (Short Answer).md::3",
+    "type": "sa",
+    "q_en": "How is the resolution estimated from the two half maps?",
+    "q_zh": "如何利用两个 half map 估计分辨率？",
+    "a": "The data are split into two independent halves, each refined to a half map (half1 and half2). The Fourier Shell Correlation (FSC) between them is computed, and resolution is the frequency where FSC falls below a threshold (e.g. 0.143).\n数据分为两个独立半集，各自精修得到 half1 与 half2。计算两者之间的傅里叶壳层相关（FSC），分辨率取 FSC 降到阈值（如 0.143）处的频率。"
+   },
+   {
+    "id": "Quiz 9 - Image Processing Practicals (Short Answer).md::4",
+    "type": "sa",
+    "q_en": "Why is a soft mask preferred over a hard mask, and what artifact does a hard edge cause?",
+    "q_zh": "为什么优先使用软掩模而非硬掩模？硬边缘会造成什么伪影？",
+    "a": "A soft mask tapers the edge smoothly and avoids Fourier ringing (Gibbs/truncation) artifacts that a hard mask introduces at the sharp boundary.\n软掩模边缘平滑过渡，可避免硬掩模在锐利边界处引入的傅里叶振铃（吉布斯/截断）伪影。"
    }
   ]
  },
