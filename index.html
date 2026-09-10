@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="theme-color" content="#061b10">
+<title>M2 刷题站 · Quiz Deck</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+
+  <!-- ============ 首页：选科目 + 选 deck ============ -->
+  <div id="home">
+    <header class="topbar">
+      <div class="logo">▮ M2_QUIZ<span class="cursor">▍</span></div>
+      <button id="btn-wrong" class="ghost">✗ 错题本 <span id="wrong-count"></span></button>
+    </header>
+
+    <div class="stats">
+      <div class="stat"><span id="stat-total">0</span><label>总题数</label></div>
+      <div class="stat"><span id="stat-done">0</span><label>已刷</label></div>
+      <div class="stat"><span id="stat-mastered">0</span><label>掌握</label></div>
+    </div>
+
+    <div id="deck-list"></div>
+  </div>
+
+  <!-- ============ 刷题页 ============ -->
+  <div id="study" hidden>
+    <header class="topbar">
+      <button id="btn-back" class="ghost">‹ 返回</button>
+      <div class="deck-title" id="study-deck-name"></div>
+      <div class="counter" id="study-counter"></div>
+    </header>
+
+    <div class="progress"><div class="progress-fill" id="study-progress"></div></div>
+
+    <div class="card-wrap">
+      <div class="card" id="card">
+        <div class="card-tag" id="card-tag"></div>
+        <div class="card-face front">
+          <div class="q-en" id="q-en"></div>
+          <div class="q-zh" id="q-zh"></div>
+        </div>
+        <div class="card-face back">
+          <div class="a-text" id="a-text"></div>
+        </div>
+      </div>
+      <div class="hint" id="card-hint">点击卡片翻答案</div>
+    </div>
+
+    <div class="actions">
+      <button id="btn-again" class="act again" hidden>↻ 不会</button>
+      <button id="btn-know" class="act know" hidden>✓ 会了</button>
+    </div>
+  </div>
+
+  <!-- ============ 错题本 ============ -->
+  <div id="review" hidden>
+    <header class="topbar">
+      <button id="btn-back2" class="ghost">‹ 返回</button>
+      <div class="deck-title">错题本</div>
+      <div class="counter" id="review-counter"></div>
+    </header>
+    <div class="progress"><div class="progress-fill" id="review-progress"></div></div>
+    <div class="card-wrap">
+      <div class="card" id="card2">
+        <div class="card-tag" id="card2-tag"></div>
+        <div class="card-face front">
+          <div class="q-en" id="q2-en"></div>
+          <div class="q-zh" id="q2-zh"></div>
+        </div>
+        <div class="card-face back">
+          <div class="a-text" id="a2-text"></div>
+        </div>
+      </div>
+      <div class="hint">点击卡片翻答案</div>
+    </div>
+    <div class="actions">
+      <button id="btn-again2" class="act again" hidden>↻ 还不会</button>
+      <button id="btn-know2" class="act know" hidden>✓ 会了</button>
+    </div>
+  </div>
+
+</div>
+<script src="app.js"></script>
+</body>
+</html>
