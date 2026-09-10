@@ -1554,6 +1554,3876 @@
   ]
  },
  {
+  "id": "sdbm",
+  "name": "Quiz 1 - Introduction",
+  "cards": [
+   {
+    "id": "Quiz 1 - Introduction.md::0",
+    "q_en": "The underlying principle of function is [          ] (term).",
+    "q_zh": "",
+    "a": "structure"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::1",
+    "q_en": "In diffraction experiments, the resolution limit is [          ] (formula).",
+    "q_zh": "",
+    "a": "λ/2"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::2",
+    "q_en": "To see atoms (~1 Å), you need [          ] radiation (term).",
+    "q_zh": "",
+    "a": "X-ray"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::3",
+    "q_en": "The Larmor frequency is ω = [          ] (formula).",
+    "q_zh": "",
+    "a": "γ × B₀"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::4",
+    "q_en": "The structural-study size limit of NMR is ≤ [          ] kDa (number).",
+    "q_zh": "",
+    "a": "40"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::5",
+    "q_en": "NMR requires isotopic labeling with [          ], [          ], and [          ] (three isotopes).",
+    "q_zh": "",
+    "a": "¹⁵N; ¹³C; ²H"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::6",
+    "q_en": "The four levels of protein structure are [          ], [          ], [          ], and [          ] (four terms).",
+    "q_zh": "",
+    "a": "primary; secondary; tertiary; quaternary"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::7",
+    "q_en": "Structural biology combines molecular biology, [          ] and [          ] (two terms).",
+    "q_zh": "",
+    "a": "biochemistry; biophysics"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::8",
+    "q_en": "Proteins (1–50 nm) are too small for [          ] light (term).",
+    "q_zh": "",
+    "a": "visible"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::9",
+    "q_en": "NMR exploits the interaction of nuclear [          ] with an external magnetic field B₀ (term).",
+    "q_zh": "",
+    "a": "spins"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::10",
+    "q_en": "NMR energy differences are expressed as [          ] frequency (term).",
+    "q_zh": "",
+    "a": "radio"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::11",
+    "q_en": "Nuclei with spin: ¹H, ¹³C, [          ], and ³¹P (isotope).",
+    "q_zh": "",
+    "a": "¹⁵N"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::12",
+    "q_en": "Selenomethionine (SeMet) is used for [          ] phasing (acronym).",
+    "q_zh": "",
+    "a": "MAD"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::13",
+    "q_en": "Misfolded proteins can aggregate into [          ] fibrils, linked to neurodegenerative disease (term).",
+    "q_zh": "",
+    "a": "amyloid"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::14",
+    "q_en": "X-ray crystallography's main bottlenecks are [          ] and [          ] (two terms).",
+    "q_zh": "",
+    "a": "crystallization; phasing"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::15",
+    "q_en": "NMR's main bottlenecks are [          ] limit and [          ] labeling (two terms).",
+    "q_zh": "",
+    "a": "molecular mass; isotopic"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::16",
+    "q_en": "The NMR pipeline ends with a structural [          ] rather than a single model (term).",
+    "q_zh": "",
+    "a": "ensemble"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::17",
+    "q_en": "SeMet is incorporated by blocking [          ] biosynthesis with high Ile/Lys/Thr (term).",
+    "q_zh": "",
+    "a": "methionine"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::18",
+    "q_en": "NMR isotopic labeling uses ¹³C-[          ] and ¹⁵N[          ] (two compounds).",
+    "q_zh": "",
+    "a": "glucose; NH₄Cl"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::19",
+    "q_en": "Deuteration is achieved via heavy water [          ] (formula).",
+    "q_zh": "",
+    "a": "D₂O"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::20",
+    "q_en": "The X-ray pipeline: crystal → diffraction → [          ] density map → atomic model (term).",
+    "q_zh": "",
+    "a": "electron"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::21",
+    "q_en": "X-ray crystallography requires a protein [          ] (term).",
+    "q_zh": "",
+    "a": "crystal"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::22",
+    "q_en": "NMR requires a concentrated protein solution of ≥ [          ] µL and ≥ [          ] mM (two numbers).",
+    "q_zh": "",
+    "a": "200; 0.1"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::23",
+    "q_en": "The pET expression system uses the host E. coli [          ] (strain name).",
+    "q_zh": "",
+    "a": "BL21(DE3)"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::24",
+    "q_en": "Inducible promoters include pT7, [          ], and lac (term).",
+    "q_zh": "",
+    "a": "pBAD"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::25",
+    "q_en": "The T7 RNA polymerase gene is under the [          ] promoter control (term).",
+    "q_zh": "",
+    "a": "lac"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::26",
+    "q_en": "Recombinant expression workflow: clone → vector → transform → induce → [          ] → QC (term).",
+    "q_zh": "",
+    "a": "purify"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::27",
+    "q_en": "Cell-free synthesis uses [          ] RNA polymerase and E. coli lysate (term).",
+    "q_zh": "",
+    "a": "T7"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::28",
+    "q_en": "Native source rarely has enough protein → use [          ] expression (term).",
+    "q_zh": "",
+    "a": "recombinant"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::29",
+    "q_en": "SDS-PAGE gives quantity, purity, and [          ] (term).",
+    "q_zh": "",
+    "a": "integrity"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::30",
+    "q_en": "Western blotting identifies proteins via [          ] (term).",
+    "q_zh": "",
+    "a": "antibodies"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::31",
+    "q_en": "Mass spectrometry principle: [          ] → separation by m/z → quantification (term).",
+    "q_zh": "",
+    "a": "ionization"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::32",
+    "q_en": "SEC-MALS light-scattering signal ∝ [          ] × concentration (term).",
+    "q_zh": "",
+    "a": "molar mass"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::33",
+    "q_en": "Thermal Shift Assay (TSA) measures relative [          ] (term).",
+    "q_zh": "",
+    "a": "stability"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::34",
+    "q_en": "The ¹H-¹⁵N HSQC is used to check the degree of [          ] of a protein (term).",
+    "q_zh": "",
+    "a": "structuration (folding)"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::35",
+    "q_en": "Expressed protein may misfold into [          ] bodies in the cytoplasm (term).",
+    "q_zh": "",
+    "a": "inclusion"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::36",
+    "q_en": "The goal of expression is a [          ] protein (adjective).",
+    "q_zh": "",
+    "a": "soluble"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::37",
+    "q_en": "N-terminal sequencing detects N-terminal Met [          ] and degradation (term).",
+    "q_zh": "",
+    "a": "cleavage"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::38",
+    "q_en": "Amino-acid analysis gives composition and the experimental [          ] coefficient (term).",
+    "q_zh": "",
+    "a": "extinction"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::39",
+    "q_en": "AUC sedimentation [          ] gives molecular mass (1–2%) and K_D (term).",
+    "q_zh": "",
+    "a": "equilibrium"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::40",
+    "q_en": "AUC sedimentation velocity gives [          ] and shape (term).",
+    "q_zh": "",
+    "a": "mass"
+   },
+   {
+    "id": "Quiz 1 - Introduction.md::41",
+    "q_en": "NMR QC: a well-folded protein gives [          ] (spread/narrow) resonances (term).",
+    "q_zh": "",
+    "a": "spread"
+   }
+  ]
+ },
+ {
+  "id": "sdbm",
+  "name": "Quiz 2 - Crystallogenesis",
+  "cards": [
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::0",
+    "q_en": "Crystals form through two key steps: [          ] and crystalline [          ] (two terms).",
+    "q_zh": "",
+    "a": "nucleation; growth"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::1",
+    "q_en": "In the [          ] zone, crystals grow but do not nucleate spontaneously (term).",
+    "q_zh": "",
+    "a": "metastable (supersaturation)"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::2",
+    "q_en": "In the [          ] zone, spontaneous nucleation occurs (term).",
+    "q_zh": "",
+    "a": "nucleation"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::3",
+    "q_en": "In the [          ] zone, protein precipitates as amorphous (not crystalline) material (term).",
+    "q_zh": "",
+    "a": "precipitation"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::4",
+    "q_en": "Vapor diffusion uses a [          ] drop or a [          ] drop (two terms).",
+    "q_zh": "",
+    "a": "hanging; sitting"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::5",
+    "q_en": "In vapor diffusion, water evaporates from the drop until [          ] pressure equilibrates (term).",
+    "q_zh": "",
+    "a": "vapor"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::6",
+    "q_en": "The goal is to briefly reach the nucleation zone, then drop back into the [          ] zone (term).",
+    "q_zh": "",
+    "a": "metastable (growth)"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::7",
+    "q_en": "The solubility of a protein depends on the [          ] concentration (term).",
+    "q_zh": "",
+    "a": "precipitant"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::8",
+    "q_en": "The zone where protein stays dissolved is the [          ] zone (term).",
+    "q_zh": "",
+    "a": "soluble (undersaturation)"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::9",
+    "q_en": "Crystallization depends on protein concentration, precipitant, [          ], and temperature (term).",
+    "q_zh": "",
+    "a": "pH"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::10",
+    "q_en": "The more parameters you account for, the more [          ] the phase diagram (term).",
+    "q_zh": "",
+    "a": "complex"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::11",
+    "q_en": "In a hanging drop, the droplet is [          ] (upright/inverted) over the reservoir.",
+    "q_zh": "",
+    "a": "inverted"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::12",
+    "q_en": "Water evaporates from the drop to the [          ] (term).",
+    "q_zh": "",
+    "a": "reservoir"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::13",
+    "q_en": "Systematic matrices cover the [          ] (largest/smallest) possibility (term).",
+    "q_zh": "",
+    "a": "largest"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::14",
+    "q_en": "Probabilistic matrices use a [          ] (larger/smaller) number of trials (term).",
+    "q_zh": "",
+    "a": "smaller"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::15",
+    "q_en": "Nucleation must be [          ] (slow/fast) to get a few large crystals (term).",
+    "q_zh": "",
+    "a": "slow"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::16",
+    "q_en": "The two most important precipitant factors are its [          ] and [          ] (two terms).",
+    "q_zh": "",
+    "a": "concentration; type"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::17",
+    "q_en": "Optimization screens systematically vary [          ] factors (number).",
+    "q_zh": "",
+    "a": "two"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::18",
+    "q_en": "Lysozyme is the standard [          ] example (term).",
+    "q_zh": "",
+    "a": "teaching (crystallization)"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::19",
+    "q_en": "A 24-well plate is used for the lysozyme [          ] screen (term).",
+    "q_zh": "",
+    "a": "24-well"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::20",
+    "q_en": "Amorphous precipitate is [          ] (ordered/disordered) material (term).",
+    "q_zh": "",
+    "a": "disordered"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::21",
+    "q_en": "In a hanging drop, mix [          ] µL protein + [          ] µL reservoir on a coverslip (two numbers).",
+    "q_zh": "",
+    "a": "2; 2"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::22",
+    "q_en": "The reservoir recipe uses Na-acetate buffer + [          ] + water to 1 mL (term).",
+    "q_zh": "",
+    "a": "NaCl"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::23",
+    "q_en": "Screen 1 (fixed pH 4.5) varies lysozyme concentration × [          ] concentration (term).",
+    "q_zh": "",
+    "a": "NaCl (salt)"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::24",
+    "q_en": "Screen 2 (fixed salt 1 M) varies lysozyme concentration × [          ] (term).",
+    "q_zh": "",
+    "a": "pH"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::25",
+    "q_en": "Optimization of initial hits varies pH, [          ], and protein concentration (term).",
+    "q_zh": "",
+    "a": "salt"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::26",
+    "q_en": "Try conditions that already [          ] other proteins (verb).",
+    "q_zh": "",
+    "a": "crystallized"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::27",
+    "q_en": "The drop is sealed over the reservoir with [          ] (term).",
+    "q_zh": "",
+    "a": "grease"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::28",
+    "q_en": "Screen 1 lysozyme concentrations: 10/25/50/[          ] mg/mL (number).",
+    "q_zh": "",
+    "a": "80"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::29",
+    "q_en": "Screen 1 NaCl range: 0.5–[          ] M (number).",
+    "q_zh": "",
+    "a": "3.0"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::30",
+    "q_en": "Screen 2 pH range: 3.5–[          ] (number).",
+    "q_zh": "",
+    "a": "6.0"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::31",
+    "q_en": "Screen 2 lysozyme concentrations: 30/40/60/[          ] mg/mL (number).",
+    "q_zh": "",
+    "a": "80"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::32",
+    "q_en": "Each reservoir well = 100 µL buffer + NaCl 5 M + water to [          ] mL (number).",
+    "q_zh": "",
+    "a": "1"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::33",
+    "q_en": "Vapor diffusion is the [          ] (most/least) common crystallization method (term).",
+    "q_zh": "",
+    "a": "most"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::34",
+    "q_en": "Grease seals the drop chamber to allow slow [          ] (term).",
+    "q_zh": "",
+    "a": "evaporation (equilibration)"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::35",
+    "q_en": "The phase diagram plots [          ] vs precipitant concentration (term).",
+    "q_zh": "",
+    "a": "solubility"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::36",
+    "q_en": "To grow large crystals, we want [          ] (few/many) nuclei (term).",
+    "q_zh": "",
+    "a": "few"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::37",
+    "q_en": "A precipitant that causes amorphous precipitation is too [          ] (high/low) in concentration (term).",
+    "q_zh": "",
+    "a": "high"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::38",
+    "q_en": "Additives, substrates, and [          ] are additional factors (term).",
+    "q_zh": "",
+    "a": "inhibitors"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::39",
+    "q_en": "Temperature is one of the [          ] factors of crystallization (term).",
+    "q_zh": "",
+    "a": "key (important)"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::40",
+    "q_en": "The metastable zone is also called the [          ] zone (term).",
+    "q_zh": "",
+    "a": "supersaturation"
+   },
+   {
+    "id": "Quiz 2 - Crystallogenesis.md::41",
+    "q_en": "Crystals are ordered, while precipitates are [          ] (term).",
+    "q_zh": "",
+    "a": "amorphous"
+   }
+  ]
+ },
+ {
+  "id": "sdbm",
+  "name": "Quiz 3 - Crystal Symmetry and Space Groups",
+  "cards": [
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::0",
+    "q_en": "A crystal is a periodic arrangement of a particle built by repeating the [          ] by simple translations (term).",
+    "q_zh": "",
+    "a": "unit cell"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::1",
+    "q_en": "The hierarchy is: particle → [          ] → unit cell → crystal lattice (term).",
+    "q_zh": "",
+    "a": "motif"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::2",
+    "q_en": "The smallest volume from which the unit cell can be built by symmetry is the [          ] unit (term).",
+    "q_zh": "",
+    "a": "asymmetric"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::3",
+    "q_en": "There are [          ] Bravais lattices (number).",
+    "q_zh": "",
+    "a": "14"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::4",
+    "q_en": "There are [          ] space groups in total (number).",
+    "q_zh": "",
+    "a": "230"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::5",
+    "q_en": "Of these, only [          ] are possible for macromolecules (number).",
+    "q_zh": "",
+    "a": "65"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::6",
+    "q_en": "For chiral molecules, the only allowed symmetries are [          ] and [          ] (two terms).",
+    "q_zh": "",
+    "a": "rotations; screw axes"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::7",
+    "q_en": "A lattice vector r = u·a + v·b + w·c, where u, v, w are [          ] (term).",
+    "q_zh": "",
+    "a": "integers"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::8",
+    "q_en": "Translation by a lattice vector gives the [          ] (same/different) environment.",
+    "q_zh": "",
+    "a": "same"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::9",
+    "q_en": "The three coordinate systems are orthogonal (Å), [          ] (a,b,c), and reciprocal (term).",
+    "q_zh": "",
+    "a": "fractional"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::10",
+    "q_en": "Mirrors, glide planes and inversions are [          ] (allowed/forbidden) for chiral macromolecules.",
+    "q_zh": "",
+    "a": "forbidden"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::11",
+    "q_en": "Screw axis n_m = n-fold rotation + translation by [          ] of the unit cell (fraction).",
+    "q_zh": "",
+    "a": "m/n"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::12",
+    "q_en": "Enantiomeric screw axes are 3₁↔[          ], 6₁↔[          ], and 6₂↔[          ] (three pairs).",
+    "q_zh": "",
+    "a": "3₂; 6₅; 6₄"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::13",
+    "q_en": "Hermann-Mauguin symbols are standard in [          ] (term).",
+    "q_zh": "",
+    "a": "crystallography"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::14",
+    "q_en": "A particle can contain one or several [          ] (term).",
+    "q_zh": "",
+    "a": "molecules"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::15",
+    "q_en": "The motif can be generated by [          ] operations such as a 2-fold axis (term).",
+    "q_zh": "",
+    "a": "symmetry"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::16",
+    "q_en": "Fractional coordinates are relative to the [          ] vectors (term).",
+    "q_zh": "",
+    "a": "unit cell"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::17",
+    "q_en": "Reciprocal lattice (a*,b*,c*) is used in [          ] experiments (term).",
+    "q_zh": "",
+    "a": "diffraction"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::18",
+    "q_en": "For small molecules, the motif can be [          ] (less/more) than one molecule.",
+    "q_zh": "",
+    "a": "less"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::19",
+    "q_en": "Schoenflies calls an n-fold axis [          ] (e.g., C2, C3) (term).",
+    "q_zh": "",
+    "a": "Cn"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::20",
+    "q_en": "230 space groups come from 14 Bravais lattices + 32 point groups + [          ] symmetry (term).",
+    "q_zh": "",
+    "a": "translational (screw/glide)"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::21",
+    "q_en": "To determine a structure, you must use deposited crystallographic [          ] and read publications (term).",
+    "q_zh": "",
+    "a": "information"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::22",
+    "q_en": "A 2₁ screw axis means 2-fold rotation + translation by [          ] of the cell (fraction).",
+    "q_zh": "",
+    "a": "1/2"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::23",
+    "q_en": "A 3₁ screw axis means translation by [          ] of the cell (fraction).",
+    "q_zh": "",
+    "a": "1/3"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::24",
+    "q_en": "A 4₂ screw axis means translation by [          ] of the cell (fraction).",
+    "q_zh": "",
+    "a": "1/2"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::25",
+    "q_en": "The P2 origin is placed on the [          ] axis (term).",
+    "q_zh": "",
+    "a": "2-fold"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::26",
+    "q_en": "The P2₁2₁2₁ origin is at the midpoint of 3 perpendicular [          ] axes (term).",
+    "q_zh": "",
+    "a": "screw (2₁)"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::27",
+    "q_en": "Molecules from different [          ] choices will NOT superpose (term).",
+    "q_zh": "",
+    "a": "origin"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::28",
+    "q_en": "The International Tables list all [          ] space groups (number).",
+    "q_zh": "",
+    "a": "230"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::29",
+    "q_en": "Each ITA entry gives space-group number, crystal class, [          ], operators, and origin (term).",
+    "q_zh": "",
+    "a": "crystal system"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::30",
+    "q_en": "Direct comparison of PDB entries is not always possible even with the same cell and [          ] (term).",
+    "q_zh": "",
+    "a": "space group"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::31",
+    "q_en": "1840 Hünefeld obtained the first protein crystals of [          ] (term).",
+    "q_zh": "",
+    "a": "hemoglobin"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::32",
+    "q_en": "1912 von Laue discovered X-ray [          ] by crystals (term).",
+    "q_zh": "",
+    "a": "diffraction"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::33",
+    "q_en": "1953 saw the [          ] replacement method (term).",
+    "q_zh": "",
+    "a": "isomorphous"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::34",
+    "q_en": "The 1962 Nobel was awarded to Perutz and [          ] (name).",
+    "q_zh": "",
+    "a": "Kendrew"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::35",
+    "q_en": "Protein crystals have cell dimensions of [          ] to [          ] Å (two numbers).",
+    "q_zh": "",
+    "a": "50; 500"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::36",
+    "q_en": "Salt crystals have cell dimensions of [          ] to [          ] Å (two numbers).",
+    "q_zh": "",
+    "a": "1; 10"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::37",
+    "q_en": "The 2020 breakthrough in structure prediction was [          ] (name).",
+    "q_zh": "",
+    "a": "AlphaFold 2"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::38",
+    "q_en": "The 2009 Nobel (ribosome) went to Ramakrishnan, Steitz, and [          ] (name).",
+    "q_zh": "",
+    "a": "Yonath"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::39",
+    "q_en": "Dorothy Hodgkin solved the structure of [          ] (1955) and insulin (name).",
+    "q_zh": "",
+    "a": "vitamin B12"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::40",
+    "q_en": "Enantiomeric space groups differ only in [          ] (term).",
+    "q_zh": "",
+    "a": "handedness"
+   },
+   {
+    "id": "Quiz 3 - Crystal Symmetry and Space Groups.md::41",
+    "q_en": "A crystal contact may [          ] (deform/not deform) a loop (term).",
+    "q_zh": "",
+    "a": "deform"
+   }
+  ]
+ },
+ {
+  "id": "sdbm",
+  "name": "Quiz 4 - X-ray Diffraction and Bragg's Law",
+  "cards": [
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::0",
+    "q_en": "X-rays used in protein crystallography have wavelength [          ] to [          ] Å (two numbers).",
+    "q_zh": "",
+    "a": "0.5; 2.0"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::1",
+    "q_en": "Thomson scattering is [          ] and coherent (term).",
+    "q_zh": "",
+    "a": "elastic"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::2",
+    "q_en": "Scattering by nuclei is [          ] (negligible/dominant) because their mass is >1000× the electron mass.",
+    "q_zh": "",
+    "a": "negligible"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::3",
+    "q_en": "de Broglie wavelength: λ = [          ] (formula).",
+    "q_zh": "",
+    "a": "h/p (h/mv)"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::4",
+    "q_en": "The scattering vector is |u| = [          ] (formula).",
+    "q_zh": "",
+    "a": "2 sinθ/λ"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::5",
+    "q_en": "The structure factor is F = [          ] + iB (term).",
+    "q_zh": "",
+    "a": "A"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::6",
+    "q_en": "Scattered intensity I ≈ [          ] (formula).",
+    "q_zh": "",
+    "a": "|F(u)|²"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::7",
+    "q_en": "Bragg's law is [          ] (formula).",
+    "q_zh": "",
+    "a": "nλ = 2d sinθ"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::8",
+    "q_en": "In Bragg's law, d is the distance between lattice [          ] (term).",
+    "q_zh": "",
+    "a": "planes"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::9",
+    "q_en": "In Bragg's law, 2θ is the [          ] angle (term).",
+    "q_zh": "",
+    "a": "scattering"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::10",
+    "q_en": "Miller indices are [          ] (relative prime/integrate order n).",
+    "q_zh": "",
+    "a": "relative prime"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::11",
+    "q_en": "Laue indices [          ] (include/omit) the order n.",
+    "q_zh": "",
+    "a": "include"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::12",
+    "q_en": "Each diffraction spot corresponds to a set of lattice planes for which [          ] condition is fulfilled (term).",
+    "q_zh": "",
+    "a": "Bragg's"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::13",
+    "q_en": "An index −1 is written as [          ] (notation).",
+    "q_zh": "",
+    "a": "1̄ (h̄)"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::14",
+    "q_en": "The amplitude is |F| = √(A² + [          ]) (term).",
+    "q_zh": "",
+    "a": "B²"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::15",
+    "q_en": "The phase satisfies tan φ = [          ] (formula).",
+    "q_zh": "",
+    "a": "B/A"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::16",
+    "q_en": "In a diffraction experiment, the phase information is [          ] (kept/lost).",
+    "q_zh": "",
+    "a": "lost"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::17",
+    "q_en": "Crystallography is all about recovering the [          ] (term).",
+    "q_zh": "",
+    "a": "phase"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::18",
+    "q_en": "The space group, unit cell and orientation define the spot [          ] (term).",
+    "q_zh": "",
+    "a": "positions"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::19",
+    "q_en": "The structure within the unit cell defines the spot [          ] (term).",
+    "q_zh": "",
+    "a": "intensity"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::20",
+    "q_en": "Bragg's law earned the 1915 Nobel Prize in [          ] (field).",
+    "q_zh": "",
+    "a": "Physics"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::21",
+    "q_en": "To determine structure factor amplitude from a structure, calculate A = Σ f·cos(α) and B = Σ f·[          ] (term).",
+    "q_zh": "",
+    "a": "sin(α)"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::22",
+    "q_en": "A 3D Fourier transform replaces the discrete sum: A(u) = ∫ ρ(x)·cos(2π u·[          ]) dV (term).",
+    "q_zh": "",
+    "a": "x"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::23",
+    "q_en": "Lattice planes are identified by [          ] indices (hkl) (term).",
+    "q_zh": "",
+    "a": "Miller"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::24",
+    "q_en": "Typical interplanar distances d range from 0.01 to [          ] nm (number).",
+    "q_zh": "",
+    "a": "100"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::25",
+    "q_en": "Structural studies use X-rays (0.01–0.1 nm), high-energy electrons, and [          ] neutrons (term).",
+    "q_zh": "",
+    "a": "thermal"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::26",
+    "q_en": "Miller (111) with order n=5 becomes Laue [          ] (term).",
+    "q_zh": "",
+    "a": "555"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::27",
+    "q_en": "Bragg's law uses Miller indices + order n; the reciprocal lattice uses [          ] indices (term).",
+    "q_zh": "",
+    "a": "Laue"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::28",
+    "q_en": "Bragg's law derivation: constructive interference when 2d sinθ = [          ] (formula).",
+    "q_zh": "",
+    "a": "nλ"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::29",
+    "q_en": "The phase difference between waves reflected by two neighboring planes is [          ] (formula).",
+    "q_zh": "",
+    "a": "2π"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::30",
+    "q_en": "Salt crystals have cell dimensions of [          ] to [          ] Å (two numbers).",
+    "q_zh": "",
+    "a": "1; 10"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::31",
+    "q_en": "Protein crystals have cell dimensions of [          ] to [          ] Å (two numbers).",
+    "q_zh": "",
+    "a": "50; 500"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::32",
+    "q_en": "F can be represented as a complex number in an [          ] diagram (term).",
+    "q_zh": "",
+    "a": "Argand"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::33",
+    "q_en": "Electron density ρ(x) has units of [          ] (unit).",
+    "q_zh": "",
+    "a": "e⁻/Å³"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::34",
+    "q_en": "The wavelength must match the size of the smallest [          ] to be observed (term).",
+    "q_zh": "",
+    "a": "details (features)"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::35",
+    "q_en": "X-rays are generated by X-ray tubes, rotating anodes, and [          ] (term).",
+    "q_zh": "",
+    "a": "synchrotron"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::36",
+    "q_en": "A nitrogen stream keeps the crystal [          ] (term).",
+    "q_zh": "",
+    "a": "cold"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::37",
+    "q_en": "X-ray tube was developed in [          ] (year).",
+    "q_zh": "",
+    "a": "1896"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::38",
+    "q_en": "The rotating anode appeared in [          ] (year).",
+    "q_zh": "",
+    "a": "1960"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::39",
+    "q_en": "The synchrotron appeared in [          ] (year).",
+    "q_zh": "",
+    "a": "1994"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::40",
+    "q_en": "The structure factor F = A + iB, where A and B determine the [          ] and [          ] of the resulting wave (two terms).",
+    "q_zh": "",
+    "a": "amplitude; phase"
+   },
+   {
+    "id": "Quiz 4 - X-ray Diffraction and Bragg's Law.md::41",
+    "q_en": "αᵢ in the structure factor is αᵢ = 2π u·[          ] (term).",
+    "q_zh": "",
+    "a": "xᵢ"
+   }
+  ]
+ },
+ {
+  "id": "sdbm",
+  "name": "Quiz 5 - Reciprocal Space and Structure Factors",
+  "cards": [
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::0",
+    "q_en": "Any periodic function can be written as a sum of [          ] and [          ] harmonics (two terms).",
+    "q_zh": "",
+    "a": "cosine; sine"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::1",
+    "q_en": "A phenomenon f(x) transforms into a spectrum |F(u)| − [          ] (term).",
+    "q_zh": "",
+    "a": "φ(u)"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::2",
+    "q_en": "Reciprocal lattice vector u = h·a* + k·b* + [          ] (term).",
+    "q_zh": "",
+    "a": "l·c*"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::3",
+    "q_en": "a* = [          ] (formula).",
+    "q_zh": "",
+    "a": "(b × c)/V"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::4",
+    "q_en": "The reciprocal vector length equals the [          ] of the interplanar spacing (term).",
+    "q_zh": "",
+    "a": "inverse (reciprocal)"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::5",
+    "q_en": "The intensity I_hkl of a spot is determined by [          ] (formula).",
+    "q_zh": "",
+    "a": "|F_hkl|²"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::6",
+    "q_en": "The phase φ_hkl is [          ] (kept/lost).",
+    "q_zh": "",
+    "a": "lost"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::7",
+    "q_en": "Structure factor F(hkl) is the inverse [          ] of the electron density (term).",
+    "q_zh": "",
+    "a": "Fourier transform"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::8",
+    "q_en": "A(hkl) = ∫∫∫ ρ(x,y,z)·cos[2π(hx + ky + [          ])] dx dy dz (term).",
+    "q_zh": "",
+    "a": "lz"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::9",
+    "q_en": "h, k, l are the [          ] indices (term).",
+    "q_zh": "",
+    "a": "Laue"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::10",
+    "q_en": "x, y, z are the [          ] coordinates (term).",
+    "q_zh": "",
+    "a": "fractional"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::11",
+    "q_en": "We only observe diffraction when u is a [          ] lattice vector (term).",
+    "q_zh": "",
+    "a": "reciprocal"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::12",
+    "q_en": "Reciprocal lattice vectors are [          ] (parallel/perpendicular) to the lattice planes.",
+    "q_zh": "",
+    "a": "perpendicular"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::13",
+    "q_en": "|d*_hkl| = [          ] (formula).",
+    "q_zh": "",
+    "a": "1/d_hkl"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::14",
+    "q_en": "Fourier series are used in acoustics, image processing, and [          ] structure analysis (term).",
+    "q_zh": "",
+    "a": "crystallographic"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::15",
+    "q_en": "The structure factor amplitude |F| = √([          ]) (formula).",
+    "q_zh": "",
+    "a": "A² + B²"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::16",
+    "q_en": "tan φ = [          ] (formula).",
+    "q_zh": "",
+    "a": "B/A"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::17",
+    "q_en": "d and n of Bragg's law combine as d_hkl = [          ] (formula).",
+    "q_zh": "",
+    "a": "d/n"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::18",
+    "q_en": "Every spot is associated with a lattice plane and a [          ] lattice point (term).",
+    "q_zh": "",
+    "a": "reciprocal"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::19",
+    "q_en": "Large real-space cell → [          ] (large/small) reciprocal spacing (term).",
+    "q_zh": "",
+    "a": "small"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::20",
+    "q_en": "Protein crystals give [          ] (closely/widely) spaced diffraction spots (term).",
+    "q_zh": "",
+    "a": "closely"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::21",
+    "q_en": "To reconstruct electron density, calculate the Fourier [          ] of the structure factors (term).",
+    "q_zh": "",
+    "a": "sum (transform)"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::22",
+    "q_en": "A periodic electron density ρ(x) is described by amplitudes |F|(n) and phases [          ] (term).",
+    "q_zh": "",
+    "a": "φₙ"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::23",
+    "q_en": "For an orthogonal cell a=100, b=50, c=25 Å, a* = [          ] Å⁻¹ (number).",
+    "q_zh": "",
+    "a": "0.01"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::24",
+    "q_en": "For the same cell, b* = [          ] Å⁻¹ (number).",
+    "q_zh": "",
+    "a": "0.02"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::25",
+    "q_en": "For the same cell, c* = [          ] Å⁻¹ (number).",
+    "q_zh": "",
+    "a": "0.04"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::26",
+    "q_en": "V = [          ] cell volume (term).",
+    "q_zh": "",
+    "a": "unit"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::27",
+    "q_en": "Only scattering vectors where phase differences are multiples of [          ] are possible (formula).",
+    "q_zh": "",
+    "a": "2π"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::28",
+    "q_en": "The condition for diffraction is 2π u·(p·a + q·b + r·c) = [          ] (formula).",
+    "q_zh": "",
+    "a": "2π N"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::29",
+    "q_en": "p, q, r, N must be [          ] (term).",
+    "q_zh": "",
+    "a": "integers"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::30",
+    "q_en": "The crystal position x is described as x = x·a + y·b + [          ] (term).",
+    "q_zh": "",
+    "a": "z·c"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::31",
+    "q_en": "The unit cell contents are described by electron density [          ] (term).",
+    "q_zh": "",
+    "a": "ρ(x,y,z)"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::32",
+    "q_en": "Structure factors F(hkl) attach to each reciprocal lattice point [          ] (term).",
+    "q_zh": "",
+    "a": "(hkl)"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::33",
+    "q_en": "The structure factor is the inverse FT of the [          ] density (term).",
+    "q_zh": "",
+    "a": "electron"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::34",
+    "q_en": "I_hkl ∝ |F_hkl|²; the [          ] is lost (term).",
+    "q_zh": "",
+    "a": "phase"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::35",
+    "q_en": "Reciprocal vectors a*, b*, c* are related to the real vectors via the [          ] product (term).",
+    "q_zh": "",
+    "a": "cross"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::36",
+    "q_en": "The volume V of the unit cell appears in the [          ] of a* (term).",
+    "q_zh": "",
+    "a": "denominator"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::37",
+    "q_en": "a* = (b × c)/[          ] (term).",
+    "q_zh": "",
+    "a": "V"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::38",
+    "q_en": "The electron density is reconstructed by a Fourier [          ] (term).",
+    "q_zh": "",
+    "a": "sum (transform)"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::39",
+    "q_en": "The phases φₙ are needed alongside the [          ] (term).",
+    "q_zh": "",
+    "a": "amplitudes"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::40",
+    "q_en": "The scattering vector u corresponds to a [          ] frequency (term).",
+    "q_zh": "",
+    "a": "spatial"
+   },
+   {
+    "id": "Quiz 5 - Reciprocal Space and Structure Factors.md::41",
+    "q_en": "f = 1/A is the [          ] frequency (term).",
+    "q_zh": "",
+    "a": "fundamental (spatial)"
+   }
+  ]
+ },
+ {
+  "id": "sdbm",
+  "name": "Quiz 6 - X-ray Data Collection",
+  "cards": [
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::0",
+    "q_en": "The Ewald sphere has radius [          ] (formula).",
+    "q_zh": "",
+    "a": "1/λ"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::1",
+    "q_en": "A diffraction spot appears only when a reciprocal lattice point [          ] the Ewald sphere (verb).",
+    "q_zh": "",
+    "a": "touches"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::2",
+    "q_en": "The resolution cannot be better than [          ] (formula).",
+    "q_zh": "",
+    "a": "λ/2"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::3",
+    "q_en": "The resolution sphere has radius [          ] (formula).",
+    "q_zh": "",
+    "a": "1/D_max"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::4",
+    "q_en": "A full reflection is recorded [          ] (entirely/partially) on one image.",
+    "q_zh": "",
+    "a": "entirely"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::5",
+    "q_en": "Mosaicity reflects the crystal [          ] (term).",
+    "q_zh": "",
+    "a": "imperfection (macro-structure)"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::6",
+    "q_en": "Mosaicity [          ] (inflates/shrinks) the reciprocal lattice points (term).",
+    "q_zh": "",
+    "a": "inflates"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::7",
+    "q_en": "D_max = [          ] (term).",
+    "q_zh": "",
+    "a": "resolution"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::8",
+    "q_en": "High resolution means a [          ] (big/small) resolution sphere.",
+    "q_zh": "",
+    "a": "big"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::9",
+    "q_en": "A partial reflection is recorded across [          ] (one/two or more) images.",
+    "q_zh": "",
+    "a": "two or more"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::10",
+    "q_en": "Fine-sliced data samples spots in [          ] dimensions (number).",
+    "q_zh": "",
+    "a": "3"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::11",
+    "q_en": "The blind region is [          ] (accessible/inaccessible) with a single-axis rotation.",
+    "q_zh": "",
+    "a": "inaccessible"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::12",
+    "q_en": "Higher energy (shorter wavelength) → [          ] (smaller/larger) blind region.",
+    "q_zh": "",
+    "a": "smaller"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::13",
+    "q_en": "A 180° rotation covers nearly [          ] (all/none) of reciprocal space.",
+    "q_zh": "",
+    "a": "all"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::14",
+    "q_en": "Mosaicity makes spots [          ] (bigger/smaller) on the diffraction pattern.",
+    "q_zh": "",
+    "a": "bigger"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::15",
+    "q_en": "Mosaicity causes more [          ] reflections (term).",
+    "q_zh": "",
+    "a": "partial"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::16",
+    "q_en": "Mosaicity [          ] (dilutes/concentrates) the signal, lowering the signal/noise ratio.",
+    "q_zh": "",
+    "a": "dilutes"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::17",
+    "q_en": "At high resolution, spots can't be distinguished from [          ] (term).",
+    "q_zh": "",
+    "a": "background"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::18",
+    "q_en": "Friedel's law states I_hkl = [          ] (formula).",
+    "q_zh": "",
+    "a": "I_−h−k−l"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::19",
+    "q_en": "The diffraction pattern is always [          ] (centrosymmetric/non-centrosymmetric).",
+    "q_zh": "",
+    "a": "centrosymmetric"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::20",
+    "q_en": "The Laue class = point group + additional [          ] (term).",
+    "q_zh": "",
+    "a": "centrosymmetry"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::21",
+    "q_en": "The data pipeline: spot finding → [          ] → integration → scaling (term).",
+    "q_zh": "",
+    "a": "indexing"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::22",
+    "q_en": "Indexing determines cell parameters a,b,c,α,β,γ and crystal [          ] (term).",
+    "q_zh": "",
+    "a": "orientation"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::23",
+    "q_en": "Indexing uses about [          ] reflections on two images (number).",
+    "q_zh": "",
+    "a": "100"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::24",
+    "q_en": "Integration determines spot intensity as [          ] − background (term).",
+    "q_zh": "",
+    "a": "signal"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::25",
+    "q_en": "Scaling combines frames: I_hkl = Σᵢ [          ]·I_hkl,i (term).",
+    "q_zh": "",
+    "a": "aᵢ"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::26",
+    "q_en": "Structure factor amplitudes |F_hkl| are calculated from [          ] intensities (term).",
+    "q_zh": "",
+    "a": "scaled"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::27",
+    "q_en": "Systematic absences are used to determine the [          ] (term).",
+    "q_zh": "",
+    "a": "space group"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::28",
+    "q_en": "I-centered lattice extinction: h + k + l = [          ] (formula).",
+    "q_zh": "",
+    "a": "2n"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::29",
+    "q_en": "F-centered lattice requires h+k, h+l, k+l all [          ] (term).",
+    "q_zh": "",
+    "a": "even (same parity)"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::30",
+    "q_en": "2-fold screw axis along a: (h00) h = [          ] (formula).",
+    "q_zh": "",
+    "a": "2n"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::31",
+    "q_en": "3-fold screw axis along c: (00l) l = [          ] (formula).",
+    "q_zh": "",
+    "a": "3n"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::32",
+    "q_en": "For triclinic, normal collection covers a [          ] (term).",
+    "q_zh": "",
+    "a": "hemisphere"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::33",
+    "q_en": "For orthorhombic, normal collection covers an [          ] (term).",
+    "q_zh": "",
+    "a": "octant"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::34",
+    "q_en": "A 6-fold axis perpendicular to the screen needs only [          ]° rotation (number).",
+    "q_zh": "",
+    "a": "60"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::35",
+    "q_en": "Enantiomeric space groups P3₁21 vs P3₂21 [          ] (can/cannot) be distinguished at indexing.",
+    "q_zh": "",
+    "a": "cannot"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::36",
+    "q_en": "The X-ray beam decreases with time and must be [          ] (term).",
+    "q_zh": "",
+    "a": "corrected"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::37",
+    "q_en": "Anomalous collection for triclinic needs a [          ] (term).",
+    "q_zh": "",
+    "a": "sphere"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::38",
+    "q_en": "Anomalous collection for orthorhombic needs a [          ] (term).",
+    "q_zh": "",
+    "a": "quadrant"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::39",
+    "q_en": "Proteins/DNA are chiral, so there are [          ] (no/some) inversion centres in real crystals.",
+    "q_zh": "",
+    "a": "no"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::40",
+    "q_en": "In reciprocal space, I_hkl = I_−h−k−l by [          ] law (term).",
+    "q_zh": "",
+    "a": "Friedel's"
+   },
+   {
+    "id": "Quiz 6 - X-ray Data Collection.md::41",
+    "q_en": "The asymmetric unit in reciprocal space is bounded by rotation axes or [          ] (term).",
+    "q_zh": "",
+    "a": "planes"
+   }
+  ]
+ },
+ {
+  "id": "sdbm",
+  "name": "Quiz 7 - Reading Crystallographic Information",
+  "cards": [
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::0",
+    "q_en": "R_cryst for a refined structure is typically [          ] to [          ] (two numbers).",
+    "q_zh": "",
+    "a": "0.1; 0.3"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::1",
+    "q_en": "An R_cryst above [          ] is close to random (number).",
+    "q_zh": "",
+    "a": "0.55"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::2",
+    "q_en": "R_cryst = Σ|F_calc − F_obs| / Σ[          ] (term).",
+    "q_zh": "",
+    "a": "|F_obs|"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::3",
+    "q_en": "R_free uses reflections that were [          ] (included/excluded) from refinement.",
+    "q_zh": "",
+    "a": "excluded"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::4",
+    "q_en": "R_free should not be much [          ] (bigger/smaller) than R_cryst.",
+    "q_zh": "",
+    "a": "bigger"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::5",
+    "q_en": "R_sym uses data from [          ] (one/several) crystal(s).",
+    "q_zh": "",
+    "a": "one"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::6",
+    "q_en": "R_merge uses data from [          ] (one/several) crystal(s).",
+    "q_zh": "",
+    "a": "several"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::7",
+    "q_en": "I/σ(I) is the average ratio of intensity to its [          ] (term).",
+    "q_zh": "",
+    "a": "uncertainty"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::8",
+    "q_en": "Multiplicity is the average number of [          ] per merged reflection (term).",
+    "q_zh": "",
+    "a": "observations"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::9",
+    "q_en": "Completeness is the ratio of measured to [          ] reflections (term).",
+    "q_zh": "",
+    "a": "theoretically possible"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::10",
+    "q_en": "Completeness <100% can indicate a blind spot, squared detector, or [          ] (term).",
+    "q_zh": "",
+    "a": "beam stop"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::11",
+    "q_en": "CC(1/2) divides equivalent observations into [          ] groups (number).",
+    "q_zh": "",
+    "a": "2"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::12",
+    "q_en": "R_meas includes a factor √(N/(N−1)) and is [          ]-independent (term).",
+    "q_zh": "",
+    "a": "multiplicity"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::13",
+    "q_en": "R_pim includes a factor √(1/(N−1)) and indicates [          ] (term).",
+    "q_zh": "",
+    "a": "precision"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::14",
+    "q_en": "The atomic form factor decreases with [          ] (term), blurring the structure.",
+    "q_zh": "",
+    "a": "resolution"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::15",
+    "q_en": "The temperature factor is T = [          ] (formula).",
+    "q_zh": "",
+    "a": "e^(−B u²/4)"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::16",
+    "q_en": "The Wilson plot slope gives the average [          ] factor (term).",
+    "q_zh": "",
+    "a": "temperature (B)"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::17",
+    "q_en": "Beyond 1.6 Å, anisotropic B-factors use [          ] parameters (number).",
+    "q_zh": "",
+    "a": "6"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::18",
+    "q_en": "ANISOU records give the [          ] tensor (term).",
+    "q_zh": "",
+    "a": "anisotropic"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::19",
+    "q_en": "Surface atoms are [          ] (more/less) mobile than core atoms.",
+    "q_zh": "",
+    "a": "more"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::20",
+    "q_en": "Loops are [          ] (more/less) mobile than secondary structure elements.",
+    "q_zh": "",
+    "a": "more"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::21",
+    "q_en": "To check for over-refinement, compare R_cryst with [          ] (term).",
+    "q_zh": "",
+    "a": "R_free"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::22",
+    "q_en": "Reflections flagged \"0\" in the Free R flag column are used only for [          ] (term).",
+    "q_zh": "",
+    "a": "validation"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::23",
+    "q_en": "To get the average temperature factor, plot a [          ] plot (term).",
+    "q_zh": "",
+    "a": "Wilson"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::24",
+    "q_en": "Domain-wise anisotropic B-factors use [          ] tensors (T, L, S) (term).",
+    "q_zh": "",
+    "a": "TLS"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::25",
+    "q_en": "T in TLS stands for [          ] (term).",
+    "q_zh": "",
+    "a": "translation"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::26",
+    "q_en": "L in TLS stands for [          ] (term).",
+    "q_zh": "",
+    "a": "libration"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::27",
+    "q_en": "S in TLS stands for [          ] (term).",
+    "q_zh": "",
+    "a": "screw-rotation"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::28",
+    "q_en": "Blue in a B-factor figure means [          ] (stable/flexible) (low B).",
+    "q_zh": "",
+    "a": "stable"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::29",
+    "q_en": "Red in a B-factor figure means [          ] (stable/flexible) (high B).",
+    "q_zh": "",
+    "a": "flexible"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::30",
+    "q_en": "Disordered surface residues may show [          ] conformations (term).",
+    "q_zh": "",
+    "a": "alternate"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::31",
+    "q_en": "Crystallographers may [          ] disordered residue parts (verb).",
+    "q_zh": "",
+    "a": "truncate"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::32",
+    "q_en": "Molecules related by crystallographic symmetry are [          ] (identical/not identical).",
+    "q_zh": "",
+    "a": "identical"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::33",
+    "q_en": "Molecules related by NCS are [          ] (identical/not strictly identical).",
+    "q_zh": "",
+    "a": "not strictly identical"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::34",
+    "q_en": "NCS-related molecules are compared by [          ] deviation (term).",
+    "q_zh": "",
+    "a": "rms"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::35",
+    "q_en": "rms deviations are biggest for [          ] (term).",
+    "q_zh": "",
+    "a": "loops"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::36",
+    "q_en": "Crystal-contact deformations are [          ] (typical/atypical) of crystal structures.",
+    "q_zh": "",
+    "a": "typical"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::37",
+    "q_en": "A crystal structure is the [          ] structure of the trapped state (term).",
+    "q_zh": "",
+    "a": "average"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::38",
+    "q_en": "Protein structures are representations, not absolute [          ] (term).",
+    "q_zh": "",
+    "a": "truth"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::39",
+    "q_en": "The outer (highest-resolution) shell always has the [          ] (best/worst) statistics.",
+    "q_zh": "",
+    "a": "worst"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::40",
+    "q_en": "Old over-refined structures have low R_cryst but poor [          ] (term).",
+    "q_zh": "",
+    "a": "R_free"
+   },
+   {
+    "id": "Quiz 7 - Reading Crystallographic Information.md::41",
+    "q_en": "The atomic form factor is a function of |u| = [          ] (formula).",
+    "q_zh": "",
+    "a": "2 sinθ/λ"
+   }
+  ]
+ },
+ {
+  "id": "sdbm",
+  "name": "Quiz 8 - Experimental Phasing",
+  "cards": [
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::0",
+    "q_en": "The crystallographic problem is that the [          ] are missing (term).",
+    "q_zh": "",
+    "a": "phases"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::1",
+    "q_en": "The phase splits F between A and B coefficients: F = [          ] (formula).",
+    "q_zh": "",
+    "a": "A + iB"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::2",
+    "q_en": "In isomorphous replacement, F_PH = [          ] (formula).",
+    "q_zh": "",
+    "a": "F_P + F_H"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::3",
+    "q_en": "The Patterson synthesis uses only the [          ] of structure factor amplitudes (term).",
+    "q_zh": "",
+    "a": "squares"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::4",
+    "q_en": "The Patterson map shows inter-atomic [          ] (term).",
+    "q_zh": "",
+    "a": "vectors"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::5",
+    "q_en": "SIR uses [          ] (one/several) derivative(s).",
+    "q_zh": "",
+    "a": "one"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::6",
+    "q_en": "MIR uses [          ] (one/several) derivative(s).",
+    "q_zh": "",
+    "a": "several"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::7",
+    "q_en": "\"Good\" phases are more important than \"good\" [          ] (term).",
+    "q_zh": "",
+    "a": "amplitudes"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::8",
+    "q_en": "SIR produces a phase [          ] (ambiguity/uniqueness).",
+    "q_zh": "",
+    "a": "ambiguity"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::9",
+    "q_en": "MIR [          ] (resolves/creates) the phase ambiguity.",
+    "q_zh": "",
+    "a": "resolves"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::10",
+    "q_en": "The Figure of Merit is m = [          ] (formula).",
+    "q_zh": "",
+    "a": "Σ P(Δα)cos(Δα)/Σ P(Δα)"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::11",
+    "q_en": "FOM m = 1.0 corresponds to a phase error of [          ]° (number).",
+    "q_zh": "",
+    "a": "0"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::12",
+    "q_en": "FOM m = 0.5 corresponds to a phase error of [          ]° (number).",
+    "q_zh": "",
+    "a": "60"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::13",
+    "q_en": "FOM m = 0.0 means [          ] (no/full) phase information.",
+    "q_zh": "",
+    "a": "no"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::14",
+    "q_en": "Anomalous scattering: the scattered wave is delayed by a [          ] period (term).",
+    "q_zh": "",
+    "a": "quarter"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::15",
+    "q_en": "The anomalous scattering factor is f + f′ + [          ] (term).",
+    "q_zh": "",
+    "a": "if″"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::16",
+    "q_en": "f″ indicates the apparent change in the number of [          ] electrons (term).",
+    "q_zh": "",
+    "a": "scattering"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::17",
+    "q_en": "Anomalous scatterers [          ] (violate/obey) Friedel's law.",
+    "q_zh": "",
+    "a": "violate"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::18",
+    "q_en": "The anomalous difference is |ΔF_ano| = [          ] (formula).",
+    "q_zh": "",
+    "a": "|F_hkl| − |F_−h−k−l|"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::19",
+    "q_en": "The larger f″, the [          ] (easier/harder) to solve the phase problem.",
+    "q_zh": "",
+    "a": "easier"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::20",
+    "q_en": "f′ and f″ are related by the [          ] relation (term).",
+    "q_zh": "",
+    "a": "Kramers–Kronig"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::21",
+    "q_en": "Isomorphous replacement: soak in heavy-atom solution → collect [          ] crystal data (term).",
+    "q_zh": "",
+    "a": "derivative"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::22",
+    "q_en": "To find heavy-atom positions, use isomorphous differences ||F_PH| − [          ]| (term).",
+    "q_zh": "",
+    "a": "|F_P|"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::23",
+    "q_en": "The difference Patterson uses (F_PH − F_P) to locate [          ] (term).",
+    "q_zh": "",
+    "a": "heavy atoms"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::24",
+    "q_en": "Harker sections allow easy calculation of [          ] and y (terms).",
+    "q_zh": "",
+    "a": "x"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::25",
+    "q_en": "In some space groups, the 3rd coordinate is [          ] (defined/undefined).",
+    "q_zh": "",
+    "a": "undefined"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::26",
+    "q_en": "Density modification uses solvent [          ], histogram matching, and NCS (term).",
+    "q_zh": "",
+    "a": "flattening"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::27",
+    "q_en": "MAD collects data at several [          ] (term).",
+    "q_zh": "",
+    "a": "wavelengths"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::28",
+    "q_en": "Heavy atom for Cys: [          ] compounds (term).",
+    "q_zh": "",
+    "a": "Hg (mercury)"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::29",
+    "q_en": "Heavy atom for Asp/Glu: rare earths, Ba²⁺, [          ] (term).",
+    "q_zh": "",
+    "a": "uranyl acetate"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::30",
+    "q_en": "Heavy atom for His: [          ] (term).",
+    "q_zh": "",
+    "a": "tetrachloroplatinate"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::31",
+    "q_en": "SAD uses anomalous differences at [          ] wavelength(s) (number).",
+    "q_zh": "",
+    "a": "one"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::32",
+    "q_en": "MAD uses data at the inflection point, peak, high remote, and [          ] (term).",
+    "q_zh": "",
+    "a": "low remote"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::33",
+    "q_en": "SeMet has Se with Z = [          ] (number).",
+    "q_zh": "",
+    "a": "34"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::34",
+    "q_en": "In practice, SAD + phase improvement often gives the [          ] (best/worst) result.",
+    "q_zh": "",
+    "a": "best"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::35",
+    "q_en": "MAD advantage: no lack of [          ] (term).",
+    "q_zh": "",
+    "a": "isomorphism"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::36",
+    "q_en": "MAD drawback: needs [          ] data sets (number).",
+    "q_zh": "",
+    "a": "3"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::37",
+    "q_en": "MAD drawback: [          ] damage (term).",
+    "q_zh": "",
+    "a": "radiation"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::38",
+    "q_en": "SeMet is a [          ] analogue (term).",
+    "q_zh": "",
+    "a": "methionine"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::39",
+    "q_en": "SIRAS combines SAD with [          ] replacement (term).",
+    "q_zh": "",
+    "a": "isomorphous"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::40",
+    "q_en": "MIRAS combines MAD with [          ] replacement (term).",
+    "q_zh": "",
+    "a": "isomorphous"
+   },
+   {
+    "id": "Quiz 8 - Experimental Phasing.md::41",
+    "q_en": "The centroid phase gives the [          ] (least/most) error in the Fourier map.",
+    "q_zh": "",
+    "a": "least"
+   }
+  ]
+ },
+ {
+  "id": "sdbm",
+  "name": "Quiz 9 - Molecular Replacement",
+  "cards": [
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::0",
+    "q_en": "Molecular replacement uses a known [          ] structure to calculate initial phases (term).",
+    "q_zh": "",
+    "a": "similar (known)"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::1",
+    "q_en": "The Matthews coefficient V_m is the ratio of unit cell volume to [          ] (term).",
+    "q_zh": "",
+    "a": "molecular weight"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::2",
+    "q_en": "V_m is empirically between [          ] and [          ] Å³/dalton (two numbers).",
+    "q_zh": "",
+    "a": "1.7; 3.5"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::3",
+    "q_en": "The most common V_m is about [          ] Å³/dalton (number).",
+    "q_zh": "",
+    "a": "2.15"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::4",
+    "q_en": "The Patterson can be calculated [          ] (with/without) phases.",
+    "q_zh": "",
+    "a": "without"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::5",
+    "q_en": "The Patterson is a [          ] map of the structure (term).",
+    "q_zh": "",
+    "a": "vector"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::6",
+    "q_en": "The rotation function finds the model [          ] (term).",
+    "q_zh": "",
+    "a": "orientation"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::7",
+    "q_en": "The translation function finds the model [          ] (term).",
+    "q_zh": "",
+    "a": "position (translation)"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::8",
+    "q_en": "MR with isomorphous crystals is called the [          ] Fourier method (term).",
+    "q_zh": "",
+    "a": "Difference"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::9",
+    "q_en": "The least-biased electron density uses [          ] (formula term).",
+    "q_zh": "",
+    "a": "(2F_unk − F_known)"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::10",
+    "q_en": "The best difference density uses [          ] (formula term).",
+    "q_zh": "",
+    "a": "(F_unk − F_known)"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::11",
+    "q_en": "The self-rotation function detects [          ] (acronym).",
+    "q_zh": "",
+    "a": "NCS"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::12",
+    "q_en": "Crystallographic symmetry relates [          ] units (term).",
+    "q_zh": "",
+    "a": "asymmetric"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::13",
+    "q_en": "NCS relates identical particles [          ] the asymmetric unit (preposition).",
+    "q_zh": "",
+    "a": "within"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::14",
+    "q_en": "Nowadays, the search model is often an [          ] model (name).",
+    "q_zh": "",
+    "a": "AlphaFold"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::15",
+    "q_en": "The rotation function uses polar angles φ, ψ, and [          ] (term).",
+    "q_zh": "",
+    "a": "κ"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::16",
+    "q_en": "In a triclinic P1 cell, the particle position is [          ] (arbitrary/fixed).",
+    "q_zh": "",
+    "a": "arbitrary"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::17",
+    "q_en": "In axial space groups, the position along one axis is [          ] (defined/undefined).",
+    "q_zh": "",
+    "a": "undefined"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::18",
+    "q_en": "The origin peak of the Patterson is at the [          ] (term).",
+    "q_zh": "",
+    "a": "origin"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::19",
+    "q_en": "For 2 atoms there are [          ] vectors in the Patterson (number).",
+    "q_zh": "",
+    "a": "4"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::20",
+    "q_en": "The rotation function compares the [          ] of calculated and experimental Patterson (term).",
+    "q_zh": "",
+    "a": "overlap"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::21",
+    "q_en": "To estimate the number of copies in the asymmetric unit, calculate [          ] for X = 0.5, 1.0, 2.0… (term).",
+    "q_zh": "",
+    "a": "V_m (Matthews coefficient)"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::22",
+    "q_en": "A suitable search model should be [          ] to the target (term).",
+    "q_zh": "",
+    "a": "similar"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::23",
+    "q_en": "The search model should represent a [          ] (large/small) fraction of the target.",
+    "q_zh": "",
+    "a": "large"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::24",
+    "q_en": "For MR, data should be complete at [          ] resolution (low/high).",
+    "q_zh": "",
+    "a": "low"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::25",
+    "q_en": "Data should extend to [          ] resolution for refinement (low/high).",
+    "q_zh": "",
+    "a": "high"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::26",
+    "q_en": "To place the model, first find the [          ], then the translation (term).",
+    "q_zh": "",
+    "a": "rotation"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::27",
+    "q_en": "Once placed, enter [          ] to build the real particle (term).",
+    "q_zh": "",
+    "a": "refinement"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::28",
+    "q_en": "The rotation function overlap uses a correlation depending on [          ] angles (number).",
+    "q_zh": "",
+    "a": "3"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::29",
+    "q_en": "The sphere of integration cuts out the [          ] peak (term).",
+    "q_zh": "",
+    "a": "origin"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::30",
+    "q_en": "A small integration sphere misses some [          ] vectors (term).",
+    "q_zh": "",
+    "a": "intra (self)"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::31",
+    "q_en": "A big integration sphere has many [          ] vectors (term).",
+    "q_zh": "",
+    "a": "cross"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::32",
+    "q_en": "The 3rd rotation parameter is the resolution [          ] used (term).",
+    "q_zh": "",
+    "a": "d_max"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::33",
+    "q_en": "Self-rotation example: (φ=0°, ψ=78°, κ=120°) is a [          ]-fold NCS axis (number).",
+    "q_zh": "",
+    "a": "3"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::34",
+    "q_en": "Difference Fourier is used for mutants or [          ] series (term).",
+    "q_zh": "",
+    "a": "drug (ligand)"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::35",
+    "q_en": "V_m = unit cell volume / (total [          ] × molecular weight) (term).",
+    "q_zh": "",
+    "a": "mass (protein)"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::36",
+    "q_en": "Z is the number of asymmetric units (symmetry [          ]) in the cell (term).",
+    "q_zh": "",
+    "a": "operators"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::37",
+    "q_en": "For the difference Fourier, reference phases come from the [          ] structure (term).",
+    "q_zh": "",
+    "a": "known"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::38",
+    "q_en": "SigmaA weights the Fourier term by the agreement between F_unk and [          ] (term).",
+    "q_zh": "",
+    "a": "F_known"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::39",
+    "q_en": "The rotation function matches the self-peaks when orientation is [          ] (correct/incorrect).",
+    "q_zh": "",
+    "a": "correct"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::40",
+    "q_en": "After rotation and translation, [          ] builds the real particle (term).",
+    "q_zh": "",
+    "a": "refinement"
+   },
+   {
+    "id": "Quiz 9 - Molecular Replacement.md::41",
+    "q_en": "AlphaFold models can be used with their [          ] analysis (term).",
+    "q_zh": "",
+    "a": "flexibility"
+   }
+  ]
+ },
+ {
+  "id": "sdbm",
+  "name": "Quiz 10 - Model Building and Refinement",
+  "cards": [
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::0",
+    "q_en": "Refinement has two purposes: fit the model into data, and calculate the best [          ] (term).",
+    "q_zh": "",
+    "a": "electron density"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::1",
+    "q_en": "Each atom has 4 parameters: x, y, z, and [          ] (term).",
+    "q_zh": "",
+    "a": "B-factor"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::2",
+    "q_en": "Occupancy = fraction of molecules where an atom occupies the [          ] position (term).",
+    "q_zh": "",
+    "a": "specified"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::3",
+    "q_en": "All molecules identical → occupancy = [          ] (number).",
+    "q_zh": "",
+    "a": "1.00"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::4",
+    "q_en": "Multiple conformations 60/40 → occupancy [          ]/[          ] (two numbers).",
+    "q_zh": "",
+    "a": "0.6; 0.4"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::5",
+    "q_en": "E_total = E_data + [          ] (term).",
+    "q_zh": "",
+    "a": "E_stereochemistry"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::6",
+    "q_en": "Simulated annealing escapes [          ] minima (term).",
+    "q_zh": "",
+    "a": "local"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::7",
+    "q_en": "Low B-factor means a [          ] (well-ordered/flexible) part.",
+    "q_zh": "",
+    "a": "well-ordered"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::8",
+    "q_en": "High B-factor means a [          ] (well-ordered/flexible) part.",
+    "q_zh": "",
+    "a": "flexible"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::9",
+    "q_en": "Anisotropic B-factor needs [          ] parameters (number).",
+    "q_zh": "",
+    "a": "6"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::10",
+    "q_en": "Random atoms give R ≈ [          ] (number).",
+    "q_zh": "",
+    "a": "0.63"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::11",
+    "q_en": "A typical refined R is ≈ [          ] (number).",
+    "q_zh": "",
+    "a": "0.20"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::12",
+    "q_en": "R-free uses the withheld [          ]% of observations (number).",
+    "q_zh": "",
+    "a": "10"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::13",
+    "q_en": "FOM = ⟨cos(Δφ)⟩; FOM = 1 means [          ] (perfect/random) phases.",
+    "q_zh": "",
+    "a": "perfect"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::14",
+    "q_en": "FOM = 0.86 corresponds to a phase error of [          ]° (number).",
+    "q_zh": "",
+    "a": "30"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::15",
+    "q_en": "FOM = 0.5 corresponds to a phase error of [          ]° (number).",
+    "q_zh": "",
+    "a": "60"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::16",
+    "q_en": "The Ramachandran plot shows [          ] and ψ angles (symbol).",
+    "q_zh": "",
+    "a": "φ"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::17",
+    "q_en": "RMSD on distances should be close to [          ] Å (number).",
+    "q_zh": "",
+    "a": "0.02"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::18",
+    "q_en": "RMSD on angles should be close to [          ]° (number).",
+    "q_zh": "",
+    "a": "2"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::19",
+    "q_en": "The 2Fo−Fc map represents the [          ] of the crystal (term).",
+    "q_zh": "",
+    "a": "content"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::20",
+    "q_en": "The Fo−Fc map represents [          ] between crystal and model (term).",
+    "q_zh": "",
+    "a": "differences"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::21",
+    "q_en": "Restraints add \"observations\" such as bond lengths, bond angles, and [          ] contacts (term).",
+    "q_zh": "",
+    "a": "van der Waals"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::22",
+    "q_en": "Constraints reduce parameters, e.g., [          ] copies in the asymmetric unit (term).",
+    "q_zh": "",
+    "a": "multiple"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::23",
+    "q_en": "E_data is minimized by least-squares: E = Σ w(F_obs − [          ])² (term).",
+    "q_zh": "",
+    "a": "F_calc"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::24",
+    "q_en": "To escape local minima, use [          ] annealing (term).",
+    "q_zh": "",
+    "a": "simulated"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::25",
+    "q_en": "Rigid-body refinement is used [          ] (early/late) after MR.",
+    "q_zh": "",
+    "a": "early"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::26",
+    "q_en": "TLS refinement is used at [          ] (medium/only-high) stages, up to 1.6 Å.",
+    "q_zh": "",
+    "a": "medium"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::27",
+    "q_en": "Anisotropic refinement is used at [          ] resolution (low/high).",
+    "q_zh": "",
+    "a": "high"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::28",
+    "q_en": "In PDB, the ATOM record includes coordinates, occupancy, and [          ] (term).",
+    "q_zh": "",
+    "a": "B-factor"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::29",
+    "q_en": "ANISOU records give the [          ] tensor (term).",
+    "q_zh": "",
+    "a": "anisotropic"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::30",
+    "q_en": "For the density, the Refmac 2Fo−Fc map is written [          ] (term).",
+    "q_zh": "",
+    "a": "2mFo − DFc"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::31",
+    "q_en": "The Refmac Fo−Fc map is written [          ] (term).",
+    "q_zh": "",
+    "a": "mFo − DFc"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::32",
+    "q_en": "In 2mFo−DFc, m is the figure of merit and D is the [          ] (term).",
+    "q_zh": "",
+    "a": "model error"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::33",
+    "q_en": "COOT is used for manual model [          ] (term).",
+    "q_zh": "",
+    "a": "building"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::34",
+    "q_en": "REFMAC5 combines experimental data with the current [          ] to refine (term).",
+    "q_zh": "",
+    "a": "model"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::35",
+    "q_en": "The data-to-parameter ratio at 2.0 Å (isotropic) is [          ] (number).",
+    "q_zh": "",
+    "a": "2.8"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::36",
+    "q_en": "The data-to-parameter ratio at 3.5 Å (isotropic) is [          ] (number).",
+    "q_zh": "",
+    "a": "0.5"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::37",
+    "q_en": "Poor observation:parameter ratio → [          ] refinement (term).",
+    "q_zh": "",
+    "a": "ambiguous"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::38",
+    "q_en": "Fix a poor ratio by reducing parameters ([          ]) or adding observations ([          ]) (two terms).",
+    "q_zh": "",
+    "a": "constraints; restraints"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::39",
+    "q_en": "If no density for an IDP region, [          ] (build/don't build) it.",
+    "q_zh": "",
+    "a": "don't build"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::40",
+    "q_en": "Side-chain conformations are called [          ] (term).",
+    "q_zh": "",
+    "a": "rotamers"
+   },
+   {
+    "id": "Quiz 10 - Model Building and Refinement.md::41",
+    "q_en": "The 2Fo−Fc and Fo−Fc maps should both be [          ] (verb).",
+    "q_zh": "",
+    "a": "inspected"
+   }
+  ]
+ },
+ {
+  "id": "sdbm",
+  "name": "Quiz 11 - International Tables and Systematic Absences",
+  "cards": [
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::0",
+    "q_en": "The International Tables for Crystallography Volume [          ] describes space groups (letter).",
+    "q_zh": "",
+    "a": "A"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::1",
+    "q_en": "There are [          ] crystal systems (number).",
+    "q_zh": "",
+    "a": "7"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::2",
+    "q_en": "There are [          ] crystallographic point groups (number).",
+    "q_zh": "",
+    "a": "32"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::3",
+    "q_en": "Only [          ] point groups have pure proper rotations (for chiral compounds) (number).",
+    "q_zh": "",
+    "a": "11"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::4",
+    "q_en": "In crystals, rotational symmetry is restricted to 1, 2, 3, 4, and [          ] (number).",
+    "q_zh": "",
+    "a": "6"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::5",
+    "q_en": "A 1̄ axis is an inversion [          ] (term).",
+    "q_zh": "",
+    "a": "center"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::6",
+    "q_en": "A 2̄ axis is a [          ] (term).",
+    "q_zh": "",
+    "a": "mirror"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::7",
+    "q_en": "Systematic absences are caused by [          ] symmetry elements (term).",
+    "q_zh": "",
+    "a": "translational"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::8",
+    "q_en": "Lattice centering affects [          ] (all/some) index groups.",
+    "q_zh": "",
+    "a": "all"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::9",
+    "q_en": "Glide planes affect only [          ] reflections (term).",
+    "q_zh": "",
+    "a": "zonal"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::10",
+    "q_en": "Screw axes affect only [          ] reflections (term).",
+    "q_zh": "",
+    "a": "axial"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::11",
+    "q_en": "Rotoinversion changes [          ] (term).",
+    "q_zh": "",
+    "a": "handedness"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::12",
+    "q_en": "Chiral molecules [          ] (can/cannot) form crystals with rotoinversion symmetry.",
+    "q_zh": "",
+    "a": "cannot"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::13",
+    "q_en": "Screw axes [          ] (halve/leave) the effective repeat distance along the axis.",
+    "q_zh": "",
+    "a": "halve"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::14",
+    "q_en": "The characteristic symmetry of the cubic system is [          ] threefold axes (number).",
+    "q_zh": "",
+    "a": "four"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::15",
+    "q_en": "The characteristic symmetry of the orthorhombic system is three [          ] twofold axes (term).",
+    "q_zh": "",
+    "a": "perpendicular"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::16",
+    "q_en": "The characteristic symmetry of the tetragonal system is one [          ] axis (term).",
+    "q_zh": "",
+    "a": "fourfold"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::17",
+    "q_en": "The trigonal system has one [          ] axis (term).",
+    "q_zh": "",
+    "a": "threefold"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::18",
+    "q_en": "The monoclinic system has one [          ] axis (term).",
+    "q_zh": "",
+    "a": "twofold"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::19",
+    "q_en": "The hexagonal system has one [          ] axis (term).",
+    "q_zh": "",
+    "a": "sixfold"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::20",
+    "q_en": "The triclinic system has only an inversion [          ] possible (term).",
+    "q_zh": "",
+    "a": "center"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::21",
+    "q_en": "I-centered lattice extinction: h + k + l = [          ] (formula).",
+    "q_zh": "",
+    "a": "2n"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::22",
+    "q_en": "C-centered lattice extinction: h + k = [          ] (formula).",
+    "q_zh": "",
+    "a": "2n"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::23",
+    "q_en": "F-centered lattice requires h+k, h+l, k+l all [          ] (term).",
+    "q_zh": "",
+    "a": "even (same parity)"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::24",
+    "q_en": "R-centered lattice extinction: −h + k + l = [          ] (formula).",
+    "q_zh": "",
+    "a": "3n"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::25",
+    "q_en": "2₁ screw axis along b: 0k0, k = [          ] (formula).",
+    "q_zh": "",
+    "a": "2n"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::26",
+    "q_en": "4₂ screw axis along c: 00l, l = [          ] (formula).",
+    "q_zh": "",
+    "a": "2n"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::27",
+    "q_en": "6₃ screw axis along c: 00l, l = [          ] (formula).",
+    "q_zh": "",
+    "a": "2n"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::28",
+    "q_en": "3₁ or 3₂ along c: 00l, l = [          ] (formula).",
+    "q_zh": "",
+    "a": "3n"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::29",
+    "q_en": "4₁ or 4₃ along c: 00l, l = [          ] (formula).",
+    "q_zh": "",
+    "a": "4n"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::30",
+    "q_en": "6₁ or 6₅ along c: 00l, l = [          ] (formula).",
+    "q_zh": "",
+    "a": "6n"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::31",
+    "q_en": "6₂ or 6₄ along c: 00l, l = [          ] (formula).",
+    "q_zh": "",
+    "a": "3n"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::32",
+    "q_en": "a-glide ⊥ b: h0l, h = [          ] (formula).",
+    "q_zh": "",
+    "a": "2n"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::33",
+    "q_en": "n-glide ⊥ c: hk0, h + k = [          ] (formula).",
+    "q_zh": "",
+    "a": "2n"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::34",
+    "q_en": "d-glide ⊥ a: 0kl, k + l = [          ] (formula).",
+    "q_zh": "",
+    "a": "4n"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::35",
+    "q_en": "To determine the space group, use [          ] from the diffraction pattern (term).",
+    "q_zh": "",
+    "a": "systematic absences"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::36",
+    "q_en": "3₁ and 3₂ [          ] (can/cannot) be distinguished by absences.",
+    "q_zh": "",
+    "a": "cannot"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::37",
+    "q_en": "The left page of an ITA entry gives the crystal system, point group, and [          ] (term).",
+    "q_zh": "",
+    "a": "space-group symbol"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::38",
+    "q_en": "The right page lists the general and [          ] positions (term).",
+    "q_zh": "",
+    "a": "special"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::39",
+    "q_en": "The space-group number of P4₃2₁2 is [          ] (number).",
+    "q_zh": "",
+    "a": "96"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::40",
+    "q_en": "The Patterson symmetry of P4₃2₁2 is [          ] (term).",
+    "q_zh": "",
+    "a": "P4/mmm"
+   },
+   {
+    "id": "Quiz 11 - International Tables and Systematic Absences.md::41",
+    "q_en": "The Schönflies notation of P4₃2₁2 is [          ] (term).",
+    "q_zh": "",
+    "a": "D₈⁴"
+   }
+  ]
+ },
+ {
+  "id": "sdbm",
+  "name": "Quiz 12 - NMR Isotopic Labeling",
+  "cards": [
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::0",
+    "q_en": "NMR requires nuclear spin I = [          ] (fraction).",
+    "q_zh": "",
+    "a": "1/2"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::1",
+    "q_en": "¹²C and ¹⁴N have [          ] (no/some) spin 1/2.",
+    "q_zh": "",
+    "a": "no"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::2",
+    "q_en": "They must be replaced by ¹⁵N and [          ] (isotope).",
+    "q_zh": "",
+    "a": "¹³C"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::3",
+    "q_en": "¹⁵N has a [          ] (positive/negative) gyromagnetic ratio.",
+    "q_zh": "",
+    "a": "negative"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::4",
+    "q_en": "¹H has γ = [          ] ×10⁸ rad·T⁻¹·s⁻¹ (number).",
+    "q_zh": "",
+    "a": "2.675"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::5",
+    "q_en": "¹³C has γ = [          ] ×10⁸ rad·T⁻¹·s⁻¹ (number).",
+    "q_zh": "",
+    "a": "0.673"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::6",
+    "q_en": "Deuteration decreases transverse relaxation, R₂ ∝ [          ] (formula).",
+    "q_zh": "",
+    "a": "γ_i²γ_j²"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::7",
+    "q_en": "The ¹H-¹⁵N HSQC is the [          ] spectrum of a protein (term).",
+    "q_zh": "",
+    "a": "fingerprint"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::8",
+    "q_en": "Each amino acid (except [          ]) has one amide proton (term).",
+    "q_zh": "",
+    "a": "proline"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::9",
+    "q_en": "The ¹H-¹³C HSQC separates protons bound to [          ] (term).",
+    "q_zh": "",
+    "a": "carbon"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::10",
+    "q_en": "Deuteration: γ(¹H) = [          ] × γ(²H) (number).",
+    "q_zh": "",
+    "a": "6.5"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::11",
+    "q_en": "Carbon spins relax mainly via directly attached [          ] (term).",
+    "q_zh": "",
+    "a": "protons"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::12",
+    "q_en": "Spin diffusion is faster in [          ] (large/small) proteins.",
+    "q_zh": "",
+    "a": "large"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::13",
+    "q_en": "Deuteration improves HSQC quality for proteins above [          ]–40 kDa (number).",
+    "q_zh": "",
+    "a": "25"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::14",
+    "q_en": "The two problems with increasing protein size are [          ] and [          ] (two terms).",
+    "q_zh": "",
+    "a": "overlap (resolution); relaxation (linewidth)"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::15",
+    "q_en": "¹⁵N/¹³C labeling spreads the spectrum into [          ] dimensions (term).",
+    "q_zh": "",
+    "a": "heteronuclear"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::16",
+    "q_en": "The gyromagnetic ratio determines frequency and signal [          ] (term).",
+    "q_zh": "",
+    "a": "intensity"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::17",
+    "q_en": "γ is a [          ] constant (term).",
+    "q_zh": "",
+    "a": "physical"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::18",
+    "q_en": "²H has spin I = [          ] (number).",
+    "q_zh": "",
+    "a": "1"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::19",
+    "q_en": "³¹P has spin I = [          ] (fraction).",
+    "q_zh": "",
+    "a": "1/2"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::20",
+    "q_en": "¹⁹F has spin I = [          ] (fraction).",
+    "q_zh": "",
+    "a": "1/2"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::21",
+    "q_en": "To label uniformly, use [          ] media such as M9 (term).",
+    "q_zh": "",
+    "a": "minimal"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::22",
+    "q_en": "M9 minimal medium uses NH₄Cl and [          ] as C/N sources (term).",
+    "q_zh": "",
+    "a": "glucose"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::23",
+    "q_en": "For ¹⁵N labeling, replace NH₄Cl with [          ] (term).",
+    "q_zh": "",
+    "a": "¹⁵NH₄Cl"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::24",
+    "q_en": "For ¹³C labeling, replace glucose with [          ] (term).",
+    "q_zh": "",
+    "a": "¹³C₆-glucose"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::25",
+    "q_en": "¹⁵NH₄Cl costs about [          ] €/g (number).",
+    "q_zh": "",
+    "a": "20"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::26",
+    "q_en": "¹³C₆-glucose costs about [          ] €/g (number).",
+    "q_zh": "",
+    "a": "150"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::27",
+    "q_en": "The M9 recipe per 1 L: Na₂HPO₄·7H₂O [          ] g (number).",
+    "q_zh": "",
+    "a": "10.0"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::28",
+    "q_en": "To avoid scrambling in amino-acid-specific labeling, consider [          ] pathways (term).",
+    "q_zh": "",
+    "a": "metabolic"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::29",
+    "q_en": "Transamination prevents amino-acid-specific [          ] labeling (term).",
+    "q_zh": "",
+    "a": "¹⁵N"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::30",
+    "q_en": "Ile δ1 methyl labeling uses the precursor [          ] (term).",
+    "q_zh": "",
+    "a": "α-ketoisobutyrate"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::31",
+    "q_en": "Leu/Ile/Val methyl labeling uses [          ] precursors (term).",
+    "q_zh": "",
+    "a": "glucose-d7"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::32",
+    "q_en": "The deuteration protocol adapts gradually: 3 mL LB → 50 mL (¹H) → 200 mL (²H) → [          ] mL (²H) (number).",
+    "q_zh": "",
+    "a": "1000"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::33",
+    "q_en": "Exchangeable protons are reintroduced by dissolving in [          ] (term).",
+    "q_zh": "",
+    "a": "H₂O"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::34",
+    "q_en": "Amide proton exchange is slowed by [          ] (term).",
+    "q_zh": "",
+    "a": "H-bonds"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::35",
+    "q_en": "H/D exchange: purify in H₂O → [          ] (remove H₂O) → resuspend in D₂O (term).",
+    "q_zh": "",
+    "a": "lyophilize"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::36",
+    "q_en": "H/D exchange by MS: quench at pH [          ]–3, digest, analyze peptides (number).",
+    "q_zh": "",
+    "a": "2"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::37",
+    "q_en": "Segmental labeling uses [          ] to label one domain only (term).",
+    "q_zh": "",
+    "a": "inteins"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::38",
+    "q_en": "Inteins perform autocatalytic [          ] (term).",
+    "q_zh": "",
+    "a": "splicing"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::39",
+    "q_en": "Cell-free synthesis: the target protein is the [          ] (only/many) synthesized protein.",
+    "q_zh": "",
+    "a": "only"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::40",
+    "q_en": "In-cell NMR: macromolecules up to [          ] g/L (number).",
+    "q_zh": "",
+    "a": "400"
+   },
+   {
+    "id": "Quiz 12 - NMR Isotopic Labeling.md::41",
+    "q_en": "STINT-NMR stands for sequential [          ] for interface mapping (term).",
+    "q_zh": "",
+    "a": "expression"
+   }
+  ]
+ },
+ {
+  "id": "sdbm",
+  "name": "Quiz 13 - NMR Parameters I",
+  "cards": [
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::0",
+    "q_en": "The Larmor frequency is ν = [          ] (formula).",
+    "q_zh": "",
+    "a": "γB/2π"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::1",
+    "q_en": "The chemical shift δ depends on the [          ] B₀ field (term).",
+    "q_zh": "",
+    "a": "local"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::2",
+    "q_en": "Shielding: electrons induce local fields [          ] (opposed to/aligned with) B₀.",
+    "q_zh": "",
+    "a": "opposed to"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::3",
+    "q_en": "The secondary chemical shift is Δδ = δ_measured − δ_[          ] (term).",
+    "q_zh": "",
+    "a": "random coil"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::4",
+    "q_en": "The Chemical Shift Index is abbreviated [          ] (acronym).",
+    "q_zh": "",
+    "a": "CSI"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::5",
+    "q_en": "TALOS estimates [          ] and ψ torsion angles (symbol).",
+    "q_zh": "",
+    "a": "φ"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::6",
+    "q_en": "K_D = [          ] (formula).",
+    "q_zh": "",
+    "a": "k_off/k_on"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::7",
+    "q_en": "The weighted chemical shift difference is Δδ = [          ] (formula).",
+    "q_zh": "",
+    "a": "[(Δδ_H)² + (0.15Δδ_N)²]^1/2"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::8",
+    "q_en": "Tight binding → [          ] (slow/fast) exchange.",
+    "q_zh": "",
+    "a": "slow"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::9",
+    "q_en": "Weak binding → [          ] (slow/fast) exchange.",
+    "q_zh": "",
+    "a": "fast"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::10",
+    "q_en": "In slow exchange, peak intensities reflect the [          ] of two states (term).",
+    "q_zh": "",
+    "a": "populations"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::11",
+    "q_en": "In fast exchange, populations determine the position of [          ] (term).",
+    "q_zh": "",
+    "a": "ν_avg"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::12",
+    "q_en": "R₂ = R₂⁰ + [          ] (term).",
+    "q_zh": "",
+    "a": "R_ex"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::13",
+    "q_en": "Line width is proportional to [          ] (term).",
+    "q_zh": "",
+    "a": "R₂"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::14",
+    "q_en": "R₂⁰/R₁ is proportional to [          ] (term).",
+    "q_zh": "",
+    "a": "τc"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::15",
+    "q_en": "The heteronuclear NOE gives information on [          ] bond vector motion (term).",
+    "q_zh": "",
+    "a": "N–H"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::16",
+    "q_en": "Decreased hetNOE → local motion [          ] (faster/slower) than overall tumbling.",
+    "q_zh": "",
+    "a": "faster"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::17",
+    "q_en": "The rotational correlation time is τc ≈ MW/[          ] (number).",
+    "q_zh": "",
+    "a": "2400"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::18",
+    "q_en": "Chemical shift is the most readily and [          ] measurable observable (term).",
+    "q_zh": "",
+    "a": "accurately"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::19",
+    "q_en": "Single-atom chemical shift is a [          ] (sum/single) of many factors.",
+    "q_zh": "",
+    "a": "sum"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::20",
+    "q_en": "CS-Rosetta reconstructs the protein [          ] from shifts (term).",
+    "q_zh": "",
+    "a": "fold"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::21",
+    "q_en": "Intraresidual assignment experiments include COSY, TOCSY, HNCA, and [          ] (term).",
+    "q_zh": "",
+    "a": "HNCACB (HNCACO)"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::22",
+    "q_en": "Interresidual (sequential) experiments include NOESY, HNCO, and [          ] (term).",
+    "q_zh": "",
+    "a": "HN(CO)CA"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::23",
+    "q_en": "To identify secondary structure, use the secondary chemical shift of Hα, Cα, C′, and [          ] (term).",
+    "q_zh": "",
+    "a": "Cβ"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::24",
+    "q_en": "To estimate torsion angles from shifts, use [          ] (term).",
+    "q_zh": "",
+    "a": "TALOS"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::25",
+    "q_en": "To map a binding interface, plot Δδ vs [          ] (term).",
+    "q_zh": "",
+    "a": "sequence"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::26",
+    "q_en": "To measure K_D from a fast-exchange titration, follow the shift and [          ] (verb).",
+    "q_zh": "",
+    "a": "fit"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::27",
+    "q_en": "To measure R₂, use a [          ] echo sequence (term).",
+    "q_zh": "",
+    "a": "spin"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::28",
+    "q_en": "The spin echo is 90°−Δ−180°−Δ−[          ] (term).",
+    "q_zh": "",
+    "a": "echo"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::29",
+    "q_en": "The 180° pulse reverses time-invariant [          ] (term).",
+    "q_zh": "",
+    "a": "dephasing (inhomogeneity)"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::30",
+    "q_en": "CPMG relaxation dispersion uses a rapid [          ] pulse train (term).",
+    "q_zh": "",
+    "a": "refocusing"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::31",
+    "q_en": "Plot R₂_eff vs ν_CPMG to identify residues in [          ] exchange (term).",
+    "q_zh": "",
+    "a": "chemical"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::32",
+    "q_en": "CEST probes exchange of 10 s⁻¹ ≤ k_ex ≤ [          ] s⁻¹ (number).",
+    "q_zh": "",
+    "a": "500"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::33",
+    "q_en": "CEST requires P_b > [          ]% (number).",
+    "q_zh": "",
+    "a": "0.5"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::34",
+    "q_en": "STD = reference spectrum − [          ] spectrum (term).",
+    "q_zh": "",
+    "a": "saturation"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::35",
+    "q_en": "STD conditions: fast exchange, K_D between 10⁻⁷ and [          ] M (number).",
+    "q_zh": "",
+    "a": "10⁻³"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::36",
+    "q_en": "STD requires [L_T] >> [          ] (term).",
+    "q_zh": "",
+    "a": "P_T"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::37",
+    "q_en": "STD advantages: no size limit, no [          ] labeling needed (term).",
+    "q_zh": "",
+    "a": "isotopic"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::38",
+    "q_en": "GEM reflects the [          ] of ligand protons to the protein surface (term).",
+    "q_zh": "",
+    "a": "proximity"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::39",
+    "q_en": "A bound ligand tumbles like a [          ] molecule (term).",
+    "q_zh": "",
+    "a": "large"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::40",
+    "q_en": "R₂ filter suppresses broad ([          ]) signals (term).",
+    "q_zh": "",
+    "a": "bound"
+   },
+   {
+    "id": "Quiz 13 - NMR Parameters I.md::41",
+    "q_en": "A small ligand bound to a 50 kDa protein shows [          ] (narrow/broad) lines.",
+    "q_zh": "",
+    "a": "broad"
+   }
+  ]
+ },
+ {
+  "id": "sdbm",
+  "name": "Quiz 14 - NMR Parameters II",
+  "cards": [
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::0",
+    "q_en": "The six structural parameters are: chemical shift, NOE, NH exchange, J coupling, RDC, and [          ] (acronym).",
+    "q_zh": "",
+    "a": "PRE"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::1",
+    "q_en": "NOEs give ¹H–¹H distances up to [          ] Å (number).",
+    "q_zh": "",
+    "a": "6"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::2",
+    "q_en": "Amide proton exchange gives [          ] information (term).",
+    "q_zh": "",
+    "a": "H-bond"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::3",
+    "q_en": "J couplings give [          ] angle information (term).",
+    "q_zh": "",
+    "a": "torsion"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::4",
+    "q_en": "RDC gives relative [          ] of intramolecular vectors (term).",
+    "q_zh": "",
+    "a": "orientations"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::5",
+    "q_en": "PRE gives [          ]-range distances (term).",
+    "q_zh": "",
+    "a": "long"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::6",
+    "q_en": "NOE is via [          ] coupling (term).",
+    "q_zh": "",
+    "a": "dipolar (through-space)"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::7",
+    "q_en": "NOE depends on molecular size: large molecules → [          ] (positive/negative) NOE.",
+    "q_zh": "",
+    "a": "negative"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::8",
+    "q_en": "Small molecules → [          ] (positive/negative) NOE.",
+    "q_zh": "",
+    "a": "positive"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::9",
+    "q_en": "Medium molecules → NOE is [          ] (observable/not observable).",
+    "q_zh": "",
+    "a": "not observable"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::10",
+    "q_en": "For medium molecules, use [          ] instead of NOE (term).",
+    "q_zh": "",
+    "a": "ROE"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::11",
+    "q_en": "NOE intensity η = f(τc × [          ]) (formula).",
+    "q_zh": "",
+    "a": "r⁻⁶"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::12",
+    "q_en": "Dipolar coupling acts through space for r ≤ [          ] Å (number).",
+    "q_zh": "",
+    "a": "6"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::13",
+    "q_en": "Spin diffusion produces [          ] (true/false) long-range NOEs.",
+    "q_zh": "",
+    "a": "false"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::14",
+    "q_en": "In solution NMR, dipolar interaction averages to [          ] (term).",
+    "q_zh": "",
+    "a": "zero"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::15",
+    "q_en": "In solid-state NMR, dipolar coupling is [          ] (small/enormous).",
+    "q_zh": "",
+    "a": "enormous"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::16",
+    "q_en": "Partial alignment gives residual dipolar couplings of a few [          ] (unit).",
+    "q_zh": "",
+    "a": "Hz"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::17",
+    "q_en": "RDC = J_aniso − [          ] (term).",
+    "q_zh": "",
+    "a": "J_iso"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::18",
+    "q_en": "Paramagnetism originates from [          ] electrons (term).",
+    "q_zh": "",
+    "a": "unpaired"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::19",
+    "q_en": "The electron magnetic moment is about [          ]× the proton's (number).",
+    "q_zh": "",
+    "a": "10³"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::20",
+    "q_en": "PRE gives distances up to [          ]–24 Å (number).",
+    "q_zh": "",
+    "a": "15"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::21",
+    "q_en": "To calibrate NOE distances, use known distances: HN-HN(i+3) in [          ] (term).",
+    "q_zh": "",
+    "a": "α-helix"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::22",
+    "q_en": "HN-HN(i+1) calibration is in [          ] (term).",
+    "q_zh": "",
+    "a": "β-sheet"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::23",
+    "q_en": "Distance calibration: r_target = (NOE_ref/NOE_target)^[          ] × r_ref (fraction).",
+    "q_zh": "",
+    "a": "1/6"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::24",
+    "q_en": "NOE mixing time is typically [          ]–150 ms (number).",
+    "q_zh": "",
+    "a": "100"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::25",
+    "q_en": "Alignment media include bicelles, purple membrane, and [          ] (term).",
+    "q_zh": "",
+    "a": "Pf1"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::26",
+    "q_en": "To measure RDC, compare HSQC with and without [          ] decoupling (term).",
+    "q_zh": "",
+    "a": "¹⁵N"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::27",
+    "q_en": "The one-bond ¹⁵N-¹H scalar coupling is about [          ]–95 Hz (number).",
+    "q_zh": "",
+    "a": "92"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::28",
+    "q_en": "Isotropic paramagnetic centers (Mn²⁺, Gd³⁺, nitroxide) give PRE ∝ [          ] (formula).",
+    "q_zh": "",
+    "a": "r⁻⁶"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::29",
+    "q_en": "Isotropic centers produce [          ] (no/some) PCS.",
+    "q_zh": "",
+    "a": "no"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::30",
+    "q_en": "Anisotropic centers (Co²⁺, lanthanides) give PRE complicated by [          ] (term).",
+    "q_zh": "",
+    "a": "PCS (Curie relaxation)"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::31",
+    "q_en": "Paramagnetic probes are conjugated to surface-exposed [          ] thiol (term).",
+    "q_zh": "",
+    "a": "cysteine"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::32",
+    "q_en": "Γ₂ = R₂,para − [          ] (term).",
+    "q_zh": "",
+    "a": "R₂,dia"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::33",
+    "q_en": "PRE improves backbone RMSD in SOD from 1.59 to [          ] Å (number).",
+    "q_zh": "",
+    "a": "1.18"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::34",
+    "q_en": "PRE detects minor states with P_B = [          ]% (number).",
+    "q_zh": "",
+    "a": "1"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::35",
+    "q_en": "Long-range NOEs (far in sequence) give the [          ] information (term).",
+    "q_zh": "",
+    "a": "folding"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::36",
+    "q_en": "The number of assigned NOEs correlates with structure [          ] (term).",
+    "q_zh": "",
+    "a": "resolution (quality)"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::37",
+    "q_en": "Wrong NOE assignment introduces serious [          ] (term).",
+    "q_zh": "",
+    "a": "distortions"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::38",
+    "q_en": "Ambiguous NOEs (methyl groups) give [          ] distance constraints (term).",
+    "q_zh": "",
+    "a": "ambiguous"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::39",
+    "q_en": "Low proton density (deuterated proteins) gives [          ] (enough/insufficient) NOEs.",
+    "q_zh": "",
+    "a": "insufficient"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::40",
+    "q_en": "Elongated molecules: NOE errors propagate [          ] (term).",
+    "q_zh": "",
+    "a": "end-to-end"
+   },
+   {
+    "id": "Quiz 14 - NMR Parameters II.md::41",
+    "q_en": "NMR structures are [          ] because no direct image exists (term).",
+    "q_zh": "",
+    "a": "ensembles"
+   }
+  ]
+ },
+ {
+  "id": "sdbm",
+  "name": "Quiz 15 - NMR Structure Calculation",
+  "cards": [
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::0",
+    "q_en": "Structure calculation uses constrained [          ] dynamics (term).",
+    "q_zh": "",
+    "a": "molecular"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::1",
+    "q_en": "The energy function is V = V_physical + [          ] (term).",
+    "q_zh": "",
+    "a": "V_experimental"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::2",
+    "q_en": "Experimental data alone are [          ] (sufficient/insufficient) — the problem is underdetermined.",
+    "q_zh": "",
+    "a": "insufficient"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::3",
+    "q_en": "Constraints can be considered as [          ] connecting atoms (term).",
+    "q_zh": "",
+    "a": "springs"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::4",
+    "q_en": "The solution is atoms arranged with all springs [          ] (relaxed/stretched).",
+    "q_zh": "",
+    "a": "relaxed"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::5",
+    "q_en": "Molecular dynamics is based on Newton's second law F = [          ] (formula).",
+    "q_zh": "",
+    "a": "m·a"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::6",
+    "q_en": "The force is the gradient of the potential [          ] (term).",
+    "q_zh": "",
+    "a": "energy (V)"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::7",
+    "q_en": "V_physical includes V_bond, V_angle, V_dihedral, V_vdw, and [          ] (term).",
+    "q_zh": "",
+    "a": "V_elec"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::8",
+    "q_en": "V_experimental includes V_NOE, V_torsion, V_RDC, and [          ] (term).",
+    "q_zh": "",
+    "a": "V_PRE"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::9",
+    "q_en": "NMR restraints enter as a [          ] (term).",
+    "q_zh": "",
+    "a": "pseudopotential (pseudoenergy)"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::10",
+    "q_en": "Simulated annealing repeats [          ]–1000 times (number).",
+    "q_zh": "",
+    "a": "200"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::11",
+    "q_en": "The final ensemble has [          ] structures (number).",
+    "q_zh": "",
+    "a": "20"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::12",
+    "q_en": "There is [          ] (a unique/no unique) solution.",
+    "q_zh": "",
+    "a": "no unique"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::13",
+    "q_en": "Precision is the rmsd relative to the [          ] structure (term).",
+    "q_zh": "",
+    "a": "average"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::14",
+    "q_en": "Accuracy is the deviation from the [          ] structure (term).",
+    "q_zh": "",
+    "a": "real"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::15",
+    "q_en": "The NOE pseudopotential is zero between the lower and [          ] bounds (term).",
+    "q_zh": "",
+    "a": "upper"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::16",
+    "q_en": "The NOE force constant is K_NOE, with units kcal·mol⁻¹·[          ]⁻² (unit).",
+    "q_zh": "",
+    "a": "nm"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::17",
+    "q_en": "Higher K_NOE → [          ] (steeper/flatter) potential.",
+    "q_zh": "",
+    "a": "steeper"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::18",
+    "q_en": "Constraint violation increases V → potential energy [          ] (term).",
+    "q_zh": "",
+    "a": "gradient"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::19",
+    "q_en": "The higher the temperature, the higher the [          ] energy (term).",
+    "q_zh": "",
+    "a": "kinetic"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::20",
+    "q_en": "High temperature enables crossing potential energy [          ] (term).",
+    "q_zh": "",
+    "a": "barriers"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::21",
+    "q_en": "The simulated annealing protocol: initial → minimize → heat to [          ] °C → cool → minimize (number).",
+    "q_zh": "",
+    "a": "1000"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::22",
+    "q_en": "During cooling, the force constants are [          ] (increased/decreased).",
+    "q_zh": "",
+    "a": "increased"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::23",
+    "q_en": "Initial conformations are random or [          ] (term).",
+    "q_zh": "",
+    "a": "extended"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::24",
+    "q_en": "The 20 best structures are chosen by total and [          ] energy (term).",
+    "q_zh": "",
+    "a": "experimental"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::25",
+    "q_en": "Convergence means [          ] (close/divergent) energies within the ensemble.",
+    "q_zh": "",
+    "a": "close"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::26",
+    "q_en": "Automatic calculation requires nearly complete [          ] assignment (term).",
+    "q_zh": "",
+    "a": "resonance"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::27",
+    "q_en": "Spectra must be correctly [          ] (term).",
+    "q_zh": "",
+    "a": "referenced"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::28",
+    "q_en": "NOE assignment is [          ]: assignment → calculation → extend assignment (term).",
+    "q_zh": "",
+    "a": "iterative"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::29",
+    "q_en": "Network-anchoring uses a triangular [          ] connection to confirm assignments (term).",
+    "q_zh": "",
+    "a": "ABX"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::30",
+    "q_en": "HADDOCK stands for High Ambiguity Driven [          ] (term).",
+    "q_zh": "",
+    "a": "DOCKing"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::31",
+    "q_en": "Cross-saturation irradiates protein II and observes protein I in [          ] (term).",
+    "q_zh": "",
+    "a": "D₂O"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::32",
+    "q_en": "D₂O is used in cross-saturation to diminish [          ] (term).",
+    "q_zh": "",
+    "a": "spin diffusion"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::33",
+    "q_en": "Interface residues in cross-saturation show [          ] (increased/reduced) intensity.",
+    "q_zh": "",
+    "a": "reduced"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::34",
+    "q_en": "LolA/LolB have [          ]% sequence identity (number).",
+    "q_zh": "",
+    "a": "8"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::35",
+    "q_en": "LolA/LolB K_D from ITC is [          ] µM (number).",
+    "q_zh": "",
+    "a": "30"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::36",
+    "q_en": "CSP on LolA/LolB identified the binding [          ] (term).",
+    "q_zh": "",
+    "a": "interface"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::37",
+    "q_en": "The statistics table gives backbone RMSD of [          ] Å (number).",
+    "q_zh": "",
+    "a": "0.55"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::38",
+    "q_en": "Heavy-atom RMSD is [          ] Å (number).",
+    "q_zh": "",
+    "a": "1.18"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::39",
+    "q_en": "Distance violations > [          ] Å are counted (number).",
+    "q_zh": "",
+    "a": "0.2"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::40",
+    "q_en": "The Ramachandran plot shows [          ]/ψ (symbol).",
+    "q_zh": "",
+    "a": "φ"
+   },
+   {
+    "id": "Quiz 15 - NMR Structure Calculation.md::41",
+    "q_en": "White regions in the Ramachandran plot are [          ] conformations (term).",
+    "q_zh": "",
+    "a": "forbidden"
+   }
+  ]
+ },
+ {
   "id": "iscb",
   "name": "Quiz 0 - SEM EDX 3D EM (TEM PERNET GALLAY KARIN)",
   "cards": [
