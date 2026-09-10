@@ -80,15 +80,27 @@ button.ghost { border-color: transparent; color: var(--muted); }
 }
 .q-en { font-size: 17px; line-height: 1.5; margin-bottom: 14px; }
 .q-zh { font-size: 15px; line-height: 1.6; color: var(--muted); }
-.a-text { font-size: 15px; line-height: 1.65; white-space: pre-wrap; color: var(--fg); }
-.a-text::before { content: "» ANSWER\n"; font-size: 11px; color: var(--fg-dim); letter-spacing: 2px; display: block; margin-bottom: 10px; }
+.a-text { font-size: 15px; line-height: 1.65; white-space: pre-wrap; color: var(--fg); display: none; }
+.a-text::before { content: "» ANSWER"; font-size: 11px; color: var(--fg-dim); letter-spacing: 2px; display: block; margin-bottom: 10px; }
 
 .hint { text-align: center; font-size: 12px; color: var(--fg-dim); margin-top: 14px; }
 
-/* 翻面状态 */
-.card.flipped .front { display: none; }
-.card .back { display: none; }
-.card.flipped .back { display: block; }
+/* 答案显隐 */
+.card.flipped .a-text { display: block; }
+
+/* ---------- MCQ 选项 ---------- */
+.options { display: none; margin-top: 14px; }
+.card.mcq .options { display: block; }
+.opt {
+  display: block; width: 100%; text-align: left;
+  padding: 13px 14px; margin-bottom: 9px;
+  background: var(--bg2); border: 1px solid var(--border); border-radius: 10px;
+  font-size: 15px; line-height: 1.5; color: var(--fg);
+}
+.opt:active { background: var(--card); }
+.opt.correct { border-color: var(--know); background: rgba(124,255,138,.15); color: var(--know); }
+.opt.wrong { border-color: var(--again); background: rgba(255,138,124,.15); color: var(--again); }
+.opt.locked { pointer-events: none; opacity: .85; }
 
 /* ---------- 动作按钮 ---------- */
 .actions {
@@ -100,6 +112,7 @@ button.ghost { border-color: transparent; color: var(--muted); }
 }
 .act.know { border-color: var(--know); background: rgba(124,255,138,.12); color: var(--know); }
 .act.again { border-color: var(--again); background: rgba(255,138,124,.12); color: var(--again); }
+.act.next { border-color: var(--fg); background: rgba(141,255,158,.1); color: var(--fg); }
 
 /* 空态 */
 .empty {
