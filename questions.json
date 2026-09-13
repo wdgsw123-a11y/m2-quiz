@@ -5103,297 +5103,1197 @@
  },
  {
   "id": "sdbm",
-  "name": "Quiz 12 - NMR Isotopic Labeling",
+  "name": "Quiz 12 - NMR Principles",
   "cards": [
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::0",
+    "id": "Quiz 12 - NMR Principles.md::0",
     "type": "fill",
-    "q_en": "NMR requires nuclear spin I = [          ] (fraction).",
+    "q_en": "NMR requires nuclear spin, an intrinsic magnetic property that behaves as an angular [          ] (term).",
     "q_zh": "",
-    "a": "1/2"
+    "a": "momentum"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::1",
+    "id": "Quiz 12 - NMR Principles.md::1",
     "type": "fill",
-    "q_en": "¹²C and ¹⁴N have [          ] (no/some) spin 1/2.",
+    "q_en": "The nuclear magnetic moment is μ = [          ] (formula, using γ, ℏ, I).",
     "q_zh": "",
-    "a": "no"
+    "a": "γℏI"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::2",
+    "id": "Quiz 12 - NMR Principles.md::2",
     "type": "fill",
-    "q_en": "They must be replaced by ¹⁵N and [          ] (isotope).",
+    "q_en": "For even A, even Z nuclei (e.g. ¹²C, ¹⁶O), the nuclear spin I = [          ] (number).",
     "q_zh": "",
-    "a": "¹³C"
+    "a": "0"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::3",
+    "id": "Quiz 12 - NMR Principles.md::3",
+    "type": "fill",
+    "q_en": "For odd A nuclei (e.g. ¹H, ¹³C, ¹⁵N, ³¹P, ¹⁹F), spin I = [          ] (general rule).",
+    "q_zh": "",
+    "a": "n/2 (half-integer)"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::4",
+    "type": "fill",
+    "q_en": "¹H has the highest gyromagnetic ratio, γ = [          ] ×10⁷ rad·T⁻¹·s⁻¹ (number).",
+    "q_zh": "",
+    "a": "26.7519"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::5",
     "type": "fill",
     "q_en": "¹⁵N has a [          ] (positive/negative) gyromagnetic ratio.",
     "q_zh": "",
     "a": "negative"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::4",
+    "id": "Quiz 12 - NMR Principles.md::6",
+    "type": "fill",
+    "q_en": "Isidor Isaac Rabi received the Physics Nobel in [          ] for μ = γℏI (year).",
+    "q_zh": "",
+    "a": "1944"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::7",
+    "type": "fill",
+    "q_en": "The Zeeman interaction energy is E = [          ] (formula).",
+    "q_zh": "",
+    "a": "−μ·B₀"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::8",
+    "type": "fill",
+    "q_en": "For a spin 1/2, the two energy levels are Eα = −γℏB₀/2 and Eβ = [          ] (formula).",
+    "q_zh": "",
+    "a": "+γℏB₀/2"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::9",
+    "type": "fill",
+    "q_en": "The energy gap between the two spin states is ΔE = [          ] (formula).",
+    "q_zh": "",
+    "a": "γℏB₀"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::10",
+    "type": "fill",
+    "q_en": "The Boltzmann distribution of spin populations is Nα/Nβ = [          ] (formula).",
+    "q_zh": "",
+    "a": "e^(γℏB₀/kBT)"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::11",
+    "type": "fill",
+    "q_en": "For 500 μL of a 1 mM sample, the number of molecules i ≈ [          ] (scientific notation).",
+    "q_zh": "",
+    "a": "3×10¹⁷"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::12",
+    "type": "fill",
+    "q_en": "At 600 MHz, the population difference ΔN/N ≈ [          ] (percentage).",
+    "q_zh": "",
+    "a": "0.00483%"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::13",
+    "type": "fill",
+    "q_en": "The equilibrium magnetization along z is M = N(γℏ)²B₀/[          ] (formula).",
+    "q_zh": "",
+    "a": "4kT"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::14",
+    "type": "fill",
+    "q_en": "In Purcell's view, resonance absorption occurs when the photon energy hν = [          ] (formula).",
+    "q_zh": "",
+    "a": "γℏB₀"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::15",
+    "type": "fill",
+    "q_en": "The Larmor frequency is ν₀ = [          ] (formula).",
+    "q_zh": "",
+    "a": "γB₀/2π"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::16",
+    "type": "fill",
+    "q_en": "The Larmor precession angular rate is ω₀ = [          ] (formula).",
+    "q_zh": "",
+    "a": "γB₀"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::17",
+    "type": "fill",
+    "q_en": "The resonance condition in the rotating frame is ωrf = [          ] (formula).",
+    "q_zh": "",
+    "a": "γB₀"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::18",
+    "type": "fill",
+    "q_en": "The flip angle produced by a B₁ pulse of duration tP is θ = [          ] (formula).",
+    "q_zh": "",
+    "a": "γB₁tP"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::19",
+    "type": "fill",
+    "q_en": "In the rotating frame at resonance, Mz' evolves as Mz' = [          ] (formula).",
+    "q_zh": "",
+    "a": "M₀ cos(γB₁t)"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::20",
+    "type": "fill",
+    "q_en": "The rotating-frame effective field is Beff = [          ] (formula).",
+    "q_zh": "",
+    "a": "(B₀ − ωrf/γ)ẑ' + B₁"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::21",
+    "type": "fill",
+    "q_en": "Longitudinal relaxation is also called [          ] relaxation (term).",
+    "q_zh": "",
+    "a": "spin–lattice"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::22",
+    "type": "fill",
+    "q_en": "Transverse relaxation is also called [          ] relaxation (term).",
+    "q_zh": "",
+    "a": "spin–spin"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::23",
+    "type": "fill",
+    "q_en": "The T₁ relaxation equation is dMz/dt = [          ] (formula).",
+    "q_zh": "",
+    "a": "(M₀ − Mz)/T₁"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::24",
+    "type": "fill",
+    "q_en": "The solution for longitudinal recovery is Mz = [          ] (formula).",
+    "q_zh": "",
+    "a": "M₀(1 − e^(−t/T₁))"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::25",
+    "type": "fill",
+    "q_en": "The T₂ relaxation equation is dMx,y/dt = [          ] (formula).",
+    "q_zh": "",
+    "a": "−Mx,y/T₂"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::26",
+    "type": "fill",
+    "q_en": "The FID decays as M(t) = M₀ exp(iω₀t) exp(−t/[          ]) (term).",
+    "q_zh": "",
+    "a": "T₂"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::27",
+    "type": "fill",
+    "q_en": "In inversion-recovery, Mz(t) = M₀(1 − 2e^(−t/T₁)) and the null occurs at τ = [          ] T₁ (number).",
+    "q_zh": "",
+    "a": "0.69"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::28",
+    "type": "fill",
+    "q_en": "T₂* includes B₀ field inhomogeneity: 1/T₂* = 1/T₂ + [          ] (term).",
+    "q_zh": "",
+    "a": "B₀ inhomogeneity"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::29",
+    "type": "fill",
+    "q_en": "The Hahn spin-echo uses a π/2x – τ – [          ] – τ sequence (term).",
+    "q_zh": "",
+    "a": "πy"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::30",
+    "type": "fill",
+    "q_en": "The Carr–Purcell–Meiboom–Gill sequence is abbreviated [          ] (term).",
+    "q_zh": "",
+    "a": "CPMG"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::31",
+    "type": "fill",
+    "q_en": "The NMR signal is detected in the [          ] plane after a 90° pulse (term).",
+    "q_zh": "",
+    "a": "xy (transverse)"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::32",
+    "type": "fill",
+    "q_en": "The signal-to-noise ratio scales as √n, where n is the number of [          ] (term).",
+    "q_zh": "",
+    "a": "scans"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::33",
+    "type": "fill",
+    "q_en": "Sensitivity scales as S ∝ γ_exc γ_det^(3/2) B₀^[          ] (number).",
+    "q_zh": "",
+    "a": "3/2"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::34",
+    "type": "fill",
+    "q_en": "For quantitative NMR, S/N must be 250:1 for ¹H and [          ]:1 for ³¹P (number).",
+    "q_zh": "",
+    "a": "600"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::35",
+    "type": "fill",
+    "q_en": "The Fourier transform converts time-domain data into [          ] domain (term).",
+    "q_zh": "",
+    "a": "frequency"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::36",
+    "type": "fill",
+    "q_en": "The Fourier transform is S(ω) = ∫ s(t) exp([          ]) dt (formula, integrand).",
+    "q_zh": "",
+    "a": "−iωt"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::37",
+    "type": "fill",
+    "q_en": "The FT of an exponential decay gives a [          ] lineshape (term).",
+    "q_zh": "",
+    "a": "Lorentzian"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::38",
+    "type": "fill",
+    "q_en": "The linewidth at half height is [          ] (formula).",
+    "q_zh": "",
+    "a": "1/(πT₂)"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::39",
+    "type": "fill",
+    "q_en": "The acquisition time aq = TD × DW, where the dwell time DW = 1/([          ]) (formula).",
+    "q_zh": "",
+    "a": "2SW"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::40",
+    "type": "fill",
+    "q_en": "An exponential window e^(−LB·t) increases sensitivity but [          ] resolution (term).",
+    "q_zh": "",
+    "a": "reduces"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles.md::41",
+    "type": "fill",
+    "q_en": "A Gaussian window increases resolution but [          ] sensitivity (term).",
+    "q_zh": "",
+    "a": "reduces"
+   }
+  ]
+ },
+ {
+  "id": "sdbm",
+  "name": "Quiz 13 - NMR Observables",
+  "cards": [
+   {
+    "id": "Quiz 13 - NMR Observables.md::0",
+    "type": "fill",
+    "q_en": "Chemical shift δ = 10⁶ × (ν_obs − ν_ref) / [          ] (term).",
+    "q_zh": "",
+    "a": "ν₀"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::1",
+    "type": "fill",
+    "q_en": "Chemical shift is expressed in [          ] (unit).",
+    "q_zh": "",
+    "a": "ppm"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::2",
+    "type": "fill",
+    "q_en": "The effective field felt by a shielded nucleus is B_eff = B₀(1 − [          ]) (symbol).",
+    "q_zh": "",
+    "a": "σ"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::3",
+    "type": "fill",
+    "q_en": "Linewidth Δν = 1/(π × [          ]) (term).",
+    "q_zh": "",
+    "a": "T₂"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::4",
+    "type": "fill",
+    "q_en": "The integral is proportional to [          ], the equilibrium magnetization (symbol).",
+    "q_zh": "",
+    "a": "M₀"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::5",
+    "type": "fill",
+    "q_en": "The integral gives access to the number of [          ] in the corresponding resonance (term).",
+    "q_zh": "",
+    "a": "protons (nuclei)"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::6",
+    "type": "fill",
+    "q_en": "Chemical shift reports on the (electronic) chemical [          ] of the nucleus (term).",
+    "q_zh": "",
+    "a": "environment"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::7",
+    "type": "fill",
+    "q_en": "Inductive effects on chemical shift relate to Pauling [          ] (term).",
+    "q_zh": "",
+    "a": "electronegativity"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::8",
+    "type": "fill",
+    "q_en": "In mesomeric effects, the aromatic ring current of benzene places its protons at [          ] ppm (number).",
+    "q_zh": "",
+    "a": "7.17"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::9",
+    "type": "fill",
+    "q_en": "In magnetic anisotropy, the shielding effect is denoted [          ] and deshielding [          ] (two signs).",
+    "q_zh": "",
+    "a": "(+); (−)"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::10",
+    "type": "fill",
+    "q_en": "In liquids the isotropic chemical shift is σ_iso = (σ_xx + σ_yy + σ_zz) / [          ] (number).",
+    "q_zh": "",
+    "a": "3"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::11",
+    "type": "fill",
+    "q_en": "In solids, the orientation dependence of the chemical shift gives a [          ] spectrum (term).",
+    "q_zh": "",
+    "a": "powder"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::12",
+    "type": "fill",
+    "q_en": "For a paramagnetic center the shielding is σ = σ_d + [          ] (term).",
+    "q_zh": "",
+    "a": "σ_p"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::13",
+    "type": "fill",
+    "q_en": "The pKa of His measured by pH-dependent chemical shift is [          ] ± 0.05 (number).",
+    "q_zh": "",
+    "a": "5.91"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::14",
+    "type": "fill",
+    "q_en": "Scalar (J) coupling is a [          ]-bond interaction (through-bond / through-space).",
+    "q_zh": "",
+    "a": "through"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::15",
+    "type": "fill",
+    "q_en": "For a spin-½ AXₙ system, the number of resonance lines is [          ] (formula).",
+    "q_zh": "",
+    "a": "n + 1"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::16",
+    "type": "fill",
+    "q_en": "In the general case the number of resonances is 2nI + [          ] (number).",
+    "q_zh": "",
+    "a": "1"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::17",
+    "type": "fill",
+    "q_en": "The intensity pattern for an AX₃ system follows Pascal's triangle: [          ] (four numbers).",
+    "q_zh": "",
+    "a": "1 3 3 1"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::18",
+    "type": "fill",
+    "q_en": "¹J_C-H lies in the range [          ] to 250 Hz (number).",
+    "q_zh": "",
+    "a": "125"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::19",
+    "type": "fill",
+    "q_en": "³J_H-H (vicinal protons) lies in the range 0 to [          ] Hz (number).",
+    "q_zh": "",
+    "a": "20"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::20",
+    "type": "fill",
+    "q_en": "The Karplus equation for 0 ≤ φ ≤ 90° is ³J = 8.5 cos²φ − [          ] (number).",
+    "q_zh": "",
+    "a": "0.28"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::21",
+    "type": "fill",
+    "q_en": "Dipolar coupling is a [          ]-space interaction (through-bond / through-space).",
+    "q_zh": "",
+    "a": "through"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::22",
+    "type": "fill",
+    "q_en": "In liquids, dipolar couplings average to [          ] due to molecular motion (number).",
+    "q_zh": "",
+    "a": "zero (0)"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::23",
+    "type": "fill",
+    "q_en": "In solid-state NMR, orientation-dependent dipolar couplings produce a [          ] pattern (term).",
+    "q_zh": "",
+    "a": "broad (Pake)"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::24",
+    "type": "fill",
+    "q_en": "MAS stands for Magic Angle [          ] (term).",
+    "q_zh": "",
+    "a": "Spinning"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::25",
+    "type": "fill",
+    "q_en": "Under MAS, the CSA pattern breaks up into a series of [          ] sidebands (term).",
+    "q_zh": "",
+    "a": "spinning"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::26",
+    "type": "fill",
+    "q_en": "The ¹⁵N amide CSA is about [          ] ppm (number).",
+    "q_zh": "",
+    "a": "120"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::27",
+    "type": "fill",
+    "q_en": "The ¹³C carbonyl CSA is about [          ] ppm (number).",
+    "q_zh": "",
+    "a": "80"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::28",
+    "type": "fill",
+    "q_en": "The NOE arises from selective [          ] (irradiation) of one spin (term).",
+    "q_zh": "",
+    "a": "saturation (irradiation)"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::29",
+    "type": "fill",
+    "q_en": "The cross-relaxation rate is σ_IS = W₂ − [          ] (term).",
+    "q_zh": "",
+    "a": "W₀"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::30",
+    "type": "fill",
+    "q_en": "W₂ is the [          ]-quantum transition between αα and ββ (term).",
+    "q_zh": "",
+    "a": "double"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::31",
+    "type": "fill",
+    "q_en": "W₀ is the [          ]-quantum transition between αβ and βα (term).",
+    "q_zh": "",
+    "a": "zero"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::32",
+    "type": "fill",
+    "q_en": "For small molecules σ_IS > 0, so the NOE is [          ] (positive/negative).",
+    "q_zh": "",
+    "a": "positive"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::33",
+    "type": "fill",
+    "q_en": "For large molecules the NOE is [          ] (positive/negative).",
+    "q_zh": "",
+    "a": "negative"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::34",
+    "type": "fill",
+    "q_en": "The small-molecule H–H NOE factor is [          ] (number).",
+    "q_zh": "",
+    "a": "0.5"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::35",
+    "type": "fill",
+    "q_en": "The rotational correlation time is τc = 4πηr³ / (3 × [          ]) (term).",
+    "q_zh": "",
+    "a": "kT"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::36",
+    "type": "fill",
+    "q_en": "τc is the time for a molecule to rotate by one [          ] (term).",
+    "q_zh": "",
+    "a": "radian"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::37",
+    "type": "fill",
+    "q_en": "It is always true that T₂ [          ] T₁ (≤ / ≥).",
+    "q_zh": "",
+    "a": "≤"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::38",
+    "type": "fill",
+    "q_en": "In the extreme-narrowing limit of small molecules, T₂ [          ] T₁ (= / <).",
+    "q_zh": "",
+    "a": "="
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::39",
+    "type": "fill",
+    "q_en": "For large molecules (slow τc), T₂ [          ] T₁ (= / <).",
+    "q_zh": "",
+    "a": "<"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::40",
+    "type": "fill",
+    "q_en": "In slow exchange, the populations of the separate signals reflect their relative [          ] (term).",
+    "q_zh": "",
+    "a": "stability"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables.md::41",
+    "type": "fill",
+    "q_en": "For two-site exchange, k_ex = k_A + [          ] (term).",
+    "q_zh": "",
+    "a": "k_B"
+   }
+  ]
+ },
+ {
+  "id": "sdbm",
+  "name": "Quiz 14 - 2D NMR",
+  "cards": [
+   {
+    "id": "Quiz 14 - 2D NMR.md::0",
+    "type": "fill",
+    "q_en": "A 2D NMR experiment spreads the spectrum into [          ] frequency dimensions (number).",
+    "q_zh": "",
+    "a": "2"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::1",
+    "type": "fill",
+    "q_en": "Multidimensional NMR is also called \"spin [          ]\" (term).",
+    "q_zh": "",
+    "a": "chromatography"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::2",
+    "type": "fill",
+    "q_en": "The two time variables in a 2D experiment are t₁ and [          ] (symbol).",
+    "q_zh": "",
+    "a": "t₂"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::3",
+    "type": "fill",
+    "q_en": "A 2D experiment is built from Preparation, Evolution and [          ] (term).",
+    "q_zh": "",
+    "a": "Acquisition"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::4",
+    "type": "fill",
+    "q_en": "The 2D idea was proposed by J. [          ] in 1971 (name).",
+    "q_zh": "",
+    "a": "Jeener"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::5",
+    "type": "fill",
+    "q_en": "The experimental setup was realized by R. [          ] in 1974 (name).",
+    "q_zh": "",
+    "a": "Ernst"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::6",
+    "type": "fill",
+    "q_en": "Ernst received the Nobel Prize in chemistry in [          ] (year).",
+    "q_zh": "",
+    "a": "1991"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::7",
+    "type": "fill",
+    "q_en": "To build a 2D spectrum, first apply the Fourier transform along [          ] (symbol).",
+    "q_zh": "",
+    "a": "t₂"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::8",
+    "type": "fill",
+    "q_en": "This first FT gives a series of spectra modulated by [          ] (symbol).",
+    "q_zh": "",
+    "a": "t₁"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::9",
+    "type": "fill",
+    "q_en": "The second Fourier transform is applied along [          ] (symbol).",
+    "q_zh": "",
+    "a": "t₁"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::10",
+    "type": "fill",
+    "q_en": "Peaks on the diagonal correspond to peaks in the [          ] spectrum (term).",
+    "q_zh": "",
+    "a": "1D"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::11",
+    "type": "fill",
+    "q_en": "Out-of-diagonal (cross) peaks evidence [          ] between spins (term).",
+    "q_zh": "",
+    "a": "correlations"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::12",
+    "type": "fill",
+    "q_en": "A 2D spectrum is represented as [          ] cut at a defined threshold (term).",
+    "q_zh": "",
+    "a": "contours"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::13",
+    "type": "fill",
+    "q_en": "In the contour representation, the third dimension is peak [          ] (term).",
+    "q_zh": "",
+    "a": "intensity"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::14",
+    "type": "fill",
+    "q_en": "Scalar coupling is a through-[          ] interaction (term).",
+    "q_zh": "",
+    "a": "bond"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::15",
+    "type": "fill",
+    "q_en": "Dipolar coupling is a through-[          ] interaction (term).",
+    "q_zh": "",
+    "a": "space"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::16",
+    "type": "fill",
+    "q_en": "Scalar coupling is used for 2D [          ] spectroscopy such as COSY (term).",
+    "q_zh": "",
+    "a": "correlation"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::17",
+    "type": "fill",
+    "q_en": "During the NOESY mixing period, the interaction used is the [          ] coupling (term).",
+    "q_zh": "",
+    "a": "dipolar"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::18",
+    "type": "fill",
+    "q_en": "To collect a 2D experiment, one must design a pulse sequence with an [          ] time period (term).",
+    "q_zh": "",
+    "a": "incremental"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::19",
+    "type": "fill",
+    "q_en": "The additional dimension is created by incrementing [          ] between scans (symbol).",
+    "q_zh": "",
+    "a": "t₁"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::20",
+    "type": "fill",
+    "q_en": "The number of Fourier transforms in a 2D experiment is [          ] (number).",
+    "q_zh": "",
+    "a": "2"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::21",
+    "type": "fill",
+    "q_en": "The COSY pulse sequence is π/2(φ₁) – t₁ – π/2(φ₂) – [          ] (symbol, acquisition).",
+    "q_zh": "",
+    "a": "t₂"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::22",
+    "type": "fill",
+    "q_en": "The first π/2 pulse creates [          ] magnetization (term).",
+    "q_zh": "",
+    "a": "transverse"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::23",
+    "type": "fill",
+    "q_en": "COSY exploits homonuclear [          ] scalar coupling (nucleus).",
+    "q_zh": "",
+    "a": "¹H"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::24",
+    "type": "fill",
+    "q_en": "The phase cycle for φ₁ is x, y, −x, [          ] (phase).",
+    "q_zh": "",
+    "a": "−y"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::25",
+    "type": "fill",
+    "q_en": "In product operator formalism, the starting state at equilibrium is [          ] (operator).",
+    "q_zh": "",
+    "a": "Î₁z"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::26",
+    "type": "fill",
+    "q_en": "During t₁, magnetization evolves under Larmor [          ] and scalar coupling J (term).",
+    "q_zh": "",
+    "a": "precession"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::27",
+    "type": "fill",
+    "q_en": "Scalar coupling during t₁ generates anti-phase terms such as 2Î₁x[          ] (operator).",
+    "q_zh": "",
+    "a": "Î₂z"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::28",
+    "type": "fill",
+    "q_en": "Diagonal peaks are also called [          ] peaks at (ω₁, ω₁) (term).",
+    "q_zh": "",
+    "a": "autocorrelation"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::29",
+    "type": "fill",
+    "q_en": "Cross peaks are also called [          ] peaks at (ω₁, ω₂) (term).",
+    "q_zh": "",
+    "a": "cross-correlation"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::30",
+    "type": "fill",
+    "q_en": "Autocorrelation peaks are in-phase [          ] in both t₁ and t₂ (term).",
+    "q_zh": "",
+    "a": "dispersion"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::31",
+    "type": "fill",
+    "q_en": "Cross-correlation peaks are anti-phase [          ] in both t₁ and t₂ (term).",
+    "q_zh": "",
+    "a": "absorption"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::32",
+    "type": "fill",
+    "q_en": "In proteins, the HN–Hα correlation region is the protein [          ] (term).",
+    "q_zh": "",
+    "a": "fingerprint"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::33",
+    "type": "fill",
+    "q_en": "Glycine has a particular COSY signature because it has [          ] Hα protons (number).",
+    "q_zh": "",
+    "a": "2"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::34",
+    "type": "fill",
+    "q_en": "COSY and TOCSY give [          ]-residue connectivities (prefix).",
+    "q_zh": "",
+    "a": "intra"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::35",
+    "type": "fill",
+    "q_en": "NOESY uses dipolar coupling during the [          ] period (term).",
+    "q_zh": "",
+    "a": "mixing"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::36",
+    "type": "fill",
+    "q_en": "NOESY gives [          ]-residue connectivities (prefix).",
+    "q_zh": "",
+    "a": "inter"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::37",
+    "type": "fill",
+    "q_en": "ROESY is advantageous for molecules of [          ] size because of sensitivity (term).",
+    "q_zh": "",
+    "a": "small/medium"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::38",
+    "type": "fill",
+    "q_en": "A negative peak in a ROESY spectrum indicates chemical [          ] (term).",
+    "q_zh": "",
+    "a": "exchange"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::39",
+    "type": "fill",
+    "q_en": "HSQC transfers coherence from ¹H to the heteronucleus by [          ] (term).",
+    "q_zh": "",
+    "a": "INEPT"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::40",
+    "type": "fill",
+    "q_en": "The INEPT delay is 2τ = 1/2[          ] (symbol).",
+    "q_zh": "",
+    "a": "J"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR.md::41",
+    "type": "fill",
+    "q_en": "The (¹H,¹⁵N)-HSQC spectrum is the [          ] spectrum of a protein (term).",
+    "q_zh": "",
+    "a": "fingerprint"
+   }
+  ]
+ },
+ {
+  "id": "sdbm",
+  "name": "Quiz 15 - NMR Isotopic Labeling",
+  "cards": [
+   {
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::0",
+    "type": "fill",
+    "q_en": "NMR requires nuclear spin I = [          ] (fraction).",
+    "q_zh": "",
+    "a": "1/2"
+   },
+   {
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::1",
+    "type": "fill",
+    "q_en": "¹²C and ¹⁴N have [          ] (no/some) spin 1/2.",
+    "q_zh": "",
+    "a": "no"
+   },
+   {
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::2",
+    "type": "fill",
+    "q_en": "They must be replaced by ¹⁵N and [          ] (isotope).",
+    "q_zh": "",
+    "a": "¹³C"
+   },
+   {
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::3",
+    "type": "fill",
+    "q_en": "¹⁵N has a [          ] (positive/negative) gyromagnetic ratio.",
+    "q_zh": "",
+    "a": "negative"
+   },
+   {
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::4",
     "type": "fill",
     "q_en": "¹H has γ = [          ] ×10⁸ rad·T⁻¹·s⁻¹ (number).",
     "q_zh": "",
     "a": "2.675"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::5",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::5",
     "type": "fill",
     "q_en": "¹³C has γ = [          ] ×10⁸ rad·T⁻¹·s⁻¹ (number).",
     "q_zh": "",
     "a": "0.673"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::6",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::6",
     "type": "fill",
     "q_en": "Deuteration decreases transverse relaxation, R₂ ∝ [          ] (formula).",
     "q_zh": "",
     "a": "γ_i²γ_j²"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::7",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::7",
     "type": "fill",
     "q_en": "The ¹H-¹⁵N HSQC is the [          ] spectrum of a protein (term).",
     "q_zh": "",
     "a": "fingerprint"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::8",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::8",
     "type": "fill",
     "q_en": "Each amino acid (except [          ]) has one amide proton (term).",
     "q_zh": "",
     "a": "proline"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::9",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::9",
     "type": "fill",
     "q_en": "The ¹H-¹³C HSQC separates protons bound to [          ] (term).",
     "q_zh": "",
     "a": "carbon"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::10",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::10",
     "type": "fill",
     "q_en": "Deuteration: γ(¹H) = [          ] × γ(²H) (number).",
     "q_zh": "",
     "a": "6.5"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::11",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::11",
     "type": "fill",
     "q_en": "Carbon spins relax mainly via directly attached [          ] (term).",
     "q_zh": "",
     "a": "protons"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::12",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::12",
     "type": "fill",
     "q_en": "Spin diffusion is faster in [          ] (large/small) proteins.",
     "q_zh": "",
     "a": "large"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::13",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::13",
     "type": "fill",
     "q_en": "Deuteration improves HSQC quality for proteins above [          ]–40 kDa (number).",
     "q_zh": "",
     "a": "25"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::14",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::14",
     "type": "fill",
     "q_en": "The two problems with increasing protein size are [          ] and [          ] (two terms).",
     "q_zh": "",
     "a": "overlap (resolution); relaxation (linewidth)"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::15",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::15",
     "type": "fill",
     "q_en": "¹⁵N/¹³C labeling spreads the spectrum into [          ] dimensions (term).",
     "q_zh": "",
     "a": "heteronuclear"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::16",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::16",
     "type": "fill",
     "q_en": "The gyromagnetic ratio determines frequency and signal [          ] (term).",
     "q_zh": "",
     "a": "intensity"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::17",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::17",
     "type": "fill",
     "q_en": "γ is a [          ] constant (term).",
     "q_zh": "",
     "a": "physical"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::18",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::18",
     "type": "fill",
     "q_en": "²H has spin I = [          ] (number).",
     "q_zh": "",
     "a": "1"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::19",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::19",
     "type": "fill",
     "q_en": "³¹P has spin I = [          ] (fraction).",
     "q_zh": "",
     "a": "1/2"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::20",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::20",
     "type": "fill",
     "q_en": "¹⁹F has spin I = [          ] (fraction).",
     "q_zh": "",
     "a": "1/2"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::21",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::21",
     "type": "fill",
     "q_en": "To label uniformly, use [          ] media such as M9 (term).",
     "q_zh": "",
     "a": "minimal"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::22",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::22",
     "type": "fill",
     "q_en": "M9 minimal medium uses NH₄Cl and [          ] as C/N sources (term).",
     "q_zh": "",
     "a": "glucose"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::23",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::23",
     "type": "fill",
     "q_en": "For ¹⁵N labeling, replace NH₄Cl with [          ] (term).",
     "q_zh": "",
     "a": "¹⁵NH₄Cl"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::24",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::24",
     "type": "fill",
     "q_en": "For ¹³C labeling, replace glucose with [          ] (term).",
     "q_zh": "",
     "a": "¹³C₆-glucose"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::25",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::25",
     "type": "fill",
     "q_en": "¹⁵NH₄Cl costs about [          ] €/g (number).",
     "q_zh": "",
     "a": "20"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::26",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::26",
     "type": "fill",
     "q_en": "¹³C₆-glucose costs about [          ] €/g (number).",
     "q_zh": "",
     "a": "150"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::27",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::27",
     "type": "fill",
     "q_en": "The M9 recipe per 1 L: Na₂HPO₄·7H₂O [          ] g (number).",
     "q_zh": "",
     "a": "10.0"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::28",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::28",
     "type": "fill",
     "q_en": "To avoid scrambling in amino-acid-specific labeling, consider [          ] pathways (term).",
     "q_zh": "",
     "a": "metabolic"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::29",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::29",
     "type": "fill",
     "q_en": "Transamination prevents amino-acid-specific [          ] labeling (term).",
     "q_zh": "",
     "a": "¹⁵N"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::30",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::30",
     "type": "fill",
     "q_en": "Ile δ1 methyl labeling uses the precursor [          ] (term).",
     "q_zh": "",
     "a": "α-ketoisobutyrate"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::31",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::31",
     "type": "fill",
     "q_en": "Leu/Ile/Val methyl labeling uses [          ] precursors (term).",
     "q_zh": "",
     "a": "glucose-d7"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::32",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::32",
     "type": "fill",
     "q_en": "The deuteration protocol adapts gradually: 3 mL LB → 50 mL (¹H) → 200 mL (²H) → [          ] mL (²H) (number).",
     "q_zh": "",
     "a": "1000"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::33",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::33",
     "type": "fill",
     "q_en": "Exchangeable protons are reintroduced by dissolving in [          ] (term).",
     "q_zh": "",
     "a": "H₂O"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::34",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::34",
     "type": "fill",
     "q_en": "Amide proton exchange is slowed by [          ] (term).",
     "q_zh": "",
     "a": "H-bonds"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::35",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::35",
     "type": "fill",
     "q_en": "H/D exchange: purify in H₂O → [          ] (remove H₂O) → resuspend in D₂O (term).",
     "q_zh": "",
     "a": "lyophilize"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::36",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::36",
     "type": "fill",
     "q_en": "H/D exchange by MS: quench at pH [          ]–3, digest, analyze peptides (number).",
     "q_zh": "",
     "a": "2"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::37",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::37",
     "type": "fill",
     "q_en": "Segmental labeling uses [          ] to label one domain only (term).",
     "q_zh": "",
     "a": "inteins"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::38",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::38",
     "type": "fill",
     "q_en": "Inteins perform autocatalytic [          ] (term).",
     "q_zh": "",
     "a": "splicing"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::39",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::39",
     "type": "fill",
     "q_en": "Cell-free synthesis: the target protein is the [          ] (only/many) synthesized protein.",
     "q_zh": "",
     "a": "only"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::40",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::40",
     "type": "fill",
     "q_en": "In-cell NMR: macromolecules up to [          ] g/L (number).",
     "q_zh": "",
     "a": "400"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling.md::41",
+    "id": "Quiz 15 - NMR Isotopic Labeling.md::41",
     "type": "fill",
     "q_en": "STINT-NMR stands for sequential [          ] for interface mapping (term).",
     "q_zh": "",
@@ -5403,297 +6303,297 @@
  },
  {
   "id": "sdbm",
-  "name": "Quiz 13 - NMR Parameters I",
+  "name": "Quiz 16 - NMR Parameters I",
   "cards": [
    {
-    "id": "Quiz 13 - NMR Parameters I.md::0",
+    "id": "Quiz 16 - NMR Parameters I.md::0",
     "type": "fill",
     "q_en": "The Larmor frequency is ν = [          ] (formula).",
     "q_zh": "",
     "a": "γB/2π"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::1",
+    "id": "Quiz 16 - NMR Parameters I.md::1",
     "type": "fill",
     "q_en": "The chemical shift δ depends on the [          ] B₀ field (term).",
     "q_zh": "",
     "a": "local"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::2",
+    "id": "Quiz 16 - NMR Parameters I.md::2",
     "type": "fill",
     "q_en": "Shielding: electrons induce local fields [          ] (opposed to/aligned with) B₀.",
     "q_zh": "",
     "a": "opposed to"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::3",
+    "id": "Quiz 16 - NMR Parameters I.md::3",
     "type": "fill",
     "q_en": "The secondary chemical shift is Δδ = δ_measured − δ_[          ] (term).",
     "q_zh": "",
     "a": "random coil"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::4",
+    "id": "Quiz 16 - NMR Parameters I.md::4",
     "type": "fill",
     "q_en": "The Chemical Shift Index is abbreviated [          ] (acronym).",
     "q_zh": "",
     "a": "CSI"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::5",
+    "id": "Quiz 16 - NMR Parameters I.md::5",
     "type": "fill",
     "q_en": "TALOS estimates [          ] and ψ torsion angles (symbol).",
     "q_zh": "",
     "a": "φ"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::6",
+    "id": "Quiz 16 - NMR Parameters I.md::6",
     "type": "fill",
     "q_en": "K_D = [          ] (formula).",
     "q_zh": "",
     "a": "k_off/k_on"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::7",
+    "id": "Quiz 16 - NMR Parameters I.md::7",
     "type": "fill",
     "q_en": "The weighted chemical shift difference is Δδ = [          ] (formula).",
     "q_zh": "",
     "a": "[(Δδ_H)² + (0.15Δδ_N)²]^1/2"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::8",
+    "id": "Quiz 16 - NMR Parameters I.md::8",
     "type": "fill",
     "q_en": "Tight binding → [          ] (slow/fast) exchange.",
     "q_zh": "",
     "a": "slow"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::9",
+    "id": "Quiz 16 - NMR Parameters I.md::9",
     "type": "fill",
     "q_en": "Weak binding → [          ] (slow/fast) exchange.",
     "q_zh": "",
     "a": "fast"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::10",
+    "id": "Quiz 16 - NMR Parameters I.md::10",
     "type": "fill",
     "q_en": "In slow exchange, peak intensities reflect the [          ] of two states (term).",
     "q_zh": "",
     "a": "populations"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::11",
+    "id": "Quiz 16 - NMR Parameters I.md::11",
     "type": "fill",
     "q_en": "In fast exchange, populations determine the position of [          ] (term).",
     "q_zh": "",
     "a": "ν_avg"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::12",
+    "id": "Quiz 16 - NMR Parameters I.md::12",
     "type": "fill",
     "q_en": "R₂ = R₂⁰ + [          ] (term).",
     "q_zh": "",
     "a": "R_ex"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::13",
+    "id": "Quiz 16 - NMR Parameters I.md::13",
     "type": "fill",
     "q_en": "Line width is proportional to [          ] (term).",
     "q_zh": "",
     "a": "R₂"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::14",
+    "id": "Quiz 16 - NMR Parameters I.md::14",
     "type": "fill",
     "q_en": "R₂⁰/R₁ is proportional to [          ] (term).",
     "q_zh": "",
     "a": "τc"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::15",
+    "id": "Quiz 16 - NMR Parameters I.md::15",
     "type": "fill",
     "q_en": "The heteronuclear NOE gives information on [          ] bond vector motion (term).",
     "q_zh": "",
     "a": "N–H"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::16",
+    "id": "Quiz 16 - NMR Parameters I.md::16",
     "type": "fill",
     "q_en": "Decreased hetNOE → local motion [          ] (faster/slower) than overall tumbling.",
     "q_zh": "",
     "a": "faster"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::17",
+    "id": "Quiz 16 - NMR Parameters I.md::17",
     "type": "fill",
     "q_en": "The rotational correlation time is τc ≈ MW/[          ] (number).",
     "q_zh": "",
     "a": "2400"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::18",
+    "id": "Quiz 16 - NMR Parameters I.md::18",
     "type": "fill",
     "q_en": "Chemical shift is the most readily and [          ] measurable observable (term).",
     "q_zh": "",
     "a": "accurately"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::19",
+    "id": "Quiz 16 - NMR Parameters I.md::19",
     "type": "fill",
     "q_en": "Single-atom chemical shift is a [          ] (sum/single) of many factors.",
     "q_zh": "",
     "a": "sum"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::20",
+    "id": "Quiz 16 - NMR Parameters I.md::20",
     "type": "fill",
     "q_en": "CS-Rosetta reconstructs the protein [          ] from shifts (term).",
     "q_zh": "",
     "a": "fold"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::21",
+    "id": "Quiz 16 - NMR Parameters I.md::21",
     "type": "fill",
     "q_en": "Intraresidual assignment experiments include COSY, TOCSY, HNCA, and [          ] (term).",
     "q_zh": "",
     "a": "HNCACB (HNCACO)"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::22",
+    "id": "Quiz 16 - NMR Parameters I.md::22",
     "type": "fill",
     "q_en": "Interresidual (sequential) experiments include NOESY, HNCO, and [          ] (term).",
     "q_zh": "",
     "a": "HN(CO)CA"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::23",
+    "id": "Quiz 16 - NMR Parameters I.md::23",
     "type": "fill",
     "q_en": "To identify secondary structure, use the secondary chemical shift of Hα, Cα, C′, and [          ] (term).",
     "q_zh": "",
     "a": "Cβ"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::24",
+    "id": "Quiz 16 - NMR Parameters I.md::24",
     "type": "fill",
     "q_en": "To estimate torsion angles from shifts, use [          ] (term).",
     "q_zh": "",
     "a": "TALOS"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::25",
+    "id": "Quiz 16 - NMR Parameters I.md::25",
     "type": "fill",
     "q_en": "To map a binding interface, plot Δδ vs [          ] (term).",
     "q_zh": "",
     "a": "sequence"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::26",
+    "id": "Quiz 16 - NMR Parameters I.md::26",
     "type": "fill",
     "q_en": "To measure K_D from a fast-exchange titration, follow the shift and [          ] (verb).",
     "q_zh": "",
     "a": "fit"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::27",
+    "id": "Quiz 16 - NMR Parameters I.md::27",
     "type": "fill",
     "q_en": "To measure R₂, use a [          ] echo sequence (term).",
     "q_zh": "",
     "a": "spin"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::28",
+    "id": "Quiz 16 - NMR Parameters I.md::28",
     "type": "fill",
     "q_en": "The spin echo is 90°−Δ−180°−Δ−[          ] (term).",
     "q_zh": "",
     "a": "echo"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::29",
+    "id": "Quiz 16 - NMR Parameters I.md::29",
     "type": "fill",
     "q_en": "The 180° pulse reverses time-invariant [          ] (term).",
     "q_zh": "",
     "a": "dephasing (inhomogeneity)"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::30",
+    "id": "Quiz 16 - NMR Parameters I.md::30",
     "type": "fill",
     "q_en": "CPMG relaxation dispersion uses a rapid [          ] pulse train (term).",
     "q_zh": "",
     "a": "refocusing"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::31",
+    "id": "Quiz 16 - NMR Parameters I.md::31",
     "type": "fill",
     "q_en": "Plot R₂_eff vs ν_CPMG to identify residues in [          ] exchange (term).",
     "q_zh": "",
     "a": "chemical"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::32",
+    "id": "Quiz 16 - NMR Parameters I.md::32",
     "type": "fill",
     "q_en": "CEST probes exchange of 10 s⁻¹ ≤ k_ex ≤ [          ] s⁻¹ (number).",
     "q_zh": "",
     "a": "500"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::33",
+    "id": "Quiz 16 - NMR Parameters I.md::33",
     "type": "fill",
     "q_en": "CEST requires P_b > [          ]% (number).",
     "q_zh": "",
     "a": "0.5"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::34",
+    "id": "Quiz 16 - NMR Parameters I.md::34",
     "type": "fill",
     "q_en": "STD = reference spectrum − [          ] spectrum (term).",
     "q_zh": "",
     "a": "saturation"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::35",
+    "id": "Quiz 16 - NMR Parameters I.md::35",
     "type": "fill",
     "q_en": "STD conditions: fast exchange, K_D between 10⁻⁷ and [          ] M (number).",
     "q_zh": "",
     "a": "10⁻³"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::36",
+    "id": "Quiz 16 - NMR Parameters I.md::36",
     "type": "fill",
     "q_en": "STD requires [L_T] >> [          ] (term).",
     "q_zh": "",
     "a": "P_T"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::37",
+    "id": "Quiz 16 - NMR Parameters I.md::37",
     "type": "fill",
     "q_en": "STD advantages: no size limit, no [          ] labeling needed (term).",
     "q_zh": "",
     "a": "isotopic"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::38",
+    "id": "Quiz 16 - NMR Parameters I.md::38",
     "type": "fill",
     "q_en": "GEM reflects the [          ] of ligand protons to the protein surface (term).",
     "q_zh": "",
     "a": "proximity"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::39",
+    "id": "Quiz 16 - NMR Parameters I.md::39",
     "type": "fill",
     "q_en": "A bound ligand tumbles like a [          ] molecule (term).",
     "q_zh": "",
     "a": "large"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::40",
+    "id": "Quiz 16 - NMR Parameters I.md::40",
     "type": "fill",
     "q_en": "R₂ filter suppresses broad ([          ]) signals (term).",
     "q_zh": "",
     "a": "bound"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I.md::41",
+    "id": "Quiz 16 - NMR Parameters I.md::41",
     "type": "fill",
     "q_en": "A small ligand bound to a 50 kDa protein shows [          ] (narrow/broad) lines.",
     "q_zh": "",
@@ -5703,297 +6603,297 @@
  },
  {
   "id": "sdbm",
-  "name": "Quiz 14 - NMR Parameters II",
+  "name": "Quiz 17 - NMR Parameters II",
   "cards": [
    {
-    "id": "Quiz 14 - NMR Parameters II.md::0",
+    "id": "Quiz 17 - NMR Parameters II.md::0",
     "type": "fill",
     "q_en": "The six structural parameters are: chemical shift, NOE, NH exchange, J coupling, RDC, and [          ] (acronym).",
     "q_zh": "",
     "a": "PRE"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::1",
+    "id": "Quiz 17 - NMR Parameters II.md::1",
     "type": "fill",
     "q_en": "NOEs give ¹H–¹H distances up to [          ] Å (number).",
     "q_zh": "",
     "a": "6"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::2",
+    "id": "Quiz 17 - NMR Parameters II.md::2",
     "type": "fill",
     "q_en": "Amide proton exchange gives [          ] information (term).",
     "q_zh": "",
     "a": "H-bond"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::3",
+    "id": "Quiz 17 - NMR Parameters II.md::3",
     "type": "fill",
     "q_en": "J couplings give [          ] angle information (term).",
     "q_zh": "",
     "a": "torsion"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::4",
+    "id": "Quiz 17 - NMR Parameters II.md::4",
     "type": "fill",
     "q_en": "RDC gives relative [          ] of intramolecular vectors (term).",
     "q_zh": "",
     "a": "orientations"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::5",
+    "id": "Quiz 17 - NMR Parameters II.md::5",
     "type": "fill",
     "q_en": "PRE gives [          ]-range distances (term).",
     "q_zh": "",
     "a": "long"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::6",
+    "id": "Quiz 17 - NMR Parameters II.md::6",
     "type": "fill",
     "q_en": "NOE is via [          ] coupling (term).",
     "q_zh": "",
     "a": "dipolar (through-space)"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::7",
+    "id": "Quiz 17 - NMR Parameters II.md::7",
     "type": "fill",
     "q_en": "NOE depends on molecular size: large molecules → [          ] (positive/negative) NOE.",
     "q_zh": "",
     "a": "negative"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::8",
+    "id": "Quiz 17 - NMR Parameters II.md::8",
     "type": "fill",
     "q_en": "Small molecules → [          ] (positive/negative) NOE.",
     "q_zh": "",
     "a": "positive"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::9",
+    "id": "Quiz 17 - NMR Parameters II.md::9",
     "type": "fill",
     "q_en": "Medium molecules → NOE is [          ] (observable/not observable).",
     "q_zh": "",
     "a": "not observable"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::10",
+    "id": "Quiz 17 - NMR Parameters II.md::10",
     "type": "fill",
     "q_en": "For medium molecules, use [          ] instead of NOE (term).",
     "q_zh": "",
     "a": "ROE"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::11",
+    "id": "Quiz 17 - NMR Parameters II.md::11",
     "type": "fill",
     "q_en": "NOE intensity η = f(τc × [          ]) (formula).",
     "q_zh": "",
     "a": "r⁻⁶"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::12",
+    "id": "Quiz 17 - NMR Parameters II.md::12",
     "type": "fill",
     "q_en": "Dipolar coupling acts through space for r ≤ [          ] Å (number).",
     "q_zh": "",
     "a": "6"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::13",
+    "id": "Quiz 17 - NMR Parameters II.md::13",
     "type": "fill",
     "q_en": "Spin diffusion produces [          ] (true/false) long-range NOEs.",
     "q_zh": "",
     "a": "false"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::14",
+    "id": "Quiz 17 - NMR Parameters II.md::14",
     "type": "fill",
     "q_en": "In solution NMR, dipolar interaction averages to [          ] (term).",
     "q_zh": "",
     "a": "zero"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::15",
+    "id": "Quiz 17 - NMR Parameters II.md::15",
     "type": "fill",
     "q_en": "In solid-state NMR, dipolar coupling is [          ] (small/enormous).",
     "q_zh": "",
     "a": "enormous"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::16",
+    "id": "Quiz 17 - NMR Parameters II.md::16",
     "type": "fill",
     "q_en": "Partial alignment gives residual dipolar couplings of a few [          ] (unit).",
     "q_zh": "",
     "a": "Hz"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::17",
+    "id": "Quiz 17 - NMR Parameters II.md::17",
     "type": "fill",
     "q_en": "RDC = J_aniso − [          ] (term).",
     "q_zh": "",
     "a": "J_iso"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::18",
+    "id": "Quiz 17 - NMR Parameters II.md::18",
     "type": "fill",
     "q_en": "Paramagnetism originates from [          ] electrons (term).",
     "q_zh": "",
     "a": "unpaired"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::19",
+    "id": "Quiz 17 - NMR Parameters II.md::19",
     "type": "fill",
     "q_en": "The electron magnetic moment is about [          ]× the proton's (number).",
     "q_zh": "",
     "a": "10³"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::20",
+    "id": "Quiz 17 - NMR Parameters II.md::20",
     "type": "fill",
     "q_en": "PRE gives distances up to [          ]–24 Å (number).",
     "q_zh": "",
     "a": "15"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::21",
+    "id": "Quiz 17 - NMR Parameters II.md::21",
     "type": "fill",
     "q_en": "To calibrate NOE distances, use known distances: HN-HN(i+3) in [          ] (term).",
     "q_zh": "",
     "a": "α-helix"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::22",
+    "id": "Quiz 17 - NMR Parameters II.md::22",
     "type": "fill",
     "q_en": "HN-HN(i+1) calibration is in [          ] (term).",
     "q_zh": "",
     "a": "β-sheet"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::23",
+    "id": "Quiz 17 - NMR Parameters II.md::23",
     "type": "fill",
     "q_en": "Distance calibration: r_target = (NOE_ref/NOE_target)^[          ] × r_ref (fraction).",
     "q_zh": "",
     "a": "1/6"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::24",
+    "id": "Quiz 17 - NMR Parameters II.md::24",
     "type": "fill",
     "q_en": "NOE mixing time is typically [          ]–150 ms (number).",
     "q_zh": "",
     "a": "100"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::25",
+    "id": "Quiz 17 - NMR Parameters II.md::25",
     "type": "fill",
     "q_en": "Alignment media include bicelles, purple membrane, and [          ] (term).",
     "q_zh": "",
     "a": "Pf1"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::26",
+    "id": "Quiz 17 - NMR Parameters II.md::26",
     "type": "fill",
     "q_en": "To measure RDC, compare HSQC with and without [          ] decoupling (term).",
     "q_zh": "",
     "a": "¹⁵N"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::27",
+    "id": "Quiz 17 - NMR Parameters II.md::27",
     "type": "fill",
     "q_en": "The one-bond ¹⁵N-¹H scalar coupling is about [          ]–95 Hz (number).",
     "q_zh": "",
     "a": "92"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::28",
+    "id": "Quiz 17 - NMR Parameters II.md::28",
     "type": "fill",
     "q_en": "Isotropic paramagnetic centers (Mn²⁺, Gd³⁺, nitroxide) give PRE ∝ [          ] (formula).",
     "q_zh": "",
     "a": "r⁻⁶"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::29",
+    "id": "Quiz 17 - NMR Parameters II.md::29",
     "type": "fill",
     "q_en": "Isotropic centers produce [          ] (no/some) PCS.",
     "q_zh": "",
     "a": "no"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::30",
+    "id": "Quiz 17 - NMR Parameters II.md::30",
     "type": "fill",
     "q_en": "Anisotropic centers (Co²⁺, lanthanides) give PRE complicated by [          ] (term).",
     "q_zh": "",
     "a": "PCS (Curie relaxation)"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::31",
+    "id": "Quiz 17 - NMR Parameters II.md::31",
     "type": "fill",
     "q_en": "Paramagnetic probes are conjugated to surface-exposed [          ] thiol (term).",
     "q_zh": "",
     "a": "cysteine"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::32",
+    "id": "Quiz 17 - NMR Parameters II.md::32",
     "type": "fill",
     "q_en": "Γ₂ = R₂,para − [          ] (term).",
     "q_zh": "",
     "a": "R₂,dia"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::33",
+    "id": "Quiz 17 - NMR Parameters II.md::33",
     "type": "fill",
     "q_en": "PRE improves backbone RMSD in SOD from 1.59 to [          ] Å (number).",
     "q_zh": "",
     "a": "1.18"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::34",
+    "id": "Quiz 17 - NMR Parameters II.md::34",
     "type": "fill",
     "q_en": "PRE detects minor states with P_B = [          ]% (number).",
     "q_zh": "",
     "a": "1"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::35",
+    "id": "Quiz 17 - NMR Parameters II.md::35",
     "type": "fill",
     "q_en": "Long-range NOEs (far in sequence) give the [          ] information (term).",
     "q_zh": "",
     "a": "folding"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::36",
+    "id": "Quiz 17 - NMR Parameters II.md::36",
     "type": "fill",
     "q_en": "The number of assigned NOEs correlates with structure [          ] (term).",
     "q_zh": "",
     "a": "resolution (quality)"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::37",
+    "id": "Quiz 17 - NMR Parameters II.md::37",
     "type": "fill",
     "q_en": "Wrong NOE assignment introduces serious [          ] (term).",
     "q_zh": "",
     "a": "distortions"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::38",
+    "id": "Quiz 17 - NMR Parameters II.md::38",
     "type": "fill",
     "q_en": "Ambiguous NOEs (methyl groups) give [          ] distance constraints (term).",
     "q_zh": "",
     "a": "ambiguous"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::39",
+    "id": "Quiz 17 - NMR Parameters II.md::39",
     "type": "fill",
     "q_en": "Low proton density (deuterated proteins) gives [          ] (enough/insufficient) NOEs.",
     "q_zh": "",
     "a": "insufficient"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::40",
+    "id": "Quiz 17 - NMR Parameters II.md::40",
     "type": "fill",
     "q_en": "Elongated molecules: NOE errors propagate [          ] (term).",
     "q_zh": "",
     "a": "end-to-end"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II.md::41",
+    "id": "Quiz 17 - NMR Parameters II.md::41",
     "type": "fill",
     "q_en": "NMR structures are [          ] because no direct image exists (term).",
     "q_zh": "",
@@ -6003,297 +6903,297 @@
  },
  {
   "id": "sdbm",
-  "name": "Quiz 15 - NMR Structure Calculation",
+  "name": "Quiz 18 - NMR Structure Calculation",
   "cards": [
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::0",
+    "id": "Quiz 18 - NMR Structure Calculation.md::0",
     "type": "fill",
     "q_en": "Structure calculation uses constrained [          ] dynamics (term).",
     "q_zh": "",
     "a": "molecular"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::1",
+    "id": "Quiz 18 - NMR Structure Calculation.md::1",
     "type": "fill",
     "q_en": "The energy function is V = V_physical + [          ] (term).",
     "q_zh": "",
     "a": "V_experimental"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::2",
+    "id": "Quiz 18 - NMR Structure Calculation.md::2",
     "type": "fill",
     "q_en": "Experimental data alone are [          ] (sufficient/insufficient) — the problem is underdetermined.",
     "q_zh": "",
     "a": "insufficient"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::3",
+    "id": "Quiz 18 - NMR Structure Calculation.md::3",
     "type": "fill",
     "q_en": "Constraints can be considered as [          ] connecting atoms (term).",
     "q_zh": "",
     "a": "springs"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::4",
+    "id": "Quiz 18 - NMR Structure Calculation.md::4",
     "type": "fill",
     "q_en": "The solution is atoms arranged with all springs [          ] (relaxed/stretched).",
     "q_zh": "",
     "a": "relaxed"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::5",
+    "id": "Quiz 18 - NMR Structure Calculation.md::5",
     "type": "fill",
     "q_en": "Molecular dynamics is based on Newton's second law F = [          ] (formula).",
     "q_zh": "",
     "a": "m·a"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::6",
+    "id": "Quiz 18 - NMR Structure Calculation.md::6",
     "type": "fill",
     "q_en": "The force is the gradient of the potential [          ] (term).",
     "q_zh": "",
     "a": "energy (V)"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::7",
+    "id": "Quiz 18 - NMR Structure Calculation.md::7",
     "type": "fill",
     "q_en": "V_physical includes V_bond, V_angle, V_dihedral, V_vdw, and [          ] (term).",
     "q_zh": "",
     "a": "V_elec"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::8",
+    "id": "Quiz 18 - NMR Structure Calculation.md::8",
     "type": "fill",
     "q_en": "V_experimental includes V_NOE, V_torsion, V_RDC, and [          ] (term).",
     "q_zh": "",
     "a": "V_PRE"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::9",
+    "id": "Quiz 18 - NMR Structure Calculation.md::9",
     "type": "fill",
     "q_en": "NMR restraints enter as a [          ] (term).",
     "q_zh": "",
     "a": "pseudopotential (pseudoenergy)"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::10",
+    "id": "Quiz 18 - NMR Structure Calculation.md::10",
     "type": "fill",
     "q_en": "Simulated annealing repeats [          ]–1000 times (number).",
     "q_zh": "",
     "a": "200"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::11",
+    "id": "Quiz 18 - NMR Structure Calculation.md::11",
     "type": "fill",
     "q_en": "The final ensemble has [          ] structures (number).",
     "q_zh": "",
     "a": "20"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::12",
+    "id": "Quiz 18 - NMR Structure Calculation.md::12",
     "type": "fill",
     "q_en": "There is [          ] (a unique/no unique) solution.",
     "q_zh": "",
     "a": "no unique"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::13",
+    "id": "Quiz 18 - NMR Structure Calculation.md::13",
     "type": "fill",
     "q_en": "Precision is the rmsd relative to the [          ] structure (term).",
     "q_zh": "",
     "a": "average"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::14",
+    "id": "Quiz 18 - NMR Structure Calculation.md::14",
     "type": "fill",
     "q_en": "Accuracy is the deviation from the [          ] structure (term).",
     "q_zh": "",
     "a": "real"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::15",
+    "id": "Quiz 18 - NMR Structure Calculation.md::15",
     "type": "fill",
     "q_en": "The NOE pseudopotential is zero between the lower and [          ] bounds (term).",
     "q_zh": "",
     "a": "upper"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::16",
+    "id": "Quiz 18 - NMR Structure Calculation.md::16",
     "type": "fill",
     "q_en": "The NOE force constant is K_NOE, with units kcal·mol⁻¹·[          ]⁻² (unit).",
     "q_zh": "",
     "a": "nm"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::17",
+    "id": "Quiz 18 - NMR Structure Calculation.md::17",
     "type": "fill",
     "q_en": "Higher K_NOE → [          ] (steeper/flatter) potential.",
     "q_zh": "",
     "a": "steeper"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::18",
+    "id": "Quiz 18 - NMR Structure Calculation.md::18",
     "type": "fill",
     "q_en": "Constraint violation increases V → potential energy [          ] (term).",
     "q_zh": "",
     "a": "gradient"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::19",
+    "id": "Quiz 18 - NMR Structure Calculation.md::19",
     "type": "fill",
     "q_en": "The higher the temperature, the higher the [          ] energy (term).",
     "q_zh": "",
     "a": "kinetic"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::20",
+    "id": "Quiz 18 - NMR Structure Calculation.md::20",
     "type": "fill",
     "q_en": "High temperature enables crossing potential energy [          ] (term).",
     "q_zh": "",
     "a": "barriers"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::21",
+    "id": "Quiz 18 - NMR Structure Calculation.md::21",
     "type": "fill",
     "q_en": "The simulated annealing protocol: initial → minimize → heat to [          ] °C → cool → minimize (number).",
     "q_zh": "",
     "a": "1000"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::22",
+    "id": "Quiz 18 - NMR Structure Calculation.md::22",
     "type": "fill",
     "q_en": "During cooling, the force constants are [          ] (increased/decreased).",
     "q_zh": "",
     "a": "increased"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::23",
+    "id": "Quiz 18 - NMR Structure Calculation.md::23",
     "type": "fill",
     "q_en": "Initial conformations are random or [          ] (term).",
     "q_zh": "",
     "a": "extended"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::24",
+    "id": "Quiz 18 - NMR Structure Calculation.md::24",
     "type": "fill",
     "q_en": "The 20 best structures are chosen by total and [          ] energy (term).",
     "q_zh": "",
     "a": "experimental"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::25",
+    "id": "Quiz 18 - NMR Structure Calculation.md::25",
     "type": "fill",
     "q_en": "Convergence means [          ] (close/divergent) energies within the ensemble.",
     "q_zh": "",
     "a": "close"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::26",
+    "id": "Quiz 18 - NMR Structure Calculation.md::26",
     "type": "fill",
     "q_en": "Automatic calculation requires nearly complete [          ] assignment (term).",
     "q_zh": "",
     "a": "resonance"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::27",
+    "id": "Quiz 18 - NMR Structure Calculation.md::27",
     "type": "fill",
     "q_en": "Spectra must be correctly [          ] (term).",
     "q_zh": "",
     "a": "referenced"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::28",
+    "id": "Quiz 18 - NMR Structure Calculation.md::28",
     "type": "fill",
     "q_en": "NOE assignment is [          ]: assignment → calculation → extend assignment (term).",
     "q_zh": "",
     "a": "iterative"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::29",
+    "id": "Quiz 18 - NMR Structure Calculation.md::29",
     "type": "fill",
     "q_en": "Network-anchoring uses a triangular [          ] connection to confirm assignments (term).",
     "q_zh": "",
     "a": "ABX"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::30",
+    "id": "Quiz 18 - NMR Structure Calculation.md::30",
     "type": "fill",
     "q_en": "HADDOCK stands for High Ambiguity Driven [          ] (term).",
     "q_zh": "",
     "a": "DOCKing"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::31",
+    "id": "Quiz 18 - NMR Structure Calculation.md::31",
     "type": "fill",
     "q_en": "Cross-saturation irradiates protein II and observes protein I in [          ] (term).",
     "q_zh": "",
     "a": "D₂O"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::32",
+    "id": "Quiz 18 - NMR Structure Calculation.md::32",
     "type": "fill",
     "q_en": "D₂O is used in cross-saturation to diminish [          ] (term).",
     "q_zh": "",
     "a": "spin diffusion"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::33",
+    "id": "Quiz 18 - NMR Structure Calculation.md::33",
     "type": "fill",
     "q_en": "Interface residues in cross-saturation show [          ] (increased/reduced) intensity.",
     "q_zh": "",
     "a": "reduced"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::34",
+    "id": "Quiz 18 - NMR Structure Calculation.md::34",
     "type": "fill",
     "q_en": "LolA/LolB have [          ]% sequence identity (number).",
     "q_zh": "",
     "a": "8"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::35",
+    "id": "Quiz 18 - NMR Structure Calculation.md::35",
     "type": "fill",
     "q_en": "LolA/LolB K_D from ITC is [          ] µM (number).",
     "q_zh": "",
     "a": "30"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::36",
+    "id": "Quiz 18 - NMR Structure Calculation.md::36",
     "type": "fill",
     "q_en": "CSP on LolA/LolB identified the binding [          ] (term).",
     "q_zh": "",
     "a": "interface"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::37",
+    "id": "Quiz 18 - NMR Structure Calculation.md::37",
     "type": "fill",
     "q_en": "The statistics table gives backbone RMSD of [          ] Å (number).",
     "q_zh": "",
     "a": "0.55"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::38",
+    "id": "Quiz 18 - NMR Structure Calculation.md::38",
     "type": "fill",
     "q_en": "Heavy-atom RMSD is [          ] Å (number).",
     "q_zh": "",
     "a": "1.18"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::39",
+    "id": "Quiz 18 - NMR Structure Calculation.md::39",
     "type": "fill",
     "q_en": "Distance violations > [          ] Å are counted (number).",
     "q_zh": "",
     "a": "0.2"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::40",
+    "id": "Quiz 18 - NMR Structure Calculation.md::40",
     "type": "fill",
     "q_en": "The Ramachandran plot shows [          ]/ψ (symbol).",
     "q_zh": "",
     "a": "φ"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation.md::41",
+    "id": "Quiz 18 - NMR Structure Calculation.md::41",
     "type": "fill",
     "q_en": "White regions in the Ramachandran plot are [          ] conformations (term).",
     "q_zh": "",
@@ -8679,10 +9579,658 @@
  },
  {
   "id": "sdbm",
-  "name": "Quiz 12 - NMR Isotopic Labeling [选择]",
+  "name": "Quiz 12 - NMR Principles [选择]",
   "cards": [
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (MCQ).md::0",
+    "id": "Quiz 12 - NMR Principles (MCQ).md::0",
+    "type": "mcq",
+    "q_en": "Which property is required for a nucleus to be observable by NMR?",
+    "q_zh": "原子核要能被 NMR 观测，需要哪种性质？",
+    "options": [
+     "Spin I = 0（自旋 I = 0）",
+     "A non-zero nuclear spin (I ≠ 0)（非零核自旋）",
+     "Negative electric charge（负电荷）",
+     "High atomic mass（高原子质量）"
+    ],
+    "correct": 1,
+    "a": "NMR requires a non-zero nuclear spin; nuclei with I = 0 (e.g. ¹²C, ¹⁶O) give no signal.\nNMR 需要非零核自旋；I = 0 的核（如 ¹²C、¹⁶O）无信号。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (MCQ).md::1",
+    "type": "mcq",
+    "q_en": "For a nucleus with even mass number A and even atomic number Z (e.g. ¹²C, ¹⁶O), what is the nuclear spin?",
+    "q_zh": "质量数 A 与原子序数 Z 均为偶数的核（如 ¹²C、¹⁶O），其核自旋是多少？",
+    "options": [
+     "I = 0",
+     "I = 1/2",
+     "I = 1",
+     "I = 3/2"
+    ],
+    "correct": 0,
+    "a": "Even-A/even-Z nuclei have I = 0, so they are NMR-inactive and must be replaced (¹²C → ¹³C, ¹⁴N → ¹⁵N).\n偶 A 偶 Z 核 I = 0，无 NMR 活性，必须被替换（¹²C → ¹³C、¹⁴N → ¹⁵N）。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (MCQ).md::2",
+    "type": "mcq",
+    "q_en": "What is the Larmor frequency of a spin in a magnetic field B₀?",
+    "q_zh": "自旋在磁场 B₀ 中的 Larmor 频率是多少？",
+    "options": [
+     "ν₀ = γB₀/2π",
+     "ν₀ = γB₀",
+     "ν₀ = 2πγB₀",
+     "ν₀ = γ/B₀"
+    ],
+    "correct": 0,
+    "a": "The Larmor frequency is ν₀ = γB₀/2π (the angular precession rate is ω₀ = γB₀).\nLarmor 频率为 ν₀ = γB₀/2π（角进动速率 ω₀ = γB₀）。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (MCQ).md::3",
+    "type": "mcq",
+    "q_en": "In Purcell's energetic view, when does radiofrequency absorption occur?",
+    "q_zh": "在 Purcell 的能量观点中，射频吸收何时发生？",
+    "options": [
+     "hν = γℏB₀（共振）",
+     "hν = 2γℏB₀",
+     "hν = γℏB₀/2",
+     "hν = kBT"
+    ],
+    "correct": 0,
+    "a": "Absorption occurs when the photon energy matches the transition gap: hν = γℏB₀ (on-resonance).\n当光子能量匹配能级间隔 hν = γℏB₀（共振）时发生吸收。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (MCQ).md::4",
+    "type": "mcq",
+    "q_en": "Which nucleus has a negative gyromagnetic ratio?",
+    "q_zh": "哪种核具有负的旋磁比？",
+    "options": [
+     "¹H",
+     "¹³C",
+     "¹⁵N",
+     "³¹P"
+    ],
+    "correct": 2,
+    "a": "¹⁵N has a negative γ, while ¹H (highest, 26.7519×10⁷) and ¹³C are positive.\n¹⁵N 的旋磁比为负，而 ¹H（最大，26.7519×10⁷）和 ¹³C 为正。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (MCQ).md::5",
+    "type": "mcq",
+    "q_en": "In a 600 MHz magnet (14.1 T), what is the Boltzmann population difference ΔN/N?",
+    "q_zh": "在 600 MHz（14.1 T）磁场中，玻尔兹曼布居差 ΔN/N 是多少？",
+    "options": [
+     "~50%",
+     "~4.8 × 10⁻⁵（0.0048%）",
+     "~1%",
+     "~0.5%"
+    ],
+    "correct": 1,
+    "a": "ΔN = NγℏB₀/2kT, giving ΔN/N ≈ 4.8×10⁻⁵ — a tiny excess that makes NMR intrinsically insensitive.\nΔN = NγℏB₀/2kT，ΔN/N ≈ 4.8×10⁻⁵——极小的布居差使 NMR 本质上不灵敏。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (MCQ).md::6",
+    "type": "mcq",
+    "q_en": "In Bloch's rotating frame, the flip angle θ produced by a B₁ pulse of duration tP is:",
+    "q_zh": "在 Bloch 旋转坐标系中，持续 tP 的 B₁ 脉冲产生的翻转角 θ 为：",
+    "options": [
+     "θ = γB₁tP",
+     "θ = γB₀tP",
+     "θ = γB₁/tP",
+     "θ = 2πγB₁"
+    ],
+    "correct": 0,
+    "a": "The flip angle is θ = γB₁tP; a 90° pulse rotates M from z into the xy plane.\n翻转角 θ = γB₁tP；90° 脉冲把 M 从 z 轴转到 xy 平面。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (MCQ).md::7",
+    "type": "mcq",
+    "q_en": "Longitudinal relaxation (T₁) is also called:",
+    "q_zh": "纵向弛豫（T₁）又称：",
+    "options": [
+     "Spin–spin relaxation（自旋–自旋弛豫）",
+     "Spin–lattice relaxation（自旋–晶格弛豫）",
+     "Dephasing（退相）",
+     "Coherence loss（失相干）"
+    ],
+    "correct": 1,
+    "a": "T₁ (along z) is the spin–lattice relaxation; it returns Mz to equilibrium.\nT₁（沿 z）为自旋–晶格弛豫，使 Mz 回归平衡。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (MCQ).md::8",
+    "type": "mcq",
+    "q_en": "Transverse relaxation (T₂) is also called:",
+    "q_zh": "横向弛豫（T₂）又称：",
+    "options": [
+     "Spin–lattice relaxation（自旋–晶格弛豫）",
+     "Spin–spin relaxation（自旋–自旋弛豫）",
+     "Longitudinal relaxation（纵向弛豫）",
+     "Zeeman relaxation（塞曼弛豫）"
+    ],
+    "correct": 1,
+    "a": "T₂ (in the xy plane) is the spin–spin relaxation, describing loss of spin coherence.\nT₂（xy 平面）为自旋–自旋弛豫，描述自旋失相干。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (MCQ).md::9",
+    "type": "mcq",
+    "q_en": "The solution Mz(t) = M₀(1 − e^(−t/T₁)) describes:",
+    "q_zh": "解 Mz(t) = M₀(1 − e^(−t/T₁)) 描述的是：",
+    "options": [
+     "T₂ decay（T₂ 衰减）",
+     "Longitudinal recovery after perturbation（扰动后纵向恢复）",
+     "Larmor precession（Larmor 进动）",
+     "The FT of the FID（FID 的傅里叶变换）"
+    ],
+    "correct": 1,
+    "a": "This is the solution of dMz/dt = (M₀−Mz)/T₁, describing return of Mz to equilibrium.\n这是 dMz/dt = (M₀−Mz)/T₁ 的解，描述 Mz 回归平衡。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (MCQ).md::10",
+    "type": "mcq",
+    "q_en": "T₂* differs from T₂ because it includes:",
+    "q_zh": "T₂* 与 T₂ 不同，因为它包含了：",
+    "options": [
+     "B₀ field inhomogeneity（B₀ 磁场不均匀性）",
+     "Sample concentration（样品浓度）",
+     "Tube rotation（样品管旋转）",
+     "Temperature（温度）"
+    ],
+    "correct": 0,
+    "a": "1/T₂* = 1/T₂ + B₀ inhomogeneity; the field inhomogeneity accelerates apparent decay.\n1/T₂* = 1/T₂ + B₀ 不均匀性；磁场不均匀性加速表观衰减。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (MCQ).md::11",
+    "type": "mcq",
+    "q_en": "The Hahn spin-echo refocuses:",
+    "q_zh": "Hahn 自旋回波重聚的是：",
+    "options": [
+     "Chemical shift（化学位移）",
+     "J coupling（J 耦合）",
+     "Static field inhomogeneity（静磁场不均匀性）",
+     "Radiation damage（辐射损伤）"
+    ],
+    "correct": 2,
+    "a": "The π/2x–τ–πy–τ echo (and CPMG) refocuses static field inhomogeneity to measure the true T₂.\nπ/2x–τ–πy–τ 回波（及 CPMG）重聚静磁场不均匀性，以测量真实 T₂。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (MCQ).md::12",
+    "type": "mcq",
+    "q_en": "The signal-to-noise ratio scales with the number of scans n as:",
+    "q_zh": "信噪比随扫描次数 n 的变化关系为：",
+    "options": [
+     "∝ n",
+     "∝ √n",
+     "∝ n²",
+     "∝ log(n)"
+    ],
+    "correct": 1,
+    "a": "Signal adds coherently (∝ n) but noise adds in quadrature (∝ √n), so S/N ∝ √n.\n信号相干叠加（∝ n），噪声按平方根叠加（∝ √n），故 S/N ∝ √n。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (MCQ).md::13",
+    "type": "mcq",
+    "q_en": "The Fourier transform of an exponentially decaying FID gives a:",
+    "q_zh": "指数衰减 FID 的傅里叶变换得到：",
+    "options": [
+     "Gaussian（高斯）",
+     "Lorentzian（洛伦兹）",
+     "Delta function（δ 函数）",
+     "Square wave（方波）"
+    ],
+    "correct": 1,
+    "a": "s(t) = S₀ exp(iω₀t) exp(−t/T₂) FT-gives a Lorentzian with linewidth 1/(πT₂).\ns(t) = S₀ exp(iω₀t) exp(−t/T₂) 的傅里叶变换为洛伦兹线型，线宽 1/(πT₂)。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (MCQ).md::14",
+    "type": "mcq",
+    "q_en": "An exponential window function e^(−LB·t) applied to the FID:",
+    "q_zh": "对 FID 施加指数窗函数 e^(−LB·t)：",
+    "options": [
+     "Increases resolution but reduces sensitivity（提高分辨率但降低灵敏度）",
+     "Increases sensitivity but reduces resolution（提高灵敏度但降低分辨率）",
+     "Only shifts the spectrum（只移动谱峰）",
+     "Removes all noise（去除全部噪声）"
+    ],
+    "correct": 1,
+    "a": "The exponential window (optimal LB = Δν₁/₂) boosts S/N at the cost of line broadening; the Gaussian window does the opposite.\n指数窗（最佳 LB = Δν₁/₂）以谱线增宽为代价提高信噪比；高斯窗相反。"
+   }
+  ]
+ },
+ {
+  "id": "sdbm",
+  "name": "Quiz 13 - NMR Observables [选择]",
+  "cards": [
+   {
+    "id": "Quiz 13 - NMR Observables (MCQ).md::0",
+    "type": "mcq",
+    "q_en": "What is the chemical shift δ defined as?",
+    "q_zh": "化学位移 δ 的定义是什么？",
+    "options": [
+     "δ = (ν_obs − ν_ref) / ν_obs × 10⁶",
+     "δ = 10⁶ × (ν_obs − ν_ref) / ν₀",
+     "δ = 10⁶ × ν₀ / (ν_obs − ν_ref)",
+     "δ = (ν_ref − ν_obs) × 10⁶"
+    ],
+    "correct": 1,
+    "a": "Chemical shift is δ = 10⁶ (ν_obs − ν_ref)/ν₀, a dimensionless, field-independent molecular property given in ppm.\n化学位移 δ = 10⁶(ν_obs − ν_ref)/ν₀，是无量纲、与磁场无关的分子性质，单位为 ppm。"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (MCQ).md::1",
+    "type": "mcq",
+    "q_en": "Which property is the chemical shift independent of?",
+    "q_zh": "化学位移与下列哪一项无关？",
+    "options": [
+     "The electronic environment of the nucleus（核的电子环境）",
+     "The magnetic field strength B₀（磁场强度 B₀）",
+     "The shielding constant σ（屏蔽常数 σ）",
+     "The reference compound（参考化合物）"
+    ],
+    "correct": 1,
+    "a": "δ is a molecular property independent of the field strength B₀; it depends only on the shielding σ and the reference (TMS).\nδ 是与磁场强度 B₀ 无关的分子性质，只取决于屏蔽常数 σ 和参考物（TMS）。"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (MCQ).md::2",
+    "type": "mcq",
+    "q_en": "What does the integral (resonance intensity) of a peak give access to?",
+    "q_zh": "峰的积分（共振强度）能给出什么信息？",
+    "options": [
+     "The torsion angle（扭转角）",
+     "The number of nuclei in that resonance（该共振中的核数目）",
+     "The magnetic field strength（磁场强度）",
+     "The exchange rate（交换速率）"
+    ],
+    "correct": 1,
+    "a": "The integral is proportional to M₀ and gives the number of protons in the corresponding resonance (provided a 5·T₁ delay restores equilibrium).\n积分正比于 M₀，给出对应共振中的质子数（前提是等待 5·T₁ 使体系回到平衡）。"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (MCQ).md::3",
+    "type": "mcq",
+    "q_en": "Which observable is described by Δν = 1/πT₂?",
+    "q_zh": "哪个可观测量由 Δν = 1/πT₂ 描述？",
+    "options": [
+     "Chemical shift（化学位移）",
+     "Scalar coupling（标量耦合）",
+     "Linewidth（线宽）",
+     "Integral（积分）"
+    ],
+    "correct": 2,
+    "a": "Linewidth Δν = 1/πT₂, related to T₂*; it reports on molecular motion and chemical exchange.\n线宽 Δν = 1/πT₂，与 T₂* 相关；它反映分子运动与化学交换。"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (MCQ).md::4",
+    "type": "mcq",
+    "q_en": "Which interaction is a through-bond interaction?",
+    "q_zh": "哪种相互作用是\"通过键\"的相互作用？",
+    "options": [
+     "Dipolar coupling（偶极耦合）",
+     "Scalar (J) coupling（标量 J 耦合）",
+     "Nuclear Overhauser effect（核欧佛豪瑟效应）",
+     "Quadrupolar interaction（四极相互作用）"
+    ],
+    "correct": 1,
+    "a": "Scalar J coupling is a through-bond interaction mediated by bonding electrons; dipolar coupling and NOE are through-space.\n标量 J 耦合是通过成键电子介导的\"通过键\"相互作用；偶极耦合和 NOE 是\"通过空间\"的。"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (MCQ).md::5",
+    "type": "mcq",
+    "q_en": "For a spin-½ AX₂ system, how many resonance lines are observed (and with what intensities)?",
+    "q_zh": "自旋 ½ 的 AX₂ 体系会观察到几条谱线（强度比如何）？",
+    "options": [
+     "2 lines, 1:1（2 条，1:1）",
+     "3 lines, 1:2:1（3 条，1:2:1）",
+     "4 lines, 1:3:3:1（4 条，1:3:3:1）",
+     "2 lines, 1:3（2 条，1:3）"
+    ],
+    "correct": 1,
+    "a": "For spin-½, an AXₙ system gives n+1 lines with Pascal's-triangle intensities; AX₂ → 3 lines, 1:2:1.\n自旋 ½ 的 AXₙ 体系给出 n+1 条线，强度服从帕斯卡三角形；AX₂ → 3 条，1:2:1。"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (MCQ).md::6",
+    "type": "mcq",
+    "q_en": "The Karplus equation relates ³J coupling to which parameter?",
+    "q_zh": "Karplus 方程把 ³J 耦合与哪个参数联系起来？",
+    "options": [
+     "The internuclear distance（核间距）",
+     "The dihedral (torsion) angle φ（二面角/扭转角 φ）",
+     "The chemical shift（化学位移）",
+     "The correlation time（相关时间）"
+    ],
+    "correct": 1,
+    "a": "Karplus (1959) relates the vicinal ³J coupling to the dihedral angle φ, e.g. ³J = 8.5 cos²φ − 0.28 for 0–90°.\nKarplus（1959）把邻位 ³J 耦合与二面角 φ 联系起来，如 ³J = 8.5 cos²φ − 0.28（0–90°）。"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (MCQ).md::7",
+    "type": "mcq",
+    "q_en": "In liquids, why do dipolar couplings not affect regular 1D spectra?",
+    "q_zh": "在液体中，为什么偶极耦合不影响常规 1D 谱？",
+    "options": [
+     "They are too weak to measure（太弱测不到）",
+     "They average to zero due to molecular motion（因分子运动平均为零）",
+     "They are removed by decoupling（被去耦去除）",
+     "They only act between identical nuclei（只作用于同核）"
+    ],
+    "correct": 1,
+    "a": "Dipolar coupling is orientation-dependent; in liquids Brownian motion averages all orientations so it averages to zero.\n偶极耦合依赖取向；在液体中布朗运动平均所有取向，因此其平均值为零。"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (MCQ).md::8",
+    "type": "mcq",
+    "q_en": "What happens to dipolar (and CSA) broadening under fast Magic Angle Spinning (MAS)?",
+    "q_zh": "快速魔角旋转（MAS）下，偶极（和 CSA）增宽会怎样？",
+    "options": [
+     "It increases（增大）",
+     "It collapses into sidebands that lose intensity, leaving an isotropic line（塌缩为失强的边带，只剩各向同性线）",
+     "It is unaffected（不受影响）",
+     "It shifts all peaks downfield（使所有峰移向低场）"
+    ],
+    "correct": 1,
+    "a": "Under MAS the anisotropic pattern breaks into spinning sidebands spaced by ω_r; at higher speed sidebands move out and lose intensity, leaving a sharp isotropic line.\nMAS 下各向异性图样分裂为按 ω_r 等距的旋转边带；转速越高边带越远越弱，最终只剩尖锐的各向同性线。"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (MCQ).md::9",
+    "type": "mcq",
+    "q_en": "For small molecules, what is the sign of the NOE (σ_IS = W₂ − W₀)?",
+    "q_zh": "对于小分子，NOE（σ_IS = W₂ − W₀）的符号是什么？",
+    "options": [
+     "Positive (σ_IS > 0)（正）",
+     "Negative (σ_IS < 0)（负）",
+     "Zero（零）",
+     "Depends on the field（取决于磁场）"
+    ],
+    "correct": 0,
+    "a": "For small (fast-tumbling) molecules the double-quantum pathway W₂ dominates, so σ_IS > 0 and the I resonance is enhanced (positive NOE).\n对快速翻滚的小分子，双量子通道 W₂ 主导，σ_IS > 0，I 共振增强（正 NOE）。"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (MCQ).md::10",
+    "type": "mcq",
+    "q_en": "Which NOE factor corresponds to a small molecule H–H pair (homonuclear)?",
+    "q_zh": "小分子 H–H 对（同核）的 NOE 因子是多少？",
+    "options": [
+     "2.99",
+     "1",
+     "0.5",
+     "−3.93"
+    ],
+    "correct": 2,
+    "a": "ε_NOE = 1 + γ_I/2γ_S; for H–H (γ_I = γ_S) this gives 0.5. (H–C = 2.99, H–N = −3.93.)\nε_NOE = 1 + γ_I/2γ_S；对 H–H（γ_I = γ_S）得 0.5。（H–C = 2.99，H–N = −3.93。）"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (MCQ).md::11",
+    "type": "mcq",
+    "q_en": "The rotational correlation time is τc = 4πηr³/(3kT). What is τc?",
+    "q_zh": "旋转相关时间 τc = 4πηr³/(3kT)，τc 是什么？",
+    "options": [
+     "The time to rotate by one radian（旋转一弧度所需的时间）",
+     "The longitudinal relaxation time（纵向弛豫时间）",
+     "The time between two pulses（两个脉冲之间的时间）",
+     "The acquisition time（采集时间）"
+    ],
+    "correct": 0,
+    "a": "τc is the time it takes a molecule to rotate by one radian (360°/2π); larger molecules have larger τc (slower motion).\nτc 是分子旋转一弧度（360°/2π）所需的时间；分子越大 τc 越大（运动越慢）。"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (MCQ).md::12",
+    "type": "mcq",
+    "q_en": "What relationship holds between T₂ and T₁?",
+    "q_zh": "T₂ 与 T₁ 之间恒成立的关系是什么？",
+    "options": [
+     "T₂ ≥ T₁",
+     "T₂ ≤ T₁",
+     "T₂ = T₁ always（恒等）",
+     "No fixed relationship（无固定关系）"
+    ],
+    "correct": 1,
+    "a": "T₂ ≤ T₁ always; in extreme narrowing (small molecules) T₂ = T₁, while for large molecules T₂ < T₁.\n恒有 T₂ ≤ T₁；小分子极端窄化时 T₂ = T₁，大分子则 T₂ < T₁。"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (MCQ).md::13",
+    "type": "mcq",
+    "q_en": "What does slow exchange between two conformational states produce in an NMR spectrum?",
+    "q_zh": "两个构象态之间的慢交换会在 NMR 谱中产生什么？",
+    "options": [
+     "A single averaged peak（单一平均峰）",
+     "Two or more separate signals for one nucleus（同一个核出现两个或多个分离信号）",
+     "No signal at all（无信号）",
+     "Only line broadening（只有谱线增宽）"
+    ],
+    "correct": 1,
+    "a": "In slow exchange (R_ex < ω_A − ω_B) a single nucleus gives two or more chemical shifts — multiple signals whose populations reflect relative stability.\n慢交换（R_ex < ω_A − ω_B）时，同一个核给出两个或更多化学位移——多个信号，布居反映相对稳定性。"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (MCQ).md::14",
+    "type": "mcq",
+    "q_en": "For two-site exchange, how is k_ex related to the individual rate constants?",
+    "q_zh": "两位点交换中，k_ex 与各速率常数有何关系？",
+    "options": [
+     "k_ex = k_A × k_B",
+     "k_ex = k_A + k_B",
+     "k_ex = k_A − k_B",
+     "k_ex = (k_A + k_B)/2"
+    ],
+    "correct": 1,
+    "a": "For two-site exchange k_ex = k_A + k_B, and the rate constants are related to populations by k_A = k_B × p_B/p_A.\n两位点交换中 k_ex = k_A + k_B，且速率常数与布居的关系为 k_A = k_B × p_B/p_A。"
+   }
+  ]
+ },
+ {
+  "id": "sdbm",
+  "name": "Quiz 14 - 2D NMR [选择]",
+  "cards": [
+   {
+    "id": "Quiz 14 - 2D NMR (MCQ).md::0",
+    "type": "mcq",
+    "q_en": "What is the main goal of multidimensional NMR (\"spin chromatography\")?",
+    "q_zh": "多维 NMR（「自旋色谱」）的主要目标是什么？",
+    "options": [
+     "To shorten acquisition time（缩短采集时间）",
+     "To increase spectral resolution by spreading peaks into extra dimensions（通过把峰分散到额外维度来提高分辨率）",
+     "To remove the need for isotopic labeling（消除同位素标记的需要）",
+     "To measure absolute chemical shifts（测量绝对化学位移）"
+    ],
+    "correct": 1,
+    "a": "Multidimensional NMR spreads the crowded 1D spectrum into additional frequency dimensions (e.g. ¹⁵N), separating overlapping resonances — the essence of \"spin chromatography\".\n多维 NMR 把拥挤的一维谱分散到额外的频率维度（如 ¹⁵N），分离重叠的共振——这正是「自旋色谱」的本质。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (MCQ).md::1",
+    "type": "mcq",
+    "q_en": "Who proposed the 2D NMR idea, and who first realized it experimentally?",
+    "q_zh": "谁提出了二维 NMR 的概念，又是谁首次在实验上实现？",
+    "options": [
+     "Jeener proposed; Ernst realized（Jeener 提出；Ernst 实现）",
+     "Ernst proposed; Jeener realized（Ernst 提出；Jeener 实现）",
+     "Bloch proposed; Purcell realized（Bloch 提出；Purcell 实现）",
+     "Hahn proposed; Carr realized（Hahn 提出；Carr 实现）"
+    ],
+    "correct": 0,
+    "a": "J. Jeener proposed the 2D concept in 1971; R. Ernst built the experimental setup in 1974 (Nobel Prize in Chemistry 1991).\nJ. Jeener 于 1971 年提出二维概念；R. Ernst 于 1974 年实现实验装置（1991 年诺贝尔化学奖）。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (MCQ).md::2",
+    "type": "mcq",
+    "q_en": "In a 2D NMR experiment, what are the two time variables?",
+    "q_zh": "在二维 NMR 实验中，两个时间变量是什么？",
+    "options": [
+     "t₀ and t₁（t₀ 和 t₁）",
+     "t₁ and t₂（t₁ 和 t₂）",
+     "τ₁ and τ₂（τ₁ 和 τ₂）",
+     "T₁ and T₂（T₁ 和 T₂）"
+    ],
+    "correct": 1,
+    "a": "A 2D experiment uses the evolution time t₁ and the acquisition time t₂; the second dimension is created by incrementing t₁.\n二维实验使用演化时间 t₁ 和采集时间 t₂；通过递增 t₁ 创建第二个维度。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (MCQ).md::3",
+    "type": "mcq",
+    "q_en": "What does the first Fourier transform (along t₂) produce?",
+    "q_zh": "第一次傅里叶变换（沿 t₂）得到什么？",
+    "options": [
+     "The final 2D spectrum（最终的二维谱）",
+     "A series of spectra modulated by t₁（一系列被 t₁ 调制的谱）",
+     "A single 1D spectrum（单个一维谱）",
+     "The relaxation times（弛豫时间）"
+    ],
+    "correct": 1,
+    "a": "FT along t₂ turns each FID into a spectrum, giving a series of spectra whose intensities are modulated as a function of t₁; a second FT along t₁ then yields the 2D spectrum.\n沿 t₂ 的 FT 把每条 FID 变成谱，得到一系列强度随 t₁ 调制的谱；再沿 t₁ 做第二次 FT 即得二维谱。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (MCQ).md::4",
+    "type": "mcq",
+    "q_en": "In a 2D spectrum, what do the on-diagonal peaks correspond to?",
+    "q_zh": "二维谱中，对角峰对应什么？",
+    "options": [
+     "Correlations between different spins（不同自旋之间的相关）",
+     "Peaks found in the 1D spectrum（一维谱中的峰）",
+     "Noise artifacts（噪声伪影）",
+     "Exchange processes（交换过程）"
+    ],
+    "correct": 1,
+    "a": "On-diagonal peaks are the self-correlations of each spin and correspond to the peaks of the 1D spectrum.\n对角峰是每个自旋自身的相关，对应一维谱中的峰。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (MCQ).md::5",
+    "type": "mcq",
+    "q_en": "What do the out-of-diagonal (cross) peaks in a 2D spectrum evidence?",
+    "q_zh": "二维谱中的非对角（交叉）峰证明了什么？",
+    "options": [
+     "Chemical exchange only（仅为化学交换）",
+     "Correlations between spins（自旋之间的相关性）",
+     "Instrumental drift（仪器漂移）",
+     "Sample impurity（样品杂质）"
+    ],
+    "correct": 1,
+    "a": "Cross peaks evidence spin–spin correlations — either through-bond (scalar) or through-space (dipolar), depending on the mixing interaction.\n交叉峰证明自旋-自旋相关性——经键（标量）或经空间（偶极），取决于混合期的相互作用。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (MCQ).md::6",
+    "type": "mcq",
+    "q_en": "How is a 2D spectrum conventionally represented?",
+    "q_zh": "二维谱通常如何表示？",
+    "options": [
+     "As a single line（单条线）",
+     "As a contour plot of peak intensity（峰强度的等高线图）",
+     "As a histogram（直方图）",
+     "As a 1D integral（一维积分）"
+    ],
+    "correct": 1,
+    "a": "A 2D spectrum is a 3D surface (F₁ × F₂ × intensity); it is drawn as contours cut at a defined threshold, with peak intensity as the third dimension.\n二维谱是三维曲面（F₁ × F₂ × 强度）；以在阈值处切割的等高线绘制，峰强度为第三维。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (MCQ).md::7",
+    "type": "mcq",
+    "q_en": "Which interaction is used during the COSY mixing period?",
+    "q_zh": "COSY 混合期使用哪种相互作用？",
+    "options": [
+     "Dipolar coupling (through-space)（偶极耦合，经空间）",
+     "Scalar coupling (through-bond)（标量耦合，经键）",
+     "Quadrupolar coupling（四极耦合）",
+     "Spin-rotation（自旋-转动）"
+    ],
+    "correct": 1,
+    "a": "COSY exploits homonuclear scalar coupling (a through-bond interaction) to transfer magnetization between coupled protons.\nCOSY 利用同核标量耦合（经键相互作用）在耦合质子之间转移磁化。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (MCQ).md::8",
+    "type": "mcq",
+    "q_en": "Which interaction is used during the NOESY mixing period?",
+    "q_zh": "NOESY 混合期使用哪种相互作用？",
+    "options": [
+     "Scalar coupling（标量耦合）",
+     "Dipolar coupling (through-space)（偶极耦合，经空间）",
+     "Chemical shift anisotropy（化学位移各向异性）",
+     "J-coupling（J 耦合）"
+    ],
+    "correct": 1,
+    "a": "NOESY uses the dipolar (through-space) interaction during the mixing period, transferring magnetization between spatially close spins via cross-relaxation.\nNOESY 在混合期使用偶极（经空间）相互作用，通过交叉弛豫在空间邻近的自旋间转移磁化。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (MCQ).md::9",
+    "type": "mcq",
+    "q_en": "In COSY, what is the phase character of the diagonal (autocorrelation) peaks?",
+    "q_zh": "在 COSY 中，对角（自相关）峰的相位特征是什么？",
+    "options": [
+     "Anti-phase absorption in t₁ and t₂（t₁、t₂ 反对称吸收）",
+     "In-phase dispersion in t₁ and t₂（t₁、t₂ 同相色散）",
+     "Pure absorption in both（两者纯吸收）",
+     "Pure dispersion in both（两者纯色散）"
+    ],
+    "correct": 1,
+    "a": "The autocorrelation (diagonal) peaks at (ω₁, ω₁) are in-phase dispersion in both t₁ and t₂; the cross peaks are anti-phase absorption in both.\n(ω₁, ω₁) 的自相关（对角）峰在 t₁、t₂ 都是同相色散；交叉峰则两者都是反对称吸收。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (MCQ).md::10",
+    "type": "mcq",
+    "q_en": "In a protein COSY spectrum, which region is called the \"fingerprint\"?",
+    "q_zh": "在蛋白 COSY 谱中，哪个区域被称为「指纹区」？",
+    "options": [
+     "The aromatic region（芳香区）",
+     "The HN–Hα correlation region（HN–Hα 相关区）",
+     "The methyl region（甲基区）",
+     "The aliphatic region（脂肪区）"
+    ],
+    "correct": 1,
+    "a": "The HN–Hα correlation region is the protein fingerprint; it is well resolved and lets one follow any evolution of the sample.\nHN–Hα 相关区是蛋白的指纹区；它分辨良好，可用于跟踪样品的任何演变。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (MCQ).md::11",
+    "type": "mcq",
+    "q_en": "Why does glycine have a particular COSY signature?",
+    "q_zh": "为什么甘氨酸具有特殊的 COSY 特征？",
+    "options": [
+     "It has no Hα protons（它没有 Hα 质子）",
+     "It has two Hα protons（它有两个 Hα 质子）",
+     "It has an aromatic ring（它有芳香环）",
+     "It has no amide proton（它没有酰胺质子）"
+    ],
+    "correct": 1,
+    "a": "Gly has two Hα protons, which gives it a distinctive COSY pattern compared to the other residues (which have a single Hα).\n甘氨酸有两个 Hα 质子，使其 COSY 图形区别于其他只有一个 Hα 的残基。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (MCQ).md::12",
+    "type": "mcq",
+    "q_en": "What kind of connectivities do COSY and TOCSY provide in proteins?",
+    "q_zh": "COSY 和 TOCSY 在蛋白中提供哪种连接？",
+    "options": [
+     "Inter-residue connectivities（残基间连接）",
+     "Intra-residue connectivities（残基内连接）",
+     "Hydrogen bonds（氢键）",
+     "Disulfide bonds（二硫键）"
+    ],
+    "correct": 1,
+    "a": "COSY and TOCSY reveal intra-residue spin systems (protons within one residue), whereas NOESY provides inter-residue connectivities.\nCOSY 和 TOCSY 揭示残基内的自旋体系（同一残基内的质子），而 NOESY 提供残基间连接。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (MCQ).md::13",
+    "type": "mcq",
+    "q_en": "What does a negative peak in a ROESY spectrum indicate?",
+    "q_zh": "ROESY 谱中的负峰指示什么？",
+    "options": [
+     "A very large molecule（非常大的分子）",
+     "Chemical exchange（化学交换）",
+     "A T₂ error（T₂ 误差）",
+     "Fast tumbling（快速翻滚）"
+    ],
+    "correct": 1,
+    "a": "A negative peak in ROESY indicates chemical exchange, one of the useful diagnostics of the experiment.\nROESY 中的负峰指示化学交换，这是该实验的一个有用诊断信号。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (MCQ).md::14",
+    "type": "mcq",
+    "q_en": "What is the role of INEPT in the HSQC experiment?",
+    "q_zh": "INEPT 在 HSQC 实验中起什么作用？",
+    "options": [
+     "It decouples protons（去耦质子）",
+     "It transfers coherence from ¹H to the heteronucleus (and back)（把相干从 ¹H 转移到异核（再转回））",
+     "It measures T₂（测量 T₂）",
+     "It applies a field gradient（施加场梯度）"
+    ],
+    "correct": 1,
+    "a": "INEPT transfers ¹H magnetization to the heteronucleus S (¹⁵N or ¹³C) before t₁ evolution; reverse INEPT transfers it back to ¹H for detection (2τ = 1/2J).\nINEPT 在 t₁ 演化前把 ¹H 磁化转移到异核 S（¹⁵N 或 ¹³C）；反向 INEPT 再把它转回 ¹H 检测（2τ = 1/2J）。"
+   }
+  ]
+ },
+ {
+  "id": "sdbm",
+  "name": "Quiz 15 - NMR Isotopic Labeling [选择]",
+  "cards": [
+   {
+    "id": "Quiz 15 - NMR Isotopic Labeling (MCQ).md::0",
     "type": "mcq",
     "q_en": "Which nuclear spin is required for a nucleus to be useful in high-resolution NMR?",
     "q_zh": "高分辨 NMR 要求原子核具有哪种自旋？",
@@ -8696,7 +10244,7 @@
     "a": "NMR-detectable biomolecular nuclei must have spin I = 1/2; quadrupolar (I > 1/2) nuclei give broad lines.\n生物分子 NMR 可观测的核必须具有自旋 I = 1/2；四极核（I > 1/2）谱线很宽。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (MCQ).md::1",
+    "id": "Quiz 15 - NMR Isotopic Labeling (MCQ).md::1",
     "type": "mcq",
     "q_en": "Why are ¹²C and ¹⁴N unsuitable for biomolecular NMR?",
     "q_zh": "为什么 ¹²C 和 ¹⁴N 不适合生物分子 NMR？",
@@ -8710,7 +10258,7 @@
     "a": "¹²C has I = 0 and ¹⁴N has I = 1 (quadrupolar), so neither gives a sharp spin-1/2 signal; they are replaced by ¹³C and ¹⁵N.\n¹²C 的自旋 I = 0，¹⁴N 的自旋 I = 1（四极核），二者都无 1/2 自旋信号，故被 ¹³C 和 ¹⁵N 取代。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (MCQ).md::2",
+    "id": "Quiz 15 - NMR Isotopic Labeling (MCQ).md::2",
     "type": "mcq",
     "q_en": "Which isotope has a negative gyromagnetic ratio?",
     "q_zh": "哪种同位素具有负的旋磁比？",
@@ -8724,7 +10272,7 @@
     "a": "¹⁵N has a negative gyromagnetic ratio, while ¹H (2.675×10⁸) and ¹³C (0.673×10⁸) are positive.\n¹⁵N 的旋磁比为负，而 ¹H（2.675×10⁸）和 ¹³C（0.673×10⁸）为正。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (MCQ).md::3",
+    "id": "Quiz 15 - NMR Isotopic Labeling (MCQ).md::3",
     "type": "mcq",
     "q_en": "In the ¹H-¹⁵N HSQC \"fingerprint\" spectrum, how many amide cross-peaks does each amino acid (except proline) contribute?",
     "q_zh": "在 ¹H-¹⁵N HSQC「指纹」谱中，每个氨基酸（脯氨酸除外）贡献多少个酰胺交叉峰？",
@@ -8738,7 +10286,7 @@
     "a": "Each amino acid (except proline, which lacks an amide proton) has exactly one backbone amide N–H, giving one HSQC cross-peak.\n每个氨基酸（脯氨酸无酰胺质子除外）只有一个主链酰胺 N–H，因此只产生一个 HSQC 交叉峰。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (MCQ).md::4",
+    "id": "Quiz 15 - NMR Isotopic Labeling (MCQ).md::4",
     "type": "mcq",
     "q_en": "What is γ(¹H) relative to γ(²H)?",
     "q_zh": "¹H 的旋磁比是 ²H 的多少倍？",
@@ -8752,7 +10300,7 @@
     "a": "γ(¹H) = 6.5 × γ(²H); replacing protons with deuterons greatly reduces dipolar relaxation, which is why deuteration works.\nγ(¹H) = 6.5 × γ(²H)；用氘取代质子可大幅降低偶极弛豫，这正是氘代有效的原因。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (MCQ).md::5",
+    "id": "Quiz 15 - NMR Isotopic Labeling (MCQ).md::5",
     "type": "mcq",
     "q_en": "In M9 minimal medium, which carbon/nitrogen sources are used?",
     "q_zh": "M9 基本培养基使用哪些碳/氮源？",
@@ -8766,7 +10314,7 @@
     "a": "M9 uses glucose as the carbon source and NH₄Cl as the nitrogen source; for labeling these are replaced by ¹³C₆-glucose and ¹⁵NH₄Cl.\nM9 以葡萄糖为碳源、NH₄Cl 为氮源；标记时分别用 ¹³C₆-葡萄糖和 ¹⁵NH₄Cl 取代。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (MCQ).md::6",
+    "id": "Quiz 15 - NMR Isotopic Labeling (MCQ).md::6",
     "type": "mcq",
     "q_en": "Which precursor is used for Ile δ1 methyl labeling?",
     "q_zh": "Ile δ1 甲基标记使用哪种前体？",
@@ -8780,7 +10328,7 @@
     "a": "Ile δ1 methyl labeling uses α-ketoisobutyrate, while Leu/Ile/Val methyl labeling uses glucose-d7.\nIle δ1 甲基标记使用 α-酮异丁酸，而 Leu/Ile/Val 甲基标记使用氘代葡萄糖（glucose-d7）。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (MCQ).md::7",
+    "id": "Quiz 15 - NMR Isotopic Labeling (MCQ).md::7",
     "type": "mcq",
     "q_en": "Segmental labeling of only one domain of a protein uses which tool?",
     "q_zh": "只标记蛋白质一个结构域的片段标记使用哪种工具？",
@@ -8794,7 +10342,7 @@
     "a": "Segmental labeling uses inteins, which perform autocatalytic splicing to ligate a labeled domain to an unlabeled one.\n片段标记使用内含肽（intein），通过自催化剪接将标记结构域与未标记结构域连接。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (MCQ).md::8",
+    "id": "Quiz 15 - NMR Isotopic Labeling (MCQ).md::8",
     "type": "mcq",
     "q_en": "What is the gyromagnetic ratio γ of ¹³C?",
     "q_zh": "¹³C 的旋磁比 γ 是多少？",
@@ -8808,7 +10356,7 @@
     "a": "γ(¹³C) = 0.673 × 10⁸ rad·T⁻¹·s⁻¹, about one-quarter of γ(¹H) = 2.675 × 10⁸.\nγ(¹³C) = 0.673 × 10⁸ rad·T⁻¹·s⁻¹，约为 γ(¹H) = 2.675 × 10⁸ 的四分之一。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (MCQ).md::9",
+    "id": "Quiz 15 - NMR Isotopic Labeling (MCQ).md::9",
     "type": "mcq",
     "q_en": "The ¹H-¹³C HSQC experiment separates protons bound to which type of nucleus?",
     "q_zh": "¹H-¹³C HSQC 实验区分与哪种原子核相连的质子？",
@@ -8822,7 +10370,7 @@
     "a": "The ¹H-¹³C HSQC correlates each proton with its directly bonded carbon, spreading the spectrum into a second (carbon) dimension.\n¹H-¹³C HSQC 将每个质子与其直接键合的碳关联，把谱扩展到第二个（碳）维度。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (MCQ).md::10",
+    "id": "Quiz 15 - NMR Isotopic Labeling (MCQ).md::10",
     "type": "mcq",
     "q_en": "Which two problems mainly limit NMR as protein size increases?",
     "q_zh": "随着蛋白增大，主要有哪两个问题限制 NMR？",
@@ -8836,7 +10384,7 @@
     "a": "Larger proteins give more overlapping resonances and faster transverse relaxation (broader lines), both addressed by ¹⁵N/¹³C labeling and deuteration.\n更大的蛋白产生更多重叠共振和更快的横向弛豫（谱线更宽），两者可通过 ¹⁵N/¹³C 标记和氘代解决。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (MCQ).md::11",
+    "id": "Quiz 15 - NMR Isotopic Labeling (MCQ).md::11",
     "type": "mcq",
     "q_en": "What is the nuclear spin I of ²H (deuterium)?",
     "q_zh": "²H（氘）的核自旋 I 是多少？",
@@ -8850,7 +10398,7 @@
     "a": "²H has spin I = 1 (quadrupolar, broad lines), which is why it is not directly observed but used to dilute protons.\n²H 的自旋 I = 1（四极核，谱线宽），因此不直接观测，而是用于稀释质子。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (MCQ).md::12",
+    "id": "Quiz 15 - NMR Isotopic Labeling (MCQ).md::12",
     "type": "mcq",
     "q_en": "For Leu/Ile/Val methyl labeling, which precursor is used?",
     "q_zh": "Leu/Ile/Val 甲基标记使用哪种前体？",
@@ -8864,7 +10412,7 @@
     "a": "Leu/Ile/Val methyl labeling uses glucose-d7 precursors, whereas Ile δ1 uses α-ketoisobutyrate.\nLeu/Ile/Val 甲基标记使用氘代葡萄糖（glucose-d7）前体，而 Ile δ1 使用 α-酮异丁酸。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (MCQ).md::13",
+    "id": "Quiz 15 - NMR Isotopic Labeling (MCQ).md::13",
     "type": "mcq",
     "q_en": "Amide proton exchange is slowed by which factor?",
     "q_zh": "酰胺质子的交换被哪种因素减慢？",
@@ -8878,7 +10426,7 @@
     "a": "Amide protons engaged in hydrogen bonds (secondary structure) exchange much more slowly than exposed ones.\n参与氢键（二级结构）的酰胺质子交换远慢于暴露的酰胺质子。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (MCQ).md::14",
+    "id": "Quiz 15 - NMR Isotopic Labeling (MCQ).md::14",
     "type": "mcq",
     "q_en": "STINT-NMR stands for \"sequential ___ for interface mapping\" — what word completes it?",
     "q_zh": "STINT-NMR 是「用于界面作图的顺序 ___」的缩写——缺哪个词？",
@@ -8895,10 +10443,10 @@
  },
  {
   "id": "sdbm",
-  "name": "Quiz 13 - NMR Parameters I [选择]",
+  "name": "Quiz 16 - NMR Parameters I [选择]",
   "cards": [
    {
-    "id": "Quiz 13 - NMR Parameters I (MCQ).md::0",
+    "id": "Quiz 16 - NMR Parameters I (MCQ).md::0",
     "type": "mcq",
     "q_en": "The Larmor frequency ν is given by which formula?",
     "q_zh": "拉莫尔频率 ν 由哪个公式给出？",
@@ -8912,7 +10460,7 @@
     "a": "The Larmor frequency is ν = γB₀/2π, proportional to the gyromagnetic ratio and the applied field B₀.\n拉莫尔频率 ν = γB₀/2π，正比于旋磁比和外加场 B₀。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (MCQ).md::1",
+    "id": "Quiz 16 - NMR Parameters I (MCQ).md::1",
     "type": "mcq",
     "q_en": "How do electrons affect the local magnetic field at a nucleus (shielding)?",
     "q_zh": "电子如何影响原子核处的局部磁场（屏蔽）？",
@@ -8926,7 +10474,7 @@
     "a": "Shielding electrons induce local fields opposed to B₀, so the nucleus experiences a slightly reduced (local) field that determines its chemical shift.\n屏蔽电子诱导出与 B₀ 相反的局部场，使原子核感受到略小的（局部）场，从而决定其化学位移。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (MCQ).md::2",
+    "id": "Quiz 16 - NMR Parameters I (MCQ).md::2",
     "type": "mcq",
     "q_en": "The secondary chemical shift Δδ is calculated as:",
     "q_zh": "次级化学位移 Δδ 如何计算？",
@@ -8940,7 +10488,7 @@
     "a": "Δδ = δ_measured − δ_random coil; it reflects secondary-structure deviations and is used by CSI and TALOS.\nΔδ = δ_measured − δ_random coil；它反映二级结构偏离，被 CSI 和 TALOS 使用。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (MCQ).md::3",
+    "id": "Quiz 16 - NMR Parameters I (MCQ).md::3",
     "type": "mcq",
     "q_en": "TALOS estimates which quantities from chemical shifts?",
     "q_zh": "TALOS 从化学位移估算哪些量？",
@@ -8954,7 +10502,7 @@
     "a": "TALOS estimates φ and ψ backbone torsion angles from chemical shifts, complementing the CSI secondary-structure identification.\nTALOS 从化学位移估算主链 φ 和 ψ 扭转角，与 CSI 的二级结构识别互补。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (MCQ).md::4",
+    "id": "Quiz 16 - NMR Parameters I (MCQ).md::4",
     "type": "mcq",
     "q_en": "In slow exchange, what do the peak intensities reflect?",
     "q_zh": "在慢交换中，峰强度反映什么？",
@@ -8968,7 +10516,7 @@
     "a": "In slow exchange, separate peaks appear for each state and their intensities reflect the populations of the two states.\n慢交换中每个状态出现独立峰，峰强度反映两种状态的数量布居。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (MCQ).md::5",
+    "id": "Quiz 16 - NMR Parameters I (MCQ).md::5",
     "type": "mcq",
     "q_en": "What is the relationship between line width and R₂?",
     "q_zh": "线宽与 R₂ 的关系是什么？",
@@ -8982,7 +10530,7 @@
     "a": "Line width is proportional to R₂ (transverse relaxation rate), so faster relaxation gives broader lines.\n线宽正比于 R₂（横向弛豫速率），弛豫越快谱线越宽。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (MCQ).md::6",
+    "id": "Quiz 16 - NMR Parameters I (MCQ).md::6",
     "type": "mcq",
     "q_en": "Which experiment is intraresidual (assigns spins within one residue)?",
     "q_zh": "哪种实验是残基内实验（在同一残基内归属自旋）？",
@@ -8996,7 +10544,7 @@
     "a": "COSY (with TOCSY, HNCA, HNCACB/HNCACO) is intraresidual; NOESY, HNCO and HN(CO)CA are interresidual (sequential).\nCOSY（以及 TOCSY、HNCA、HNCACB/HNCACO）是残基内实验；NOESY、HNCO、HN(CO)CA 是残基间（顺序）实验。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (MCQ).md::7",
+    "id": "Quiz 16 - NMR Parameters I (MCQ).md::7",
     "type": "mcq",
     "q_en": "STD NMR compares which two spectra?",
     "q_zh": "STD NMR 比较哪两个谱？",
@@ -9010,7 +10558,7 @@
     "a": "STD = reference spectrum − saturation (on-resonance) spectrum; the difference reveals ligand protons close to the protein.\nSTD = 参考谱 − 饱和（共振）谱；差值谱揭示靠近蛋白的配体质子。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (MCQ).md::8",
+    "id": "Quiz 16 - NMR Parameters I (MCQ).md::8",
     "type": "mcq",
     "q_en": "The dissociation constant K_D equals which expression?",
     "q_zh": "解离常数 K_D 等于哪个表达式？",
@@ -9024,7 +10572,7 @@
     "a": "K_D = k_off / k_on, the ratio of the dissociation and association rate constants.\nK_D = k_off / k_on，即解离与结合速率常数之比。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (MCQ).md::9",
+    "id": "Quiz 16 - NMR Parameters I (MCQ).md::9",
     "type": "mcq",
     "q_en": "What does the acronym CSI stand for?",
     "q_zh": "缩写 CSI 代表什么？",
@@ -9038,7 +10586,7 @@
     "a": "CSI = Chemical Shift Index, a method that uses secondary chemical shifts (Δδ) to identify secondary structure.\nCSI = Chemical Shift Index（化学位移指数），利用次级化学位移（Δδ）识别二级结构。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (MCQ).md::10",
+    "id": "Quiz 16 - NMR Parameters I (MCQ).md::10",
     "type": "mcq",
     "q_en": "The transverse relaxation rate R₂ is given by R₂ = R₂⁰ + ?",
     "q_zh": "横向弛豫速率 R₂ = R₂⁰ + ？",
@@ -9052,7 +10600,7 @@
     "a": "R₂ = R₂⁰ + R_ex, where R₂⁰ is the intrinsic relaxation and R_ex is the chemical-exchange contribution.\nR₂ = R₂⁰ + R_ex，其中 R₂⁰ 为本征弛豫，R_ex 为化学交换贡献。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (MCQ).md::11",
+    "id": "Quiz 16 - NMR Parameters I (MCQ).md::11",
     "type": "mcq",
     "q_en": "The rotational correlation time τc is approximately MW divided by what number (in Da)?",
     "q_zh": "旋转相关时间 τc 约等于分子量（Da）除以什么数？",
@@ -9066,7 +10614,7 @@
     "a": "τc ≈ MW/2400 (in ns for MW in Da), relating molecular weight to tumbling time.\nτc ≈ MW/2400（MW 以 Da 计，τc 以 ns 计），将分子量与翻滚时间联系起来。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (MCQ).md::12",
+    "id": "Quiz 16 - NMR Parameters I (MCQ).md::12",
     "type": "mcq",
     "q_en": "Which of the following experiments is interresidual (sequential)?",
     "q_zh": "下列哪个实验是残基间（顺序）实验？",
@@ -9080,7 +10628,7 @@
     "a": "HNCO is interresidual (connects HN_i to the carbonyl of the preceding residue); COSY, TOCSY, and HNCA are intraresidual.\nHNCO 是残基间实验（连接 HN_i 与前一个残基的羰基）；COSY、TOCSY、HNCA 是残基内实验。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (MCQ).md::13",
+    "id": "Quiz 16 - NMR Parameters I (MCQ).md::13",
     "type": "mcq",
     "q_en": "CPMG relaxation dispersion identifies residues undergoing which kind of exchange?",
     "q_zh": "CPMG 弛豫色散用于识别处于哪种交换的残基？",
@@ -9094,7 +10642,7 @@
     "a": "CPMG relaxation dispersion measures R₂_eff as a function of the refocusing frequency to detect residues in intermediate (chemical) exchange.\nCPMG 弛豫色散测量 R₂_eff 随重聚焦频率的变化，以检测处于中间（化学）交换的残基。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (MCQ).md::14",
+    "id": "Quiz 16 - NMR Parameters I (MCQ).md::14",
     "type": "mcq",
     "q_en": "CEST (chemical exchange saturation transfer) requires the minor-state population P_b to exceed what percentage?",
     "q_zh": "CEST（化学交换饱和转移）要求次要态布居 P_b 超过百分之几？",
@@ -9111,10 +10659,10 @@
  },
  {
   "id": "sdbm",
-  "name": "Quiz 14 - NMR Parameters II [选择]",
+  "name": "Quiz 17 - NMR Parameters II [选择]",
   "cards": [
    {
-    "id": "Quiz 14 - NMR Parameters II (MCQ).md::0",
+    "id": "Quiz 17 - NMR Parameters II (MCQ).md::0",
     "type": "mcq",
     "q_en": "Which of the following is NOT one of the six structural parameters?",
     "q_zh": "下列哪一项不属于六大结构参数？",
@@ -9128,7 +10676,7 @@
     "a": "The six parameters are chemical shift, NOE, NH exchange, J coupling, RDC and PRE; TALOS is a program, not a parameter.\n六大参数是化学位移、NOE、酰胺质子交换、J 耦合、RDC 和 PRE；TALOS 是程序而非参数。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (MCQ).md::1",
+    "id": "Quiz 17 - NMR Parameters II (MCQ).md::1",
     "type": "mcq",
     "q_en": "NOEs give ¹H–¹H distance information up to how many Å?",
     "q_zh": "NOE 提供的 ¹H–¹H 距离信息最大可达多少 Å？",
@@ -9142,7 +10690,7 @@
     "a": "NOE is a through-space dipolar effect detectable for distances up to about 6 Å (with r⁻⁶ dependence).\nNOE 是通过空间的偶极效应，可检测约 6 Å 以内的距离（依赖 r⁻⁶）。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (MCQ).md::2",
+    "id": "Quiz 17 - NMR Parameters II (MCQ).md::2",
     "type": "mcq",
     "q_en": "What NOE sign do large molecules give?",
     "q_zh": "大分子给出什么符号的 NOE？",
@@ -9156,7 +10704,7 @@
     "a": "Large (slowly tumbling) molecules give negative NOE; small molecules give positive NOE.\n大分子（缓慢翻滚）给出负 NOE；小分子给出正 NOE。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (MCQ).md::3",
+    "id": "Quiz 17 - NMR Parameters II (MCQ).md::3",
     "type": "mcq",
     "q_en": "For medium-sized molecules where the NOE is near zero, which experiment is used instead?",
     "q_zh": "对于 NOE 接近零的中等大小分子，改用哪种实验？",
@@ -9170,7 +10718,7 @@
     "a": "For medium molecules (ω₀τc ≈ 1) the NOE is not observable, so ROE (rotating-frame Overhauser effect) is used instead.\n中等大小分子（ω₀τc ≈ 1）的 NOE 不可观测，故改用 ROE（旋转坐标系欧沃豪斯效应）。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (MCQ).md::4",
+    "id": "Quiz 17 - NMR Parameters II (MCQ).md::4",
     "type": "mcq",
     "q_en": "In solution NMR, what does the dipolar interaction average to?",
     "q_zh": "在溶液 NMR 中，偶极相互作用平均为何值？",
@@ -9184,7 +10732,7 @@
     "a": "Rapid isotropic tumbling averages dipolar couplings to zero in solution; in solids they are enormous. Partial alignment leaves a small RDC of a few Hz.\n溶液中的快速各向同性翻滚使偶极耦合平均为零；固体中则非常大。部分取向会残留几 Hz 的 RDC。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (MCQ).md::5",
+    "id": "Quiz 17 - NMR Parameters II (MCQ).md::5",
     "type": "mcq",
     "q_en": "RDC is defined as:",
     "q_zh": "RDC 的定义是什么？",
@@ -9198,7 +10746,7 @@
     "a": "RDC = J_aniso − J_iso, the part of the coupling that survives partial alignment.\nRDC = J_aniso − J_iso，即部分取向中残留下来的耦合部分。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (MCQ).md::6",
+    "id": "Quiz 17 - NMR Parameters II (MCQ).md::6",
     "type": "mcq",
     "q_en": "Isotropic paramagnetic centers (Mn²⁺, Gd³⁺, nitroxide) produce:",
     "q_zh": "各向同性顺磁中心（Mn²⁺、Gd³⁺、氮氧自由基）产生什么？",
@@ -9212,7 +10760,7 @@
     "a": "Isotropic centers give a simple PRE ∝ r⁻⁶ with no PCS; anisotropic centers (Co²⁺, lanthanides) also give PCS (Curie relaxation).\n各向同性中心给出简单的 PRE ∝ r⁻⁶ 且无 PCS；各向异性中心（Co²⁺、镧系）还会产生 PCS（居里弛豫）。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (MCQ).md::7",
+    "id": "Quiz 17 - NMR Parameters II (MCQ).md::7",
     "type": "mcq",
     "q_en": "Long-range NOEs (far apart in sequence) primarily provide what information?",
     "q_zh": "长程 NOE（序列上相距很远）主要提供什么信息？",
@@ -9226,7 +10774,7 @@
     "a": "Long-range NOEs connect residues far apart in sequence, defining the fold (tertiary structure).\n长程 NOE 连接序列上相距很远的残基，从而定义折叠（三级结构）。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (MCQ).md::8",
+    "id": "Quiz 17 - NMR Parameters II (MCQ).md::8",
     "type": "mcq",
     "q_en": "What information does amide proton exchange provide?",
     "q_zh": "酰胺质子交换提供什么信息？",
@@ -9240,7 +10788,7 @@
     "a": "Amide proton exchange rates reveal hydrogen bonding (protected amides in H-bonded secondary structure exchange slowly).\n酰胺质子交换速率揭示氢键信息（参与氢键的二级结构中的酰胺交换慢）。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (MCQ).md::9",
+    "id": "Quiz 17 - NMR Parameters II (MCQ).md::9",
     "type": "mcq",
     "q_en": "What information do J couplings provide?",
     "q_zh": "J 耦合提供什么信息？",
@@ -9254,7 +10802,7 @@
     "a": "Scalar (J) couplings depend on dihedral angles via the Karplus relation, giving torsion-angle information.\n标量（J）耦合通过 Karplus 关系依赖二面角，提供扭转角信息。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (MCQ).md::10",
+    "id": "Quiz 17 - NMR Parameters II (MCQ).md::10",
     "type": "mcq",
     "q_en": "Spin diffusion produces what kind of artifact in NOE data?",
     "q_zh": "自旋扩散在 NOE 数据中产生哪种伪影？",
@@ -9268,7 +10816,7 @@
     "a": "Spin diffusion relays magnetization through the proton network, producing false (spurious) long-range NOEs.\n自旋扩散通过质子网络传递磁化，产生虚假的长程 NOE。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (MCQ).md::11",
+    "id": "Quiz 17 - NMR Parameters II (MCQ).md::11",
     "type": "mcq",
     "q_en": "PRE provides distance information up to how far?",
     "q_zh": "PRE 提供最远多远的距离信息？",
@@ -9282,7 +10830,7 @@
     "a": "The strong electron magnetic moment (≈10³× the proton) lets PRE report long distances up to 15–24 Å.\n电子磁矩强（约为质子的 10³ 倍），使 PRE 能报告长达 15–24 Å 的距离。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (MCQ).md::12",
+    "id": "Quiz 17 - NMR Parameters II (MCQ).md::12",
     "type": "mcq",
     "q_en": "The one-bond ¹⁵N–¹H scalar coupling (¹J_NH) is approximately what value?",
     "q_zh": "一键 ¹⁵N–¹H 标量耦合（¹J_NH）约为多少？",
@@ -9296,7 +10844,7 @@
     "a": "¹J_NH is about 92–95 Hz, the reference coupling used when measuring RDCs (J_aniso − J_iso).\n¹J_NH 约为 92–95 Hz，是测量 RDC（J_aniso − J_iso）时使用的参考耦合。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (MCQ).md::13",
+    "id": "Quiz 17 - NMR Parameters II (MCQ).md::13",
     "type": "mcq",
     "q_en": "Paramagnetic probes are conjugated to which side-chain group?",
     "q_zh": "顺磁探针共轭到哪种侧链基团？",
@@ -9310,7 +10858,7 @@
     "a": "Paramagnetic labels are attached to surface-exposed cysteine thiols (via a thiol-reactive group).\n顺磁标记通过巯基反应基团连接到暴露在表面的半胱氨酸巯基上。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (MCQ).md::14",
+    "id": "Quiz 17 - NMR Parameters II (MCQ).md::14",
     "type": "mcq",
     "q_en": "The electron magnetic moment is about how many times larger than the proton's?",
     "q_zh": "电子磁矩约为质子磁矩的多少倍？",
@@ -9327,10 +10875,10 @@
  },
  {
   "id": "sdbm",
-  "name": "Quiz 15 - NMR Structure Calculation [选择]",
+  "name": "Quiz 18 - NMR Structure Calculation [选择]",
   "cards": [
    {
-    "id": "Quiz 15 - NMR Structure Calculation (MCQ).md::0",
+    "id": "Quiz 18 - NMR Structure Calculation (MCQ).md::0",
     "type": "mcq",
     "q_en": "In structure calculation, the energy function is V = V_physical + ?",
     "q_zh": "结构计算中的能量函数 V = V_physical + ？",
@@ -9344,7 +10892,7 @@
     "a": "The total potential is V = V_physical + V_experimental, where experimental restraints add their pseudoenergy to the physical force field.\n总势能 V = V_physical + V_experimental，实验约束以赝势能形式加入物理力场。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (MCQ).md::1",
+    "id": "Quiz 18 - NMR Structure Calculation (MCQ).md::1",
     "type": "mcq",
     "q_en": "Experimental restraints enter the calculation as what?",
     "q_zh": "实验约束以何种形式进入计算？",
@@ -9358,7 +10906,7 @@
     "a": "NMR restraints are introduced as a pseudopotential (pseudoenergy) that penalizes violations during the dynamics.\nNMR 约束以赝势（赝势能）形式引入，在动力学过程中对违反进行惩罚。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (MCQ).md::2",
+    "id": "Quiz 18 - NMR Structure Calculation (MCQ).md::2",
     "type": "mcq",
     "q_en": "How many structures are in the final NMR ensemble?",
     "q_zh": "最终 NMR 系综包含多少个结构？",
@@ -9372,7 +10920,7 @@
     "a": "The final ensemble consists of the ~20 lowest-energy structures selected from many simulated-annealing runs.\n最终系综由多次模拟退火中选出的约 20 个最低能量结构组成。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (MCQ).md::3",
+    "id": "Quiz 18 - NMR Structure Calculation (MCQ).md::3",
     "type": "mcq",
     "q_en": "Precision is defined as:",
     "q_zh": "精密度（precision）的定义是什么？",
@@ -9386,7 +10934,7 @@
     "a": "Precision is the RMSD of ensemble members relative to their average structure; accuracy is the deviation from the real structure.\n精密度是系综成员相对其平均结构的 RMSD；准确度是与真实结构的偏差。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (MCQ).md::4",
+    "id": "Quiz 18 - NMR Structure Calculation (MCQ).md::4",
     "type": "mcq",
     "q_en": "What is the unit of the NOE force constant K_NOE?",
     "q_zh": "NOE 力常数 K_NOE 的单位是什么？",
@@ -9400,7 +10948,7 @@
     "a": "The NOE force constant K_NOE has units kcal·mol⁻¹·nm⁻²; a larger K_NOE gives a steeper potential.\nNOE 力常数 K_NOE 的单位为 kcal·mol⁻¹·nm⁻²；K_NOE 越大势能越陡。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (MCQ).md::5",
+    "id": "Quiz 18 - NMR Structure Calculation (MCQ).md::5",
     "type": "mcq",
     "q_en": "Why does high temperature enable crossing of potential-energy barriers during simulated annealing?",
     "q_zh": "为什么模拟退火中高温能跨越势能垒？",
@@ -9414,7 +10962,7 @@
     "a": "Higher temperature means higher kinetic energy, which lets the system cross potential-energy barriers and explore conformations.\n温度越高动能越大，使体系能跨越势能垒并探索构象。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (MCQ).md::6",
+    "id": "Quiz 18 - NMR Structure Calculation (MCQ).md::6",
     "type": "mcq",
     "q_en": "HADDOCK stands for High Ambiguity Driven ...?",
     "q_zh": "HADDOCK 是「High Ambiguity Driven ...」的缩写？",
@@ -9428,7 +10976,7 @@
     "a": "HADDOCK = High Ambiguity Driven DOCKing, a docking program driven by ambiguous interaction restraints.\nHADDOCK = High Ambiguity Driven DOCKing（高模糊性驱动对接），一种由模糊相互作用约束驱动的对接程序。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (MCQ).md::7",
+    "id": "Quiz 18 - NMR Structure Calculation (MCQ).md::7",
     "type": "mcq",
     "q_en": "In cross-saturation, D₂O is used to:",
     "q_zh": "交叉饱和实验中，D₂O 的作用是什么？",
@@ -9442,7 +10990,7 @@
     "a": "D₂O is used in cross-saturation to diminish spin diffusion, so only direct interfacial contacts transfer saturation.\n交叉饱和中用 D₂O 减弱自旋扩散，使只有直接的界面接触才传递饱和。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (MCQ).md::8",
+    "id": "Quiz 18 - NMR Structure Calculation (MCQ).md::8",
     "type": "mcq",
     "q_en": "Molecular dynamics is based on which law?",
     "q_zh": "分子动力学基于哪条定律？",
@@ -9456,7 +11004,7 @@
     "a": "MD integrates Newton's second law (F = m·a) to propagate atomic positions, with the force derived from the potential.\n分子动力学积分牛顿第二定律（F = m·a）来推进原子位置，力由势能导出。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (MCQ).md::9",
+    "id": "Quiz 18 - NMR Structure Calculation (MCQ).md::9",
     "type": "mcq",
     "q_en": "In molecular dynamics, the force on an atom is derived as what of the potential energy?",
     "q_zh": "在分子动力学中，原子上的力是势能的什么？",
@@ -9470,7 +11018,7 @@
     "a": "The force is the negative gradient of the potential: F = −∇V.\n力是势能的负梯度：F = −∇V。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (MCQ).md::10",
+    "id": "Quiz 18 - NMR Structure Calculation (MCQ).md::10",
     "type": "mcq",
     "q_en": "The NOE pseudopotential is zero within which range?",
     "q_zh": "NOE 赝势在哪个区间内为零？",
@@ -9484,7 +11032,7 @@
     "a": "The NOE pseudopotential is flat (zero) between the lower and upper distance bounds and rises only outside them, so any distance within the allowed range is unpenalized.\nNOE 赝势在距离下限与上限之间为零（平坦），仅在越界时上升，因此允许范围内的任何距离都不受惩罚。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (MCQ).md::11",
+    "id": "Quiz 18 - NMR Structure Calculation (MCQ).md::11",
     "type": "mcq",
     "q_en": "\"Convergence\" of a structure calculation means what?",
     "q_zh": "结构计算的「收敛」意味着什么？",
@@ -9498,7 +11046,7 @@
     "a": "Convergence means the selected low-energy structures have close (similar) energies and low restraint violations, indicating a consistent solution.\n收敛意味着选出的低能结构能量接近且约束违反少，表明解一致。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (MCQ).md::12",
+    "id": "Quiz 18 - NMR Structure Calculation (MCQ).md::12",
     "type": "mcq",
     "q_en": "Initial conformations for simulated annealing are chosen as what?",
     "q_zh": "模拟退火的初始构象选择为什么？",
@@ -9512,7 +11060,7 @@
     "a": "Simulated-annealing runs start from random or extended conformations to sample independent trajectories.\n模拟退火从随机或伸展构象开始，以采样独立的轨迹。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (MCQ).md::13",
+    "id": "Quiz 18 - NMR Structure Calculation (MCQ).md::13",
     "type": "mcq",
     "q_en": "LolA and LolB share what percentage of sequence identity?",
     "q_zh": "LolA 与 LolB 的序列同一性是多少？",
@@ -9526,7 +11074,7 @@
     "a": "Despite only 8% sequence identity, LolA/LolB share the same fold; their K_D from ITC is ~30 µM.\n尽管序列同一性只有 8%，LolA/LolB 具有相同折叠；ITC 测得的 K_D 约为 30 µM。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (MCQ).md::14",
+    "id": "Quiz 18 - NMR Structure Calculation (MCQ).md::14",
     "type": "mcq",
     "q_en": "In an NMR ensemble statistics table, distance violations greater than what value are counted?",
     "q_zh": "在 NMR 系综统计表中，超过多大值的距离违反会被计入？",
@@ -10533,87 +12081,357 @@
  },
  {
   "id": "sdbm",
-  "name": "Quiz 12 - NMR Isotopic Labeling [简答]",
+  "name": "Quiz 12 - NMR Principles [简答]",
   "cards": [
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (Short Answer).md::0",
+    "id": "Quiz 12 - NMR Principles (Short Answer).md::0",
+    "type": "sa",
+    "q_en": "What are the requirements for a nucleus to give an NMR signal? State the spin rules for even/odd A and Z.",
+    "q_zh": "原子核要产生 NMR 信号需要什么条件？说明 A、Z 奇偶的自旋规则。",
+    "a": "A nucleus needs a non-zero spin I. Even-A/even-Z nuclei have I = 0 (no NMR, e.g. ¹²C, ¹⁶O); even-A/odd-Z nuclei have integer spin (I = n, e.g. ²H, ¹⁴N); odd-A nuclei have half-integer spin (I = n/2, e.g. ¹H, ¹³C, ¹⁵N, ³¹P, ¹⁹F) and give sharp spin-1/2 lines.\n原子核需要非零自旋 I。偶 A 偶 Z 核 I = 0（无 NMR，如 ¹²C、¹⁶O）；偶 A 奇 Z 核为整数自旋（I = n，如 ²H、¹⁴N）；奇 A 核为半整数自旋（I = n/2，如 ¹H、¹³C、¹⁵N、³¹P、¹⁹F），给出尖锐的自旋 1/2 谱线。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (Short Answer).md::1",
+    "type": "sa",
+    "q_en": "Define the gyromagnetic ratio γ and explain why ¹⁵N has a negative γ.",
+    "q_zh": "定义旋磁比 γ，并解释为什么 ¹⁵N 的 γ 为负。",
+    "a": "γ relates the magnetic moment to the spin, μ = γℏI. It is a physical constant for each isotope and determines both the Larmor frequency (ν₀ = γB₀/2π) and the signal intensity. ¹⁵N has a negative γ, meaning its magnetic moment is antiparallel to its spin, so it precesses in the opposite sense.\nγ 把磁矩与自旋联系起来，μ = γℏI。它是每种同位素的物理常数，同时决定 Larmor 频率（ν₀ = γB₀/2π）和信号强度。¹⁵N 的 γ 为负，意味着其磁矩与自旋反平行，进动方向相反。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (Short Answer).md::2",
+    "type": "sa",
+    "q_en": "Write the Zeeman energy for a spin-1/2 nucleus and the energy gap between its two levels.",
+    "q_zh": "写出自旋 1/2 核的塞曼能量及两个能级之间的能隙。",
+    "a": "E = −μ·B₀. For spin 1/2 there are two eigenstates: Eα = −γℏB₀/2 (mI = +1/2) and Eβ = +γℏB₀/2 (mI = −1/2), giving the gap ΔE = γℏB₀.\nE = −μ·B₀。自旋 1/2 有两个本征态：Eα = −γℏB₀/2（mI = +1/2）与 Eβ = +γℏB₀/2（mI = −1/2），能隙 ΔE = γℏB₀。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (Short Answer).md::3",
+    "type": "sa",
+    "q_en": "Why is the NMR signal intrinsically weak? Give the Boltzmann population difference and ΔN/N at 600 MHz.",
+    "q_zh": "为什么 NMR 信号本质上很弱？给出玻尔兹曼布居差及 600 MHz 下的 ΔN/N。",
+    "a": "At thermal equilibrium the two spin levels are almost equally populated because ΔE ≪ kBT. The excess population is ΔN = NγℏB₀/2kT, giving ΔN/N ≈ 4.8×10⁻⁵ (0.0048%) at 600 MHz; for 3×10¹⁷ molecules this is only ΔN ≈ 1.45×10¹³, hence the weak net magnetization.\n热平衡下两个自旋能级几乎等布居，因为 ΔE ≪ kBT。布居差 ΔN = NγℏB₀/2kT，600 MHz 下 ΔN/N ≈ 4.8×10⁻⁵（0.0048%）；对 3×10¹⁷ 个分子仅 ΔN ≈ 1.45×10¹³，故净磁化很弱。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (Short Answer).md::4",
+    "type": "sa",
+    "q_en": "Contrast Purcell's and Bloch's views of the NMR resonance phenomenon.",
+    "q_zh": "对比 Purcell 与 Bloch 对 NMR 共振现象的两种观点。",
+    "a": "Purcell's energetic view: irradiate with radiofrequency ν; absorption occurs when the photon energy matches the transition, hν = γℏB₀. Bloch's induction view: keep the system under constant frequency ν = ω/2π and sweep B₀; when B₀ = ω/γ a signal is induced in a coil along y. Both shared the 1952 Nobel prize.\nPurcell 的能量观点：用射频 ν 照射，当光子能量匹配跃迁 hν = γℏB₀ 时发生吸收。Bloch 的感应观点：在恒定频率 ν = ω/2π 下扫描 B₀，当 B₀ = ω/γ 时沿 y 的线圈中感应出信号。两人共同获得 1952 年诺贝尔奖。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (Short Answer).md::5",
+    "type": "sa",
+    "q_en": "Define the Larmor frequency and give both its frequency and angular forms.",
+    "q_zh": "定义 Larmor 频率，并给出其频率与角频率两种形式。",
+    "a": "The Larmor frequency is the rate at which the magnetization precesses around B₀ after excitation. Frequency form ν₀ = γB₀/2π; angular form ω₀ = γB₀. It depends only on the nucleus (γ) and the field (B₀).\nLarmor 频率是激发后磁化绕 B₀ 进动的速率。频率形式 ν₀ = γB₀/2π；角频率形式 ω₀ = γB₀。它只取决于核（γ）和磁场（B₀）。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (Short Answer).md::6",
+    "type": "sa",
+    "q_en": "What is the flip angle θ, and what does a 90° pulse achieve?",
+    "q_zh": "什么是翻转角 θ？90° 脉冲实现什么？",
+    "a": "The flip angle is the angle through which the magnetization is rotated by a B₁ pulse of duration tP: θ = γB₁tP. A 90° pulse rotates M from the z axis into the xy plane, where it precesses and generates the detectable signal.\n翻转角是持续 tP 的 B₁ 脉冲使磁化旋转的角度：θ = γB₁tP。90° 脉冲把 M 从 z 轴转到 xy 平面，磁化在该平面进动并产生可检测信号。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (Short Answer).md::7",
+    "type": "sa",
+    "q_en": "Define T₁ and T₂; give their microscopic interpretation and alternative names.",
+    "q_zh": "定义 T₁ 与 T₂；给出其微观解释和别名。",
+    "a": "T₁ (longitudinal, spin–lattice): Mz returns to equilibrium along z via stimulated transitions driven by fluctuating fields, dMz/dt = (M₀−Mz)/T₁. T₂ (transverse, spin–spin): loss of spin coherence in the xy plane, dMx,y/dt = −Mx,y/T₂.\nT₁（纵向、自旋–晶格）：Mz 经涨落场驱动的受激跃迁沿 z 回归平衡，dMz/dt = (M₀−Mz)/T₁。T₂（横向、自旋–自旋）：xy 平面自旋失相干，dMx,y/dt = −Mx,y/T₂。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (Short Answer).md::8",
+    "type": "sa",
+    "q_en": "Why is T₂* shorter than T₂, and how do the Hahn echo / CPMG refocus field inhomogeneity?",
+    "q_zh": "为什么 T₂* 比 T₂ 短？Hahn 回波 / CPMG 如何重聚磁场不均匀性？",
+    "a": "T₂* includes the B₀ inhomogeneity: 1/T₂* = 1/T₂ + (B₀ inhomogeneity). The π/2x–τ–πy–τ echo (or repeated CPMG πy pulses) reverses the sense of static dephasing, so spins refocus at the echo and the true T₂ is measured.\nT₂* 包含 B₀ 不均匀性：1/T₂* = 1/T₂ +（B₀ 不均匀性）。π/2x–τ–πy–τ 回波（或重复的 CPMG πy 脉冲）反转静态退相的方向，使自旋在回波处重聚，从而测量真实 T₂。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (Short Answer).md::9",
+    "type": "sa",
+    "q_en": "Why does S/N scale as √n with the number of scans n?",
+    "q_zh": "为什么信噪比随扫描次数 n 按 √n 变化？",
+    "a": "The coherent NMR signal adds linearly with n (S ∝ n), whereas random noise adds in quadrature (σ ∝ √n). Therefore S/N = S/σ ∝ n/√n = √n.\n相干的 NMR 信号随 n 线性叠加（S ∝ n），而随机噪声按平方根叠加（σ ∝ √n）。因此 S/N = S/σ ∝ n/√n = √n。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (Short Answer).md::10",
+    "type": "sa",
+    "q_en": "Explain the Fourier transform and the Lorentzian lineshape; what determines linewidth and intensity?",
+    "q_zh": "解释傅里叶变换与洛伦兹线型；什么决定线宽和强度？",
+    "a": "The FT (S(ω) = ∫ s(t)e^(−iωt) dt) converts the time-domain FID into the frequency-domain spectrum. An exponential FID s(t) = S₀ exp(iω₀t) exp(−t/T₂) gives a Lorentzian centered at ν₀ = γB₀/2π; its half-height linewidth is 1/(πT₂) and its intensity is proportional to M₀.\n傅里叶变换（S(ω) = ∫ s(t)e^(−iωt) dt）把时域 FID 转换为频域谱。指数 FID s(t) = S₀ exp(iω₀t) exp(−t/T₂) 得到以 ν₀ = γB₀/2π 为中心的洛伦兹线型；半高线宽为 1/(πT₂)，强度正比于 M₀。"
+   },
+   {
+    "id": "Quiz 12 - NMR Principles (Short Answer).md::11",
+    "type": "sa",
+    "q_en": "Contrast the exponential and Gaussian window functions in terms of sensitivity and resolution.",
+    "q_zh": "从灵敏度与分辨率角度对比指数窗与高斯窗函数。",
+    "a": "The exponential window e^(−LB·t) increases sensitivity but reduces resolution (broadens lines); the optimal LB equals the linewidth Δν₁/₂ for best S/N. The Gaussian window e^(LB·t − αt²) (α = LB/(2·f·AQ)) increases resolution but reduces sensitivity.\n指数窗 e^(−LB·t) 提高灵敏度但降低分辨率（谱线增宽）；最佳 LB 等于线宽 Δν₁/₂ 以获得最佳信噪比。高斯窗 e^(LB·t − αt²)（α = LB/(2·f·AQ)）提高分辨率但降低灵敏度。"
+   }
+  ]
+ },
+ {
+  "id": "sdbm",
+  "name": "Quiz 13 - NMR Observables [简答]",
+  "cards": [
+   {
+    "id": "Quiz 13 - NMR Observables (Short Answer).md::0",
+    "type": "sa",
+    "q_en": "List the four characteristic observables of an NMR spectrum and the information each carries.",
+    "q_zh": "列出 NMR 谱的四个特征可观测量及其各自携带的信息。",
+    "a": "(1) Chemical shift δ (ppm) — electronic chemical environment of the nucleus; (2) integral — number of nuclei (depends on T₁/T₂); (3) scalar coupling J (Hz) — neighboring nuclei and torsion angles; (4) linewidth Δν = 1/πT₂ — molecular motion and chemical exchange.\n(1) 化学位移 δ（ppm）——核的电子化学环境；(2) 积分——核数目（依赖 T₁/T₂）；(3) 标量耦合 J（Hz）——邻近核与扭转角；(4) 线宽 Δν = 1/πT₂——分子运动与化学交换。"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (Short Answer).md::1",
+    "type": "sa",
+    "q_en": "Define chemical shift and explain why it is field-independent.",
+    "q_zh": "定义化学位移，并解释它为何与磁场无关。",
+    "a": "δ = 10⁶ (ν_obs − ν_ref)/ν₀. Because both ν_obs and ν₀ scale linearly with B₀ (ν = γB₀(1−σ)/2π), their ratio cancels the field dependence, leaving δ a dimensionless molecular property that depends only on the shielding σ (and the reference).\nδ = 10⁶(ν_obs − ν_ref)/ν₀。由于 ν_obs 与 ν₀ 都随 B₀ 线性变化（ν = γB₀(1−σ)/2π），二者的比值消去了磁场依赖，δ 成为只取决于屏蔽常数 σ（和参考物）的无量纲分子性质。"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (Short Answer).md::2",
+    "type": "sa",
+    "q_en": "Name at least four effects that impact the chemical shift, with one example each.",
+    "q_zh": "列举至少四种影响化学位移的效应，各举一例。",
+    "a": "Inductive (Pauling electronegativity, e.g. Ser vs Ala); mesomeric (aromatic ring current, benzene 7.17 ppm); magnetic anisotropy (carbonyl C=O region, deshielding); solvent effects (acetone CH₃ shifts with solvent); isotopic effects; paramagnetic effects (myoglobin CO/CN/deoxy, σ = σ_d + σ_p); temperature; pH (His pKa 5.91); hydrogen bonding (imino protons of DNA/RNA).\n诱导效应（鲍林电负性，如 Ser vs Ala）；介子效应（芳香环电流，苯 7.17 ppm）；磁各向异性（羰基 C=O 区，去屏蔽）；溶剂效应（丙酮 CH₃ 随溶剂移动）；同位素效应；顺磁效应（肌红蛋白 CO/CN/脱氧形式，σ = σ_d + σ_p）；温度；pH（His pKa 5.91）；氢键（DNA/RNA 亚氨基质子）。"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (Short Answer).md::3",
+    "type": "sa",
+    "q_en": "Why does the isotropic chemical shift in liquids equal (σ_xx + σ_yy + σ_zz)/3, while solids give a powder spectrum?",
+    "q_zh": "为什么液体中的各向同性化学位移等于 (σ_xx + σ_yy + σ_zz)/3，而固体给出粉末谱？",
+    "a": "The shielding is a tensor (σ_xx, σ_yy, σ_zz). In liquids rapid molecular tumbling averages all orientations, so only the trace average (σ_iso = (σ_xx+σ_yy+σ_zz)/3) survives, giving one sharp line. In solids the molecules are orientationally fixed, so every orientation contributes its own frequency, producing a broad powder pattern.\n屏蔽是张量（σ_xx、σ_yy、σ_zz）。液体中分子快速翻滚平均所有取向，只保留迹的平均值（σ_iso = (σ_xx+σ_yy+σ_zz)/3），得到一根锐线。固体中分子取向固定，每个取向贡献自己的频率，形成宽的粉末图样。"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (Short Answer).md::4",
+    "type": "sa",
+    "q_en": "State the Karplus equation for vicinal ³J_HH and what structural information it provides.",
+    "q_zh": "写出邻位 ³J_HH 的 Karplus 方程，并说明它提供什么结构信息。",
+    "a": "³J_Ha-Hb = 8.5 cos²φ − 0.28 (0 ≤ φ ≤ 90°) and 9.5 cos²φ − 0.28 (90 ≤ φ ≤ 180°). It relates the vicinal J coupling to the dihedral (torsion) angle φ, so measured ³J values report on backbone/side-chain torsion angles (conformation).\n³J_Ha-Hb = 8.5 cos²φ − 0.28（0 ≤ φ ≤ 90°）和 9.5 cos²φ − 0.28（90 ≤ φ ≤ 180°）。它把邻位 J 耦合与二面角 φ 联系起来，因此测得的 ³J 值可反映主链/侧链扭转角（构象）。"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (Short Answer).md::5",
+    "type": "sa",
+    "q_en": "What is the general rule for the number of resonance lines, and how does Pascal's triangle describe the intensities?",
+    "q_zh": "谱线数的一般规则是什么？帕斯卡三角形如何描述强度？",
+    "a": "General case: number of lines = 2nI + 1. For spin-½ nuclei in an AXₙ system this reduces to n + 1 lines, with intensities following Pascal's triangle (1:1, 1:2:1, 1:3:3:1, 1:4:6:4:1 …).\n一般情况：谱线数 = 2nI + 1。对 AXₙ 体系中的自旋 ½ 核，简化为 n + 1 条线，强度服从帕斯卡三角形（1:1、1:2:1、1:3:3:1、1:4:6:4:1……）。"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (Short Answer).md::6",
+    "type": "sa",
+    "q_en": "Explain how MAS improves solid-state NMR resolution.",
+    "q_zh": "解释 MAS 如何改善固体 NMR 的分辨率。",
+    "a": "Under MAS the orientation-dependent CSA (and dipolar) pattern \"falls apart\" into a series of spinning sidebands spaced by the spinning frequency ω_r. As the spinning speed increases, the sidebands move out further and lose intensity, until only the sharp isotropic line remains — dramatically improving resolution.\nMAS 下，依赖取向的 CSA（和偶极）图样\"解体\"为按转速 ω_r 等距排列的旋转边带。转速提高，边带越远越弱，最终只剩尖锐的各向同性线——分辨率大大改善。"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (Short Answer).md::7",
+    "type": "sa",
+    "q_en": "Explain qualitatively why the NOE is positive for small molecules and negative for large molecules.",
+    "q_zh": "定性解释为什么小分子 NOE 为正、大分子 NOE 为负。",
+    "a": "The NOE depends on the cross-relaxation σ_IS = W₂ − W₀. For small (fast-tumbling) molecules the double-quantum pathway W₂ dominates, so σ_IS > 0 and the observed spin is enhanced (positive NOE). For large (slow-tumbling) molecules the zero-quantum pathway W₀ dominates, so σ_IS < 0 and the observed spin is diminished (negative NOE).\nNOE 取决于交叉弛豫 σ_IS = W₂ − W₀。小分子（翻滚快）双量子通道 W₂ 主导，σ_IS > 0，被观测自旋增强（正 NOE）；大分子（翻滚慢）零量子通道 W₀ 主导，σ_IS < 0，被观测自旋减弱（负 NOE）。"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (Short Answer).md::8",
+    "type": "sa",
+    "q_en": "Give the small-molecule and large-molecule NOE factors for the H–H, H–C, and H–N pairs.",
+    "q_zh": "给出 H–H、H–C、H–N 对在小分子和大分子时的 NOE 因子。",
+    "a": "Small molecules: H–H = 0.5, H–C = 2.99, H–N = −3.93. Large molecules: H–H = 1, H–C = 1.153, H–N = 0.783. (Small molecule formula ε = 1 + γ_I/2γ_S; large molecule formula involves the full γ_I, γ_S polynomial.)\n小分子：H–H = 0.5，H–C = 2.99，H–N = −3.93。大分子：H–H = 1，H–C = 1.153，H–N = 0.783。（小分子公式 ε = 1 + γ_I/2γ_S；大分子公式含 γ_I、γ_S 的完整多项式。）"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (Short Answer).md::9",
+    "type": "sa",
+    "q_en": "Define the rotational correlation time τc and state the relationship between T₂ and T₁ for small vs large molecules.",
+    "q_zh": "定义旋转相关时间 τc，并说明小分子与大分子中 T₂ 与 T₁ 的关系。",
+    "a": "τc = 4πηr³/3kT is the time for a molecule to rotate by one radian; the larger the molecule the larger τc (slower motion). Always T₂ ≤ T₁: small molecules (fast τc) reach the extreme-narrowing limit T₂ = T₁, whereas large molecules (slow τc) have T₂ < T₁ (broader lines).\nτc = 4πηr³/3kT 是分子旋转一弧度所需时间；分子越大 τc 越大（运动越慢）。恒有 T₂ ≤ T₁：小分子（τc 快）达到极端窄化极限 T₂ = T₁；大分子（τc 慢）则 T₂ < T₁（谱线更宽）。"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (Short Answer).md::10",
+    "type": "sa",
+    "q_en": "What spectral signature distinguishes slow, intermediate, and fast exchange between two states?",
+    "q_zh": "两态之间的慢、中、快交换各有什么谱学特征？",
+    "a": "Slow exchange (R_ex < ω_A − ω_B): two or more separate signals for one nucleus, populations ∝ relative stability. Intermediate exchange: line broadening, coalescence, differential broadening (the smaller-weight resonance broadens more). Fast exchange: the shifts are motionally averaged into a single population-weighted peak.\n慢交换（R_ex < ω_A − ω_B）：同一个核出现两个或多个分离信号，布居 ∝ 相对稳定性。中交换：谱线增宽、合并、选择性增宽（权重小的共振增宽更多）。快交换：化学位移被运动平均为单一布居加权峰。"
+   },
+   {
+    "id": "Quiz 13 - NMR Observables (Short Answer).md::11",
+    "type": "sa",
+    "q_en": "How can conformational exchange be probed experimentally, and what does a flat vs curved relaxation-dispersion profile mean?",
+    "q_zh": "如何用实验探测构象交换？弛豫弥散曲线平坦或弯曲各说明什么？",
+    "a": "Use a relaxation-dispersion (CPMG) experiment: the effective R₂ is measured as a function of the refocusing pulse frequency. If there is no exchange the profile is flat; if exchange is present, R₂ increases as the refocusing frequency decreases, giving a curved profile that yields k_ex (= k_A + k_B) and the populations.\n使用弛豫弥散（CPMG）实验：测量有效 R₂ 随重聚焦脉冲频率的变化。无交换时曲线平坦；有交换时，R₂ 随重聚焦频率降低而增大，曲线弯曲，从而得到 k_ex（= k_A + k_B）和布居。"
+   }
+  ]
+ },
+ {
+  "id": "sdbm",
+  "name": "Quiz 14 - 2D NMR [简答]",
+  "cards": [
+   {
+    "id": "Quiz 14 - 2D NMR (Short Answer).md::0",
+    "type": "sa",
+    "q_en": "Why is multidimensional NMR called \"spin chromatography\", and which two limitations of 1D NMR does it address?",
+    "q_zh": "为什么多维 NMR 被称为「自旋色谱」？它解决了 1D NMR 的哪两个局限？",
+    "a": "It spreads the crowded 1D spectrum into additional frequency dimensions (like a chromatographic separation), separating overlapping resonances. It addresses 1D's two limitations: limited spectral resolution and limited assignment strategies.\n它把拥挤的一维谱分散到额外的频率维度（如同色谱分离），分离重叠的共振。它解决了 1D 的两个局限：有限的光谱分辨率和有限的归属策略。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (Short Answer).md::1",
+    "type": "sa",
+    "q_en": "Describe, step by step, how a 2D spectrum is built from a collection of FIDs.",
+    "q_zh": "逐步描述如何从一组 FID 构建二维谱。",
+    "a": "First apply FT along t₂: each FID becomes a spectrum, giving a series of spectra modulated by t₁. Then, looking along the t₁ axis, each point is itself a FID; a second FT along t₁ yields the 2D spectrum. Diagonal peaks reproduce the 1D spectrum; cross peaks reveal spin–spin correlations.\n首先沿 t₂ 做 FT：每条 FID 变成一张谱，得到一系列被 t₁ 调制的谱。然后沿 t₁ 轴看，每个点本身是一条 FID；沿 t₁ 做第二次 FT 得到二维谱。对角峰重现 1D 谱；交叉峰揭示自旋-自旋相关。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (Short Answer).md::2",
+    "type": "sa",
+    "q_en": "Explain the roles of t₁ and t₂, and how the t₁ (indirect) dimension is created.",
+    "q_zh": "解释 t₁ 和 t₂ 的作用，以及 t₁（间接）维度是如何创建的。",
+    "a": "t₂ is the direct acquisition time (the FID is recorded in t₂). t₁ is an evolution time inserted before mixing; it is incremented between successive scans, so each FID is acquired with a different t₁. This incremental time period is what creates the extra (indirect) frequency dimension after the second FT.\nt₂ 是直接采集时间（FID 在 t₂ 记录）。t₁ 是混合前插入的演化时间；它在每次扫描之间递增，因此每条 FID 对应不同的 t₁。正是这个递增时间段在第二次 FT 后创建了额外的（间接）频率维度。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (Short Answer).md::3",
+    "type": "sa",
+    "q_en": "Describe the Preparation–Evolution–Acquisition scheme, and who proposed and who implemented the 2D experiment.",
+    "q_zh": "描述「准备–演化–采集」方案，以及谁提出、谁实现了二维实验。",
+    "a": "The magnetization is prepared (Preparation), allowed to evolve and be frequency-labeled during the incremental t₁ (Evolution), and then detected during t₂ (Acquisition); a mixing period between t₁ and t₂ transfers magnetization between spins. The concept was proposed by J. Jeener (1971) and implemented by R. Ernst (1974, Nobel Prize 1991).\n磁化先被准备（Preparation），在递增的 t₁ 期间演化和标记频率（Evolution），再在 t₂ 期间检测（Acquisition）；t₁ 与 t₂ 之间的混合期在自旋间转移磁化。概念由 J. Jeener（1971）提出，R. Ernst（1974，1991 诺奖）实现。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (Short Answer).md::4",
+    "type": "sa",
+    "q_en": "Write the COSY pulse sequence and explain the role of each element.",
+    "q_zh": "写出 COSY 脉冲序列并解释各元素的作用。",
+    "a": "π/2(φ₁) – t₁ – π/2(φ₂) – acquisition t₂ (φrec), with φ₁ = φ₂ = φrec = x, y, −x, −y. The first π/2 pulse creates transverse magnetization; during t₁ it evolves under Larmor precession and the J coupling (producing anti-phase terms); the second π/2 pulse is the mixing pulse that transfers magnetization between the coupled spins; t₂ is the acquisition.\nπ/2(φ₁) – t₁ – π/2(φ₂) – 采集 t₂ (φrec)，其中 φ₁ = φ₂ = φrec = x, y, −x, −y。第一个 π/2 脉冲产生横向磁化；t₁ 期间它在 Larmor 进动和 J 耦合下演化（产生反对称项）；第二个 π/2 脉冲是混合脉冲，在耦合自旋间转移磁化；t₂ 是采集。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (Short Answer).md::5",
+    "type": "sa",
+    "q_en": "In product operator formalism, why does the anti-phase term 2Î₁xÎ₂z appear during t₁, and what is its significance?",
+    "q_zh": "在乘积算符形式中，为什么 t₁ 期间会出现反对称项 2Î₁xÎ₂z？其意义是什么？",
+    "a": "During t₁ the magnetization evolves under scalar coupling J, which converts in-phase terms (Î₁x) into anti-phase terms (2Î₁xÎ₂z). This anti-phase coherence is what allows the second π/2 pulse to transfer magnetization from spin I₁ to spin I₂, producing the cross peaks.\nt₁ 期间磁化在标量耦合 J 下演化，把同相项（Î₁x）转成反对称项（2Î₁xÎ₂z）。正是这个反对称相干使第二个 π/2 脉冲能把磁化从自旋 I₁ 转移到自旋 I₂，从而产生交叉峰。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (Short Answer).md::6",
+    "type": "sa",
+    "q_en": "Distinguish the diagonal (autocorrelation) peaks from the cross (cross-correlation) peaks in COSY, in terms of frequency and phase.",
+    "q_zh": "从频率和相位两方面区分 COSY 中的对角（自相关）峰与交叉（交叉相关）峰。",
+    "a": "Diagonal (autocorrelation) peaks appear at (ω₁, ω₁) and are in-phase dispersion in both t₁ and t₂; they correspond to the 1D peaks. Cross (cross-correlation) peaks appear at (ω₁, ω₂) and are anti-phase absorption in both t₁ and t₂; they evidence the correlation between the two spins.\n对角（自相关）峰出现在 (ω₁, ω₁)，在 t₁、t₂ 都是同相色散，对应 1D 峰。交叉（交叉相关）峰出现在 (ω₁, ω₂)，在 t₁、t₂ 都是反对称吸收，证明两个自旋之间的相关。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (Short Answer).md::7",
+    "type": "sa",
+    "q_en": "Why is the HN–Hα region called the protein \"fingerprint\", and why does glycine look different?",
+    "q_zh": "为什么 HN–Hα 区域被称为蛋白「指纹」？为什么甘氨酸看起来不同？",
+    "a": "Every residue (except proline) has one backbone amide proton giving an HN–Hα correlation, so the region reports on each residue at once like a fingerprint, and is well resolved. Glycine has two Hα protons, giving it a distinctive COSY signature.\n每个残基（脯氨酸除外）有一个主链酰胺质子产生 HN–Hα 相关，因此该区域像指纹一样一次性报告所有残基，且分辨良好。甘氨酸有两个 Hα 质子，因而具有独特的 COSY 特征。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (Short Answer).md::8",
+    "type": "sa",
+    "q_en": "Compare COSY/TOCSY and NOESY in protein NMR: what interaction and what kind of connectivity does each provide?",
+    "q_zh": "比较蛋白 NMR 中的 COSY/TOCSY 与 NOESY：各自使用什么相互作用、提供哪种连接？",
+    "a": "COSY and TOCSY use scalar (through-bond) coupling and provide intra-residue connectivities (the spin system within one residue, enabling residue-type identification). NOESY uses the dipolar (through-space) coupling during mixing and provides inter-residue connectivities, enabling sequential assignment.\nCOSY 和 TOCSY 使用标量（经键）耦合，提供残基内连接（同一残基的自旋体系，可用于识别残基类型）。NOESY 在混合期使用偶极（经空间）耦合，提供残基间连接，可用于顺序归属。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (Short Answer).md::9",
+    "type": "sa",
+    "q_en": "How does NOESY use the dipolar interaction (mixing time and cross-relaxation), and when is ROESY preferred?",
+    "q_zh": "NOESY 如何利用偶极相互作用（混合时间与交叉弛豫）？何时优先用 ROESY？",
+    "a": "After t₁, the second π/2 pulse stores magnetization along z; during the mixing time τₘ, dipolar cross-relaxation transfers it between spatially close spins (a₁→₂ ∝ sinh(R_cross τₘ) e^(−R_auto τₘ)), so the cross peaks report proximity. ROESY is preferred for small-to-medium molecules (better sensitivity); NOESY is preferred for large molecules (where T₂ is too short).\nt₁ 之后，第二个 π/2 脉冲把磁化储存到 z 方向；在混合时间 τₘ 内，偶极交叉弛豫在空间邻近自旋间转移磁化（a₁→₂ ∝ sinh(R_cross τₘ) e^(−R_auto τₘ)），因此交叉峰报告空间邻近性。ROESY 适合中小分子（灵敏度更好）；NOESY 适合大分子（T₂ 太短）。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (Short Answer).md::10",
+    "type": "sa",
+    "q_en": "Describe the HSQC experiment (INEPT – evolution t₁ – reverse INEPT) and explain why ¹H is the detected nucleus.",
+    "q_zh": "描述 HSQC 实验（INEPT – 演化 t₁ – 反向 INEPT），并解释为何检测 ¹H 而非异核。",
+    "a": "INEPT transfers ¹H magnetization to the heteronucleus S (H_z → 2H_zS_y) with 2τ = 1/2J_HS; during t₁ the coherence evolves and is labeled with ω_S; reverse INEPT transfers it back to ¹H (H_x cos(ω_S t₁) + 2H_yS_x sin(ω_S t₁)) for acquisition. ¹H is detected because its high gyromagnetic ratio gives much better sensitivity than ¹⁵N or ¹³C.\nINEPT 把 ¹H 磁化转移到异核 S（H_z → 2H_zS_y），2τ = 1/2J_HS；t₁ 期间相干演化并被标记 ω_S；反向 INEPT 把它转回 ¹H（H_x cos(ω_S t₁) + 2H_yS_x sin(ω_S t₁)）进行采集。检测 ¹H 是因为其高旋磁比带来的灵敏度远高于 ¹⁵N 或 ¹³C。"
+   },
+   {
+    "id": "Quiz 14 - 2D NMR (Short Answer).md::11",
+    "type": "sa",
+    "q_en": "How does one go from 2D to 3D NMR (give an example), and what does a triple-resonance experiment like HNCA require?",
+    "q_zh": "如何从二维过渡到三维 NMR（举例）？像 HNCA 这样的三重共振实验需要什么？",
+    "a": "3D experiments concatenate a homonuclear experiment with a heteronuclear one, e.g. (¹H,¹⁵N)-TOCSY-HSQC or (¹H,¹⁵N)-NOESY-HSQC. Triple-resonance experiments such as HNCA correlate H_N(i), N(i) with Cα(i) and Cα(i−1) via INEPT transfers along J_NC/J_CX/J_XH, and require a doubly labeled (¹³C,¹⁵N) sample, enabling intra-residue and sequential assignment.\n三维实验把同核实验与异核实验串联，例如 (¹H,¹⁵N)-TOCSY-HSQC 或 (¹H,¹⁵N)-NOESY-HSQC。像 HNCA 这样的三重共振实验通过沿 J_NC/J_CX/J_XH 的 INEPT 传递把 H_N(i)、N(i) 与 Cα(i)、Cα(i−1) 关联起来，需要双重标记（¹³C,¹⁵N）样品，可实现残基内和顺序归属。"
+   }
+  ]
+ },
+ {
+  "id": "sdbm",
+  "name": "Quiz 15 - NMR Isotopic Labeling [简答]",
+  "cards": [
+   {
+    "id": "Quiz 15 - NMR Isotopic Labeling (Short Answer).md::0",
     "type": "sa",
     "q_en": "Why must ¹²C and ¹⁴N be replaced with ¹³C and ¹⁵N in biomolecular NMR?",
     "q_zh": "为什么生物分子 NMR 中必须用 ¹³C 和 ¹⁵N 取代 ¹²C 和 ¹⁴N？",
     "a": "NMR requires spin-1/2 nuclei. ¹²C has I = 0 and ¹⁴N has I = 1 (quadrupolar), so neither gives sharp signals; ¹³C and ¹⁵N both have I = 1/2 and enable detection and heteronuclear experiments.\nNMR 需要自旋 1/2 的核。¹²C 自旋 I = 0，¹⁴N 自旋 I = 1（四极核），均无法给出尖锐信号；¹³C 和 ¹⁵N 都是 I = 1/2，可用于检测和异核实验。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (Short Answer).md::1",
+    "id": "Quiz 15 - NMR Isotopic Labeling (Short Answer).md::1",
     "type": "sa",
     "q_en": "Why does deuteration improve HSQC quality for large proteins (above 25–40 kDa)?",
     "q_zh": "为什么氘代能改善大蛋白（25–40 kDa 以上）的 HSQC 质量？",
     "a": "Replacing ¹H with ²H removes the attached protons that dominate carbon relaxation, reducing transverse relaxation R₂ (which scales as γ_i²γ_j²). Since γ(¹H) = 6.5 × γ(²H), deuteration sharpens lines and slows spin diffusion.\n用 ²H 取代 ¹H 可去除主导碳弛豫的邻近质子，降低横向弛豫 R₂（正比于 γ_i²γ_j²）。因 γ(¹H) = 6.5 × γ(²H)，氘代使谱线变窄并减慢自旋扩散。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (Short Answer).md::2",
+    "id": "Quiz 15 - NMR Isotopic Labeling (Short Answer).md::2",
     "type": "sa",
     "q_en": "Describe the gradual deuteration adaptation protocol for growing a perdeuterated protein.",
     "q_zh": "描述培养全氘代蛋白的逐步氘代适应方案。",
     "a": "The culture is adapted stepwise: 3 mL LB → 50 mL (¹H) → 200 mL (²H) → 1000 mL (²H), gradually increasing the D₂O fraction; exchangeable protons are then reintroduced by dissolving the purified protein in H₂O.\n逐步适应培养：3 mL LB → 50 mL（¹H）→ 200 mL（²H）→ 1000 mL（²H），逐渐提高 D₂O 比例；随后将纯化蛋白溶于 H₂O 以重新引入可交换质子。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (Short Answer).md::3",
+    "id": "Quiz 15 - NMR Isotopic Labeling (Short Answer).md::3",
     "type": "sa",
     "q_en": "Why does transamination prevent amino-acid-specific ¹⁵N labeling?",
     "q_zh": "为什么转氨作用会妨碍氨基酸特异性的 ¹⁵N 标记？",
     "a": "Transamination transfers amino groups between amino acids via metabolic pathways, scrambling the label onto other amino acids. Specific labeling therefore requires blocking or accounting for these metabolic pathways.\n转氨作用通过代谢途径在氨基酸之间转移氨基，使标记弥散到其他氨基酸上。因此特异性标记必须阻断或考虑这些代谢途径。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (Short Answer).md::4",
+    "id": "Quiz 15 - NMR Isotopic Labeling (Short Answer).md::4",
     "type": "sa",
     "q_en": "How does segmental labeling using inteins work?",
     "q_zh": "使用内含肽的片段标记是如何工作的？",
     "a": "Inteins are protein segments that catalyze their own excision and ligate the flanking sequences (autocatalytic splicing). Fusing inteins at domain boundaries lets one ligate a labeled domain to an unlabeled one, labeling only part of the protein.\n内含肽是能催化自身切除并连接两侧序列（自催化剪接）的蛋白片段。在结构域边界融合内含肽，即可将标记结构域与未标记结构域连接，只标记蛋白的一部分。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (Short Answer).md::5",
+    "id": "Quiz 15 - NMR Isotopic Labeling (Short Answer).md::5",
     "type": "sa",
     "q_en": "Why is the ¹H-¹⁵N HSQC called the \"fingerprint\" spectrum of a protein, and what does a well-dispersed spectrum indicate?",
     "q_zh": "为什么 ¹H-¹⁵N HSQC 被称为蛋白的「指纹」谱？分散良好的谱说明什么？",
     "a": "Each residue (except proline) gives one backbone amide cross-peak, so the HSQC reports on every residue at once like a fingerprint. Well-dispersed peaks indicate a folded, stable protein; poor dispersion or a collapsed spectrum indicates an unfolded or aggregated sample.\n每个残基（脯氨酸除外）给出一个主链酰胺交叉峰，因此 HSQC 像指纹一样一次性报告所有残基。峰分散良好说明蛋白折叠且稳定；分散差或塌缩谱说明样品未折叠或聚集。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (Short Answer).md::6",
+    "id": "Quiz 15 - NMR Isotopic Labeling (Short Answer).md::6",
     "type": "sa",
     "q_en": "Explain the two main problems that arise as protein size increases, and how ¹⁵N/¹³C labeling and deuteration address them.",
     "q_zh": "解释蛋白增大时出现的两个主要问题，以及 ¹⁵N/¹³C 标记和氘代如何解决它们。",
     "a": "Larger proteins cause (1) spectral overlap from more resonances and (2) faster transverse relaxation (broader lines). ¹⁵N/¹³C labeling spreads signals into additional heteronuclear dimensions to relieve overlap; deuteration removes the attached protons that drive carbon relaxation (R₂ ∝ γ_i²γ_j²), sharpening lines.\n大蛋白导致（1）更多共振造成谱峰重叠和（2）更快的横向弛豫（谱线更宽）。¹⁵N/¹³C 标记把信号扩展到额外的异核维度以缓解重叠；氘代去除主导碳弛豫的邻近质子（R₂ ∝ γ_i²γ_j²），使谱线变窄。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (Short Answer).md::7",
+    "id": "Quiz 15 - NMR Isotopic Labeling (Short Answer).md::7",
     "type": "sa",
     "q_en": "What is spin diffusion and why is it more severe in large (protonated) proteins?",
     "q_zh": "什么是自旋扩散？为什么在大（质子化）蛋白中更严重？",
     "a": "Spin diffusion is the relay of magnetization between nearby protons, which spreads the signal and blurs distance information. It is faster in large proteins because their slow tumbling keeps protons close for longer; deuteration dilutes the proton network and slows it.\n自旋扩散是磁化在邻近质子之间的传递，会扩散信号并模糊距离信息。大蛋白翻滚慢，质子长时间邻近，自旋扩散更快；氘代稀释质子网络从而减慢它。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (Short Answer).md::8",
+    "id": "Quiz 15 - NMR Isotopic Labeling (Short Answer).md::8",
     "type": "sa",
     "q_en": "Describe the H/D exchange procedure (purify in H₂O → lyophilize → resuspend in D₂O) and its purpose.",
     "q_zh": "描述 H/D 交换流程（H₂O 中纯化 → 冻干 → 重溶于 D₂O）及其目的。",
     "a": "The protein is purified in H₂O, lyophilized to remove water, and resuspended in D₂O so that labile protons exchange for deuterons. This yields a deuterated sample for experiments that require sparse proton environments (e.g. to reduce relaxation or spin diffusion).\n蛋白在 H₂O 中纯化，冻干去除水分，再重溶于 D₂O，使可交换质子被氘取代。这为需要稀疏质子环境的实验提供氘代样品（如降低弛豫或自旋扩散）。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (Short Answer).md::9",
+    "id": "Quiz 15 - NMR Isotopic Labeling (Short Answer).md::9",
     "type": "sa",
     "q_en": "Why is amino-acid-specific ¹⁵N labeling difficult, and what precursors are used for methyl-specific labeling (Ile δ1 versus Leu/Ile/Val)?",
     "q_zh": "为什么氨基酸特异性 ¹⁵N 标记困难？甲基特异性标记（Ile δ1 与 Leu/Ile/Val）使用哪些前体？",
     "a": "Transamination and metabolic interconversion scramble amino groups onto other amino acids, so metabolic pathways must be considered or blocked. For methyl labeling, Ile δ1 uses α-ketoisobutyrate, while Leu/Ile/Val use glucose-d7 precursors.\n转氨作用和代谢互变会把氨基弥散到其他氨基酸上，因此必须考虑或阻断代谢途径。甲基标记方面，Ile δ1 使用 α-酮异丁酸，Leu/Ile/Val 使用氘代葡萄糖（glucose-d7）前体。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (Short Answer).md::10",
+    "id": "Quiz 15 - NMR Isotopic Labeling (Short Answer).md::10",
     "type": "sa",
     "q_en": "What is in-cell NMR and what are its main advantage and limitation?",
     "q_zh": "什么是细胞内 NMR？其主要优点和局限是什么？",
     "a": "In-cell NMR observes a labeled protein inside living cells (at macromolecule concentrations up to ~400 g/L). It reveals the protein in its native cellular environment, but is limited by background signals, short cell viability, and low signal-to-noise.\n细胞内 NMR 在活细胞内（大分子浓度可达约 400 g/L）观测标记蛋白。它能揭示天然细胞环境中的蛋白，但受背景信号、细胞存活时间短和信噪比低的限制。"
    },
    {
-    "id": "Quiz 12 - NMR Isotopic Labeling (Short Answer).md::11",
+    "id": "Quiz 15 - NMR Isotopic Labeling (Short Answer).md::11",
     "type": "sa",
     "q_en": "Explain STINT-NMR and how sequential expression is used to map a protein-protein interface.",
     "q_zh": "解释 STINT-NMR，以及顺序表达如何用于作图蛋白-蛋白界面。",
@@ -10623,87 +12441,87 @@
  },
  {
   "id": "sdbm",
-  "name": "Quiz 13 - NMR Parameters I [简答]",
+  "name": "Quiz 16 - NMR Parameters I [简答]",
   "cards": [
    {
-    "id": "Quiz 13 - NMR Parameters I (Short Answer).md::0",
+    "id": "Quiz 16 - NMR Parameters I (Short Answer).md::0",
     "type": "sa",
     "q_en": "What is the difference between slow and fast exchange, and how does each affect the observed spectrum?",
     "q_zh": "慢交换和快交换的区别是什么？各自如何影响观测到的谱？",
     "a": "Slow exchange (tight binding, k_ex << Δν) gives separate peaks for each state with intensities reflecting populations; fast exchange (weak binding, k_ex >> Δν) gives one averaged peak whose position is the population-weighted average.\n慢交换（紧密结合，k_ex << Δν）给出各状态的独立峰，强度反映布居；快交换（弱结合，k_ex >> Δν）给出单一平均峰，位置为布居加权平均。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (Short Answer).md::1",
+    "id": "Quiz 16 - NMR Parameters I (Short Answer).md::1",
     "type": "sa",
     "q_en": "Why is the chemical shift described as the most readily and accurately measurable NMR observable?",
     "q_zh": "为什么化学位移被称为最易测量且最精确的 NMR 可观测量？",
     "a": "It is obtained directly from a simple 1D or HSQC spectrum with high precision, requires no special sample preparation, and is extremely sensitive to the local electronic environment.\n它可直接从简单的 1D 或 HSQC 谱高精度获得，无需特殊样品制备，且对局部电子环境极其敏感。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (Short Answer).md::2",
+    "id": "Quiz 16 - NMR Parameters I (Short Answer).md::2",
     "type": "sa",
     "q_en": "How does the heteronuclear NOE (hetNOE) report on bond-vector motion?",
     "q_zh": "异核 NOE（hetNOE）如何反映键矢量运动？",
     "a": "A high hetNOE (~0.8) indicates rigid N–H vectors tumbling with the whole molecule; a decreased hetNOE indicates local motion faster than overall tumbling, typical of flexible termini or loops.\n高 hetNOE（约 0.8）表明 N–H 矢量随整个分子刚性翻滚；hetNOE 降低表明局部运动快于整体翻滚，常见于柔性末端或环区。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (Short Answer).md::3",
+    "id": "Quiz 16 - NMR Parameters I (Short Answer).md::3",
     "type": "sa",
     "q_en": "Describe how a chemical-shift titration can be used to determine K_D.",
     "q_zh": "描述如何用化学位移滴定法测定 K_D。",
     "a": "Titrate ligand into the protein, follow the chemical-shift changes of affected residues, and fit the shift versus ligand concentration to a binding isotherm to extract K_D.\n将配体逐滴加入蛋白，跟踪受影响残基的化学位移变化，并将位移对配体浓度拟合到结合等温线以得到 K_D。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (Short Answer).md::4",
+    "id": "Quiz 16 - NMR Parameters I (Short Answer).md::4",
     "type": "sa",
     "q_en": "Why does a small ligand bound to a large (50 kDa) protein show broad lines, and how is this exploited in STD/R₂-filtered experiments?",
     "q_zh": "为什么结合到大蛋白（50 kDa）上的小配体谱线变宽？STD/R₂ 滤波实验如何利用这一点？",
     "a": "When bound, the ligand tumbles slowly like the large protein, so its signals are broad (fast R₂). An R₂ filter suppresses these broad bound signals; in STD, saturation transferred from protein to ligand means only bound-ligand signals remain.\n结合后配体随大蛋白缓慢翻滚，信号变宽（R₂ 快）。R₂ 滤波器可抑制这些宽的结合信号；在 STD 中，从蛋白转移到配体的饱和使得只有结合配体的信号残留。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (Short Answer).md::5",
+    "id": "Quiz 16 - NMR Parameters I (Short Answer).md::5",
     "type": "sa",
     "q_en": "Define the weighted chemical shift difference Δδ and explain why a scaling factor (0.15) is applied to ¹⁵N.",
     "q_zh": "定义加权化学位移差 Δδ，并解释为什么对 ¹⁵N 施加比例因子（0.15）。",
     "a": "Δδ = [(Δδ_H)² + (0.15·Δδ_N)²]^1/2. The 0.15 factor normalizes the larger ¹⁵N chemical-shift range (relative to ¹H) so that the two nuclei contribute comparably when mapping binding interfaces.\nΔδ = [(Δδ_H)² + (0.15·Δδ_N)²]^1/2。0.15 因子把较大的 ¹⁵N 化学位移范围（相对 ¹H）归一化，使两个核在作图结合界面时贡献相当。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (Short Answer).md::6",
+    "id": "Quiz 16 - NMR Parameters I (Short Answer).md::6",
     "type": "sa",
     "q_en": "Explain the relationship R₂ = R₂⁰ + R_ex and what R_ex represents in the context of chemical exchange.",
     "q_zh": "解释关系式 R₂ = R₂⁰ + R_ex，以及 R_ex 在化学交换中的含义。",
     "a": "R₂ is the total measured transverse relaxation rate, R₂⁰ the intrinsic (motion-driven) rate, and R_ex the extra contribution from chemical exchange between states. R_ex is largest for intermediate exchange, causing line broadening (excess R₂).\nR₂ 是测得的横向弛豫总速率，R₂⁰ 是本征（运动驱动）速率，R_ex 是态间化学交换的额外贡献。中间交换时 R_ex 最大，导致谱线增宽（R₂ 超额）。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (Short Answer).md::7",
+    "id": "Quiz 16 - NMR Parameters I (Short Answer).md::7",
     "type": "sa",
     "q_en": "What is CS-Rosetta and how does it use chemical shifts?",
     "q_zh": "什么是 CS-Rosetta？它如何利用化学位移？",
     "a": "CS-Rosetta reconstructs the protein fold directly from chemical shifts. It uses the shifts (secondary shifts and database matches) to guide fragment selection in Rosetta de novo modeling, producing a structure without NOE data.\nCS-Rosetta 直接由化学位移重建蛋白折叠。它利用化学位移（次级位移和数据库匹配）指导 Rosetta 从头建模中的片段选择，无需 NOE 数据即可得到结构。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (Short Answer).md::8",
+    "id": "Quiz 16 - NMR Parameters I (Short Answer).md::8",
     "type": "sa",
     "q_en": "Describe the spin echo sequence (90°−Δ−180°−Δ−echo) and what the 180° pulse accomplishes.",
     "q_zh": "描述自旋回波序列（90°−Δ−180°−Δ−回波），以及 180° 脉冲的作用。",
     "a": "A 90° pulse creates transverse magnetization; after a delay Δ it dephases due to field inhomogeneity. The 180° pulse reverses the dephasing (refocuses time-invariant inhomogeneity), and after a second Δ an echo forms, allowing R₂ to be measured free of inhomogeneous broadening.\n90° 脉冲产生横向磁化；经过延迟 Δ 后因磁场不均匀而散相。180° 脉冲反转散相（重聚焦不随时间变化的不均匀性），再经第二个 Δ 形成回波，从而在无均匀性增宽下测量 R₂。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (Short Answer).md::9",
+    "id": "Quiz 16 - NMR Parameters I (Short Answer).md::9",
     "type": "sa",
     "q_en": "Explain CPMG relaxation dispersion and how it identifies residues in chemical exchange.",
     "q_zh": "解释 CPMG 弛豫色散，以及它如何识别处于化学交换的残基。",
     "a": "CPMG applies a rapid train of 180° refocusing pulses and measures R₂_eff as a function of the pulse (refocusing) frequency ν_CPMG. For exchanging residues, R₂_eff is high at low ν_CPMG and decreases as ν_CPMG increases; plotting R₂_eff vs ν_CPMG reveals the exchange.\nCPMG 施加快速 180° 重聚焦脉冲串，测量 R₂_eff 随脉冲（重聚焦）频率 ν_CPMG 的变化。交换残基在低 ν_CPMG 时 R₂_eff 高，随 ν_CPMG 增大而降低；作 R₂_eff–ν_CPMG 图即可揭示交换。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (Short Answer).md::10",
+    "id": "Quiz 16 - NMR Parameters I (Short Answer).md::10",
     "type": "sa",
     "q_en": "What is CEST and what exchange regime (rate and population) does it probe?",
     "q_zh": "什么是 CEST？它探测哪种交换区间（速率和布居）？",
     "a": "CEST (chemical exchange saturation transfer) saturates the invisible minor state and observes the loss of major-state signal transferred by exchange. It probes exchange rates of 10 s⁻¹ ≤ k_ex ≤ 500 s⁻¹ and requires P_b > 0.5%.\nCEST（化学交换饱和转移）饱和不可见的次要态，观察通过交换转移到主态的信号损失。它探测 10 s⁻¹ ≤ k_ex ≤ 500 s⁻¹ 的交换速率，要求 P_b > 0.5%。"
    },
    {
-    "id": "Quiz 13 - NMR Parameters I (Short Answer).md::11",
+    "id": "Quiz 16 - NMR Parameters I (Short Answer).md::11",
     "type": "sa",
     "q_en": "Describe the experimental requirements of STD NMR and what the GEM (group epitope mapping) parameter reflects.",
     "q_zh": "描述 STD NMR 的实验要求，以及 GEM（基团表位作图）参数反映什么。",
@@ -10713,87 +12531,87 @@
  },
  {
   "id": "sdbm",
-  "name": "Quiz 14 - NMR Parameters II [简答]",
+  "name": "Quiz 17 - NMR Parameters II [简答]",
   "cards": [
    {
-    "id": "Quiz 14 - NMR Parameters II (Short Answer).md::0",
+    "id": "Quiz 17 - NMR Parameters II (Short Answer).md::0",
     "type": "sa",
     "q_en": "Why do large and small molecules give opposite NOE signs, and what happens for medium-sized molecules?",
     "q_zh": "为什么大分子和小分子给出相反的 NOE 符号？中等大小分子会发生什么？",
     "a": "The NOE sign depends on ω₀τc: large molecules (ω₀τc >> 1) give negative NOE, small molecules (ω₀τc << 1) give positive NOE, and medium molecules (ω₀τc ≈ 1) give a near-zero NOE, so ROE is used instead.\nNOE 符号取决于 ω₀τc：大分子（ω₀τc >> 1）为负，小分子（ω₀τc << 1）为正，中等分子（ω₀τc ≈ 1）接近零，此时改用 ROE。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (Short Answer).md::1",
+    "id": "Quiz 17 - NMR Parameters II (Short Answer).md::1",
     "type": "sa",
     "q_en": "How are NOE distances calibrated using known distances?",
     "q_zh": "如何利用已知距离标定 NOE 距离？",
     "a": "Use a known reference distance (e.g. HN-HN(i+3) ≈ 3.3 Å in an α-helix or HN-HN(i+1) ≈ 2.8 Å in a β-sheet), then scale with the r⁻⁶ dependence: r_target = (NOE_ref/NOE_target)^(1/6) × r_ref.\n使用已知参考距离（如 α-螺旋中 HN-HN(i+3) ≈ 3.3 Å 或 β-折叠中 HN-HN(i+1) ≈ 2.8 Å），再按 r⁻⁶ 关系换算：r_target = (NOE_ref/NOE_target)^(1/6) × r_ref。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (Short Answer).md::2",
+    "id": "Quiz 17 - NMR Parameters II (Short Answer).md::2",
     "type": "sa",
     "q_en": "What is residual dipolar coupling (RDC) and how is it obtained?",
     "q_zh": "什么是残余偶极耦合（RDC）？如何获得？",
     "a": "RDC is the dipolar coupling that survives when molecules are partially aligned instead of averaging to zero. It is measured as J_aniso − J_iso by comparing HSQC splittings with and without ¹⁵N decoupling in alignment media (bicelles, Pf1, purple membrane).\nRDC 是分子部分取向时残留（而非平均为零）的偶极耦合。通过在取向介质（双分子层 bicelles、Pf1、紫色膜）中比较有无 ¹⁵N 去耦的 HSQC 裂分，测得 J_aniso − J_iso。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (Short Answer).md::3",
+    "id": "Quiz 17 - NMR Parameters II (Short Answer).md::3",
     "type": "sa",
     "q_en": "Compare isotropic and anisotropic paramagnetic centers in PRE experiments.",
     "q_zh": "比较 PRE 实验中各向同性与各向异性顺磁中心。",
     "a": "Isotropic centers (Mn²⁺, Gd³⁺, nitroxide) give a simple PRE ∝ r⁻⁶ with no PCS. Anisotropic centers (Co²⁺, lanthanides) also produce pseudocontact shifts (PCS/Curie relaxation), which complicate the interpretation.\n各向同性中心（Mn²⁺、Gd³⁺、氮氧自由基）给出简单的 PRE ∝ r⁻⁶ 且无 PCS。各向异性中心（Co²⁺、镧系）还会产生赝接触位移（PCS/居里弛豫），使解析复杂化。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (Short Answer).md::4",
+    "id": "Quiz 17 - NMR Parameters II (Short Answer).md::4",
     "type": "sa",
     "q_en": "Why are NMR structures represented as ensembles rather than a single structure?",
     "q_zh": "为什么 NMR 结构用系综（ensemble）而非单一结构表示？",
     "a": "There is no direct image, and the experimental restraints are sparse, so the problem is underdetermined. An ensemble of structures all satisfying the restraints shows the precision (spread) and captures the uncertainty.\nNMR 没有直接图像，且实验约束稀疏，问题欠定。由所有满足约束的结构组成的系综展示精度（离散度）并体现不确定性。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (Short Answer).md::5",
+    "id": "Quiz 17 - NMR Parameters II (Short Answer).md::5",
     "type": "sa",
     "q_en": "List the six structural parameters and the primary information each provides.",
     "q_zh": "列出六大结构参数及各自提供的主要信息。",
     "a": "Chemical shift → local environment/secondary structure; NOE → ¹H–¹H distances (≤6 Å); NH exchange → hydrogen bonding; J coupling → torsion angles; RDC → relative orientations of bond vectors; PRE → long-range distances (15–24 Å).\n化学位移 → 局部环境/二级结构；NOE → ¹H–¹H 距离（≤6 Å）；酰胺质子交换 → 氢键；J 耦合 → 扭转角；RDC → 键矢量的相对取向；PRE → 长程距离（15–24 Å）。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (Short Answer).md::6",
+    "id": "Quiz 17 - NMR Parameters II (Short Answer).md::6",
     "type": "sa",
     "q_en": "What is spin diffusion and why does it produce false long-range NOEs?",
     "q_zh": "什么是自旋扩散？为什么它会产生虚假的长程 NOE？",
     "a": "Spin diffusion is the relay of magnetization between nearby protons, so distant protons can appear correlated even without direct contact. The resulting NOEs overstate or fabricate long distances; short mixing times and deuteration limit it.\n自旋扩散是磁化在邻近质子间的传递，使相距较远的质子在没有直接接触时也显得相关。由此产生的 NOE 会夸大或伪造长距离；缩短混合时间和氘代可限制它。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (Short Answer).md::7",
+    "id": "Quiz 17 - NMR Parameters II (Short Answer).md::7",
     "type": "sa",
     "q_en": "Why is the NOE mixing time important (typically 100–150 ms), and what happens if it is too long?",
     "q_zh": "为什么 NOE 混合时间（通常 100–150 ms）很重要？太长会发生什么？",
     "a": "The mixing time controls how much magnetization builds up. At ~100–150 ms the NOE is roughly linear in r⁻⁶. If too long, spin diffusion dominates and the distance dependence is distorted, producing false long-range NOEs.\n混合时间控制磁化积累的程度。约 100–150 ms 时 NOE 近似与 r⁻⁶ 成正比。若太长，自旋扩散占主导，距离依赖性被扭曲，产生虚假长程 NOE。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (Short Answer).md::8",
+    "id": "Quiz 17 - NMR Parameters II (Short Answer).md::8",
     "type": "sa",
     "q_en": "Describe how paramagnetic probes are attached to proteins and how Γ₂ is obtained.",
     "q_zh": "描述顺磁探针如何连接到蛋白上，以及如何得到 Γ₂。",
     "a": "A paramagnetic tag (e.g. nitroxide or EDTA-Mn²⁺) is conjugated to a surface-exposed cysteine thiol. Γ₂ (the paramagnetic relaxation enhancement) is obtained as Γ₂ = R₂,para − R₂,dia, the difference in transverse relaxation with and without the paramagnetic center.\n顺磁标签（如氮氧自由基或 EDTA-Mn²⁺）连接到暴露的半胱氨酸巯基。Γ₂（顺磁弛豫增强）由 Γ₂ = R₂,para − R₂,dia 得到，即有无顺磁中心时横向弛豫之差。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (Short Answer).md::9",
+    "id": "Quiz 17 - NMR Parameters II (Short Answer).md::9",
     "type": "sa",
     "q_en": "What is the pseudocontact shift (PCS) and which paramagnetic centers produce it?",
     "q_zh": "什么是赝接触位移（PCS）？哪些顺磁中心会产生它？",
     "a": "PCS is a through-space shift caused by the anisotropic magnetic susceptibility (Curie relaxation) of a paramagnetic center. It arises from anisotropic centers (Co²⁺, lanthanides), not from isotropic ones (Mn²⁺, Gd³⁺, nitroxide).\nPCS 是由顺磁中心各向异性磁化率（居里弛豫）引起的通过空间位移。它来自各向异性中心（Co²⁺、镧系），而非各向同性中心（Mn²⁺、Gd³⁺、氮氧自由基）。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (Short Answer).md::10",
+    "id": "Quiz 17 - NMR Parameters II (Short Answer).md::10",
     "type": "sa",
     "q_en": "Why do perdeuterated proteins give insufficient NOEs, and how is this limitation managed?",
     "q_zh": "为什么全氘代蛋白的 NOE 不足？如何应对这一限制？",
     "a": "Deuteration removes protons, so the proton density (and hence the number of ¹H–¹H NOEs) is too low for structure determination. Exchangeable amide protons are reintroduced in H₂O, or selective methyl/aromatic protonation is used to restore sparse but sufficient NOE networks.\n氘代去除质子，质子密度（从而 ¹H–¹H NOE 数量）过低，不足以确定结构。可在 H₂O 中重新引入可交换酰胺质子，或用选择性甲基/芳香质子化恢复稀疏但足够的 NOE 网络。"
    },
    {
-    "id": "Quiz 14 - NMR Parameters II (Short Answer).md::11",
+    "id": "Quiz 17 - NMR Parameters II (Short Answer).md::11",
     "type": "sa",
     "q_en": "Why do NOE errors propagate end-to-end in elongated molecules, and how does this affect structure quality?",
     "q_zh": "为什么在细长分子中 NOE 误差会端到端传播？这如何影响结构质量？",
@@ -10803,87 +12621,87 @@
  },
  {
   "id": "sdbm",
-  "name": "Quiz 15 - NMR Structure Calculation [简答]",
+  "name": "Quiz 18 - NMR Structure Calculation [简答]",
   "cards": [
    {
-    "id": "Quiz 15 - NMR Structure Calculation (Short Answer).md::0",
+    "id": "Quiz 18 - NMR Structure Calculation (Short Answer).md::0",
     "type": "sa",
     "q_en": "Why is the NMR structure-determination problem underdetermined, and how are restraints used?",
     "q_zh": "为什么 NMR 结构测定问题是欠定的？约束是如何使用的？",
     "a": "Experimental data alone are insufficient to fix every atomic coordinate. Restraints are treated as springs (pseudopotentials) connecting atoms; the solution is the atom arrangement with all springs relaxed, found by minimizing V_physical + V_experimental.\n仅靠实验数据不足以确定所有原子坐标。约束被当作连接原子的弹簧（赝势）；解即所有弹簧松弛后的原子排布，通过最小化 V_physical + V_experimental 求得。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (Short Answer).md::1",
+    "id": "Quiz 18 - NMR Structure Calculation (Short Answer).md::1",
     "type": "sa",
     "q_en": "Describe the simulated-annealing protocol for structure calculation.",
     "q_zh": "描述结构计算中的模拟退火方案。",
     "a": "Initial (random or extended) conformations → minimize → heat to ~1000 °C to cross barriers → cool gradually while increasing the force constants → final minimize. Repeat 200–1000 times and select the 20 lowest-energy structures.\n初始（随机或伸展）构象 → 能量最小化 → 加热到约 1000 °C 以跨越势垒 → 逐渐降温并增大力常数 → 最终最小化。重复 200–1000 次并选出 20 个最低能量结构。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (Short Answer).md::2",
+    "id": "Quiz 18 - NMR Structure Calculation (Short Answer).md::2",
     "type": "sa",
     "q_en": "What is the difference between precision and accuracy of an NMR structure ensemble?",
     "q_zh": "NMR 结构系综的精密度和准确度有何区别？",
     "a": "Precision is the RMSD of ensemble members relative to their average structure (how reproducible). Accuracy is the deviation from the true/real structure (how correct), which cannot be measured directly without the real structure.\n精密度是系综成员相对平均结构的 RMSD（可重复性）。准确度是与真实结构的偏差（正确性），没有真实结构时无法直接测定。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (Short Answer).md::3",
+    "id": "Quiz 18 - NMR Structure Calculation (Short Answer).md::3",
     "type": "sa",
     "q_en": "How does network-anchoring work in iterative NOE assignment?",
     "q_zh": "迭代 NOE 归属中的网络锚定（network-anchoring）是如何工作的？",
     "a": "A tentative NOE is accepted only if it fits a triangular (ABX) connection with already-assigned anchors — the new assignment plus two known anchors must be mutually consistent — thereby reducing wrong assignments.\n只有当暂定 NOE 能与已归属锚点构成三角（ABX）连接时才会被接受——新归属与两个已知锚点必须相互一致——从而减少错误归属。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (Short Answer).md::4",
+    "id": "Quiz 18 - NMR Structure Calculation (Short Answer).md::4",
     "type": "sa",
     "q_en": "How does cross-saturation identify a binding interface?",
     "q_zh": "交叉饱和如何确定结合界面？",
     "a": "One protein is selectively irradiated (saturated) while the other is observed in D₂O; D₂O diminishes spin diffusion. Residues at the interface show reduced intensity because saturation is transferred only across direct contacts.\n选择性照射（饱和）一个蛋白，同时在 D₂O 中观测另一个蛋白；D₂O 减弱自旋扩散。界面残基因饱和仅经直接接触传递而强度降低。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (Short Answer).md::5",
+    "id": "Quiz 18 - NMR Structure Calculation (Short Answer).md::5",
     "type": "sa",
     "q_en": "List the components of V_physical and V_experimental, and briefly state the role of each energy term.",
     "q_zh": "列出 V_physical 和 V_experimental 的组成部分，并简述各能量项的作用。",
     "a": "V_physical = V_bond + V_angle + V_dihedral + V_vdw + V_elec (bond lengths, angles, dihedrals, van der Waals, electrostatics). V_experimental = V_NOE + V_torsion + V_RDC + V_PRE, which enforce the experimental restraints as pseudoenergies.\nV_physical = V_bond + V_angle + V_dihedral + V_vdw + V_elec（键长、键角、二面角、范德华、静电）。V_experimental = V_NOE + V_torsion + V_RDC + V_PRE，以赝势能形式施加实验约束。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (Short Answer).md::6",
+    "id": "Quiz 18 - NMR Structure Calculation (Short Answer).md::6",
     "type": "sa",
     "q_en": "Explain Newton's second law (F = m·a) and how the force is obtained from the potential in molecular dynamics.",
     "q_zh": "解释牛顿第二定律（F = m·a），以及分子动力学中如何由势能获得力。",
     "a": "MD solves F = m·a to compute accelerations and step the atomic coordinates forward in time. The force on each atom is the negative gradient of the total potential, F = −∇V, so the energy landscape (physical + experimental terms) drives the motion.\n分子动力学求解 F = m·a 计算加速度，并逐步推进原子坐标。每个原子上的力是总势能的负梯度 F = −∇V，因此能量面（物理项 + 实验项）驱动运动。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (Short Answer).md::7",
+    "id": "Quiz 18 - NMR Structure Calculation (Short Answer).md::7",
     "type": "sa",
     "q_en": "Describe the shape of the NOE pseudopotential and why it is flat between the lower and upper bounds.",
     "q_zh": "描述 NOE 赝势的形状，以及为什么它在下限与上限之间是平坦的。",
     "a": "The NOE pseudopotential is zero (flat) between the lower and upper distance bounds and rises (penalty) only outside them. Because NOEs give a distance range rather than an exact distance, any value within the allowed range is equally acceptable and unpenalized.\nNOE 赝势在距离下限与上限之间为零（平坦），仅在越界时上升（惩罚）。因为 NOE 给出的是距离范围而非精确距离，允许范围内的任何值都同样可接受且不受惩罚。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (Short Answer).md::8",
+    "id": "Quiz 18 - NMR Structure Calculation (Short Answer).md::8",
     "type": "sa",
     "q_en": "Why must spectra be correctly referenced and resonance assignment nearly complete before automatic structure calculation?",
     "q_zh": "为什么在进行自动结构计算前，谱必须正确参照且共振归属近乎完整？",
     "a": "Chemical shifts must be correctly referenced because shifts are used to assign NOEs and derive restraints (via TALOS/CSI); an almost complete resonance assignment is needed to convert peak lists into unambiguous distance restraints. Errors here propagate into wrong restraints and distorted structures.\n化学位移必须正确参照，因为位移用于归属 NOE 并导出约束（通过 TALOS/CSI）；近乎完整的共振归属是把峰表转换为无歧义距离约束所必需的。此处的错误会传播为错误约束和畸变结构。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (Short Answer).md::9",
+    "id": "Quiz 18 - NMR Structure Calculation (Short Answer).md::9",
     "type": "sa",
     "q_en": "Explain the Ramachandran plot: which φ/ψ regions are allowed versus forbidden, and how it is used to validate structures.",
     "q_zh": "解释拉氏图：哪些 φ/ψ 区域是允许的、哪些是禁阻的，以及它如何用于结构验证。",
     "a": "The Ramachandran plot maps backbone φ against ψ. Favored/allowed regions correspond to sterically permitted secondary-structure conformations; white (forbidden) regions are sterically disallowed. Residues falling in forbidden regions indicate local errors in the structure.\n拉氏图以主链 φ 对 ψ 作图。允许区对应空间上可取的二级结构构象；白色（禁阻）区是空间上不允许的。落入禁阻区的残基表明结构中存在局部错误。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (Short Answer).md::10",
+    "id": "Quiz 18 - NMR Structure Calculation (Short Answer).md::10",
     "type": "sa",
     "q_en": "Describe the LolA/LolB study: what techniques were used and what did they reveal about the binding interface?",
     "q_zh": "描述 LolA/LolB 研究：使用了哪些技术？它们揭示了结合界面的什么信息？",
     "a": "Despite only 8% sequence identity, LolA and LolB share the same fold. ITC gave a K_D of ~30 µM, and chemical-shift perturbation (CSP) mapping identified the binding interface residues.\n尽管序列同一性只有 8%，LolA 与 LolB 具有相同折叠。ITC 给出 K_D ≈ 30 µM，化学位移扰动（CSP）作图确定了结合界面残基。"
    },
    {
-    "id": "Quiz 15 - NMR Structure Calculation (Short Answer).md::11",
+    "id": "Quiz 18 - NMR Structure Calculation (Short Answer).md::11",
     "type": "sa",
     "q_en": "What statistics are typically reported for an NMR ensemble (e.g. backbone RMSD, heavy-atom RMSD, distance violations), and what does each indicate?",
     "q_zh": "NMR 系综通常报告哪些统计量（如主链 RMSD、重原子 RMSD、距离违反）？各自说明什么？",
