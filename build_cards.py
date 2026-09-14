@@ -221,6 +221,12 @@ def parse_exam(path):
                       'q_en': '\n'.join(q_en), 'q_zh': '\n'.join(q_zh), 'a': '\n'.join(a_lines)})
     return cards
 
+def extract_focus(path):
+    """提取真题 quiz 的考点分析块"""
+    text = open(path, encoding='utf-8').read()
+    m = re.search(r'## 考点分析[^\n]*\n(.*?)(?=\n## )', text, flags=re.S)
+    return m.group(1).strip() if m else ''
+
 SDBM_DIR = "/mnt/d/obsidian/obsidian/M2/structure determination of biological macromolecule/exam"
 SDBM_MAIN = "/mnt/d/obsidian/obsidian/M2/structure determination of biological macromolecule"
 ISCB_DIR = "/mnt/d/obsidian/obsidian/M2/Integrated Structural Cell Biology"
@@ -258,7 +264,7 @@ for f in sorted(glob.glob(os.path.join(SDBM_MAIN, "Quiz * (Short Answer).md")), 
 # ---- SDBM 真题 quiz (Exam) ----
 for f in sorted(glob.glob(os.path.join(SDBM_MAIN, "Quiz * (Exam).md")), key=natural_key):
     name = os.path.basename(f).replace(' (Exam).md', '') + ' [真题]'
-    decks.append({'id': 'sdbm', 'name': name, 'cards': parse_exam(f)})
+    decks.append({'id': 'sdbm', 'name': name, 'cards': parse_exam(f), 'focus': extract_focus(f)})
     print(f"SDBM {name}: {len(decks[-1]['cards'])}")
 
 # ---- ISCB 填空 Quiz ----
@@ -282,7 +288,7 @@ for f in sorted(glob.glob(os.path.join(ISCB_DIR, "Quiz * (Short Answer).md")), k
 # ---- ISCB 真题 quiz (Exam) ----
 for f in sorted(glob.glob(os.path.join(ISCB_DIR, "Quiz * (Exam).md")), key=natural_key):
     name = os.path.basename(f).replace(' (Exam).md', '') + ' [真题]'
-    decks.append({'id': 'iscb', 'name': name, 'cards': parse_exam(f)})
+    decks.append({'id': 'iscb', 'name': name, 'cards': parse_exam(f), 'focus': extract_focus(f)})
     print(f"ISCB {name}: {len(decks[-1]['cards'])}")
 
 # ---- ISCB Mock / ANNALE ----

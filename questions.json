@@ -12741,7 +12741,8 @@
     "q_zh": "4（来源：Exam 2017）\n还有哪些其他方法可以获得 PB1-PB2 复合物的结构信息？请评论！",
     "a": "# Part 2 — NMR (1h30)\nNMR（溶液动力学与界面）、SAXS/SANS（整体外形/寡聚）、cryo-EM（大复合物）、交联质谱 XL-MS（距离约束）。\nNMR、SAXS/SANS、cryo-EM、交联质谱。\nWHY：晶体是静态快照；溶液/动力学信息需互补手段。\nWHY：晶体静态，需互补手段获动力学信息。\n# 第二部分 —— 核磁共振"
    }
-  ]
+  ],
+  "focus": "> Tests how a structure was solved and why that method, plus awareness of alternative methods.\n> 考结构用什么技术解的、为什么选它，以及是否了解其他结构生物学方法。\n\n- **Technique choice & justification (X-ray vs cryo-EM vs NMR vs SAXS vs homology modeling)**\n  技术选择与论证（X射线/cryo-EM/NMR/SAXS/同源建模）\n- **How the protein / complex was obtained**\n  蛋白/复合物如何获得\n- **Alternative methods to derive structural information**\n  其他获得结构信息的方法\n\n\n> 历年真题（2016–2025）中与本课知识点相关的题目，附背景与答案。答案来自老师订正（有则翻译）或自拟。"
  },
  {
   "id": "sdbm",
@@ -12775,7 +12776,8 @@
     "q_zh": "4（来源：Exam 2018）\n晶体衍射到 2.7 Å 分辨率。该蛋白已用杆状病毒在昆虫细胞中表达。它能重复性地结晶。你研究的是一个具有 Mg²⁺ 结合位点的 DNA 聚合酶。请画出衍射装置的草图。你如何在衍射仪上摆放（定向）晶体？",
     "a": "画 X 射线衍射装置（X 光源→准直→晶体测角头→探测器）。晶体绕对称性最高的轴（此处 c 轴）旋转，用最少的数据量覆盖完整衍射。\n画装置图；绕对称性最高的 c 轴旋转收集。\nWHY：绕高对称轴旋转，少量图像即可覆盖所需反射，省时省剂量。\nWHY：绕高对称轴旋转最省数据量。"
    }
-  ]
+  ],
+  "focus": "> Tests the crystallization workflow and what is verified before/after obtaining crystals.\n> 考结晶流程，以及拿到晶体前后要检查什么。\n\n- **Procedure to obtain crystals (screening, optimization)**\n  结晶流程（筛选、优化）\n- **What to check concerning the crystals (quality, diffraction)**\n  晶体检查（质量、衍射能力）\n- **How the complex / sample was prepared**\n  复合物/样品如何制备\n\n\n> 历年真题（2016–2025）中与本课知识点相关的题目，附背景与答案。答案来自老师订正（有则翻译）或自拟。"
  },
  {
   "id": "sdbm",
@@ -12844,7 +12846,8 @@
     "q_zh": "9（来源：Exam 2025）\n点群对称性：以下寡聚体具有对称轴。为了将寡聚体投影到它自身上，你可以绕其对称轴旋转哪些角度？a) 四聚体 b) 五聚体 c) 六聚体",
     "a": "a. 四聚体：0°, 90°, 180°, 270°。b. 五聚体：0°, 72°, 144°, 216°, 288°。c. 六聚体：0°, 60°, 120°, 180°, 240°, 300°。\n四聚 90°步长；五聚 72°；六聚 60°。\nWHY：n 重旋转轴允许绕轴旋转 360°/n 的整数倍使分子自重合。\nWHY：n 重轴 = 360°/n 整数倍旋转。"
    }
-  ]
+  ],
+  "focus": "> Tests symmetry analysis: identify symmetry elements, count asymmetric units, assign crystal system / point group / Bravais lattice.\n> 考对称性分析：识别对称元素、算不对称单元数、判定晶系/点群/Bravais格子。\n\n- **Identify symmetry elements present**\n  识别存在的对称元素\n- **Number of asymmetric units in the unit cell**\n  晶胞中不对称单元数\n- **Crystal system / point group / Bravais lattice assignment**\n  晶系/点群/Bravais格子判定\n- **Draw the unit cell (looking down an axis)**\n  画晶胞图（沿某轴俯视）\n\n\n> 历年真题（2016–2025）中与本课知识点相关的题目，附背景与答案。答案来自老师订正（有则翻译）或自拟。"
  },
  {
   "id": "sdbm",
@@ -12871,7 +12874,8 @@
     "q_zh": "3（来源：Exam 2017）\n假设蛋白的比容为 1.21 Å³ Da⁻¹，一个复合物的体积是多少？",
     "a": "V = 14 300 × 1.21 = 17 303 Å³。\nV = MW × 比容 = 14 300 Da × 1.21 Å³/Da = 17 303 Å³。\nWHY：比容 × 分子量 = 单个分子体积。\nWHY：比容×分子量=单分子体积。"
    }
-  ]
+  ],
+  "focus": "> Tests unit-cell volume calculation from cell parameters (Bragg's law, d-spacing).\n> 考用晶胞参数算晶胞体积（Bragg定律、面间距）。\n\n- **Unit cell volume (Å³) from a, b, c, α, β, γ**\n  晶胞体积计算（a,b,c,α,β,γ）\n- **Volume of one complex / monomer**\n  单个复合物/单体体积\n\n\n> 历年真题（2016–2025）中与本课知识点相关的题目，附背景与答案。答案来自老师订正（有则翻译）或自拟。"
  },
  {
   "id": "sdbm",
@@ -12968,7 +12972,8 @@
     "q_zh": "13（来源：Exam 2025）\n晶格与倒易晶格：a) 给出三个晶格点 1、2、3 的坐标 x,y,z。b) 给出三个倒易晶格点 1、2、3 的 Laue 指数。",
     "a": "a. 三个晶格点的坐标 (x,y,z)：从卷面晶格图直接读出（以晶胞边长为单位）。b. 三个倒易格点的 Laue 指数 (h,k,l)：从卷面倒易格点位置读出其整数指数。\n坐标与指数按卷面图读出。\nWHY：晶格点坐标 = 分数坐标；倒易格点位置对应整数 Laue 指数 (hkl)。\nWHY：晶格点=分数坐标；倒易点=整数 (hkl)。"
    }
-  ]
+  ],
+  "focus": "> Heavy calculation questions: Matthews coefficient, solvent content, number of monomers, Patterson function, reciprocal vectors a*/c*.\n> 计算题多：Matthews系数、溶剂含量、单体数、Patterson函数、倒易矢量 a*/c*。\n\n- **Matthews coefficient & solvent content**\n  Matthews系数与溶剂含量\n- **Number of monomers / molecules per asymmetric unit**\n  不对称单元中单体/分子数\n- **Patterson function (native peaks, self vs cross vectors)**\n  Patterson函数（原生峰、自向量/交叉向量）\n- **Draw a* and c* (direction + length)**\n  画倒易矢量 a* c*（方向+长度）\n\n\n> 历年真题（2016–2025）中与本课知识点相关的题目，附背景与答案。答案来自老师订正（有则翻译）或自拟。"
  },
  {
   "id": "sdbm",
@@ -13030,7 +13035,8 @@
     "q_zh": "8（来源：Exam 2024）\n下面哪个数据集的质量最好？给出你的论据。（图中给出数据集 1、数据集 2 和数据集 3。）",
     "a": "# Part 2 — NMR (1h30)\nDataset 3 最差（最高分辨率壳层 R 因子、整体 R 因子、低分辨 Rmerge 都差）；Dataset 1 中等（统计与 2 相近但分辨率较低）；Dataset 2 最好（分辨率好、R 因子好）。\n3 最差、1 中等、2 最好。\nWHY：综合分辨率 + R 因子（尤其最高壳层）判断数据质量。\nWHY：分辨率 + R 因子综合判质量。\n# 第二部分 —— 核磁共振"
    }
-  ]
+  ],
+  "focus": "> Tests reading diffraction images: assign cell parameters, extract data-collection info, judge data-quality indicators.\n> 考读衍射图：标定晶胞参数、提取数据收集信息、判断数据质量指标。\n\n- **Cell dimensions from a diffraction image (λ, D, spot positions)**\n  从衍射图算晶胞尺寸（λ、D、斑点位置）\n- **Data-quality indicators (Rmerge/Rmeas/Rpim/CC1/2, I/σI, multiplicity)**\n  数据质量指标（Rmerge/Rmeas/Rpim/CC1/2、I/σI、多重度）\n- **Data-collection information from the pictures**\n  从图中读取数据收集信息\n\n\n> 历年真题（2016–2025）中与本课知识点相关的题目，附背景与答案。答案来自老师订正（有则翻译）或自拟。"
  },
  {
   "id": "sdbm",
@@ -13064,7 +13070,8 @@
     "q_zh": "4（来源：Exam 2022）\na) 下面两个来自蛋白质数据库（PDB）的同一蛋白质结构中，哪一个更可靠？给出你的论据。",
     "a": "# Part 2 — NMR (1h30)\n比较两个 PDB 结构的验证报告：分辨率（越高越可靠）、R/Rfree 及 Rfree−Rwork 差（越低越好）、B 因子（低=有序）、RSRZ/侧链密度拟合（越少异常越好）、Ramachandran 有利区比例。综合上述选更可靠者（按卷面报告读值）。\n看分辨率、Rfree、B 因子、RSRZ、Ramachandran，综合选优。\nWHY：可靠性 = 数据质量 + 模型与数据的吻合度，多指标综合判断。\nWHY：可靠性=数据质量+模型吻合度，多指标综合。\n# 第二部分 —— 核磁共振"
    }
-  ]
+  ],
+  "focus": "> Tests reading crystallographic files: mtz columns, judging PDB structure quality and reliability.\n> 考读晶体学文件：mtz 各列含义、判断 PDB 结构质量与可靠性。\n\n- **Content of mtz columns (F, σF, FreeR_flag, ...)**\n  mtz 列内容（F、σF、FreeR_flag 等）\n- **Which PDB structure has better quality (R/Rfree, resolution)**\n  哪个 PDB 结构质量更好（R/Rfree、分辨率）\n- **Reliability of structures**\n  结构可靠性\n\n\n> 历年真题（2016–2025）中与本课知识点相关的题目，附背景与答案。答案来自老师订正（有则翻译）或自拟。"
  },
  {
   "id": "sdbm",
@@ -13154,7 +13161,8 @@
     "q_zh": "12（来源：Exam 2025）\n反常散射：使用下面所示的硒的 X 射线荧光谱（随入射 X 射线光子能量变化）。a) 指出你将进行 MAD 实验的不同能量。b) 你将使用哪个能量进行 SAD 实验？",
     "a": "# Part 2 — NMR (1h30)\na. MAD 四能量：峰、拐点、高远端、低远端（标在硒 K 吸收边谱线上）。b. SAD：选峰能量（f'' 最大处，反常信号最强）。\nMAD：峰/拐点/高远端/低远端；SAD：峰能量。\nWHY：MAD 利用 f'、f'' 随能量的变化解相位；SAD 取 f'' 最大的单点。\nWHY：MAD 用能量变化，SAD 取 f'' 最大。\n# 第二部分 —— 核磁共振"
    }
-  ]
+  ],
+  "focus": "> Tests phasing strategy: which method (MAD/SAD/MIR/MR), MAD energies on the Se fluorescence spectrum, alternatives & where they fail.\n> 考定相策略：用哪个方法（MAD/SAD/MIR/MR）、在 Se 荧光谱上标 MAD 能量、替代策略及局限。\n\n- **Phasing strategy choice & justification**\n  定相策略选择与论证\n- **MAD energies on the Se fluorescence spectrum**\n  Se 荧光谱上的 MAD 能量位置\n- **Alternative strategy + where it can fail**\n  替代策略及其失败点\n- **Data-quality indicators (again)**\n  数据质量指标（常重复出现）\n\n\n> 历年真题（2016–2025）中与本课知识点相关的题目，附背景与答案。答案来自老师订正（有则翻译）或自拟。"
  },
  {
   "id": "sdbm",
@@ -13188,7 +13196,8 @@
     "q_zh": "4（来源：Exam 2021）\n描述使用分子置换法解析蛋白结构所需的材料，以及你需要经历的各个步骤：",
     "a": "需要：① 目标晶体的结构因子数据；② 一个同源搜索模型（已知结构，序列一致性 >25–30%）。步骤：① 旋转函数定模型取向；② 平移函数定模型位置；③ 刚体精修；④ 用得到的相位计算电子密度图，建模+迭代精修。\n需同源模型 + 数据；旋转定取向→平移定位→刚体精修→建模。\nWHY：MR 复用已知结构，省去实验定相；旋转/平移是\"拼图\"的两步。\nWHY：MR 复用已知结构，旋转+平移两步拼图。"
    }
-  ]
+  ],
+  "focus": "> Tests molecular replacement: steps (cross-rotation function, translation), why molecules sit at different positions.\n> 考分子置换：步骤（交叉旋转函数、平移），以及为什么分子位置不同。\n\n- **MR steps (cross-rotation, translation, search model)**\n  MR 步骤（交叉旋转、平移、搜索模型）\n- **Why are molecules at different positions (PDB vs MR)**\n  为什么分子位置不同（PDB vs MR）\n- **How many molecules in the ASU (all arguments)**\n  不对称单元中分子数（给出全部论证）\n\n\n> 历年真题（2016–2025）中与本课知识点相关的题目，附背景与答案。答案来自老师订正（有则翻译）或自拟。"
  },
  {
   "id": "sdbm",
@@ -13229,7 +13238,8 @@
     "q_zh": "5（来源：Exam 2024）\n你处理与第 2 题相同的晶体。a) 你观察到哪些晶体学对称性和哪些 NCS（非晶体学）对称性？只使用最明显的峰！b) 给出一个等效 NCS 对称或晶体学对称的位置 (φ, θ, χ)。在同一数据集上运行程序 matthews_coefficient 的输出为：（根据残基数估计的分子量：147；Nmol/asym = 1–6 的表格，含 Matthews 系数、%溶剂、P(2.00)、P(tot)）。c) 不对称单元中最可能的分子数是多少？d) 可能的分子数有哪些？e) 结合你对这个晶体的所有知识，你预期不对称单元中有多少个分子？",
     "a": "a. 晶体学对称：沿 c\\*/c 的 4 重轴及相应 2 重轴；NCS：3 重在 φ=73°、θ=52°；可能的 2 重 NCS 在 φ=30°、θ=45°。\n晶体学 4 重沿 c*；NCS 3 重 (73°,52°) + 2 重 (30°,45°)。\nb. 位置 (φ,θ,κ)：晶体学 φ=x、θ=0°、κ=90°/180°；3 重 NCS φ=73°、θ=52°、κ=120°；2 重 NCS φ=30°、θ=45°、κ=180°。\n晶体学 κ=90°/180°；3 重 κ=120°；2 重 κ=180°。\nc. Matthews：若 2 Å 衍射则 4 分子，一般 3 分子 最可能。\n3 或 4 分子/ASU。\nd. 可能的分子数：2、3、4。e. 综合所有信息：3 分子/ASU（与 3 重 NCS 一致）。\n可能 2/3/4；综合定 3（3 重 NCS）。\nWHY：自转函数的 3 重 NCS 峰 + Matthews 概率联合 → 三聚体（3 分子/ASU）。\nWHY：3 重 NCS + Matthews → 三聚体。"
    }
-  ]
+  ],
+  "focus": "> Tests model building & refinement: interpret electron density (residues, loops), R-factor, rank datasets.\n> 考建模与精修：解释电子密度图（残基、loop）、R因子、给数据集排序。\n\n- **Interpret electron density (what residues 8 & 690, the loop tell)**\n  解释电子密度图（残基 8 和 690、loop 说明了什么）\n- **R-factor / Rfree differences**\n  R因子/Rfree 差异\n- **Rank datasets by quality**\n  按质量给数据集排序\n\n\n> 历年真题（2016–2025）中与本课知识点相关的题目，附背景与答案。答案来自老师订正（有则翻译）或自拟。"
  },
  {
   "id": "sdbm",
@@ -13396,7 +13406,8 @@
     "q_zh": "23（来源：Exam 2025）\n空间群归属：给出两个不同晶体（上、下）结构因子振幅 |F|(hkl) 的 (hk3) 和 (h0l) 截面视图。各视图不一定按比例！可能的空间群为 P6₅ 和 P3₁21。哪个是哪个？请论证！",
     "a": "三角/六方系 c\\* ∥ c。6 重对称 + 沿 c\\* 的 6n 系统消光 → P6₅；3 重对称 + 镜面（垂直 c 的 2 重轴）+ 沿 c\\* 的 3n 消光 → P3₁21。\n6 重+6n 消光=P6₅；3 重+镜面+3n 消光=P3₁21。\nWHY：沿 c\\* 的消光类型（6n vs 3n）区分 6 重/3 重螺旋；镜面区分有无垂直 2 重轴。\nWHY：6n/3n 消光区分螺旋阶数；镜面区分垂直轴。"
    }
-  ]
+  ],
+  "focus": "> The crystallography exam favorite (23 questions!): assign space group from systematic absences, crystal system / point group / Bravais lattice, International Tables.\n> 晶体学真题最爱考（23题！）：由系统消光判定空间群、晶系/点群/Bravais格子、国际表。\n\n- **Space group assignment from systematic absences (P6₅ vs P3₁21, etc.)**\n  由系统消光判定空间群（P6₅ vs P3₁21 等）\n- **Crystal system / lattice type / point group**\n  晶系/格子类型/点群\n- **Symmetry elements in the space group**\n  空间群中的对称元素\n- **At what stage the correct space group can be assigned**\n  何时才能判定正确空间群\n\n\n> 历年真题（2016–2025）中与本课知识点相关的题目，附背景与答案。答案来自老师订正（有则翻译）或自拟。"
  },
  {
   "id": "sdbm",
@@ -13423,7 +13434,8 @@
     "q_zh": "3（来源：Exam 2024）\n问题 6（2 分）：对于蛋白质-RNA 复合物的结构研究，你会选择哪种 RNA 构建体（U9 还是 U13）？考虑图 2 所示的谱图，也要考虑分子大小和复杂性等方面。简要解释你的选择。",
     "a": "两 RNA 作用方式相似（同位点、相似亲和力）(1 pt)。应选更小的 U9 (1 pt)，因为小分子对复合物弛豫性质影响小。\n选更小的 U9（弛豫性质更好）。\nWHY：越小越利于 NMR（线宽、弛豫），尤其对蛋白质-RNA 大复合物。\nWHY：越小越利于 NMR 弛豫与线宽。"
    }
-  ]
+  ],
+  "focus": "> Tests NMR basics: is the protein folded (from HSQC dispersion), is folding a requirement for interaction studies, which sample to use.\n> 考 NMR 基础：蛋白是否折叠（看 HSQC 分散）、折叠是否是相互作用研究的必要前提、选什么样品。\n\n- **Is the protein structured / folded (from spectra)**\n  蛋白是否有折叠结构（从谱图判断）\n- **Is folding a requirement for protein-ligand/protein-protein study**\n  折叠是否是相互作用研究的必要条件\n- **Which sample (RNA/peptide/protein) suits structural studies**\n  选哪个样品适合结构研究\n\n\n> 历年真题（2016–2025）中与本课知识点相关的题目，附背景与答案。答案来自老师订正（有则翻译）或自拟。"
  },
  {
   "id": "sdbm",
@@ -13464,7 +13476,8 @@
     "q_zh": "5（来源：Exam 2020）\n该相互作用处于哪种（快/慢/中等）交换速率区间？这与从 Spy 蛋白一侧观察到的一致吗？",
     "a": "峰随 Spy 加入持续移动 → 快交换，与 Spy 侧测得的较低亲和力一致。（加分：9 ppm/115 ppm 处一个峰在高比例时消失 → 该残基中等交换）\n快交换，与弱亲和一致。\nWHY：快交换=弱结合（Kd 大），峰连续移动是快交换标志。\nWHY：快交换=弱结合，峰连续移动。"
    }
-  ]
+  ],
+  "focus": "> Tests NMR observables: exchange regime, distance restraints (NOE), dihedral restraints (J coupling), domain/subunit arrangement.\n> 考 NMR 可观测量：交换速率、距离约束（NOE）、二面角约束（J耦合）、域/亚基排布。\n\n- **Exchange regime (fast/intermediate/slow) & interaction strength**\n  交换速率（快/中/慢）与相互作用强度\n- **Distance restraints from which NMR parameters (NOE)**\n  距离约束来自哪个 NMR 参数（NOE）\n- **Backbone dihedral restraints (J coupling)**\n  骨架二面角约束（J耦合）\n- **Arrangement of domains/subunits**\n  域/亚基排布\n\n\n> 历年真题（2016–2025）中与本课知识点相关的题目，附背景与答案。答案来自老师订正（有则翻译）或自拟。"
  },
  {
   "id": "sdbm",
@@ -13533,7 +13546,8 @@
     "q_zh": "9（来源：Exam 2024）\n考察一个二维晶体。右侧画有散射原子排列；1 格对应 10 Å。使用下发的方格纸。a) 画出 a=60 Å（纸的长边）、b=50 Å（纸的短边）、γ=90° 的二维简单晶胞（P1）的 4 个格点（画在拼接方格纸中央）。这是 Patterson 函数的晶胞。b) 画出与 4 个格点周围原子排列对应的 Patterson 向量；用类似代表原子的大点标出端点。c) 是否可能把所有分子内向量都放进一个不含任何分子间向量的圆内？",
     "a": "a. 画 a=60、b=50 Å 简单晶胞 4 格点；b. 画各原子排列的 Patterson 向量端点（大点）；c. 不能（No）——无法把所有分子内向量装进一个不含分子间向量的圆。\n画格点/向量端点；不能圈出纯分子内向量。\nWHY：分子内与分子间向量在长度上重叠（此原子分布下无法分离）。\nWHY：此分布下分子内/间向量长度重叠，无法分离。"
    }
-  ]
+  ],
+  "focus": "> Tests 2D NMR interpretation: HSQC overlay, what schematic spectra correspond to, cross-peak counting, Patterson (yes, again).\n> 考 2D 谱解读：HSQC 叠加谱、示意图对应什么、cross-peak 数、Patterson（又出现了）。\n\n- **Comment on the HSQC overlay (shift changes)**\n  解读 HSQC 叠加谱（化学位移变化）\n- **What do the schematic spectra correspond to**\n  示意图对应什么\n- **Cross-peak counting (why N not 2N)**\n  cross-peak 数（为什么是 N 不是 2N）\n\n\n> 历年真题（2016–2025）中与本课知识点相关的题目，附背景与答案。答案来自老师订正（有则翻译）或自拟。"
  },
  {
   "id": "sdbm",
@@ -13616,7 +13630,8 @@
     "q_zh": "11（来源：Exam 2025）\n给出空间群 P4₁2₁2 的国际表页：a) 描述 P4₁2₁2 中存在的对称元素（标注为 1、2、3、4）。b) 其关联的晶体学点群是哪一个（例如决定晶体外形）？c) 哪个空间群描述与该空间群关联的 Patterson 函数的对称性？d) 一个晶胞包含多少个不对称单元？e) 对映空间群是哪一个？f) 指数为 (00l) 的反射条件是什么？g) 指数为 (h00) 的反射条件是什么？h) 在下面对同一晶体的自转函数中，哪个对称元素（1、2、3、4）产生哪个峰？",
     "a": "00l: l=4n；h00: h=2n。\na. 对称元素：沿 c 的 4₁ 螺旋轴、沿 a 与 b 的 2₁ 螺旋轴、沿 [110] 与 [1-10] 对角方向的 2 重轴。\n4₁ 螺旋轴∥c；2₁ 螺旋轴∥a、∥b；2 重轴∥[110]、[1-10]。\nb. 关联点群：422（四方晶系）。\n点群 422。\nc. Patterson 空间群：P4/mmm（加 Friedel 反演中心，Laue 类 4/mmm）。\nPatterson 空间群 P4/mmm。\nd. 不对称单元数：8 个。\n8 个不对称单元。\ne. 对映空间群：P4₃2₁2。\n对映空间群 P4₃2₁2。\nf. (00l) 反射条件：l = 4n。g. (h00) 反射条件：h = 2n（沿 a 的 2₁ 螺旋轴）。\nh. 自转函数：4₁ 轴 → 沿 c 的 χ=90° 峰；2₁/2 重轴 → χ=180° 沿 a、b、[110]、[1-10] 的峰。\n4 重 → χ=90° 沿 c；2 重 → χ=180° 沿 a/b/对角。\nWHY：空间群符号第二位 4₁（沿 c）、第三位 2₁（沿 a）、第四位 2₁（沿 b）；点群 422 含 4 重 + 4 个 2 重。\nWHY：符号各位置对应各方向螺旋轴；点群 422 含 4 重+2 重。"
    }
-  ]
+  ],
+  "focus": "> Tests isotopic labeling: which isotopes, deuteration + TROSY for big proteins, paramagnetic Gd³⁺ effects.\n> 考同位素标记：标哪些同位素、大蛋白的氘代+TROSY、顺磁 Gd³⁺ 效应。\n\n- **Which isotopes to introduce (¹⁵N, ¹³C, ²H)**\n  引入哪些同位素（¹⁵N、¹³C、²H）\n- **Why deuteration improves TROSY**\n  为什么氘代能改善 TROSY\n- **Gd³⁺ paramagnetic effect on TROSY / I*/I₀**\n  Gd³⁺ 顺磁对 TROSY / I*/I₀ 的影响\n\n\n> 历年真题（2016–2025）中与本课知识点相关的题目，附背景与答案。答案来自老师订正（有则翻译）或自拟。"
  },
  {
   "id": "sdbm",
@@ -14042,7 +14057,8 @@
     "q_zh": "60（来源：Exam 2025）\n问题 14（5 分）：在同一背景下，从图 6(C) 所示的 NMR 谱以及图 6(D) 所示的弛豫数据中，关于这两个突变的后果你能得出什么结论？",
     "a": "图 6C：L122A/F123A 突变使 SEP 峰回到游离位置（红→品红/青）→ 突变破坏 SIM-SEP 相互作用。图 6D：突变体（绿）全长 p47 的 R2/R1 恢复正常（降低） → 消除了 SEP 的异常高 R2/R1（自缔合）。(2 pt)\n突变破坏 SIM-SEP 作用，R2/R1 恢复正常。\n结论：L122、F123 两个疏水残基是 SIM 基序与 SEP 域相互作用的关键（疏水接触）；替换为丙氨酸破坏了 SIM 介导的 SEP 自缔合。(3 pt)\nL122/F123 疏水残基是 SIM-SEP 作用关键。\nWHY：破坏关键疏水残基 → 界面瓦解 → 谱回到游离态 + 弛豫恢复正常，反证这两个残基在界面核心。\nWHY：破坏疏水界面 → 谱回游离 + 弛豫恢复，反证残基在界面。"
    }
-  ]
+  ],
+  "focus": "> The NMR exam favorite (60 questions!): chemical shift mapping to locate interfaces, screening schemes, concentration-dependent shifts, relaxation & dynamics, binding strength.\n> NMR 真题最爱考（60题！）：化学位移作图定位界面、筛选方案、浓度依赖位移、弛豫与动力学、结合强度。\n\n- **Chemical shift perturbation (CSP) to map the binding interface**\n  化学位移作图（CSP）定位结合界面\n- **NMR screening + characterization scheme (HSQC titration)**\n  NMR 筛选与表征方案（HSQC 滴定）\n- **Concentration-dependent shifts (oligomerization, exchange)**\n  浓度依赖化学位移（寡聚化、交换）\n- **Relaxation & dynamics (R1/R2, hetNOE, domain boundaries)**\n  弛豫与动力学（R1/R2、异核NOE、域边界）\n- **Interaction strength (Kd, exchange regime)**\n  相互作用强度（Kd、交换速率）\n\n\n> 历年真题（2016–2025）中与本课知识点相关的题目，附背景与答案。答案来自老师订正（有则翻译）或自拟。"
  },
  {
   "id": "sdbm",
@@ -14335,7 +14351,8 @@
     "q_zh": "41（来源：Exam 2025）\n问题 13（2 分）：图 6(A) 和 6(B) 所示的数据说明了什么？",
     "a": "图 6A：¹⁵N-SIM 与未标记 SEP 滴定，SIM 峰随 SEP 加入而移动 → SIM 结合 SEP。图 6B：SIM 基序在含 SEP 的构建中螺旋倾向增加 → SIM（预测为 IDR）在结合 SEP 时诱导形成螺旋（folding upon binding）。\nSIM 结合 SEP 并诱导螺旋（折叠）。\nWHY：位移 + 二级结构倾向变化 = IDR 结合诱导折叠。\nWHY：位移+螺旋倾向增=诱导折叠。"
    }
-  ]
+  ],
+  "focus": "> Second NMR favorite (41 questions!): STD-NMR, saturation transfer, competition experiments, linewidths, PRE/RDC (I*/I₀).\n> NMR 第二大考点（41题！）：STD-NMR、饱和转移、竞争实验、线宽、PRE/RDC（I*/I₀）。\n\n- **STD-NMR (off/on-resonance, saturation transfer, conditions)**\n  STD-NMR（off/on-resonance、饱和转移、条件）\n- **Competition experiments (same binding site?)**\n  竞争实验（是否同一结合位点）\n- **Linewidth analysis**\n  线宽分析\n- **PRE/RDC (I*/I₀ ratio ∝ 1/r³, distance/orientation info)**\n  PRE/RDC（I*/I₀ ∝ 1/r³，距离/取向信息）\n\n\n> 历年真题（2016–2025）中与本课知识点相关的题目，附背景与答案。答案来自老师订正（有则翻译）或自拟。"
  },
  {
   "id": "sdbm",
@@ -14383,7 +14400,8 @@
     "q_zh": "6（来源：Exam 2025）\n问题 2（2 分）：比较为 Sox2 DBD 测定并显示在图 3(B) 中的不同结构，将本文描述的 NOE 衍生结构（无 DNA，粉色）与先前测定的游离态 NMR 结构（青色）进行比较时，你能得出什么结论？这两个结构之间的主要区别是什么（如果有的话）？",
     "a": "两者基本一致（都是无 DNA 的游离态），确认游离态构象定义良好；主要差异极小（若存在也仅是局部）。真正的大差异是两者（游离态）与 DNA 结合态（1GT0，橙）相比——三个螺旋相对取向不同。\n两者一致（都是游离态）；真正差异是与 DNA 结合态比较。\nWHY：同一状态的独立结构应相互一致；结构差异主要出现在游离↔结合态之间。\nWHY：同态结构应一致；差异在游离↔结合之间。"
    }
-  ]
+  ],
+  "focus": "> Tests structure calculation: NOE assignment, unassignable NOE peaks, evaluating NMR structure quality, HADDOCK docking.\n> 考结构计算：NOE 归属、无法归属的 NOE 峰、评价 NMR 结构质量、HADDOCK 对接。\n\n- **NOE assignment & origin of unassignable peaks (UNIO'10)**\n  NOE 归属与无法归属峰的来源（UNIO'10）\n- **Evaluate NMR structure quality**\n  评价 NMR 结构质量\n- **Convert I*/I₀ into HADDOCK input**\n  把 I*/I₀ 转成 HADDOCK 输入\n\n\n> 历年真题（2016–2025）中与本课知识点相关的题目，附背景与答案。答案来自老师订正（有则翻译）或自拟。"
  },
  {
   "id": "iscb",
@@ -21156,7 +21174,8 @@
     "q_zh": "18（来源：Mock Exam 2）\n如何制备生物样品？",
     "a": "Glutaraldehyde + OsO4 fixation → dehydration → resin embedding → ultrathin sectioning → heavy-metal staining → TEM. (0.5 pt)\n戊二醛+OsO4 固定 → 脱水 → 树脂包埋 → 超薄切片 → 重金属染色 → TEM。（0.5 分）\n— End of Mock Exam 2 — 模拟卷 2 完 —"
    }
-  ]
+  ],
+  "focus": "> Tests image formation (CTF, aberrations, contrast) and why images are distorted, plus AFM principles vs TEM and cellular EM strategy.\n> 考成像原理（CTF、像差、衬度）与图像为何扭曲，外加 AFM 原理与 TEM 对比、细胞电镜策略。\n\n- **Image formation in an EM & why distorted (CTF, Cs/Cc, underfocus)**\n  电镜成像与图像扭曲（CTF、球差/色差、欠焦）\n- **AFM components, applications, differences vs TEM**\n  AFM 组成、应用、与 TEM 的差异\n- **Cellular EM: which microscope, sample preparation**\n  细胞电镜：选哪个显微镜、样品制备\n\n\n> 历年真题（ANNALE + Mock）中与本课知识点相关的题目，附背景与答案。"
  },
  {
   "id": "iscb",
@@ -21246,7 +21265,8 @@
     "q_zh": "12（来源：Mock Exam 2）\n解释找回单张图像缺失信息的策略。",
     "a": "Collect many projections at different orientations + assign Euler angles + 3D reconstruction fills the missing views. (0.5 pt)\n采集大量不同取向投影 + 分配欧拉角 + 三维重构补全缺失视角。（0.5 分）"
    }
-  ]
+  ],
+  "focus": "> Tests the single-particle workflow: 2D class averages, symmetry from the class averages, Euler sphere/angles, retrieving missing information.\n> 考单颗粒工作流：2D 类平均、从类平均图判断对称性、Euler 球/欧拉角、找回缺失信息。\n\n- **Steps to obtain 2D class averages & why important**\n  2D 类平均步骤与重要性\n- **Symmetry of the complex from class averages (24-mer, octahedral)**\n  从类平均图判断复合物对称性（24聚体、八面体）\n- **Euler sphere, asymmetric unit, Euler angles**\n  Euler 球、不对称单元、欧拉角\n- **Retrieve missing information in single-particle**\n  单颗粒找回缺失信息\n\n\n> 历年真题（ANNALE + Mock）中与本课知识点相关的题目，附背景与答案。"
  },
  {
   "id": "iscb",
@@ -21294,7 +21314,8 @@
     "q_zh": "6（来源：Mock Exam 2）\n一个柔性 loop 分辨率低且呈两种构象。解释提高其分辨率的策略。",
     "a": "Signal subtraction (remove the rigid body) → soft-mask 3D classification (separate the two conformations) → local refinement (refine each conformation separately). (2 pt)\n信号扣除（扣掉刚性主体）→ 软掩膜 3D 分类（分离两种构象）→ 局部精修（每种构象分别精修）。（2 分）"
    }
-  ]
+  ],
+  "focus": "> Tests 3D reconstruction: common line method for relative angles, improving resolution of a flexible/less-resolved region.\n> 考 3D 重构：common line 方法求相对角度、提高柔性/低分辨率区域的解析度。\n\n- **Common line method (relative angles between class averages)**\n  common line 方法（类平均间的相对角度）\n- **Improve resolution of the less-resolved ligand/region**\n  提高低分辨率配体/区域的分辨率\n\n\n> 历年真题（ANNALE + Mock）中与本课知识点相关的题目，附背景与答案。"
  },
  {
   "id": "iscb",
@@ -21426,7 +21447,8 @@
     "q_zh": "18（来源：Mock Exam 2）\n如何从光激活→漂白事件区分二聚体/单体？",
     "a": "Count photobleaching steps: monomer = 1 step, dimer = 2 steps. (0.5 pt)\n数漂白步数：单体 1 步、二聚体 2 步。（0.5 分）"
    }
-  ]
+  ],
+  "focus": "> Tests super-resolution: PALM vs STORM, labeling strategy, illumination method, photoconvertible FPs, transient transfection, distinguishing dimer/monomer.\n> 考超分辨：PALM vs STORM、标记策略、照明方法、光转化荧光蛋白、瞬时转染、区分二聚体/单体。\n\n- **PALM vs STORM, resolution, dimer/monomer**\n  PALM vs STORM、分辨率、二聚体/单体\n- **Stoichiometric labeling strategy for counting**\n  计数用的化学计量标记策略\n- **Illumination method (TIRF, ...)**\n  照明方法（TIRF 等）\n- **Red-to-green photoconvertible FP**\n  红转绿光转化荧光蛋白\n- **Transient transfection: why not all labeled**\n  瞬时转染：为什么不是全部被标记\n\n\n> 历年真题（ANNALE + Mock）中与本课知识点相关的题目，附背景与答案。"
  },
  {
   "id": "iscb",
@@ -21495,7 +21517,8 @@
     "q_zh": "9（来源：Mock Exam 2）\n蛋白 B（A 质量的 25%）按 1:1 滴定成紧密复合物。I(0) 相对变化（%）？",
     "a": "+56%. WHY: I(0) ∝ Mr². I(0)_after / I(0)_before = (1.25 M_A)² / M_A² = 1.5625 → a 56.25% increase. (0.5 pt)\n+56%。WHY：I(0) ∝ Mr²。I(0)_后/I(0)_前 = (1.25 M_A)²/M_A² = 1.5625 → 增加 56.25%。（0.5 分）"
    }
-  ]
+  ],
+  "focus": "> Tests scattering methods: differences between SAXS and SANS, which to use for each system, relative change of I(0).\n> 考散射方法：SAXS 与 SANS 的差异、每个体系选哪个、I(0) 的相对变化。\n\n- **Differences between SAXS and SANS**\n  SAXS 与 SANS 的差异\n- **SAXS or SANS for each system (contrast matching)**\n  每个体系选 SAXS 还是 SANS（对比度匹配）\n- **Relative change of I(0) after adding a component**\n  加入组分后 I(0) 的相对变化\n\n\n> 历年真题（ANNALE + Mock）中与本课知识点相关的题目，附背景与答案。"
  },
  {
   "id": "iscb",

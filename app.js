@@ -38,6 +38,18 @@ function renderText(text) {
     .join('')
     .replace(/\n/g, '<br>');
 }
+function renderFocus(text) {
+  if (!text) return '';
+  return text.split('\n').map(l => {
+    const t = l.trim();
+    if (!t) return '';
+    let body = t.replace(/\*\*(.+?)\*\*/g, '<b>$1</b>');
+    if (body.startsWith('> ')) body = body.slice(2);
+    if (t.startsWith('> ')) return `<div class="focus-quote">${body}</div>`;
+    if (t.startsWith('- ')) return `<div class="focus-item">◆ ${body}</div>`;
+    return `<div class="focus-zh">${body}</div>`;
+  }).join('');
+}
 function hint(isReview, text) { document.getElementById(isReview ? 'card-hint' : 'card-hint').textContent = text; }
 
 /* ---------- 统计 ---------- */
@@ -146,6 +158,13 @@ function startStudy(deck) {
   current = deck.cards.slice();
   idx = 0;
   $('study-deck-name').textContent = deck.name;
+  const focusEl = $('study-focus');
+  if (deck.focus) {
+    focusEl.innerHTML = renderFocus(deck.focus);
+    focusEl.hidden = false;
+  } else {
+    focusEl.hidden = true;
+  }
   show('study');
   showCard();
 }
