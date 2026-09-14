@@ -175,6 +175,45 @@ def parse_sa(path):
                       'q_en': q_en, 'q_zh': q_zh, 'a': '\n'.join(ans)})
     return cards
 
+# ---------- 真题 quiz (Exam) ----------
+def parse_exam(path):
+    text = open(path, encoding='utf-8').read()
+    blocks = re.split(r'^## 题目', text, flags=re.M)
+    cards = []
+    for blk in blocks[1:]:
+        lines = blk.strip().split('\n')
+        q_en, q_zh, a_lines, in_a = [], [], [], False
+        for l in lines:
+            s = l.strip()
+            if s == '---':
+                in_a = False
+                continue
+            if '[!check]' in s:
+                in_a = True
+                continue
+            c = clean(s)
+            if not c:
+                continue
+            if in_a:
+                a_lines.append(c)
+            elif c.startswith('背景') or c.startswith('Given'):
+                tail = re.split(r'[：:]', c, maxsplit=1)
+                if len(tail) > 1 and tail[1].strip():
+                    content = '背景: ' + tail[1].strip()
+                    (q_zh if has_cjk(content) else q_en).append(content)
+            elif c.startswith('题目') or c.startswith('Question'):
+                tail = re.split(r'[：:]', c, maxsplit=1)
+                if len(tail) > 1 and tail[1].strip():
+                    content = tail[1].strip()
+                    (q_zh if has_cjk(content) else q_en).append(content)
+            elif c.startswith('ZH：') or c.startswith('ZH:'):
+                q_zh.append(c[3:].strip())
+            else:
+                (q_zh if has_cjk(c) else q_en).append(c)
+        cards.append({'id': f"{os.path.basename(path)}::{len(cards)}", 'type': 'qa',
+                      'q_en': '\n'.join(q_en), 'q_zh': '\n'.join(q_zh), 'a': '\n'.join(a_lines)})
+    return cards
+
 SDBM_DIR = "/mnt/d/obsidian/obsidian/M2/structure determination of biological macromolecule/exam"
 SDBM_MAIN = "/mnt/d/obsidian/obsidian/M2/structure determination of biological macromolecule"
 ISCB_DIR = "/mnt/d/obsidian/obsidian/M2/Integrated Structural Cell Biology"
@@ -193,7 +232,7 @@ if os.path.exists(mock):
 
 # ---- SDBM 填空 Quiz ----
 for f in sorted(glob.glob(os.path.join(SDBM_MAIN, "Quiz *.md")), key=natural_key):
-    if '(MCQ)' in f or '(Short Answer)' in f:
+    if '(MCQ)' in f or '(Short Answer)' in f or '(Exam)' in f:
         continue
     name = os.path.basename(f).replace('.md', '')
     decks.append({'id': 'sdbm', 'name': name, 'cards': parse_quiz(f)})
@@ -209,9 +248,15 @@ for f in sorted(glob.glob(os.path.join(SDBM_MAIN, "Quiz * (Short Answer).md")), 
     decks.append({'id': 'sdbm', 'name': name, 'cards': parse_sa(f)})
     print(f"SDBM {name}: {len(decks[-1]['cards'])}")
 
+# ---- SDBM 真题 quiz (Exam) ----
+for f in sorted(glob.glob(os.path.join(SDBM_MAIN, "Quiz * (Exam).md")), key=natural_key):
+    name = os.path.basename(f).replace(' (Exam).md', '') + ' [真题]'
+    decks.append({'id': 'sdbm', 'name': name, 'cards': parse_exam(f)})
+    print(f"SDBM {name}: {len(decks[-1]['cards'])}")
+
 # ---- ISCB 填空 Quiz ----
 for f in sorted(glob.glob(os.path.join(ISCB_DIR, "Quiz *.md")), key=natural_key):
-    if '(MCQ)' in f or '(Short Answer)' in f:
+    if '(MCQ)' in f or '(Short Answer)' in f or '(Exam)' in f:
         continue
     name = os.path.basename(f).replace('.md', '')
     decks.append({'id': 'iscb', 'name': name, 'cards': parse_quiz(f)})
@@ -225,6 +270,12 @@ for f in sorted(glob.glob(os.path.join(ISCB_DIR, "Quiz * (MCQ).md")), key=natura
 for f in sorted(glob.glob(os.path.join(ISCB_DIR, "Quiz * (Short Answer).md")), key=natural_key):
     name = os.path.basename(f).replace(' (Short Answer).md', '') + ' [简答]'
     decks.append({'id': 'iscb', 'name': name, 'cards': parse_sa(f)})
+    print(f"ISCB {name}: {len(decks[-1]['cards'])}")
+
+# ---- ISCB 真题 quiz (Exam) ----
+for f in sorted(glob.glob(os.path.join(ISCB_DIR, "Quiz * (Exam).md")), key=natural_key):
+    name = os.path.basename(f).replace(' (Exam).md', '') + ' [真题]'
+    decks.append({'id': 'iscb', 'name': name, 'cards': parse_exam(f)})
     print(f"ISCB {name}: {len(decks[-1]['cards'])}")
 
 # ---- ISCB Mock / ANNALE ----
