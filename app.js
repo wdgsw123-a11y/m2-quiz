@@ -7,11 +7,26 @@ let state = loadState();
 let current = [];
 let idx = 0;
 let mode = null;   // 'study' | 'review'
+let langMode = loadLang();   // 'bilingual' | 'english'
 
 /* ---------- 工具 ---------- */
 function $(id) { return document.getElementById(id); }
 function loadState() { try { return JSON.parse(localStorage.getItem(LS_KEY)) || {}; } catch (e) { return {}; } }
 function saveState() { try { localStorage.setItem(LS_KEY, JSON.stringify(state)); } catch (e) {} }
+function loadLang() { try { return localStorage.getItem('m2quiz_lang_v1') || 'bilingual'; } catch (e) { return 'bilingual'; } }
+function saveLang(m) { try { localStorage.setItem('m2quiz_lang_v1', m); } catch (e) {} }
+function isEnglish() { return langMode === 'english'; }
+function stripCJK(text) {
+  if (!text) return text;
+  return text.split('\n')
+    .map(l => l
+      .replace(/（[^）]*）/g, '')
+      .replace(/\([^)]*[\u4e00-\u9fff][^)]*\)/g, '')
+      .replace(/[，。；：、]/g, ch => ({'，': ',', '。': '.', '；': ';', '：': ':', '、': ','}[ch] || ch))
+      .trim())
+    .filter(l => l && !/[\u4e00-\u9fff]/.test(l))
+    .join('\n');
+}
 function esc(s) { return (s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
 function hint(isReview, text) { document.getElementById(isReview ? 'card-hint' : 'card-hint').textContent = text; }
 
@@ -60,9 +75,12 @@ function renderCard(card, isReview) {
   $(`btn-know${p}`).hidden = true;
   $(`btn-next${p}`).hidden = true;
 
+  const eng = isEnglish();
   $(`q${p}-en`).innerHTML = esc(card.q_en).replace(/\n/g, '<br>');
+  $(`q${p}-zh`).style.display = eng ? 'none' : '';
   $(`q${p}-zh`).innerHTML = card.q_zh ? esc(card.q_zh).replace(/\n/g, '<br>') : '';
-  $(`a${p}-text`).textContent = card.a || card.explain || '（无答案）';
+  const aText = eng ? stripCJK(card.a || card.explain) : (card.a || card.explain);
+  $(`a${p}-text`).textContent = aText || (eng ? '(no answer)' : '（无答案）');
 
   if (card.type === 'mcq') {
     $cardEl.classList.add('mcq');
@@ -70,15 +88,15 @@ function renderCard(card, isReview) {
     (card.options || []).forEach((opt, i) => {
       const b = document.createElement('button');
       b.className = 'opt';
-      b.textContent = `${labels[i]}) ${opt}`;
+      b.textContent = `${labels[i]}) ${eng ? stripCJK(opt) : opt}`;
       b.onclick = () => answerMcq(i, card, isReview);
       $(`options${p}`).appendChild(b);
     });
     $cardEl.onclick = null;
-    hint(isReview, '点击选项作答');
+    hint(isReview, eng ? 'Tap an option to answer' : '点击选项作答');
   } else {
     $cardEl.onclick = () => flip(isReview);
-    hint(isReview, '点击卡片翻答案');
+    hint(isReview, eng ? 'Tap the card to reveal answer' : '点击卡片翻答案');
   }
 }
 
@@ -233,6 +251,14 @@ $('btn-next2').onclick = () => nextReviewCard();
 $('btn-back').onclick = () => { refreshStats(); renderHome(); show('home'); };
 $('btn-back2').onclick = () => { refreshStats(); renderHome(); show('home'); };
 $('btn-wrong').onclick = () => startReview();
+$('btn-lang').onclick = () => {
+  langMode = isEnglish() ? 'bilingual' : 'english';
+  saveLang(langMode);
+  $('btn-lang').textContent = isEnglish() ? 'EN' : '中英';
+  if (mode === 'study') showCard();
+  else if (mode === 'review') showReviewCard();
+};
+$('btn-lang').textContent = isEnglish() ? 'EN' : '中英';
 
 attachSwipe($('card'), () => { if (mode === 'study' && $('card').classList.contains('flipped')) answer(false); },
                           () => { if (mode === 'study' && $('card').classList.contains('flipped')) answer(true); });
