@@ -112,21 +112,21 @@
     "id": "Exam 2016-12-12 (Solutions).md::## I.1::15",
     "type": "qa",
     "q_en": "I.1- Based on the information in Figure I.1.C, is the protein structured or not? Is this a requirement to study protein-ligand or protein-protein interaction? Justify your answers.",
-    "q_zh": "I.1- 根据图 I.1.C 的信息，该蛋白是否有折叠结构？这是研究蛋白-配体或蛋白-蛋白相互作用的必要条件吗？论证你的答案。",
+    "q_zh": "I.1- 根据图 I.1.C 的信息，该蛋白是否有折叠结构？这是研究蛋白-配体或蛋白-蛋白相互作用的必要条件吗？论证你的答案。\n![图 I.1.C（真题卷 p6）](attachments/exam-2016-p6.png)",
     "a": "答案 / Answer (2 pt)\n¹⁵N-HSQC 谱在 ¹H 维有良好的信号分散，尤其 7.5–8.5 ppm 之外有峰 → 蛋白基本折叠（可能含 β 折叠）。(1 pt)\n¹⁵N-HSQC 的 ¹H 维信号分散好、7.5–8.5 ppm 外有峰 → 蛋白基本折叠（或含 β 片）。（1 分）\n折叠不是研究配体/蛋白相互作用的硬性要求——只要能看到并追踪化学位移变化，原则上都能用化学位移作图；只是未折叠蛋白信号分散小，做起来更难。(1 pt)\n折叠不是必需——化学位移作图原则上折叠与否都行；未折叠蛋白信号拥挤，难度更大。（1 分）\nWHY：随机卷曲的 ¹H 化学位移挤在 7.5–8.5 ppm 窄区间；分散的酰胺质子峰（>8.5 或 <7.5 ppm）是二级结构（尤其 β 片）的标志。\nWHY：无规卷曲酰胺质子挤在 7.5–8.5 ppm；分散峰是折叠/β 片的标志。"
    },
    {
     "id": "Exam 2016-12-12 (Solutions).md::## I.2::16",
     "type": "qa",
     "q_en": "I.2- Based on the information in Figure I.1, propose an experimental approach for an NMR-based screening of the ten substances and subsequent characterization of a complex, considering that you have one or two 5 µM samples of unlabeled protein and one sample of 0.5 mM 15N-labeled protein. Describe in particular:\na. The samples that you will prepare from the available samples (specify approximate concentrations of the molecules that you will use in the prepared samples);\nb. The NMR experiments that you would perform in a chronological order (eventually specify important details for the data collection);\nc. The expected information that you will retrieve from each experiment and eventual limitations.",
-    "q_zh": "I.2- 根据图 I.1 的信息，提出一个基于 NMR 的十种物质筛选及后续复合物表征的实验方案（考虑你有 1-2 份 5 µM 未标记蛋白样和 1 份 0.5 mM 15N 标记蛋白样）。特别描述：\na. 你要从现有样品制备哪些样品（注明制备样品中分子的近似浓度）；\nb. 按时间顺序要做的 NMR 实验（可注明数据采集的重要细节）；\nc. 每个实验能获得的预期信息及可能的局限。",
+    "q_zh": "I.2- 根据图 I.1 的信息，提出一个基于 NMR 的十种物质筛选及后续复合物表征的实验方案（考虑你有 1-2 份 5 µM 未标记蛋白样和 1 份 0.5 mM 15N 标记蛋白样）。特别描述：\na. 你要从现有样品制备哪些样品（注明制备样品中分子的近似浓度）；\nb. 按时间顺序要做的 NMR 实验（可注明数据采集的重要细节）；\nc. 每个实验能获得的预期信息及可能的局限。\n![图 I.1（真题卷 p5）](attachments/exam-2016-p5.png)",
     "a": "答案 / Answer (10 pt)\nStep 1（3 pt）配体指纹：每种配体配 500 µL、1 mM 的 DMSO-d6 溶液（5 µL 的 100 mM 母液 + 495 µL DMSO-d6），采 1D ¹H 谱得到每个配体的化学位移\"指纹\"，并圈出无配体信号的区域供后续 STD 使用。\n先采每个配体的 1D ¹H 谱做指纹，并确定无配体共振的区域用于 STD。（3 分）\nStep 1bis：采 0.2 mM ¹⁵N 标记蛋白的 1D ¹H 谱（¹H 采集中对 ¹⁵N 去耦）。\n采 ¹⁵N 标记蛋白 1D 谱，¹H 通道对 ¹⁵N 去耦。\nStep 2（4 pt）STD 筛选：配 500 µL 含 10 种配体（各 5 mM）+ 未标记蛋白（2.5 µM）的混合样；on-resonance 选在蛋白信号处（如 ~0 ppm 甲基区、避开配体），off-resonance 选无任何信号处；差值（或相位循环直接取差）得 STD 谱。目的是找出真正结合的配体，STD 信号强度反映亲和力强弱。\nSTD 实验：10 配体混合 + 未标记蛋白，on/off 共振相减，找出结合配体并按信号强度排序亲和力。（4 分）\nStep 3（3 pt）HSQC 滴定定位：用 0.2 mM ¹⁵N 标记蛋白，逐次加入 0.1–100 当量最佳配体，每次采 ¹⁵N-HSQC，追踪化学位移变化（chemical shift mapping），沿序列画 Δδ 图并标到结构上定义结合面；若加几当量后达平台可测 Kd。\n¹⁵N-HSQC 滴定：追踪化学位移随配体浓度变化，映射结合界面，可求 Kd。（3 分）\nWHY：片段通常亲和力弱（μM–mM），STD 灵敏度高、适合快速\"捞\"结合片段；HSQC 滴定则精确定位结合残基。两步接力。\nWHY：片段亲和力弱，STD 灵敏适合初筛；HSQC 滴定精确定位界面，两步接力。"
    },
    {
     "id": "Exam 2016-12-12 (Solutions).md::## I.3::17",
     "type": "qa",
     "q_en": "I.3- Regarding the inhibitor considered in Figure I.1.C, characterize the exchange regime (fast, intermediate, slow) for the complex between the protein and this inhibitor for resonances 1 and 2. What can you a priori conclude qualitatively on the strength of the interaction between the inhibitor and the protein?",
-    "q_zh": "I.3- 关于图 I.1.C 中的抑制剂，判断蛋白-抑制剂复合物在共振 1 和 2 处的交换速率（快/中/慢）。关于抑制剂与蛋白相互作用的强度，你事先能定性得出什么结论？",
+    "q_zh": "I.3- 关于图 I.1.C 中的抑制剂，判断蛋白-抑制剂复合物在共振 1 和 2 处的交换速率（快/中/慢）。关于抑制剂与蛋白相互作用的强度，你事先能定性得出什么结论？\n![图 I.1.C（真题卷 p6）](attachments/exam-2016-p6.png)",
     "a": "答案 / Answer (3 pt)\n共振 1 = 快交换（fast），共振 2 = 中等交换（intermediate）；蛋白与抑制剂的亲和力弱到中等。\n共振 1 快交换，共振 2 中等交换；亲和力弱到中等。\nWHY：快交换时峰连续移动（一个峰随配体浓度平滑移位）；中等交换峰变宽甚至消失；慢交换则出现新旧两个峰。强度：快交换↔弱结合（Kd 大），慢交换↔强结合。\nWHY：快交换=单峰平滑移动（弱结合）；中交换=峰展宽/消失；慢交换=双峰（强结合）。\n--"
    },
    {
@@ -154,21 +154,21 @@
     "id": "Exam 2016-12-12 (Solutions).md::## II.4::21",
     "type": "qa",
     "q_en": "How do you interpret the results shown in Figure II.2?",
-    "q_zh": "你如何解释图 II.2 所示的结果？",
+    "q_zh": "你如何解释图 II.2 所示的结果？\n![图 II.2（真题卷 p7）](attachments/exam-2016-p7.png)",
     "a": "答案 / Answer (4 pt)\n峰随浓度连续移动 → 在无其它组分时说明形成了更高分子量的聚集体，即 VirB7 寡聚化。峰渐变说明系统处于快交换，故不是高亲和力复合物。把移动残基标到表面发现两个接触区：40–47（柔性 N 端区） 和 85–95（近 C 端），可提出头-尾二聚（head-to-tail dimer） 模型。\n峰随浓度渐变=快交换的寡聚化；两个接触区 40–47 与 85–95 → 头尾二聚模型。\nWHY：浓度依赖 + 快交换 = 弱、可逆的自组装；接触残基的空间分布决定二聚的拓扑（头尾 vs 头头）。\nWHY：浓度依赖快交换=弱可逆自组装；接触残基分布决定二聚拓扑。"
    },
    {
     "id": "Exam 2016-12-12 (Solutions).md::## II.5::22",
     "type": "qa",
     "q_en": "During the structure calculation with automatic NOE assignment using the program UNIO'10, a number of clearly visible NOE peaks could not be assigned in spite of the iterative NOE assignment/structure calculation process. Taking into account the results presented in Figure II.2, can you make an assumption about the origin of these NOE peaks? What information can be derived and what can it be used for?",
-    "q_zh": "在用 UNIO'10 程序进行自动 NOE 归属的结构计算过程中，尽管经过了迭代的 NOE 归属/结构计算，仍有一些清晰可见的 NOE 峰无法被归属。结合图 II.2 所示的结果，你能对这些 NOE 峰的来源作出假设吗？可以从中推导出什么信息，这些信息能用于什么？",
+    "q_zh": "在用 UNIO'10 程序进行自动 NOE 归属的结构计算过程中，尽管经过了迭代的 NOE 归属/结构计算，仍有一些清晰可见的 NOE 峰无法被归属。结合图 II.2 所示的结果，你能对这些 NOE 峰的来源作出假设吗？可以从中推导出什么信息，这些信息能用于什么？\n![图 II.2（真题卷 p7）](attachments/exam-2016-p7.png)",
     "a": "答案 / Answer (3 pt)\nUNIO'10 迭代指认时假设蛋白是单体，所以分子间接触产生的 NOE 峰因不符合单体距离而无法指认。这些峰实际来自二聚体的分子间 NOE，含宝贵信息——可由其指认与峰体积导出分子间距离约束用于二聚体结构计算。\n程序按单体算，分子间 NOE 与单体距离矛盾无法指认；它们实为二聚体界面信息，可导分子间距离约束。\nWHY：软件假设错（单体）→ 界面 NOE 成\"孤儿峰\"；但孤儿峰恰好标记了二聚界面。\nWHY：单体假设导致界面 NOE 无法归属，但正是这些峰标记了二聚界面。"
    },
    {
     "id": "Exam 2016-12-12 (Solutions).md::## II.6::23",
     "type": "qa",
     "q_en": "Analyze Figure II.3. What can you conclude on the structural and dynamical characteristics of VirB7 and VirB9 before and after complex formation? You may also consult Figure II.1 in order to help you interpreting the results shown in Figure II.3.F.",
-    "q_zh": "分析图 II.3。关于 VirB7 和 VirB9 在复合物形成前后的结构和动力学特征，你能得出什么结论？你也可以参考图 II.1 来帮助你解释图 II.3.F 所示的结果。",
+    "q_zh": "分析图 II.3。关于 VirB7 和 VirB9 在复合物形成前后的结构和动力学特征，你能得出什么结论？你也可以参考图 II.1 来帮助你解释图 II.3.F 所示的结果。\n![图 II.3（真题卷 p9）](attachments/exam-2016-p9.png)\n![图 II.1（真题卷 p7）](attachments/exam-2016-p7.png)\n![图 II.3.F（真题卷 p9）](attachments/exam-2016-p9.png)",
     "a": "答案 / Answer (7 pt)\nVirB7：图 II.3.A/B 显示与 VirB9 有相互作用，C 图显示是 VirB7 的 N 端与 VirB9 作用（化学位移作图定位界面）；化学位移变化大 → N 端发生显著构象变化。图 II.3.F 显示前 40 个残基高度柔性（异核 NOE ≤ 0），40–50 残基中等构象交换、信号弱；结合 VirB9 后 30–40 残基变有序（异核 NOE 趋近 1），与化学位移大变化一致；蛋白其余部分不受影响。\nVirB7 的 N 端与 VirB9 作用并发生大的构象变化；结合后 30–40 残基由柔性变有序（NOE 趋 1），其余部分不变。（VirB7 部分）\nVirB9CT：单独时 ¹H,¹⁵N-HSQC 线宽/强度极不均匀、还有峰缺失 → 部分折叠；加入 VirB7NT（24–49）后谱变得分散好、线宽均匀 → 典型折叠良好谱，即 VirB9CT 在与 VirB7 N 端作用后诱导折叠。\nVirB9CT 单独部分折叠，加 VirB7NT 后诱导折叠成良好结构。（VirB9 部分）\n总结：复合物中两个蛋白都变得结构良好 → 复合物结构可解；相互作用稳定了双方。\n复合物中两蛋白都被稳定、结构良好，可解复合物结构。\nWHY：异核 NOE 和谱分散度是\"折叠 ↔ 无序\"的判据；诱导折叠（folding upon binding）是固有无序蛋白的经典行为。\nWHY：用 NOE 与谱分散判断折叠状态；\"结合诱导折叠\"是 IDP 的典型现象。"
    }
   ]
@@ -244,14 +244,14 @@
     "id": "Exam 2017-12-20 (Solutions).md::## I.11::9",
     "type": "qa",
     "q_en": "Indicate the different energies where you will carry out a MAD experiment directly on Figure 1, which shows the X-ray fluorescence of selenium in function of the energy of the incoming X-ray photons.",
-    "q_zh": "图 1 显示的是硒的 X 射线荧光随入射 X 射线光子能量的变化。请直接在图上标出你将进行 MAD 实验的不同能量位置。",
+    "q_zh": "图 1 显示的是硒的 X 射线荧光随入射 X 射线光子能量的变化。请直接在图上标出你将进行 MAD 实验的不同能量位置。\n![图 1（真题卷 p11）](attachments/exam-2017-p11.png)",
     "a": "答案 / Answer\nMAD 四个能量：低远端（low remote）、拐点（inflection point）、峰（peak）、高远端（high remote），分别标在硒吸收边 K 边的谱线上（峰在最大吸收处、拐点在上升沿最陡处）。\n标 low remote、inflection、peak、high remote 四个能量于 Se K 边。\nWHY：MAD 用同一晶体在吸收边附近多处测数据，利用反常散射 f'、f'' 随能量的变化解相位。\nWHY：MAD 在吸收边附近多点采数据，靠 f'、f'' 变化解相位。"
    },
    {
     "id": "Exam 2017-12-20 (Solutions).md::## I.12::10",
     "type": "qa",
     "q_en": "Now look at the result of the self-rotation function of the C2 crystal form (Figure 1). Do you see the crystallographic symmetry and if yes, where? Is there any non-crystallographic symmetry present inside the asymmetric unit? Describe the orientation of the symmetry axis in a polar coordinate system with theta = psi, phi and kappa = chi angles where chi describes the rotation around the axis described by phi and psi.",
-    "q_zh": "现在看 C2 晶型的自转函数结果（图 1）。你能看到晶体学对称性吗？如果能，在哪里？不对称单元内部是否存在非晶体学对称性？请用极坐标系（θ = ψ、φ 以及 κ = χ 角，其中 χ 描述绕由 φ 和 ψ 所确定轴线的旋转）描述对称轴的取向。",
+    "q_zh": "现在看 C2 晶型的自转函数结果（图 1）。你能看到晶体学对称性吗？如果能，在哪里？不对称单元内部是否存在非晶体学对称性？请用极坐标系（θ = ψ、φ 以及 κ = χ 角，其中 χ 描述绕由 φ 和 ψ 所确定轴线的旋转）描述对称轴的取向。\n![图 1（真题卷 p11）](attachments/exam-2017-p11.png)",
     "a": "答案 / Answer\n晶体学对称：χ = 180° 截面、沿 b（即 ψ=θ=90°）出现 2 重峰——对应 C2 的 2 重轴。非晶体学对称（NCS）：若 ASU 内有 2 份拷贝，会看到与晶轴不重合的额外 2 重峰（一般位置，χ=180°），其取向用 (θ=ψ, φ, κ=χ) 极坐标从图读值。\n晶体学 2 重峰在 χ=180°、沿 b；NCS 若 ASU 有 2 拷贝，则有与晶轴不重合的额外 2 重峰。\nWHY：与晶轴重合的峰 = 晶体学对称；不与任何晶轴重合的峰 = 分子本征（非晶体学）对称。\nWHY：重合晶轴的峰是晶体学对称，偏离晶轴的是 NCS。"
    },
    {
@@ -265,21 +265,21 @@
     "id": "Exam 2017-12-20 (Solutions).md::## I.14::12",
     "type": "qa",
     "q_en": "The structure present in the pdb entry and the structure obtained from the molecular replacement are compared in Figure 3. Why are the molecules at different positions?",
-    "q_zh": "图 3 比较了 pdb 条目中的结构和分子置换得到的结构。为什么这些分子处于不同的位置？",
+    "q_zh": "图 3 比较了 pdb 条目中的结构和分子置换得到的结构。为什么这些分子处于不同的位置？\n![图 3（真题卷 p13）](attachments/exam-2017-p13.png)",
     "a": "答案 / Answer\n分子置换解与沉积的 PDB 结构相比，分子取向/位置不同，是因为原点的选择不同（不同晶型或同一晶型的不同原点设置），实际结构本质相同（绿环=PDB 2ztt，蓝环=MR 解）。\nMR 解与 PDB 结构原点选择不同（或不同晶型），结构本质相同。\nWHY：MR 只求相对位置，原点可任意选择；不同原点导致坐标整体平移。\nWHY：MR 原点可任意选，坐标整体平移不影响结构。"
    },
    {
     "id": "Exam 2017-12-20 (Solutions).md::## I.15::13",
     "type": "qa",
     "q_en": "I.15- A part of the refined structure and the corresponding electron density is shown in Figure 4. What does it tell you about residues 8 and 690?",
-    "q_zh": "I.15- 图 4 显示了精修结构的一部分及相应的电子密度。关于残基 8 和 690，它说明了什么？",
+    "q_zh": "I.15- 图 4 显示了精修结构的一部分及相应的电子密度。关于残基 8 和 690，它说明了什么？\n![图 4（真题卷 p12）](attachments/exam-2017-p12.png)",
     "a": "答案 / Answer\n看 2mFo−DFc 密度：若两残基密度清晰、可完整建模 → 有序、定义良好；若密度缺失/断裂 → 无序（柔性/末端）。具体结论按卷面密度图判断。\n密度清晰=有序；密度缺失=无序，按图判断。\nWHY：电子密度直接反映原子的有序度，密度好坏是判断残基是否可见的依据。\nWHY：密度反映有序度，决定残基能否建模。"
    },
    {
     "id": "Exam 2017-12-20 (Solutions).md::## I.16::14",
     "type": "qa",
     "q_en": "What can you say about the loop shown in Figure 5?",
-    "q_zh": "关于图 5 所示的 loop，你能说明什么？",
+    "q_zh": "关于图 5 所示的 loop，你能说明什么？\n![图 5（真题卷 p14）](attachments/exam-2017-p14.png)",
     "a": "答案 / Answer\nloop 通常密度差、B 因子高 → 柔性/构象不稳定（相比规则二级结构更无序）。\nloop 密度差、B 因子高 → 柔性/无序。\nWHY：loop 是蛋白中运动性最强的区域，晶体学里常缺失密度。\nWHY：loop 运动性强，常密度缺失。"
    },
    {
@@ -342,7 +342,7 @@
     "id": "Exam 2017-12-20 (Solutions).md::## I.1.e::23",
     "type": "qa",
     "q_en": "Does any of the three peptides shown in Figure I.1 interact with TTR? Give a brief justification for your answer.",
-    "q_zh": "图 I.1 所示三种肽中是否有任何一种与 TTR 相互作用？请简要说明理由。",
+    "q_zh": "图 I.1 所示三种肽中是否有任何一种与 TTR 相互作用？请简要说明理由。\n![图 I.1（真题卷 p21）](attachments/exam-2017-p21.png)",
     "a": "答案 / Answer (2 pt)\n只有肽 (3) Aβ(12-28) 在 STD 谱有信号 → 它结合 TTR；肽 (1)、(2) 无 STD 信号 → 不结合。说明 C 端最后 8 个氨基酸对结合重要。\n仅 Aβ(12-28) 结合 TTR，说明 C 端末 8 残基关键。\nWHY：有 STD 信号 = 有结合；三种肽覆盖不同区段，反推出结合决定区。\nWHY：有 STD 信号即结合；比对三段序列定位关键区。"
    },
    {
@@ -370,7 +370,7 @@
     "id": "Exam 2017-12-20 (Solutions).md::## II.1::27",
     "type": "qa",
     "q_en": "Figure II.1 below indicates the different steps of a typical protocol for the determination of the three-dimensional structure of protein-protein complexes from NMR data.\nII.1 – Structure determination of individual subunits. Briefly describe how to proceed to determine the structure of a small protein (≈ 120 residues) once the complete backbone and side-chain assignment has been obtained. Indicate at least two NMR parameters that need to be measured and the nature of the structural information that they provide.",
-    "q_zh": "下面的图 II.1 展示了从 NMR 数据测定蛋白-蛋白复合物三维结构的典型流程的不同步骤。\nII.1 – 单个亚基的结构测定。在获得完整的骨架和侧链归属后，请简要描述如何着手测定一个小蛋白（约 120 个残基）的结构。请指出至少两个需要测量的 NMR 参数，以及它们所提供的结构信息的性质。",
+    "q_zh": "下面的图 II.1 展示了从 NMR 数据测定蛋白-蛋白复合物三维结构的典型流程的不同步骤。\nII.1 – 单个亚基的结构测定。在获得完整的骨架和侧链归属后，请简要描述如何着手测定一个小蛋白（约 120 个残基）的结构。请指出至少两个需要测量的 NMR 参数，以及它们所提供的结构信息的性质。\n![图 II.1（真题卷 p23）](attachments/exam-2017-p23.png)",
     "a": "答案 / Answer (4 pt)\n① 用 HN、N、Cα、Cβ、CO 的化学位移算 CSI 或 TALOS+，得 φ/ψ 与二级结构（经 Ramachandran 图）。② 采 3D NOESY（脂肪 C-NOESY、芳香 C-NOESY、N-NOESY），用 UNIO 自动指认交叉峰并量体积 → 标定后得核间距离。③ 把这些约束输入 UNIO / X-PLOR NIH / CNS 计算结构。\n化学位移（CSI/TALOS+）得 φ/ψ；3D NOESY 得距离；两者输入程序算结构。\n补充参数：³J_HN-Hα 标量耦合 + Karplus 公式得二面角；RDC 得键矢量相对取向；PRE 得长程距离。\n补充：³J+Karplus 得角；RDC 得取向；PRE 得长程距离。\nWHY：结构计算需要\"角度 + 距离 + 取向\"三类约束，来自不同 NMR 参数。\nWHY：角度+距离+取向三类约束缺一不可。"
    },
    {
@@ -419,7 +419,7 @@
     "id": "Exam 2017-12-20 (Solutions).md::## III.2.a::34",
     "type": "qa",
     "q_en": "III.2 – Detailed parameters determined from 15N relaxation measurements are reported in Figure III.1 below.\nIII.2.a – What can you say about the relative internal dynamics of W60G β2-microglobulin?",
-    "q_zh": "III.2 – 从 15N 弛豫测量确定的详细参数见下图 III.1。\nIII.2.a – 关于 W60G β2-微球蛋白的相对内部动力学，你能说明什么？",
+    "q_zh": "III.2 – 从 15N 弛豫测量确定的详细参数见下图 III.1。\nIII.2.a – 关于 W60G β2-微球蛋白的相对内部动力学，你能说明什么？\n![图 III.1（真题卷 p25）](attachments/exam-2017-p25.png)",
     "a": "答案 / Answer (2 pt)\n除 N 端、C 端 NOE 值较低（柔性）外，W60G β2-微球蛋白整体呈球状、致密、刚性行为；约 15、55、60 号残基附近缺数据，可能是谱峰重叠或与溶剂化学交换所致。\nW60G 整体球状刚性，仅 N/C 端柔性；15/55/60 附近缺数据（重叠或交换）。\nWHY：刚性区 NOE 高且均匀；末端 NOE 低是末端自由摆动。\nWHY：刚性区 NOE 高而匀，末端低。"
    },
    {
@@ -516,7 +516,7 @@
     "id": "Exam 2018-12-19 (Solutions).md::## I.1::10",
     "type": "qa",
     "q_en": "Question I.1 (3 points). Based on the NMR structures shown in Figure 1 and the structural statistics given in Table 1, how would you evaluate the quality of the NMR structure?",
-    "q_zh": "问题 I.1（3 分）。根据图 1 所示的 NMR 结构和表 1 给出的结构统计，你会如何评价该 NMR 结构的质量？",
+    "q_zh": "问题 I.1（3 分）。根据图 1 所示的 NMR 结构和表 1 给出的结构统计，你会如何评价该 NMR 结构的质量？\n![图 1（真题卷 p9）](attachments/exam-2018-p9.png)",
     "a": "答案 / Answer (3 pt)\n图 1 中 14 个结构与最低能量结构在 CAT 亚域（251-380）与 CWT 的 SH3 样亚域（402-490）叠加良好 → 这两个结构域质量好。表 1 佐证：RMSD < 1 Å、Ramachandran 不利区角度少（0–0.1%）。原因是归属完整度高（>90%） + 长程距离约束多（CAT 42.8%、CWT 46.8%）。\n14 结构叠加好、RMSD<1 Å、不利角少 → 两结构域质量好。\n整体蛋白：CAT 与 CWT 的相对取向不固定，因为两域间约束极少（全长仅 30/4/0 个短/中/长程约束，linker 无 TALOS 约束）→ 本征域间柔性。\n两域相对取向不固定，域间约束少 → 域间柔性。\nWHY：NMR 结构质量看叠加（RMSD）、立体化学（Ramachandran）、约束数量与归属完整度。\nWHY：质量 = 叠加好 + 立体化学合理 + 约束充足。"
    },
    {
@@ -530,7 +530,7 @@
     "id": "Exam 2018-12-19 (Solutions).md::## I.3::12",
     "type": "qa",
     "q_en": "Question I.3 (2 points). Comment on the overlay of the HSQC spectra shown in Figure I.4. What is the information obtained?",
-    "q_zh": "问题 I.3（2 分）。评论图 I.4 所示的 HSQC 谱叠加。所获得的信息是什么？",
+    "q_zh": "问题 I.3（2 分）。评论图 I.4 所示的 HSQC 谱叠加。所获得的信息是什么？\n![图 I.4（真题卷 p12）](attachments/exam-2018-p12.png)",
     "a": "答案 / Answer (2 pt)\n全长中 CWT 域只有 403、411、414 三个残基受 CAT 共价连接影响，且化学位移变化极弱 → CWT 域结构在全长蛋白中保持不变；受影响残基太少，不足以定义两域相互作用面。\n仅 3 残基极弱位移 → CWT 结构不变，无稳定界面。\nWHY：若两域有稳定相互作用，界面应有成片显著位移；只有零星弱位移说明无接触。\nWHY：有界面应成片位移；零星弱位移=无接触。"
    },
    {
@@ -544,35 +544,35 @@
     "id": "Exam 2018-12-19 (Solutions).md::## I.5::14",
     "type": "qa",
     "q_en": "Question I.5 (1 point). From the previously analyzed datasets from Figures I.3 to I.5, what can one conclude on a possible domain-domain interaction in Lysostaphin?",
-    "q_zh": "问题 I.5（1 分）。根据先前分析的图 I.3 至 I.5 的数据集，关于 Lysostaphin 中可能存在的结构域-结构域相互作用，可以得出什么结论？",
+    "q_zh": "问题 I.5（1 分）。根据先前分析的图 I.3 至 I.5 的数据集，关于 Lysostaphin 中可能存在的结构域-结构域相互作用，可以得出什么结论？\n![图 I.3（真题卷 p11）](attachments/exam-2018-p11.png)",
     "a": "答案 / Answer (1 pt)\n弛豫数据 + HSQC 位移 + 顺磁效应一致表明：CAT 与 CWT 两域间没有唯一、稳定的相对构型，即两域无相互作用——与质谱（H/DX）得出的\"两域相互作用\"结论相反。\nNMR 数据一致表明两域无稳定相互作用，与质谱结论相反。\nWHY：NMR 看的是溶液中的真实接触，多参数交叉验证比单一 H/DX 更可靠。\nWHY：NMR 溶液态多参数交叉验证，比单一 H/DX 更可信。\n--"
    },
    {
     "id": "Exam 2018-12-19 (Solutions).md::## II.1::15",
     "type": "qa",
     "q_en": "Question II.1 (2 points). What do the two schematic spectra shown at the bottom of Figure II.1.a correspond to?",
-    "q_zh": "问题 II.1（2 分）。图 II.1.a 底部所示的两个示意谱对应什么？",
+    "q_zh": "问题 II.1（2 分）。图 II.1.a 底部所示的两个示意谱对应什么？\n![图 II.1.a（真题卷 p13）](attachments/exam-2018-p13.png)",
     "a": "答案 / Answer (2 pt)\n上谱 = 参照谱（reference）：在远离蛋白与聚糖任何质子共振处饱和，得到的是含少量蛋白时配体的谱。下谱 = 差谱（difference）：on-resonance（饱和蛋白甲基）谱减去参照谱。\n上=参照谱（远端饱和）；下=差谱（on−off）。\nWHY：STD 谱的本质就是 on-resonance 与 off-resonance 的差值。\nWHY：STD 差谱 = on − off。"
    },
    {
     "id": "Exam 2018-12-19 (Solutions).md::## II.2::16",
     "type": "qa",
     "q_en": "Question II.2 (3 points). Comment on the linewidths observed in the different spectra (spectrum of the protein and spectrum of the 970 Da tetrasaccharide) in Figure II.1.b. Can you explain why the N-glycosation yields these relatively sharp signals in the protein's spectrum?",
-    "q_zh": "问题 II.2（3 分）。评论图 II.1.b 中不同谱（蛋白的谱和 970 Da 四糖的谱）所观察到的线宽。你能解释为什么 N-糖基化会在蛋白谱中产生这些相对尖锐的信号吗？",
+    "q_zh": "问题 II.2（3 分）。评论图 II.1.b 中不同谱（蛋白的谱和 970 Da 四糖的谱）所观察到的线宽。你能解释为什么 N-糖基化会在蛋白谱中产生这些相对尖锐的信号吗？\n![图 II.1.b（真题卷 p13）](attachments/exam-2018-p13.png)",
     "a": "答案 / Answer (3 pt)\n四糖 <1 kDa，翻滚快 → 相关时间短 → T1、T2 长 → 线宽窄；蛋白分子量大 → T1、T2 短（R1、R2 快）→ 线宽宽，与观察一致。N-糖基化信号尖锐是因为糖位于蛋白表面、糖环自由快速旋转。\n小分子线宽窄、大蛋白线宽宽；表面糖环自由旋转故尖锐。\nWHY：线宽 ∝ R2 ∝ τc（分子大小）；表面糖基有内部快速运动不受大分子慢翻滚拖累。\nWHY：线宽∝τc；表面糖基内部快运动不受整体慢翻滚影响。"
    },
    {
     "id": "Exam 2018-12-19 (Solutions).md::## II.3::17",
     "type": "qa",
     "q_en": "Question II.3 (2 points). Based on the protein and ligand spectra shown in Figure II.1.b, suggest two saturation frequencies that you would use for the acquisition of the STD-reference and the STD-saturation spectra.",
-    "q_zh": "问题 II.3（2 分）。根据图 II.1.b 所示的蛋白和配体谱，请建议两个饱和频率，用于采集 STD-参照谱和 STD-饱和谱。",
+    "q_zh": "问题 II.3（2 分）。根据图 II.1.b 所示的蛋白和配体谱，请建议两个饱和频率，用于采集 STD-参照谱和 STD-饱和谱。\n![图 II.1.b（真题卷 p13）](attachments/exam-2018-p13.png)",
     "a": "答案 / Answer (2 pt)\n饱和谱（饱和蛋白、不饱和配体）：蛋白酰胺质子 ~7 ppm 或甲基 ~1 ppm。参照谱：20 ppm 或 −10 ppm（远离蛋白共振，保证安全）。\n饱和谱选 7 ppm（酰胺）或 1 ppm（甲基）；参照选 20 或 −10 ppm。\nWHY：饱和谱要打在蛋白专属区（避开配体），参照谱要打在完全空白处。\nWHY：饱和谱打蛋白专属区，参照谱打空白区。"
    },
    {
     "id": "Exam 2018-12-19 (Solutions).md::## II.4::18",
     "type": "qa",
     "q_en": "Question II.4 (2 points). Based on the STD spectra shown in Figure II.2, what can you conclude on the glycan specificity of the two proteins SV40 and BKPyV with respect to the GD3 and GM1 glycans?",
-    "q_zh": "问题 II.4（2 分）。根据图 II.2 所示的 STD 谱，关于 SV40 和 BKPyV 两种蛋白对 GD3 和 GM1 聚糖的特异性，你能得出什么结论？",
+    "q_zh": "问题 II.4（2 分）。根据图 II.2 所示的 STD 谱，关于 SV40 和 BKPyV 两种蛋白对 GD3 和 GM1 聚糖的特异性，你能得出什么结论？\n![图 II.2（真题卷 p14）](attachments/exam-2018-p14.png)",
     "a": "答案 / Answer (2 pt)\n差谱有信号 = 该聚糖与蛋白结合。BKPyV 结合 GD3、几乎不结合 GM1；SV40 结合 GM1。即 BKPyV 特异 GD3，SV40 特异 GM1。\nBKPyV 特异 GD3，SV40 特异 GM1。\nWHY：STD 差谱信号的有无直接指示结合与否。\nWHY：差谱有无信号=是否结合。"
    },
    {
@@ -641,7 +641,7 @@
     "id": "Exam 2019-12-16 (Solutions).md::## I.1.1::7",
     "type": "qa",
     "q_en": "Compare the TROSY spectra shown in Figure I.1.1 in the absence and in the presence of Gd³⁺. Answer in particular the following questions: a- What is the result of the addition of Gd³⁺? b- What is the origin of the observed effect? c- Which type of information is obtained from the I*/I₀ ratio?",
-    "q_zh": "比较图 I.1.1 中无 Gd³⁺ 和有 Gd³⁺ 时的 TROSY 谱。特别回答以下问题：a- 加入 Gd³⁺ 的结果是什么？b- 所观测效应的来源是什么？c- 从 I*/I₀ 比值可获得哪类信息？",
+    "q_zh": "比较图 I.1.1 中无 Gd³⁺ 和有 Gd³⁺ 时的 TROSY 谱。特别回答以下问题：a- 加入 Gd³⁺ 的结果是什么？b- 所观测效应的来源是什么？c- 从 I*/I₀ 比值可获得哪类信息？\n![图 I.1.1（真题卷 p11）](attachments/exam-2019-p11.png)",
     "a": "答案 / Answer (3 pt)\na. 加 Gd³⁺ 后，特定位置的峰强度下降（主要是叠加谱中的红色峰）。(1 pt)\n加 Gd³⁺ 后特定峰强度下降。（1 分）\nb. 原因是 Gd³⁺ 的顺磁性（PRE 效应）——金属离子上自由电子使 T2（及 T1）弛豫增强，靠近 Gd³⁺ 的残基峰展宽、强度下降。(1 pt)\nGd³⁺ 顺磁（PRE），近处残基峰展宽下降。（1 分）\nc. I\\*/I₀ 比值 ∝ 1/r³（r = Gd³⁺ 与酰胺基团的距离）→ 给出距离信息，距离越近比值越低，从而绘制膜在 K-RAS4B 上的作用位点图。(1 pt)\nI*/I0∝1/r³，得距离信息，映射膜作用位点。（1 分）\nWHY：PRE 效应距离依赖，用强度比值反推\"谁靠近膜表面\"。\nWHY：PRE 距离依赖，比值反推膜接触位点。"
    },
    {
@@ -655,7 +655,7 @@
     "id": "Exam 2019-12-16 (Solutions).md::## I.1.3::9",
     "type": "qa",
     "q_en": "What can you conclude on the relative orientation of K-RAS4B at the bilayer surface from the result of the HADDOCK calculation shown in Figure I.1.2? Is this result in accordance with what you would expect inspecting the distribution of I*/I₀ shown in Fig. I.1.1.C?",
-    "q_zh": "从图 I.1.2 所示 HADDOCK 计算结果，你能对 K-RAS4B 在双分子层表面的相对取向得出什么结论？这一结果与你检视图 I.1.1.C 中 I*/I₀ 分布所预期的一致吗？",
+    "q_zh": "从图 I.1.2 所示 HADDOCK 计算结果，你能对 K-RAS4B 在双分子层表面的相对取向得出什么结论？这一结果与你检视图 I.1.1.C 中 I*/I₀ 分布所预期的一致吗？\n![图 I.1.2（真题卷 p11）](attachments/exam-2019-p11.png)\n![图 I.1.1.C（真题卷 p4）](attachments/exam-2019-p4.png)",
     "a": "答案 / Answer (3 pt)\nK-RAS4B 以多种取向与膜表面作用：(1 pt) 要么用螺旋（α3-α4-α5）界面，要么用β 片界面。(1 pt) 第一种构象暴露伴侣结合区（可结合），第二种保护伴侣结合区（阻止结合）。低 I\\*/I₀ 的残基来自 N 端、β2-β3、α3-β5、α4-β6、HVR C 端——这些区域不能同时靠近膜，与 I\\*/I₀ 分布一致。(1 pt)\n多取向：螺旋界面或 β 界面；两种构象交替，与 I*/I0 分布一致。\nWHY：不同构象暴露/遮蔽不同界面，解释了为何多个区域都有低比值但不可同时近膜。\nWHY：构象切换解释多个接触区的共存。"
    },
    {
@@ -669,21 +669,21 @@
     "id": "Exam 2019-12-16 (Solutions).md::## I.2.1::11",
     "type": "qa",
     "q_en": "Looking at the 1D spectra presented in Figure I.2.1, do you think that the interaction between Cmpd2 and the nanodiscs could be studied by STD-NMR? What are the conditions for a successful STD experiment and which ones are fulfilled in view of the spectral data presented in Figure I.2.1? If possible, propose a frequency (approximately, in ppm) for the on- and off-resonance saturation experiments.",
-    "q_zh": "观察图 I.2.1 所示的一维谱，你认为 Cmpd2 与 nanodisc 之间的相互作用能否用 STD-NMR 研究？成功的 STD 实验需要哪些条件？根据图 I.2.1 的谱数据，哪些条件得到满足？如有可能，为 on-resonance 与 off-resonance 饱和实验提出一个（近似的，以 ppm 计）频率。",
+    "q_zh": "观察图 I.2.1 所示的一维谱，你认为 Cmpd2 与 nanodisc 之间的相互作用能否用 STD-NMR 研究？成功的 STD 实验需要哪些条件？根据图 I.2.1 的谱数据，哪些条件得到满足？如有可能，为 on-resonance 与 off-resonance 饱和实验提出一个（近似的，以 ppm 计）频率。\n![图 I.2.1（真题卷 p13）](attachments/exam-2019-p13.png)",
     "a": "答案 / Answer (5 pt)\nSTD 成功的三个条件：① 小分子与 nanodisc 弱亲和力（快交换）；② 配体与蛋白/脂的共振互不重叠；③ 配体与蛋白+nanodisc 尺寸差异大（饱和转移效率差异）。(各 1 pt) 条件 ① 未知，但 ②（nanodisc 在 0.8 ppm 有专属共振）和 ③（蛋白+nanodisc 远大于 Cmpd2）满足。(1 pt)\n三条件：弱亲和、谱不重叠、尺寸差异大；②③满足、①未知。\n频率：on-resonance 选脂的 5.3 ppm（AP）或 0.8 ppm（MP）；off-resonance 选 −10 ppm（确保不饱和脂/蛋白）。配体需大量过量。\non-resonance 5.3/0.8 ppm，off-resonance −10 ppm。\nWHY：STD 必须饱和\"大分子\"而让\"小配体\"把饱和带走；选脂的专属峰作饱和点。\nWHY：饱和大分子、配体带出饱和。"
    },
    {
     "id": "Exam 2019-12-16 (Solutions).md::## I.2.2::12",
     "type": "qa",
     "q_en": "Which conclusion can you draw from the comparison of the 1D spectra of Cmpd2 shown in Figure I.2.2? Briefly describe (one sentence per spectrum) how you interpret the spectra of Cmpd2 in presence of K-RAS4B, ND (nanodiscs), and ND-KRAS4B (nanodiscs with bound protein). What is the aim of having acquired the spectrum of ND-KRAS4B shown on the bottom?",
-    "q_zh": "从图 I.2.2 所示 Cmpd2 一维谱的比较中，你能得出什么结论？简要描述（每个谱一句话）你如何解读 Cmpd2 在 K-RAS4B、ND（nanodisc）和 ND-KRAS4B（结合了蛋白的 nanodisc）存在下的一维谱。采集底部所示 ND-KRAS4B 谱的目的是什么？",
+    "q_zh": "从图 I.2.2 所示 Cmpd2 一维谱的比较中，你能得出什么结论？简要描述（每个谱一句话）你如何解读 Cmpd2 在 K-RAS4B、ND（nanodisc）和 ND-KRAS4B（结合了蛋白的 nanodisc）存在下的一维谱。采集底部所示 ND-KRAS4B 谱的目的是什么？\n![图 I.2.2（真题卷 p13）](attachments/exam-2019-p13.png)",
     "a": "答案 / Answer (4 pt)\nCmpd2 + K-RAS4B：谱略展宽、H6 质子化学位移变化 → 蛋白本身与 Cmpd2 作用。(1 pt) Cmpd2 + ND：峰很宽且移位 → 与 nanodisc 强作用。(1 pt) Cmpd2 + ND-KRAS4B：同样强作用。(1 pt) 底部 ND-KRAS4B 单独谱是对照，用于区分 nanodisc/蛋白自身峰与复合物峰。(1 pt)\n蛋白弱作用、nanodisc 强作用、对照谱辨峰。\nWHY：展宽+位移是结合的标志，展宽越强→结合越强。\nWHY：展宽+位移判结合强弱。"
    },
    {
     "id": "Exam 2019-12-16 (Solutions).md::## I.2.3::13",
     "type": "qa",
     "q_en": "Analyze the aliphatic region of the 1D spectra shown in Fig. I.2.3, showing the resonances provided by the phospholipids. Do Cmpd2 and the two fragments it contains bind close to the phospholipid zwitterionic head group? Is the binding influenced (enhanced or diminished) in the presence of K-RAS4B?",
-    "q_zh": "分析图 I.2.3 所示一维谱的脂肪区，这些谱显示磷脂提供的共振。Cmpd2 及其所含的两个片段是否结合在磷脂两性离子头基附近？在 K-RAS4B 存在下，该结合是否受到影响（增强或减弱）？",
+    "q_zh": "分析图 I.2.3 所示一维谱的脂肪区，这些谱显示磷脂提供的共振。Cmpd2 及其所含的两个片段是否结合在磷脂两性离子头基附近？在 K-RAS4B 存在下，该结合是否受到影响（增强或减弱）？\n![图 I.2.3（真题卷 p13）](attachments/exam-2019-p13.png)",
     "a": "答案 / Answer (2 pt)\nRing2（绿）不与 TMP 头基作用（无化学位移扰动）；Frag2（蓝）与 Cmpd2（橙）与 TMP 头基作用（有扰动）。(1 pt) Cmpd2 的 CSP 更大 → 结合更强。K-RAS4B 存在时结合略微增强（CSP 略增），但效果很小（<10%）。(1 pt)\nRing2 不结合，Frag2/Cmpd2 结合 TMP 头基；有蛋白时略增强。\nWHY：TMP 峰（3.22 ppm，胆碱头基）的位移直接反映\"谁靠近头基\"。\nWHY：TMP 峰位移=头基接触。"
    },
    {
@@ -697,7 +697,7 @@
     "id": "Exam 2019-12-16 (Solutions).md::## II.1::15",
     "type": "qa",
     "q_en": "Question II.1 (2 points): According to the results shown in Figure II.1, what distinguishes the behavior of DNAJB6b and ΔST-DNAJB6b? Do you think that the ΔST-DNAJB6b is a good model for the DNAJB6b protein?",
-    "q_zh": "问题 II.1（2 分）：根据图 II.1 的结果，DNAJB6b 与 ΔST-DNAJB6b 的行为有何区别？你认为 ΔST-DNAJB6b 是 DNAJB6b 蛋白的良好模型吗？",
+    "q_zh": "问题 II.1（2 分）：根据图 II.1 的结果，DNAJB6b 与 ΔST-DNAJB6b 的行为有何区别？你认为 ΔST-DNAJB6b 是 DNAJB6b 蛋白的良好模型吗？\n![图 II.1（真题卷 p17）](attachments/exam-2019-p17.png)",
     "a": "答案 / Answer (2 pt)\nDNAJB6b 是聚合物，ΔST-DNAJB6b 是单体（SEC：聚合物先洗脱、体积小）。(1 pt) 两者 TROSY 谱叠加（蓝峰在品红谱中都有等价峰）→ 整体折叠保守，ΔST 是好模型。(1 pt)\nWT 聚合、ΔST 单体；谱叠加 → 折叠保守，ΔST 是好模型。\nWHY：删除 S/T 富集区消除聚合，但不改变折叠。\nWHY：删 S/T 区消除聚合，折叠不变。"
    },
    {
@@ -725,7 +725,7 @@
     "id": "Exam 2019-12-16 (Solutions).md::## II.5::19",
     "type": "qa",
     "q_en": "Question II.5 (2 points): In order to confirm the existence of one or more domains, the authors analyzed the transverse and longitudinal relaxation rates. From the mean values measured in secondary structure elements, the overall rotational correlation time (τR) was determined. What do you suggest on the domain composition and eventual domain boundaries from the reported values in Fig II.2 C?",
-    "q_zh": "问题 II.5（2 分）：为确认是否存在一个或多个结构域，作者分析了横向和纵向弛豫率。由二级结构元件中测得的平均值确定了整体旋转相关时间（τR）。根据图 II.2 C 报告的值，你对结构域组成及可能的域边界有何建议？",
+    "q_zh": "问题 II.5（2 分）：为确认是否存在一个或多个结构域，作者分析了横向和纵向弛豫率。由二级结构元件中测得的平均值确定了整体旋转相关时间（τR）。根据图 II.2 C 报告的值，你对结构域组成及可能的域边界有何建议？\n![图 II.2（真题卷 p19）](attachments/exam-2019-p19.png)",
     "a": "答案 / Answer (2 pt)\nR1/R2 分析表明是双结构域蛋白，柔性 linker 在 ~130 残基。(1 pt) N 端与 C 端估算的相关时间不同：域 1 = 5-115（之后 R1 升、R2 降），域 2 = 135-185。(1 pt)\n双域，linker~130；域 1=5-115，域 2=135-185。\nWHY：R2/R1 与 τc（分子大小）相关，两段不同的 τc = 两域独立翻滚。\nWHY：两段不同 τc = 两域独立。"
    },
    {
@@ -773,14 +773,14 @@
     "id": "Exam 2020-12-15 (Solutions).md::## Q1::4",
     "type": "qa",
     "q_en": "Which isotopes should be introduced in the Spy protein in order to obtain the spectral information shown in Figure 1? Motivate your suggestion(s).",
-    "q_zh": "为了获得图 1 所示的谱信息，应在 Spy 蛋白中引入哪些同位素？请说明你的建议的理由。",
+    "q_zh": "为了获得图 1 所示的谱信息，应在 Spy 蛋白中引入哪些同位素？请说明你的建议的理由。\n![图 1（真题卷 p3）](attachments/exam-2020-p3.png)",
     "a": "答案 / Answer (2 pt)\n¹⁵N 标记（检测 [¹H,¹⁵N] 相关谱的最低要求）。体系较大（Spy 二聚体 140×2 + Im7 87 ≈ 40 kDa）→ 还需氘代，并可利用 TROSY 效应优化弛豫路径。\n¹⁵N 最低要求；40 kDa 大体系需氘代 + TROSY。\nWHY：大分子线宽大、谱难分辨，氘代 + TROSY 是解析大蛋白的标准组合。\nWHY：大分子需氘代+TROSY 改善谱质。"
    },
    {
     "id": "Exam 2020-12-15 (Solutions).md::## Q2::5",
     "type": "qa",
     "q_en": "Which type of data is plotted against Im7 concentration in Figure 1? How were they measured?",
-    "q_zh": "图 1 中对 Im7 浓度作图的是哪类数据？它们是如何测量的？",
+    "q_zh": "图 1 中对 Im7 浓度作图的是哪类数据？它们是如何测量的？\n![图 1（真题卷 p3）](attachments/exam-2020-p3.png)",
     "a": "答案 / Answer (2 pt)\n化学位移扰动（CSP，单位 ppm）——是 Spy-Im7 混合物中某酰胺共振与 Spy 单独时同一共振的距离。CSP = √[(δ_H)^2 + (γ_N/γ_H × δ_N)²]（加权组合 ¹H 与 ¹⁵N 位移差）。\nCSP = 加权 ¹H/¹⁵N 位移差的组合。\nWHY：CSP 量化结合引起的化学位移变化，是判断结合/定位界面的核心参数。\nWHY：CSP 量化结合位移，定位界面。"
    },
    {
@@ -822,7 +822,7 @@
     "id": "Exam 2020-12-15 (Solutions).md::## Q8::11",
     "type": "qa",
     "q_en": "How would you characterize the regions for which the largest CSPs have been identified (residues 27, 30, 61) in Im7 alone regarding the data shown in Figure 3?",
-    "q_zh": "根据图 3 所示数据，你如何描述 Im7 单独状态下已鉴定出最大 CSP 的区域（残基 27、30、61）？",
+    "q_zh": "根据图 3 所示数据，你如何描述 Im7 单独状态下已鉴定出最大 CSP 的区域（残基 27、30、61）？\n![图 3（真题卷 p5）](attachments/exam-2020-p5.png)",
     "a": "答案 / Answer (2 pt)\n除 N 端、C 端外，27-33 区和~60 残基区在 Im7 单独时是柔性的，且后者更动态。\n27-33 与 ~60 区柔性，后者更动态。\nWHY：这两个区（loop）本身柔性，是潜在结合区，结合后发生位移。\nWHY：柔性 loop 是潜在结合区。"
    },
    {
@@ -836,21 +836,21 @@
     "id": "Exam 2020-12-15 (Solutions).md::## Q10::13",
     "type": "qa",
     "q_en": "Comparing the H/D exchange data shown in Figure 4, for free and bound Im7, what can you conclude? Can you give a possible explanation?",
-    "q_zh": "比较图 4 所示游离和结合 Im7 的 H/D 交换数据，你能得出什么结论？你能给出一个可能的解释吗？",
+    "q_zh": "比较图 4 所示游离和结合 Im7 的 H/D 交换数据，你能得出什么结论？你能给出一个可能的解释吗？\n![图 4（真题卷 p6）](attachments/exam-2020-p6.png)",
     "a": "答案 / Answer (3 pt)\nIm7 单独：3 min 后二级结构区（H1 10-25、H2 35-45、H4 65-70）交换 <50%，螺旋间 loop 全部交换。结合 Spy 后：几乎所有残基 3 min 内交换 → 复合物中所有残基溶剂可及性高、H 键不稳、塑性增加（可能部分解析叠），与 H1-H2 loop 柔性增加一致。\n结合后 H/D 交换大增 → 塑性增加、部分解析叠。\nWHY：H/D 交换反映氢键保护程度；交换快=结构松散/解析叠。\nWHY：H/D 交换反映氢键保护；快=松散。"
    },
    {
     "id": "Exam 2020-12-15 (Solutions).md::## Q11::14",
     "type": "qa",
     "q_en": "What are the characteristics of an unfolded protein with respect to chemical shift, {1H}-15N heteronuclear NOE, H/D exchange? Regarding the data shown in Figures 2, 3, and 4, do you think that the Im7 protein in presence of Spy becomes unfolded?",
-    "q_zh": "就化学位移、{1H}-15N 异核 NOE、H/D 交换而言，未折叠蛋白有哪些特征？根据图 2、3、4 所示数据，你认为 Im7 蛋白在 Spy 存在下会变得未折叠吗？",
+    "q_zh": "就化学位移、{1H}-15N 异核 NOE、H/D 交换而言，未折叠蛋白有哪些特征？根据图 2、3、4 所示数据，你认为 Im7 蛋白在 Spy 存在下会变得未折叠吗？\n![图 2（真题卷 p4）](attachments/exam-2020-p4.png)",
     "a": "答案 / Answer (4 pt)\n未折叠蛋白特征：化学位移分散窄（¹H 维挤在 7.5–8.5 ppm）；异核 NOE 显著低于 0.5；H/D 交换快（几分钟内 100% 交换）。\n未折叠：位移分散窄、NOE<0.5、H/D 交换快。\n但图 2 橙色谱仍保留分散 → 整体折叠在 2 当量 Spy 下保持，未见未折叠特征。图 3 显示整体柔性增、图 4 显示 H/D 交换增 → 是部分解析叠/向更动态构象系扰动，而非完全解析叠。\n整体折叠保持，但向更动态构象扰动（部分解析叠）。\nWHY：判定\"未折叠\"要看三个标志同时出现；这里只有动态增强、无位移塌缩。\nWHY：三标志同时出现才是未折叠；这里只动态增强。"
    },
    {
     "id": "Exam 2020-12-15 (Solutions).md::## Q12::15",
     "type": "qa",
     "q_en": "Question 12 (2 points): Is the information obtained here in accordance with the CSPs measured on Spy (Figure 1) and Im7 (Figure 3)?",
-    "q_zh": "问题 12（2 分）：这里获得的信息与在 Spy（图 1）和 Im7（图 3）上测得的 CSP 一致吗？",
+    "q_zh": "问题 12（2 分）：这里获得的信息与在 Spy（图 1）和 Im7（图 3）上测得的 CSP 一致吗？\n![图 1（真题卷 p3）](attachments/exam-2020-p3.png)\n![图 3（真题卷 p5）](attachments/exam-2020-p5.png)",
     "a": "答案 / Answer (2 pt)\n是。T72C：所有 Im7 残基在 18 Å 内，H1-H2 与 H3-H4 loop 更近；T123C（位于 Spy 凹腔内）：N 端 1-4、20-45（含 H1-H2 loop）、55-65（含 H3-H4 loop）更近（<14 Å），与 CSP 强区（20-38、55-65）一致。Im7 与 Spy 凹腔作用。\nPRE 距离与 CSP 强区完全一致，Im7 结合凹腔。\nWHY：PRE 给距离、CSP 给位移，两者定位的界面应吻合。\nWHY：PRE 距离与 CSP 位移定位的界面应吻合。"
    },
    {
@@ -864,7 +864,7 @@
     "id": "Exam 2020-12-15 (Solutions).md::## Q14::17",
     "type": "qa",
     "q_en": "Question 14 (2 points): Regarding only the black spectrum of free Im7M shown in Figure 6, what can you conclude on the effect of the L18A/L19A/L37A triple mutation on Im7?",
-    "q_zh": "问题 14（2 分）：仅看图 6 中游离 Im7M 的黑色谱，你对 L18A/L19A/L37A 三重突变对 Im7 的影响能得出什么结论？",
+    "q_zh": "问题 14（2 分）：仅看图 6 中游离 Im7M 的黑色谱，你对 L18A/L19A/L37A 三重突变对 Im7 的影响能得出什么结论？\n![图 6（真题卷 p8）](attachments/exam-2020-p8.png)",
     "a": "答案 / Answer (2 pt)\n黑色谱（游离 Im7M）¹H,¹⁵N 相关峰分布极窄 → Im7M 是未折叠蛋白（unstructured）。\nIm7M 谱分散窄 → 未折叠。\nWHY：破坏三个核心疏水残基（L18/L19/L37）使蛋白失去折叠稳定性。\nWHY：破坏核心疏水残基 → 失去折叠。"
    },
    {
@@ -878,7 +878,7 @@
     "id": "Exam 2020-12-15 (Solutions).md::## Q16::19",
     "type": "qa",
     "q_en": "Question 16 (3 points): Comparing the average intramolecular PRE data shown in Figure 7 for free and bound Im7M, what can you conclude? Can you give a possible explanation? Think of the role of a chaperone protein.",
-    "q_zh": "问题 16（3 分）：比较图 7 中游离和结合 Im7M 的平均分子内 PRE 数据，你能得出什么结论？能给出可能的解释吗？想想伴侣蛋白的作用。",
+    "q_zh": "问题 16（3 分）：比较图 7 中游离和结合 Im7M 的平均分子内 PRE 数据，你能得出什么结论？能给出可能的解释吗？想想伴侣蛋白的作用。\n![图 7（真题卷 p9）](attachments/exam-2020-p9.png)",
     "a": "答案 / Answer (3 pt)\n分子内 PRE 平均值：游离 0.75，结合 0.35 → 结合后残基与自旋标签距离变短 → 结合 Spy 后未折叠的 Im7M 变得更紧凑（compact），这可能是后续折叠的前提。\n结合后 Im7M 更紧凑（0.75→0.35）。\nWHY：Iox/Ired 越小=离标签越近=分子越紧；伴侣使未折叠客户先压缩再折叠。\nWHY：比值小=距离近=更紧凑；伴侣先压缩后折叠。"
    }
   ]
@@ -926,7 +926,7 @@
     "id": "Exam 2021-12-13 (Solutions).md::## I.1::5",
     "type": "qa",
     "q_en": "From the comparison of the two 1H,15N-TROSY spectra shown in Figure I.2, can you conclude whether the two domains within the full-length construct interact or are independent?",
-    "q_zh": "通过比较图 I.2 所示的两张 1H,15N-TROSY 谱，你能判断全长构建体中两个结构域是相互作用的还是独立的吗？",
+    "q_zh": "通过比较图 I.2 所示的两张 1H,15N-TROSY 谱，你能判断全长构建体中两个结构域是相互作用的还是独立的吗？\n![图 I.2（真题卷 p3）](attachments/exam-2021-p3.png)",
     "a": "答案 / Answer (2 pt)\nCre 与 CreCat 的 TROSY 谱完全叠加（无化学位移变化、或仅极少数残基极微小变化），也无明显线宽变化（若结合，分子量增 14 kDa 应使线宽增大）→ 全长中两结构域相互独立。\n谱叠加无位移无线宽变化 → 两域独立。\nWHY：域间有相互作用会产生化学位移扰动与线宽变化，都没有说明无接触。\nWHY：有作用会有位移+线宽变化，都没有=独立。"
    },
    {
@@ -940,7 +940,7 @@
     "id": "Exam 2021-12-13 (Solutions).md::## I.3::7",
     "type": "qa",
     "q_en": "How would you characterize the dynamics of the regions highlighted in blue in Figure 3? Justify your conclusion.",
-    "q_zh": "你如何描述图 3 中蓝色高亮区域的动力学？请论证你的结论。",
+    "q_zh": "你如何描述图 3 中蓝色高亮区域的动力学？请论证你的结论。\n![图 3（真题卷 p5）](attachments/exam-2021-p5.png)",
     "a": "答案 / Answer (3 pt)\n蓝色区异核 NOE 低（<0.5）、R2/R1 低（低于均值 ~30，即 R2 小、T2 长）→ 柔性区。对应三个 loop：β2-β3 loop（197-220）、αJ-K loop（274-287）、αM-N loop（328-333）。\nNOE<0.5、R2/R1 低 → 三个柔性 loop。\nWHY：NOE 低 + R2/R1 低 = ps–ns 快运动 = 柔性 loop。\nWHY：NOE 低+R2/R1 低=柔性。"
    },
    {
@@ -954,7 +954,7 @@
     "id": "Exam 2021-12-13 (Solutions).md::## I.5::9",
     "type": "qa",
     "q_en": "What do you observe? What are the consequences of the deletion of the C-terminal helix? How can you explain the observed differences in the spectra shown in Figure I.4?",
-    "q_zh": "你观察到了什么？删除 C 端螺旋的后果是什么？你如何解释图 I.4 所示谱图的差异？",
+    "q_zh": "你观察到了什么？删除 C 端螺旋的后果是什么？你如何解释图 I.4 所示谱图的差异？\n![图 I.4（真题卷 p5）](attachments/exam-2021-p5.png)",
     "a": "答案 / Answer (3 pt)\n删除 C 端螺旋后大量信号移动（不仅是相邻残基）→ 这些残基的化学环境改变 → 它们与 C 端螺旋接触，证明 C 端螺旋属于蛋白的结构核心。\n大量信号移动 → 这些残基与 C 端螺旋接触 → 螺旋是核心。\nWHY：远端残基位移说明它们原本与删除的螺旋有空间接触。\nWHY：远端位移=原本与删除螺旋接触。"
    },
    {
@@ -968,7 +968,7 @@
     "id": "Exam 2021-12-13 (Solutions).md::## I.7::11",
     "type": "qa",
     "q_en": "Comparing the observed PREs in the presence and in the absence of DNA, what can you conclude? Consider the location of the spin label (green arrow in Figure I.5.A and I.5.B) and the crystal structure shown in Figure I.1.",
-    "q_zh": "比较在有无 DNA 时观测到的 PRE，你能得出什么结论？请考虑自旋标签的位置（图 I.5.A 与 I.5.B 中的绿色箭头）以及图 I.1 所示的晶体结构。",
+    "q_zh": "比较在有无 DNA 时观测到的 PRE，你能得出什么结论？请考虑自旋标签的位置（图 I.5.A 与 I.5.B 中的绿色箭头）以及图 I.1 所示的晶体结构。\n![图 I.5.A（真题卷 p6）](attachments/exam-2021-p6.png)\n![图 I.1（真题卷 p3）](attachments/exam-2021-p3.png)",
     "a": "答案 / Answer (5 pt)\n无 DNA（单体）：低 PRE 区 = C 端 linker、αH、αJ/αK N 端、αM → 由晶体结构（C 图）知 αN 位于 DNA 结合位点。\n单体：αN 占据 DNA 结合位点。\n有 DNA（四聚体）：低 PRE 区 = αF、αG、β1-β2、αI、αL → αN 停靠在单体另一侧（背离 DNA 结合位点）的面上。αN 因接触相邻亚基而移到此替代位置 → DNA 结合只能在四聚体中发生，单体中 DNA 结合位点被 αN 遮蔽。\n四聚体：αN 移开、暴露 DNA 位点 → 仅四聚体能结合 DNA。\nWHY：对比单体/四聚体的 PRE 分布，追踪 αN 螺旋的\"位置切换\"，解释为何单体不能结合 DNA。\nWHY：PRE 追踪 αN 位置切换，解释单体不能结合 DNA。"
    },
    {
@@ -996,14 +996,14 @@
     "id": "Exam 2021-12-13 (Solutions).md::## II.3::15",
     "type": "qa",
     "q_en": "Question II.3 (1 point): The extent of STD effect is normalized with respect to the most intense response (= 100%). What can we learn from the STD-effect values color-coded in Figure II.3?",
-    "q_zh": "问题 II.3（1 分）：STD 效应程度相对于最强响应归一化（=100%）。从图 II.3 中色标编码的 STD 效应值我们能得出什么？",
+    "q_zh": "问题 II.3（1 分）：STD 效应程度相对于最强响应归一化（=100%）。从图 II.3 中色标编码的 STD 效应值我们能得出什么？\n![图 II.3（真题卷 p8）](attachments/exam-2021-p8.png)",
     "a": "答案 / Answer (1 pt)\n化合物 1（=d）主要靠疏水苯环与蛋白接触（红色，STD 最强），而羟基朝向外部（STD 弱）。\n苯环紧贴蛋白（强 STD），羟基朝外（弱）。\nWHY：STD 强度 ∝ 与蛋白距离，最强的质子最贴近结合位点。\nWHY：STD 强度∝距离，最强质子最贴近位点。"
    },
    {
     "id": "Exam 2021-12-13 (Solutions).md::## II.4::16",
     "type": "qa",
     "q_en": "Question II.4 (3 points): Using the information shown in Figure II.4, can you conclude whether compound 1 binds to the same site than the reference compound?",
-    "q_zh": "问题 II.4（3 分）：用图 II.4 的信息，你能判断化合物 1 是否与参照化合物结合在同一位点吗？",
+    "q_zh": "问题 II.4（3 分）：用图 II.4 的信息，你能判断化合物 1 是否与参照化合物结合在同一位点吗？\n![图 II.4（真题卷 p9）](attachments/exam-2021-p9.png)",
     "a": "答案 / Answer (3 pt)\n绿谱≈蓝谱+紫谱之和、无强度损失（仅 6.8 ppm 区参照物 STD 轮廓改变）→ 两化合物同时可见且强度相近 → 存在两个不同结合位点；参照物 STD 轮廓部分改变 → 参照物相互作用被扰动 → 两个位点彼此相邻。\n两个不同位点，且彼此相邻。\nWHY：同位点竞争会顶替（一方消失）；同位点共存且仅部分扰动=两个相邻位点。\nWHY：同位点会顶替；共存+部分扰动=相邻两异位点。"
    }
   ]
@@ -1100,7 +1100,7 @@
     "id": "Exam 2022-12-16 (Solutions).md::## Q5::12",
     "type": "qa",
     "q_en": "Question 5 (4 points): In the special case of this double-domain construct for which the structure was to be determined, what was the important information the authors looked for? Can you give at least two concrete examples based on the PRE results shown in the graphs of Figure 2?",
-    "q_zh": "问题 5（4 分）：在这个需要测定结构的双结构域构建体的特殊情况下，作者寻找的重要信息是什么？你能基于图 2 图中的 PRE 结果给出至少两个具体例子吗？",
+    "q_zh": "问题 5（4 分）：在这个需要测定结构的双结构域构建体的特殊情况下，作者寻找的重要信息是什么？你能基于图 2 图中的 PRE 结果给出至少两个具体例子吗？\n![图 2（真题卷 p4）](attachments/exam-2022-p4.png)",
     "a": "答案 / Answer (4 pt)\n作者想知道 RRM1 与 RRM2 是否有固定的距离与取向，即看 RRM1 上标签与 RRM2 残基（或反之）之间的短距离接触。(1 pt)\n想知道两域相对取向是否固定，看跨域短距离接触。\n例 1：残基 185 上的标签靠近 135（RRM1 内）也靠近 236（RRM2） → 给两域相对取向的距离信息。\n例 1：标签 185 同时近 135 与 RRM2 的 236 → 跨域距离。\n例 2：残基 176 上的标签靠近 ~190（linker 交界）与 ~230（RRM2） → 定相对取向。\n例 2：标签 176 近 190 与 RRM2 的 230 → 定取向。\n例 3：残基 236 上的标签靠近 RRM2 侧 ~210 → 需旋转 RRM2 满足此约束（初始模型不满足）→ 两域应更靠近。\n例 3：标签 236 近 210，要求两域更靠近。\nWHY：跨域的 PRE 距离约束能\"钉死\"两个域的相对排布。\nWHY：跨域 PRE 距离约束定两域排布。"
    },
    {
@@ -1149,14 +1149,14 @@
     "id": "Exam 2022-12-16 (Solutions).md::## Q12::19",
     "type": "qa",
     "q_en": "Question 12 (3 points): What do the spectra in Fig. 5B and 5E correspond to and what do they demonstrate for 3'SL? What can be concluded for the two ligands (Fig. 5 A, B, C, and E)?",
-    "q_zh": "问题 12（3 分）：图 5B 和 5E 中的谱图对应什么？它们对 3'SL 证明了什么？对两种配体（图 5 A、B、C 和 E）能得出什么结论？",
+    "q_zh": "问题 12（3 分）：图 5B 和 5E 中的谱图对应什么？它们对 3'SL 证明了什么？对两种配体（图 5 A、B、C 和 E）能得出什么结论？\n![图 5B（真题卷 p8）](attachments/exam-2022-p8.png)\n![图 5（真题卷 p6）](attachments/exam-2022-p6.png)",
     "a": "答案 / Answer (3 pt)\n5B = 3'SL 的 off-resonance 谱（200 ppm 饱和无影响，即配体 1D 谱）。(1 pt) 5E = on(−4 ppm) − off 差谱：显示经蛋白被饱和的配体峰。因 off 谱所有峰都在差谱中出现 → 配体与蛋白快交换、全部峰被饱和。(1 pt) 6'SL 行为类似 → 两种聚糖都与 Spike 蛋白作用。(1 pt)\n5B 参照谱、5E 差谱；3'SL 快交换结合；两聚糖都结合。\nWHY：差谱中配体全部峰出现=所有配体质子都参与结合（快交换）。\nWHY：差谱全峰出现=快交换全结合。"
    },
    {
     "id": "Exam 2022-12-16 (Solutions).md::## Q13::20",
     "type": "qa",
     "q_en": "Question 13 (2 points): What can you conclude from the comparison of the STD spectra shown in Figure 6? Can you conclude on the 3'SL-binding site on the different Spike proteins?",
-    "q_zh": "问题 13（2 分）：从图 6 所示 STD 谱的比较中你能得出什么结论？你能对不同 Spike 蛋白上的 3'SL 结合位点下结论吗？",
+    "q_zh": "问题 13（2 分）：从图 6 所示 STD 谱的比较中你能得出什么结论？你能对不同 Spike 蛋白上的 3'SL 结合位点下结论吗？\n![图 6（真题卷 p8）](attachments/exam-2022-p8.png)",
     "a": "答案 / Answer (2 pt)\n6A（武汉株）：差谱有信号 → 3'SL 结合武汉 Spike。Omicron 与突变武汉株：信号几乎消失 → 相互作用被废除。(1 pt) 仅删除武汉 Spike 的 143-145 残基即废除结合 → 残基 143-145 是 3'SL 结合位点的一部分。(1 pt)\n143-145 是 3'SL 结合位点。\nWHY：删除特定残基即丧失结合 → 该残基直接参与结合界面。\nWHY：删特定残基即失结合 → 该残基在界面。"
    }
   ]
@@ -1169,21 +1169,21 @@
     "id": "Exam 2023-12-18 (Solutions).md::## Q1::0",
     "type": "qa",
     "q_en": "Question 1 (3 points): Tau is a huge protein compared to NMR standards. Here, the 1H,15N-HSQC experiment was obtained on a 15N-labelled protein without deuteration, and a well resolved spectrum was obtained as shown in Fig. 1 on the left. What is the reason for this? What would you observe for a well-folded protein of 50 kDa under identical conditions?",
-    "q_zh": "问题 1（3 分）：与 NMR 的标准样品相比，Tau 是一个巨大的蛋白质。这里，¹H,¹⁵N-HSQC 实验是在未氘代的 ¹⁵N 标记蛋白上获得的，却得到了如图 1 左图所示分辨良好的谱图。原因是什么？在相同条件下，对于一个折叠良好的 50 kDa 蛋白，你会观察到什么？",
+    "q_zh": "问题 1（3 分）：与 NMR 的标准样品相比，Tau 是一个巨大的蛋白质。这里，¹H,¹⁵N-HSQC 实验是在未氘代的 ¹⁵N 标记蛋白上获得的，却得到了如图 1 左图所示分辨良好的谱图。原因是什么？在相同条件下，对于一个折叠良好的 50 kDa 蛋白，你会观察到什么？\n![图 1（真题卷 p3）](attachments/exam-2023-p3.png)",
     "a": "答案 / Answer (3 pt)\nTau 是 50 kDa 的固有无序蛋白（IDP）。pH 6 采谱以限制酰胺质子与水交换 (1 pt)；因骨架高度柔性（局部动力学快），酰胺共振尖锐 (1 pt)；且 ¹H 共振分散不大（主要挤在 8.0–8.5 ppm）。同样条件下，折叠良好的 50 kDa 蛋白信号会极宽、宽到不可见 (1 pt)。\nIDP 骨架柔性 → 峰尖；折叠 50 kDa 蛋白则线宽大到不可见。\nWHY：线宽 ∝ 翻滚相关时间 τc；无序蛋白局部快运动使 τc 小、峰尖。\nWHY：线宽∝τc，无序蛋白局部快运动峰尖。"
    },
    {
     "id": "Exam 2023-12-18 (Solutions).md::## Q2::1",
     "type": "qa",
     "q_en": "Question 2 (3 points): Fig. 1b compares the 1H,15N-HSQC spectra of 15N-labelled Tau in the absence (black) and in the presence (grey) of stabilized MTs (see Fig. 1a). What do you observe and what is a possible reason for the differences between the two spectra? Does Tau interact with MTs?",
-    "q_zh": "问题 2（3 分）：图 1b 比较了 ¹⁵N 标记的 Tau 在无（黑）和有（灰）稳定微管（MT）时的 ¹H,¹⁵N-HSQC 谱（见图 1a）。你观察到什么？两张谱图之间差异的一个可能原因是什么？Tau 是否与微管相互作用？",
+    "q_zh": "问题 2（3 分）：图 1b 比较了 ¹⁵N 标记的 Tau 在无（黑）和有（灰）稳定微管（MT）时的 ¹H,¹⁵N-HSQC 谱（见图 1a）。你观察到什么？两张谱图之间差异的一个可能原因是什么？Tau 是否与微管相互作用？\n![图 1b（真题卷 p4）](attachments/exam-2023-p4.png)\n![图 1a（真题卷 p4）](attachments/exam-2023-p4.png)",
     "a": "答案 / Answer (3 pt)\n加 MT 后某些共振（V229、R230、Q276、I278、V309、Y310、K311、L315）消失（灰谱中变宽不可测）(1 pt) → 这些残基所在片段与 MT 作用 (1 pt)。MT 是极大物体，使这些残基峰因化学交换或运动受限而消失。→ Tau 与 MT 相互作用。\n这些残基峰消失 → 其片段与 MT 作用。\nWHY：结合到巨大物体（MT）上 → 有效 τc 剧增 → 峰展宽消失。\nWHY：结合巨大物体 → τc 剧增 → 峰消失。"
    },
    {
     "id": "Exam 2023-12-18 (Solutions).md::## Q3::2",
     "type": "qa",
     "q_en": "Question 3 (3 points): In Fig 1c, the ratio of peak intensities measured in the 1H,15N-HSQC spectra shown in Fig. 1b is plotted as a function of the protein sequence (black bars; do NOT consider the grey line here). Which domains interact with MTs? How would you describe the interaction (strong/weak/dynamic ...)? Consider the size of the MTs. Hint: What would you expect to see in an NMR spectrum if a small, well-folded protein would tightly bind to the MTs shown in Fig 1a?",
-    "q_zh": "问题 3（3 分）：在图 1c 中，将在图 1b 所示 ¹H,¹⁵N-HSQC 谱中测得的峰强度比值作为蛋白序列的函数作图（黑色柱；此处不要考虑灰线）。哪些结构域与微管相互作用？你如何描述这种相互作用（强/弱/动态……）？考虑微管的尺寸。提示：如果一个小而折叠良好的蛋白与图 1a 所示微管紧密结合，你预期在 NMR 谱中会看到什么？",
+    "q_zh": "问题 3（3 分）：在图 1c 中，将在图 1b 所示 ¹H,¹⁵N-HSQC 谱中测得的峰强度比值作为蛋白序列的函数作图（黑色柱；此处不要考虑灰线）。哪些结构域与微管相互作用？你如何描述这种相互作用（强/弱/动态……）？考虑微管的尺寸。提示：如果一个小而折叠良好的蛋白与图 1a 所示微管紧密结合，你预期在 NMR 谱中会看到什么？\n![图 1c（真题卷 p4）](attachments/exam-2023-p4.png)\n![图 1b（真题卷 p4）](attachments/exam-2023-p4.png)\n![图 1a（真题卷 p4）](attachments/exam-2023-p4.png)",
     "a": "答案 / Answer (3 pt)\n作用域：P2 富脯氨酸区（V229、R230）、R1（~245）、R1-R2 交界（Q276、I278）、R2-R3 交界（309-315）；P1、R4、R′ 有较小作用。(1 pt)\nP2、R1、R1-R2 交界、R2-R3 交界。\n作用残基强度下降约 60%（Tau:tubulin 2:1，1.3 mM）→ 约一半 Tau 结构域被 tubulin 扣留 → 相互作用弱且动态（mM 级）(1 pt)。未结合部分峰不位移、仍很窄 → 仍高度柔性。若小折叠蛋白紧密结合 MT，会看到所有峰完全消失。(1 pt)\n弱且动态（mM 级）；紧密结合会全峰消失。\nWHY：强度下降 60% 而非 100% = 只有部分分子结合 = 弱亲和动态平衡。\nWHY：部分下降=弱亲和动态平衡。"
    },
    {
@@ -1204,7 +1204,7 @@
     "id": "Exam 2023-12-18 (Solutions).md::## Q6::5",
     "type": "qa",
     "q_en": "Question 6 (4 points): Comparing the spectra shown in Figure 4, can you comment on the binding of each peptide (Tau404-423) and TauR'. Explain!",
-    "q_zh": "问题 6（4 分）：比较图 4 所示的谱图，你能评论每种肽 Tau(404-423) 和 TauR′ 的结合吗？请解释！",
+    "q_zh": "问题 6（4 分）：比较图 4 所示的谱图，你能评论每种肽 Tau(404-423) 和 TauR′ 的结合吗？请解释！\n![图 4（真题卷 p4）](attachments/exam-2023-p4.png)",
     "a": "答案 / Answer (4 pt)\nTau(404-423) 与 tubulin 无明显 STD（有无 tubulin 谱相同）→ 不结合，与全长 Tau 该域无强度下降一致 (2 pt)。\nTau(404-423) 不结合。\nTauR′(368-401) 有 STD 信号 → 与 tubulin 结合；黑谱是对照（未照射 tubulin），红谱是无 tubulin 对照（均无信号），蓝 STD 谱显示 F328、Y394 残基的饱和转移 (2 pt)。\nTauR′ 结合（F328、Y394 有饱和转移）。\nWHY：STD 信号的有无直接判定各肽是否结合。\nWHY：STD 有无信号判结合。"
    },
    {
@@ -1239,7 +1239,7 @@
     "id": "Exam 2023-12-18 (Solutions).md::## Q11::10",
     "type": "qa",
     "q_en": "Question 11 (2 points): From Figure 6, can you identify some long-range transient contacts between residue 239 and the rest of the protein? Explain!",
-    "q_zh": "问题 11（2 分）：从图 6 中，你能识别出残基 239 与蛋白其余部分之间的一些长程瞬时接触吗？请解释！",
+    "q_zh": "问题 11（2 分）：从图 6 中，你能识别出残基 239 与蛋白其余部分之间的一些长程瞬时接触吗？请解释！\n![图 6（真题卷 p7）](attachments/exam-2023-p7.png)",
     "a": "答案 / Answer (2 pt)\n自旋标记蛋白在 N 端与插入区 I1（其次 I2）出现强度下降 (1 pt) → 蛋白这部分折叠到自旋标记所在的富脯氨酸区 P2 上 (1 pt)。\nN 端、I1 与 P2（239 标记处）有长程瞬时接触。\nWHY：距标记位 >10 残基的强度下降=长程接触（IDP 中的瞬时折叠）。\nWHY：远距强度降=长程瞬时接触。"
    },
    {
@@ -1378,7 +1378,7 @@
     "id": "Exam 2024-12-16 (Solutions).md::## Q1::8",
     "type": "qa",
     "q_en": "Question 1 (2 points): Looking at the chemical shift data represented in Figure 1A and 1B, what can you learn about the double domain compared to the isolated domains? Do the two domains interact?",
-    "q_zh": "问题 1（2 分）：观察图 1A 和 1B 所示的化学位移数据，与孤立结构域相比，你能了解到双结构域的什么信息？两个结构域是否相互作用？",
+    "q_zh": "问题 1（2 分）：观察图 1A 和 1B 所示的化学位移数据，与孤立结构域相比，你能了解到双结构域的什么信息？两个结构域是否相互作用？\n![图 1A（真题卷 p11）](attachments/exam-2024-p11.png)",
     "a": "答案 / Answer (2 pt)\n黑峰很多既不与黄峰也不与粉峰重叠 → 双结构域中残基的化学环境与孤立域不同（图 1B 的 CSP 图也显示）(1 pt) → 两域在双结构域构建中相互作用 (1 pt)。\n黑峰不重叠 → 化学环境变 → 两域相互作用。\nWHY：若两域独立，双结构域谱应等于两孤立域谱的叠加。\nWHY：独立则谱应叠加，实际不同=相互作用。"
    },
    {
@@ -1392,7 +1392,7 @@
     "id": "Exam 2024-12-16 (Solutions).md::## Q3::10",
     "type": "qa",
     "q_en": "Question 3 (2 points): Do the relaxation data represented in Figure 1C agree with your conclusion from the chemical shift data? Explain briefly.",
-    "q_zh": "问题 3（2 分）：图 1C 所示的弛豫数据与你的化学位移数据结论一致吗？简要解释。",
+    "q_zh": "问题 3（2 分）：图 1C 所示的弛豫数据与你的化学位移数据结论一致吗？简要解释。\n![图 1C（真题卷 p11）](attachments/exam-2024-p11.png)",
     "a": "答案 / Answer (2 pt)\n一致。化学位移表明两域相互作用 (1 pt)；弛豫数据表明双域中的两域比孤立域翻滚更慢 (1 pt)。\n一致：位移示作用，弛豫示整体翻滚。\nWHY：两种独立参数得出同一结论，交叉验证。\nWHY：两种参数交叉验证同一结论。"
    },
    {
@@ -1406,14 +1406,14 @@
     "id": "Exam 2024-12-16 (Solutions).md::## Q5::12",
     "type": "qa",
     "q_en": "Question 5 (2 points): Using the information shown in Figure 2, can you conclude whether RRM1-RRM2 binds to RNA?",
-    "q_zh": "问题 5（2 分）：利用图 2 所示的信息，你能判断 RRM1-RRM2 是否与 RNA 结合吗？",
+    "q_zh": "问题 5（2 分）：利用图 2 所示的信息，你能判断 RRM1-RRM2 是否与 RNA 结合吗？\n![图 2（真题卷 p11）](attachments/exam-2024-p11.png)",
     "a": "答案 / Answer (2 pt)\n结合 (1 pt)：图 2B 有显著化学位移差、图 2A 谱中清晰可见 (1 pt)。\n结合，有显著位移差。\nWHY：RNA 结合改变界面残基化学环境 → 位移。\nWHY：结合改变界面残基化学位移。"
    },
    {
     "id": "Exam 2024-12-16 (Solutions).md::## Q6::13",
     "type": "qa",
     "q_en": "Question 6 (2 points): Which RNA construct (U9 or U13) would you choose for structural studies of the protein-RNA complex? Consider the spectra shown in Figure 2 but also aspects like molecular size and complexity. Briefly explain your choice.",
-    "q_zh": "问题 6（2 分）：对于蛋白质-RNA 复合物的结构研究，你会选择哪种 RNA 构建体（U9 还是 U13）？考虑图 2 所示的谱图，也要考虑分子大小和复杂性等方面。简要解释你的选择。",
+    "q_zh": "问题 6（2 分）：对于蛋白质-RNA 复合物的结构研究，你会选择哪种 RNA 构建体（U9 还是 U13）？考虑图 2 所示的谱图，也要考虑分子大小和复杂性等方面。简要解释你的选择。\n![图 2（真题卷 p11）](attachments/exam-2024-p11.png)",
     "a": "答案 / Answer (2 pt)\n两 RNA 作用方式相似（同位点、相似亲和力）(1 pt)。应选更小的 U9 (1 pt)，因为小分子对复合物弛豫性质影响小。\n选更小的 U9（弛豫性质更好）。\nWHY：越小越利于 NMR（线宽、弛豫），尤其对蛋白质-RNA 大复合物。\nWHY：越小越利于 NMR 弛豫与线宽。"
    },
    {
@@ -1427,7 +1427,7 @@
     "id": "Exam 2024-12-16 (Solutions).md::## Q8::15",
     "type": "qa",
     "q_en": "Question 8 (4 points): In the context of this specific study (determination of the double-domain structure in the complex using the template constructed from the X-ray structures of the individual domains), which is the essential information provided by these data? Can you give three examples from the data shown in Figure 3?",
-    "q_zh": "问题 8（4 分）：在这项具体研究的背景下（使用由各结构域的 X 射线结构构建的模板来确定复合物中双结构域的结构），这些数据提供的关键信息是什么？你能从图 3 所示数据中给出三个例子吗？",
+    "q_zh": "问题 8（4 分）：在这项具体研究的背景下（使用由各结构域的 X 射线结构构建的模板来确定复合物中双结构域的结构），这些数据提供的关键信息是什么？你能从图 3 所示数据中给出三个例子吗？\n![图 3（真题卷 p13）](attachments/exam-2024-p13.png)",
     "a": "答案 / Answer (4 pt)\nPRE 给跨域长程距离信息（标签所在域残基与另一域酰胺质子之间），可用于确定两域相对取向 (1 pt)。\n跨域长程距离，定两域相对取向。\n例 1：残基 155（RRM1） 靠近 200、230（RRM1 内，域内）以及 RRM2 的 N 端与 ~300（跨域）。例 2：残基 273（RRM2） 与 RRM1 的 C 端（~230）作用。例 3：残基 287（RRM2） 与 RRM1 的 ~175、220 作用 (共 3 pt)。\n155/273/287 三个标签给跨域距离。\nWHY：跨域距离约束能\"钉死\"两域的相对排布。\nWHY：跨域距离钉死两域排布。"
    },
    {
@@ -1441,7 +1441,7 @@
     "id": "Exam 2024-12-16 (Solutions).md::## Q10::17",
     "type": "qa",
     "q_en": "Question 10 (3 points): What can you conclude from the data shown in Figure 4B? Are there differences between the crystal and the solution structures for the two domains interacting with the RNA (indicated by a dashed circle in Figure 4A)?",
-    "q_zh": "问题 10（3 分）：从图 4B 所示的数据中你能得出什么结论？对于与 RNA 相互作用的两个结构域（图 4A 中虚线圆圈所示），晶体结构与溶液结构之间是否存在差异？",
+    "q_zh": "问题 10（3 分）：从图 4B 所示的数据中你能得出什么结论？对于与 RNA 相互作用的两个结构域（图 4A 中虚线圆圈所示），晶体结构与溶液结构之间是否存在差异？\n![图 4B（真题卷 p13）](attachments/exam-2024-p13.png)\n![图 4A（真题卷 p13）](attachments/exam-2024-p13.png)",
     "a": "答案 / Answer (3 pt)\n标签 155（RRM1 N 端）、273、287（RRM2） 的回算 PRE 与实验 PRE 有偏差 (1 pt) → 晶体与溶液中存在差异 (1 pt)，涉及两域相对取向 (1 pt)。\n155/273/287 偏差 → 晶体与溶液域取向不同。\nWHY：回算（晶体）与实验（溶液）PRE 不符 = 两态结构有差异。\nWHY：回算与实验不符=两态结构差异。"
    },
    {
@@ -1462,7 +1462,7 @@
     "id": "Exam 2024-12-16 (Solutions).md::## Q13::20",
     "type": "qa",
     "q_en": "Question 13 (3 points): What do the PRE data shown in Figure 5B suggest for the overall conformation of the RRM1-RRM2 protein when it binds to U4 or to U13 RNA? Have a look at the positions marked by arrows.",
-    "q_zh": "问题 13（3 分）：当 RRM1-RRM2 蛋白结合 U4 或 U13 RNA 时，图 5B 所示的 PRE 数据对其整体构象有什么提示？请关注箭头标记的位置。",
+    "q_zh": "问题 13（3 分）：当 RRM1-RRM2 蛋白结合 U4 或 U13 RNA 时，图 5B 所示的 PRE 数据对其整体构象有什么提示？请关注箭头标记的位置。\n![图 5B（真题卷 p15）](attachments/exam-2024-p15.png)",
     "a": "答案 / Answer (3 pt)\n游离 RRM1-RRM2：RRM2 的 318 标签与 RRM1 的 N 端、200、C 端有 PRE → RRM2 折叠回 RRM1 上。\n游离态 RRM2 折叠回 RRM1。\nU4 结合不改变此折叠（谱型与游离相似），因 U4 只结合 RRM2。\nU4 不改变折叠（只结合 RRM2）。\nU13 结合时：与两域都作用，破坏 RRM1-RRM2 之间的相互作用 → RNA 可能插入两域之间。\nU13 破坏域间作用，RNA 插入两域之间。\nWHY：对比游离/U4/U13 的 PRE 谱型，追踪两域相对构象的变化。\nWHY：对比 PRE 谱型追踪构象变化。"
    }
   ]
@@ -1538,28 +1538,28 @@
     "id": "Exam 2025-12-15 (Solutions).md::## Q2::9",
     "type": "qa",
     "q_en": "Question 2 (2 points): Comparing the different structures determined for the Sox2 DBD and shown in Figure 3(B), what can you conclude when comparing the NOE-derived structure described in this work (no DNA, pink) to the previously determined free-state NMR structure (cyan)? What is the main difference between these two structures (if there is one)?",
-    "q_zh": "问题 2（2 分）：比较为 Sox2 DBD 测定并显示在图 3(B) 中的不同结构，将本文描述的 NOE 衍生结构（无 DNA，粉色）与先前测定的游离态 NMR 结构（青色）进行比较时，你能得出什么结论？这两个结构之间的主要区别是什么（如果有的话）？",
+    "q_zh": "问题 2（2 分）：比较为 Sox2 DBD 测定并显示在图 3(B) 中的不同结构，将本文描述的 NOE 衍生结构（无 DNA，粉色）与先前测定的游离态 NMR 结构（青色）进行比较时，你能得出什么结论？这两个结构之间的主要区别是什么（如果有的话）？\n![图 3（真题卷 p10）](attachments/exam-2025-p10.png)",
     "a": "答案 / Answer (2 pt)\n两者基本一致（都是无 DNA 的游离态），确认游离态构象定义良好；主要差异极小（若存在也仅是局部）。真正的大差异是两者（游离态）与 DNA 结合态（1GT0，橙）相比——三个螺旋相对取向不同。\n两者一致（都是游离态）；真正差异是与 DNA 结合态比较。\nWHY：同一状态的独立结构应相互一致；结构差异主要出现在游离↔结合态之间。\nWHY：同态结构应一致；差异在游离↔结合之间。"
    },
    {
     "id": "Exam 2025-12-15 (Solutions).md::## Q3::10",
     "type": "qa",
     "q_en": "Question 3 (3 points): In very simple words, what type of structural information can be obtained from RDCs (the RDC couplings considered here were 1H/15N couplings)? Do you think that RDCs could allow distinction between the former, unpublished structure (cyan in Fig 3(B), PDB: 2LE4) and the actual solution structure (Fig 3(B), pink)? Give a short explanation.",
-    "q_zh": "问题 3（3 分）：用非常简单的话说，从 RDC（此处考虑的 RDC 耦合是 ¹H/¹⁵N 耦合）中可以获得什么类型的结构信息？你认为 RDC 能否区分之前未发表的结构（图 3(B) 中的青色，PDB: 2LE4）和实际的溶液结构（图 3(B) 中的粉色）？给出简短解释。",
+    "q_zh": "问题 3（3 分）：用非常简单的话说，从 RDC（此处考虑的 RDC 耦合是 ¹H/¹⁵N 耦合）中可以获得什么类型的结构信息？你认为 RDC 能否区分之前未发表的结构（图 3(B) 中的青色，PDB: 2LE4）和实际的溶液结构（图 3(B) 中的粉色）？给出简短解释。\n![图 3（真题卷 p10）](attachments/exam-2025-p10.png)",
     "a": "答案 / Answer (3 pt)\nRDC（¹H/¹⁵N 耦合）给键矢量（N-H 键）相对于对齐张量（磁场对齐框架）的取向信息，即长程取向约束。\nRDC 给 N-H 键矢量相对取向（长程取向约束）。\n能区分：若两个结构的螺旋相对取向不同，其 N-H 键矢量的取向分布就不同 → 回算 RDC 与实测 RDC 的吻合度不同。\n能区分：取向不同 → RDC 模式不同。\nWHY：RDC 对整体折叠/域取向敏感，正好能分辨 NOE（短程）难以分辨的相对取向。\nWHY：RDC 敏感整体取向，补 NOE 之短。"
    },
    {
     "id": "Exam 2025-12-15 (Solutions).md::## Q4::11",
     "type": "qa",
     "q_en": "Question 4 (3 points): Looking at the comparison between back-calculated and experimentally measured RDCs (Fig 3(C)), what can you conclude on the overall agreement of the two solution structures (cyan and pink) with the experimental data? Which one agrees better? What can you conclude on the comparison between the DNA-free solution structure (pink) and the DNA-bound structure (PDB: 1GT0, orange)? From your analysis, can you conclude that DNA-binding leads to major structural changes in the DNA-binding domain?",
-    "q_zh": "问题 4（3 分）：观察回算 RDC 与实验测得 RDC 的比较（图 3(C)），关于两个溶液结构（青色和粉色）与实验数据的总体吻合度，你能得出什么结论？哪个吻合得更好？关于无 DNA 的溶液结构（粉色）与 DNA 结合态结构（PDB: 1GT0，橙色）的比较，你能得出什么结论？从你的分析中，你能得出 DNA 结合导致 DNA 结合域发生重大结构变化的结论吗？",
+    "q_zh": "问题 4（3 分）：观察回算 RDC 与实验测得 RDC 的比较（图 3(C)），关于两个溶液结构（青色和粉色）与实验数据的总体吻合度，你能得出什么结论？哪个吻合得更好？关于无 DNA 的溶液结构（粉色）与 DNA 结合态结构（PDB: 1GT0，橙色）的比较，你能得出什么结论？从你的分析中，你能得出 DNA 结合导致 DNA 结合域发生重大结构变化的结论吗？\n![图 3（真题卷 p10）](attachments/exam-2025-p10.png)",
     "a": "答案 / Answer (3 pt)\n粉结构（本工作）与实测 RDC 吻合更好（相关点更贴黑线），青结构（2LE4）吻合较差 → 本工作的溶液结构正确。粉（游离）与橙（DNA 结合）比较：两者 RDC 模式不同 → DNA 结合导致 DNA 结合域发生大的结构变化（螺旋重排）。\n粉结构与 RDC 吻合更好；游离 vs 结合 RDC 不同 → 结合导致大结构变化。\nWHY：RDC 回算与实测的相关性直接衡量结构正确性。\nWHY：RDC 相关性直接衡量结构正确性。"
    },
    {
     "id": "Exam 2025-12-15 (Solutions).md::## Q5::12",
     "type": "qa",
     "q_en": "Question 5 (2 points): How are CSPs determined? Which information is obtained from the CSPs shown in Fig 4(B)?",
-    "q_zh": "问题 5（2 分）：CSP 是如何测定的？从图 4(B) 所示的 CSP 中可以获得什么信息？",
+    "q_zh": "问题 5（2 分）：CSP 是如何测定的？从图 4(B) 所示的 CSP 中可以获得什么信息？\n![图 4（真题卷 p11）](attachments/exam-2025-p11.png)",
     "a": "答案 / Answer (2 pt)\nCSP = 游离态与结合态酰胺共振的加权化学位移差：CSP = √[(δH)² + (0.14·δN)²]。图 4B 的 CSP 沿序列分布给出结合界面残基（位移大的残基直接参与 DNA 结合）。\nCSP=加权位移差；分布定位结合界面。\nWHY：结合改变界面残基化学环境 → 位移大的残基即在界面。\nWHY：位移大的残基在界面。"
    },
    {
@@ -1573,7 +1573,7 @@
     "id": "Exam 2025-12-15 (Solutions).md::## Q7::14",
     "type": "qa",
     "q_en": "Question 7 (2 points): Considering firstly the spectra of the free form in Fig 4(C), describe differences between spectra at 20°C and 37°C, respectively. What is this due to?",
-    "q_zh": "问题 7（2 分）：首先考虑图 4(C) 中游离态的谱图，描述 20°C 和 37°C 谱图之间的差异。这是什么原因造成的？",
+    "q_zh": "问题 7（2 分）：首先考虑图 4(C) 中游离态的谱图，描述 20°C 和 37°C 谱图之间的差异。这是什么原因造成的？\n![图 4（真题卷 p11）](attachments/exam-2025-p11.png)",
     "a": "答案 / Answer (2 pt)\n温度升高（20→37°C）游离态谱出现峰位移/展宽/强度变化，源于构象交换速率加快或温度依赖的化学位移/动力学变化（游离态本身较柔性）。\n温度升高谱变化 → 构象交换/动力学变化。\nWHY：游离 IDP/柔性域的构象交换对温度敏感。\nWHY：游离态构象交换对温度敏感。"
    },
    {
@@ -1587,7 +1587,7 @@
     "id": "Exam 2025-12-15 (Solutions).md::## Q9::16",
     "type": "qa",
     "q_en": "Question 9 (1 point): Are your observations in accordance with the data shown in Fig 1 (B and C)?",
-    "q_zh": "问题 9（1 分）：你的观察与图 1（B 和 C）所示的数据一致吗？",
+    "q_zh": "问题 9（1 分）：你的观察与图 1（B 和 C）所示的数据一致吗？\n![图 1（真题卷 p11）](attachments/exam-2025-p11.png)",
     "a": "答案 / Answer (1 pt)\n一致：DNA 结合使 Sox2 更稳定（图 1 中结合态熔点更高、解析叠比例更低），与\"结合刚性化\"结论吻合。\n一致：结合态更稳定。\nWHY：NMR 动力学结论与热稳定性数据相互印证。\nWHY：NMR 动力学与热稳定性互证。"
    },
    {
@@ -1615,14 +1615,14 @@
     "id": "Exam 2025-12-15 (Solutions).md::## Q13::20",
     "type": "qa",
     "q_en": "Question 13 (2 points): What do the data shown in Figures 6(A) and 6(B) suggest?",
-    "q_zh": "问题 13（2 分）：图 6(A) 和 6(B) 所示的数据说明了什么？",
+    "q_zh": "问题 13（2 分）：图 6(A) 和 6(B) 所示的数据说明了什么？\n![图 6（真题卷 p13）](attachments/exam-2025-p13.png)",
     "a": "答案 / Answer (2 pt)\n图 6A：¹⁵N-SIM 与未标记 SEP 滴定，SIM 峰随 SEP 加入而移动 → SIM 结合 SEP。图 6B：SIM 基序在含 SEP 的构建中螺旋倾向增加 → SIM（预测为 IDR）在结合 SEP 时诱导形成螺旋（folding upon binding）。\nSIM 结合 SEP 并诱导螺旋（折叠）。\nWHY：位移 + 二级结构倾向变化 = IDR 结合诱导折叠。\nWHY：位移+螺旋倾向增=诱导折叠。"
    },
    {
     "id": "Exam 2025-12-15 (Solutions).md::## Q14::21",
     "type": "qa",
     "q_en": "Question 14 (5 points): In the same context, what can you conclude from the NMR spectra shown in Figure 6(C), as well as the relaxation data shown in Figure 6(D), on the consequences of the two mutations?",
-    "q_zh": "问题 14（5 分）：在同一背景下，从图 6(C) 所示的 NMR 谱以及图 6(D) 所示的弛豫数据中，关于这两个突变的后果你能得出什么结论？",
+    "q_zh": "问题 14（5 分）：在同一背景下，从图 6(C) 所示的 NMR 谱以及图 6(D) 所示的弛豫数据中，关于这两个突变的后果你能得出什么结论？\n![图 6（真题卷 p13）](attachments/exam-2025-p13.png)",
     "a": "答案 / Answer (5 pt)\n图 6C：L122A/F123A 突变使 SEP 峰回到游离位置（红→品红/青）→ 突变破坏 SIM-SEP 相互作用。图 6D：突变体（绿）全长 p47 的 R2/R1 恢复正常（降低） → 消除了 SEP 的异常高 R2/R1（自缔合）。(2 pt)\n突变破坏 SIM-SEP 作用，R2/R1 恢复正常。\n结论：L122、F123 两个疏水残基是 SIM 基序与 SEP 域相互作用的关键（疏水接触）；替换为丙氨酸破坏了 SIM 介导的 SEP 自缔合。(3 pt)\nL122/F123 疏水残基是 SIM-SEP 作用关键。\nWHY：破坏关键疏水残基 → 界面瓦解 → 谱回到游离态 + 弛豫恢复正常，反证这两个残基在界面核心。\nWHY：破坏疏水界面 → 谱回游离 + 弛豫恢复，反证残基在界面。"
    }
   ]
@@ -12922,7 +12922,7 @@
    {
     "id": "Quiz 5 - Reciprocal Space and Structure Factors (Exam).md::6",
     "type": "qa",
-    "q_en": "Now look at the result of the self-rotation function of the C2 crystal form (Figure 1). Do you see the crystallographic symmetry and if yes, where? Is there any non-crystallographic symmetry present inside the asymmetric unit? Describe the orientation of the symmetry axis in a polar coordinate system with theta = psi, phi and kappa = chi angles where chi describes the rotation around the axis described by phi and psi.",
+    "q_en": "Now look at the result of the self-rotation function of the C2 crystal form (Figure 1). Do you see the crystallographic symmetry and if yes, where? Is there any non-crystallographic symmetry present inside the asymmetric unit? Describe the orientation of the symmetry axis in a polar coordinate system with theta = psi, phi and kappa = chi angles where chi describes the rotation around the axis described by phi and psi.\n![图 1（真题卷 p11）](img/exam-2017-p11.png)",
     "q_zh": "7（来源：Exam 2017）\n现在看 C2 晶型的自转函数结果（图 1）。你能看到晶体学对称性吗？如果能，在哪里？不对称单元内部是否存在非晶体学对称性？请用极坐标系（θ = ψ、φ 以及 κ = χ 角，其中 χ 描述绕由 φ 和 ψ 所确定轴线的旋转）描述对称轴的取向。",
     "a": "晶体学对称：χ = 180° 截面、沿 b（即 ψ=θ=90°）出现 2 重峰——对应 C2 的 2 重轴。非晶体学对称（NCS）：若 ASU 内有 2 份拷贝，会看到与晶轴不重合的额外 2 重峰（一般位置，χ=180°），其取向用 (θ=ψ, φ, κ=χ) 极坐标从图读值。\n晶体学 2 重峰在 χ=180°、沿 b；NCS 若 ASU 有 2 拷贝，则有与晶轴不重合的额外 2 重峰。\nWHY：与晶轴重合的峰 = 晶体学对称；不与任何晶轴重合的峰 = 分子本征（非晶体学）对称。\nWHY：重合晶轴的峰是晶体学对称，偏离晶轴的是 NCS。"
    },
@@ -12998,7 +12998,7 @@
    {
     "id": "Quiz 6 - X-ray Data Collection (Exam).md::3",
     "type": "qa",
-    "q_en": "Question I.5 (1 point). From the previously analyzed datasets from Figures I.3 to I.5, what can one conclude on a possible domain-domain interaction in Lysostaphin?",
+    "q_en": "Question I.5 (1 point). From the previously analyzed datasets from Figures I.3 to I.5, what can one conclude on a possible domain-domain interaction in Lysostaphin?\n![图 I.3（真题卷 p11）](img/exam-2018-p11.png)",
     "q_zh": "4（来源：Exam 2018）\n问题 I.5（1 分）。根据先前分析的图 I.3 至 I.5 的数据集，关于 Lysostaphin 中可能存在的结构域-结构域相互作用，可以得出什么结论？",
     "a": "弛豫数据 + HSQC 位移 + 顺磁效应一致表明：CAT 与 CWT 两域间没有唯一、稳定的相对构型，即两域无相互作用——与质谱（H/DX）得出的\"两域相互作用\"结论相反。\nNMR 数据一致表明两域无稳定相互作用，与质谱结论相反。\nWHY：NMR 看的是溶液中的真实接触，多参数交叉验证比单一 H/DX 更可靠。\nWHY：NMR 溶液态多参数交叉验证，比单一 H/DX 更可信。"
    },
@@ -13087,7 +13087,7 @@
    {
     "id": "Quiz 8 - Experimental Phasing MIR SAD MAD (Exam).md::2",
     "type": "qa",
-    "q_en": "Indicate the different energies where you will carry out a MAD experiment directly on Figure 1, which shows the X-ray fluorescence of selenium in function of the energy of the incoming X-ray photons.",
+    "q_en": "Indicate the different energies where you will carry out a MAD experiment directly on Figure 1, which shows the X-ray fluorescence of selenium in function of the energy of the incoming X-ray photons.\n![图 1（真题卷 p11）](img/exam-2017-p11.png)",
     "q_zh": "3（来源：Exam 2017）\n图 1 显示的是硒的 X 射线荧光随入射 X 射线光子能量的变化。请直接在图上标出你将进行 MAD 实验的不同能量位置。",
     "a": "MAD 四个能量：低远端（low remote）、拐点（inflection point）、峰（peak）、高远端（high remote），分别标在硒吸收边 K 边的谱线上（峰在最大吸收处、拐点在上升沿最陡处）。\n标 low remote、inflection、peak、high remote 四个能量于 Se K 边。\nWHY：MAD 用同一晶体在吸收边附近多处测数据，利用反常散射 f'、f'' 随能量的变化解相位。\nWHY：MAD 在吸收边附近多点采数据，靠 f'、f'' 变化解相位。"
    },
@@ -13170,7 +13170,7 @@
    {
     "id": "Quiz 9 - Molecular Replacement (Exam).md::1",
     "type": "qa",
-    "q_en": "The structure present in the pdb entry and the structure obtained from the molecular replacement are compared in Figure 3. Why are the molecules at different positions?",
+    "q_en": "The structure present in the pdb entry and the structure obtained from the molecular replacement are compared in Figure 3. Why are the molecules at different positions?\n![图 3（真题卷 p13）](img/exam-2017-p13.png)",
     "q_zh": "2（来源：Exam 2017）\n图 3 比较了 pdb 条目中的结构和分子置换得到的结构。为什么这些分子处于不同的位置？",
     "a": "分子置换解与沉积的 PDB 结构相比，分子取向/位置不同，是因为原点的选择不同（不同晶型或同一晶型的不同原点设置），实际结构本质相同（绿环=PDB 2ztt，蓝环=MR 解）。\nMR 解与 PDB 结构原点选择不同（或不同晶型），结构本质相同。\nWHY：MR 只求相对位置，原点可任意选择；不同原点导致坐标整体平移。\nWHY：MR 原点可任意选，坐标整体平移不影响结构。"
    },
@@ -13197,14 +13197,14 @@
    {
     "id": "Quiz 10 - Model Building and Refinement (Exam).md::0",
     "type": "qa",
-    "q_en": "A part of the refined structure and the corresponding electron density is shown in Figure 4. What does it tell you about residues 8 and 690?",
+    "q_en": "A part of the refined structure and the corresponding electron density is shown in Figure 4. What does it tell you about residues 8 and 690?\n![图 4（真题卷 p12）](img/exam-2017-p12.png)",
     "q_zh": "1（来源：Exam 2017）\n图 4 显示了精修结构的一部分及相应的电子密度。关于残基 8 和 690，它说明了什么？",
     "a": "看 2mFo−DFc 密度：若两残基密度清晰、可完整建模 → 有序、定义良好；若密度缺失/断裂 → 无序（柔性/末端）。具体结论按卷面密度图判断。\n密度清晰=有序；密度缺失=无序，按图判断。\nWHY：电子密度直接反映原子的有序度，密度好坏是判断残基是否可见的依据。\nWHY：密度反映有序度，决定残基能否建模。"
    },
    {
     "id": "Quiz 10 - Model Building and Refinement (Exam).md::1",
     "type": "qa",
-    "q_en": "What can you say about the loop shown in Figure 5?",
+    "q_en": "What can you say about the loop shown in Figure 5?\n![图 5（真题卷 p14）](img/exam-2017-p14.png)",
     "q_zh": "2（来源：Exam 2017）\n关于图 5 所示的 loop，你能说明什么？",
     "a": "loop 通常密度差、B 因子高 → 柔性/构象不稳定（相比规则二级结构更无序）。\nloop 密度差、B 因子高 → 柔性/无序。\nWHY：loop 是蛋白中运动性最强的区域，晶体学里常缺失密度。\nWHY：loop 运动性强，常密度缺失。"
    },
@@ -13218,7 +13218,7 @@
    {
     "id": "Quiz 10 - Model Building and Refinement (Exam).md::3",
     "type": "qa",
-    "q_en": "Question 11 (2 points): From Figure 6, can you identify some long-range transient contacts between residue 239 and the rest of the protein? Explain!",
+    "q_en": "Question 11 (2 points): From Figure 6, can you identify some long-range transient contacts between residue 239 and the rest of the protein? Explain!\n![图 6（真题卷 p7）](img/exam-2023-p7.png)",
     "q_zh": "4（来源：Exam 2023）\n问题 11（2 分）：从图 6 中，你能识别出残基 239 与蛋白其余部分之间的一些长程瞬时接触吗？请解释！",
     "a": "自旋标记蛋白在 N 端与插入区 I1（其次 I2）出现强度下降 (1 pt) → 蛋白这部分折叠到自旋标记所在的富脯氨酸区 P2 上 (1 pt)。\nN 端、I1 与 P2（239 标记处）有长程瞬时接触。\nWHY：距标记位 >10 残基的强度下降=长程接触（IDP 中的瞬时折叠）。\nWHY：远距强度降=长程瞬时接触。"
    },
@@ -13405,21 +13405,21 @@
    {
     "id": "Quiz 12 - NMR Principles (Exam).md::0",
     "type": "qa",
-    "q_en": "Based on the information in Figure I.1.C, is the protein structured or not? Is this a requirement to study protein-ligand or protein-protein interaction? Justify your answers.",
+    "q_en": "Based on the information in Figure I.1.C, is the protein structured or not? Is this a requirement to study protein-ligand or protein-protein interaction? Justify your answers.\n![图 I.1.C（真题卷 p6）](img/exam-2016-p6.png)",
     "q_zh": "1（来源：Exam 2016）\n根据图 I.1.C 的信息，该蛋白是否有折叠结构？这是研究蛋白-配体或蛋白-蛋白相互作用的必要条件吗？论证你的答案。",
     "a": "¹⁵N-HSQC 谱在 ¹H 维有良好的信号分散，尤其 7.5–8.5 ppm 之外有峰 → 蛋白基本折叠（可能含 β 折叠）。(1 pt)\n¹⁵N-HSQC 的 ¹H 维信号分散好、7.5–8.5 ppm 外有峰 → 蛋白基本折叠（或含 β 片）。（1 分）\n折叠不是研究配体/蛋白相互作用的硬性要求——只要能看到并追踪化学位移变化，原则上都能用化学位移作图；只是未折叠蛋白信号分散小，做起来更难。(1 pt)\n折叠不是必需——化学位移作图原则上折叠与否都行；未折叠蛋白信号拥挤，难度更大。（1 分）\nWHY：随机卷曲的 ¹H 化学位移挤在 7.5–8.5 ppm 窄区间；分散的酰胺质子峰（>8.5 或 <7.5 ppm）是二级结构（尤其 β 片）的标志。\nWHY：无规卷曲酰胺质子挤在 7.5–8.5 ppm；分散峰是折叠/β 片的标志。"
    },
    {
     "id": "Quiz 12 - NMR Principles (Exam).md::1",
     "type": "qa",
-    "q_en": "Figure II.1 below indicates the different steps of a typical protocol for the determination of the three-dimensional structure of protein-protein complexes from NMR data.\nII.1 – Structure determination of individual subunits. Briefly describe how to proceed to determine the structure of a small protein (≈ 120 residues) once the complete backbone and side-chain assignment has been obtained. Indicate at least two NMR parameters that need to be measured and the nature of the structural information that they provide.",
+    "q_en": "Figure II.1 below indicates the different steps of a typical protocol for the determination of the three-dimensional structure of protein-protein complexes from NMR data.\nII.1 – Structure determination of individual subunits. Briefly describe how to proceed to determine the structure of a small protein (≈ 120 residues) once the complete backbone and side-chain assignment has been obtained. Indicate at least two NMR parameters that need to be measured and the nature of the structural information that they provide.\n![图 II.1（真题卷 p23）](img/exam-2017-p23.png)",
     "q_zh": "2（来源：Exam 2017）\n下面的图 II.1 展示了从 NMR 数据测定蛋白-蛋白复合物三维结构的典型流程的不同步骤。\nII.1 – 单个亚基的结构测定。在获得完整的骨架和侧链归属后，请简要描述如何着手测定一个小蛋白（约 120 个残基）的结构。请指出至少两个需要测量的 NMR 参数，以及它们所提供的结构信息的性质。",
     "a": "① 用 HN、N、Cα、Cβ、CO 的化学位移算 CSI 或 TALOS+，得 φ/ψ 与二级结构（经 Ramachandran 图）。② 采 3D NOESY（脂肪 C-NOESY、芳香 C-NOESY、N-NOESY），用 UNIO 自动指认交叉峰并量体积 → 标定后得核间距离。③ 把这些约束输入 UNIO / X-PLOR NIH / CNS 计算结构。\n化学位移（CSI/TALOS+）得 φ/ψ；3D NOESY 得距离；两者输入程序算结构。\n补充参数：³J_HN-Hα 标量耦合 + Karplus 公式得二面角；RDC 得键矢量相对取向；PRE 得长程距离。\n补充：³J+Karplus 得角；RDC 得取向；PRE 得长程距离。\nWHY：结构计算需要\"角度 + 距离 + 取向\"三类约束，来自不同 NMR 参数。\nWHY：角度+距离+取向三类约束缺一不可。"
    },
    {
     "id": "Quiz 12 - NMR Principles (Exam).md::2",
     "type": "qa",
-    "q_en": "Question 6 (2 points): Which RNA construct (U9 or U13) would you choose for structural studies of the protein-RNA complex? Consider the spectra shown in Figure 2 but also aspects like molecular size and complexity. Briefly explain your choice.",
+    "q_en": "Question 6 (2 points): Which RNA construct (U9 or U13) would you choose for structural studies of the protein-RNA complex? Consider the spectra shown in Figure 2 but also aspects like molecular size and complexity. Briefly explain your choice.\n![图 2（真题卷 p11）](img/exam-2024-p11.png)",
     "q_zh": "3（来源：Exam 2024）\n问题 6（2 分）：对于蛋白质-RNA 复合物的结构研究，你会选择哪种 RNA 构建体（U9 还是 U13）？考虑图 2 所示的谱图，也要考虑分子大小和复杂性等方面。简要解释你的选择。",
     "a": "两 RNA 作用方式相似（同位点、相似亲和力）(1 pt)。应选更小的 U9 (1 pt)，因为小分子对复合物弛豫性质影响小。\n选更小的 U9（弛豫性质更好）。\nWHY：越小越利于 NMR（线宽、弛豫），尤其对蛋白质-RNA 大复合物。\nWHY：越小越利于 NMR 弛豫与线宽。"
    }
@@ -13432,7 +13432,7 @@
    {
     "id": "Quiz 13 - NMR Observables (Exam).md::0",
     "type": "qa",
-    "q_en": "Regarding the inhibitor considered in Figure I.1.C, characterize the exchange regime (fast, intermediate, slow) for the complex between the protein and this inhibitor for resonances 1 and 2. What can you a priori conclude qualitatively on the strength of the interaction between the inhibitor and the protein?",
+    "q_en": "Regarding the inhibitor considered in Figure I.1.C, characterize the exchange regime (fast, intermediate, slow) for the complex between the protein and this inhibitor for resonances 1 and 2. What can you a priori conclude qualitatively on the strength of the interaction between the inhibitor and the protein?\n![图 I.1.C（真题卷 p6）](img/exam-2016-p6.png)",
     "q_zh": "1（来源：Exam 2016）\n关于图 I.1.C 中的抑制剂，判断蛋白-抑制剂复合物在共振 1 和 2 处的交换速率（快/中/慢）。关于抑制剂与蛋白相互作用的强度，你事先能定性得出什么结论？",
     "a": "共振 1 = 快交换（fast），共振 2 = 中等交换（intermediate）；蛋白与抑制剂的亲和力弱到中等。\n共振 1 快交换，共振 2 中等交换；亲和力弱到中等。\nWHY：快交换时峰连续移动（一个峰随配体浓度平滑移位）；中等交换峰变宽甚至消失；慢交换则出现新旧两个峰。强度：快交换↔弱结合（Kd 大），慢交换↔强结合。\nWHY：快交换=单峰平滑移动（弱结合）；中交换=峰展宽/消失；慢交换=双峰（强结合）。"
    },
@@ -13473,7 +13473,7 @@
    {
     "id": "Quiz 14 - 2D NMR (Exam).md::0",
     "type": "qa",
-    "q_en": "Question I.3 (2 points). Comment on the overlay of the HSQC spectra shown in Figure I.4. What is the information obtained?",
+    "q_en": "Question I.3 (2 points). Comment on the overlay of the HSQC spectra shown in Figure I.4. What is the information obtained?\n![图 I.4（真题卷 p12）](img/exam-2018-p12.png)",
     "q_zh": "1（来源：Exam 2018）\n问题 I.3（2 分）。评论图 I.4 所示的 HSQC 谱叠加。所获得的信息是什么？",
     "a": "全长中 CWT 域只有 403、411、414 三个残基受 CAT 共价连接影响，且化学位移变化极弱 → CWT 域结构在全长蛋白中保持不变；受影响残基太少，不足以定义两域相互作用面。\n仅 3 残基极弱位移 → CWT 结构不变，无稳定界面。\nWHY：若两域有稳定相互作用，界面应有成片显著位移；只有零星弱位移说明无接触。\nWHY：有界面应成片位移；零星弱位移=无接触。"
    },
@@ -13487,7 +13487,7 @@
    {
     "id": "Quiz 14 - 2D NMR (Exam).md::2",
     "type": "qa",
-    "q_en": "Question II.1 (2 points). What do the two schematic spectra shown at the bottom of Figure II.1.a correspond to?",
+    "q_en": "Question II.1 (2 points). What do the two schematic spectra shown at the bottom of Figure II.1.a correspond to?\n![图 II.1.a（真题卷 p13）](img/exam-2018-p13.png)",
     "q_zh": "3（来源：Exam 2018）\n问题 II.1（2 分）。图 II.1.a 底部所示的两个示意谱对应什么？",
     "a": "上谱 = 参照谱（reference）：在远离蛋白与聚糖任何质子共振处饱和，得到的是含少量蛋白时配体的谱。下谱 = 差谱（difference）：on-resonance（饱和蛋白甲基）谱减去参照谱。\n上=参照谱（远端饱和）；下=差谱（on−off）。\nWHY：STD 谱的本质就是 on-resonance 与 off-resonance 的差值。\nWHY：STD 差谱 = on − off。"
    },
@@ -13515,7 +13515,7 @@
    {
     "id": "Quiz 14 - 2D NMR (Exam).md::6",
     "type": "qa",
-    "q_en": "Question 3 (3 points): In Fig 1c, the ratio of peak intensities measured in the 1H,15N-HSQC spectra shown in Fig. 1b is plotted as a function of the protein sequence (black bars; do NOT consider the grey line here). Which domains interact with MTs? How would you describe the interaction (strong/weak/dynamic ...)? Consider the size of the MTs. Hint: What would you expect to see in an NMR spectrum if a small, well-folded protein would tightly bind to the MTs shown in Fig 1a?",
+    "q_en": "Question 3 (3 points): In Fig 1c, the ratio of peak intensities measured in the 1H,15N-HSQC spectra shown in Fig. 1b is plotted as a function of the protein sequence (black bars; do NOT consider the grey line here). Which domains interact with MTs? How would you describe the interaction (strong/weak/dynamic ...)? Consider the size of the MTs. Hint: What would you expect to see in an NMR spectrum if a small, well-folded protein would tightly bind to the MTs shown in Fig 1a?\n![图 1c（真题卷 p4）](img/exam-2023-p4.png)\n![图 1b（真题卷 p4）](img/exam-2023-p4.png)\n![图 1a（真题卷 p4）](img/exam-2023-p4.png)",
     "q_zh": "7（来源：Exam 2023）\n问题 3（3 分）：在图 1c 中，将在图 1b 所示 ¹H,¹⁵N-HSQC 谱中测得的峰强度比值作为蛋白序列的函数作图（黑色柱；此处不要考虑灰线）。哪些结构域与微管相互作用？你如何描述这种相互作用（强/弱/动态……）？考虑微管的尺寸。提示：如果一个小而折叠良好的蛋白与图 1a 所示微管紧密结合，你预期在 NMR 谱中会看到什么？",
     "a": "作用域：P2 富脯氨酸区（V229、R230）、R1（~245）、R1-R2 交界（Q276、I278）、R2-R3 交界（309-315）；P1、R4、R′ 有较小作用。(1 pt)\nP2、R1、R1-R2 交界、R2-R3 交界。\n作用残基强度下降约 60%（Tau:tubulin 2:1，1.3 mM）→ 约一半 Tau 结构域被 tubulin 扣留 → 相互作用弱且动态（mM 级）(1 pt)。未结合部分峰不位移、仍很窄 → 仍高度柔性。若小折叠蛋白紧密结合 MT，会看到所有峰完全消失。(1 pt)\n弱且动态（mM 级）；紧密结合会全峰消失。\nWHY：强度下降 60% 而非 100% = 只有部分分子结合 = 弱亲和动态平衡。\nWHY：部分下降=弱亲和动态平衡。"
    },
@@ -13549,7 +13549,7 @@
    {
     "id": "Quiz 15 - NMR Isotopic Labeling (Exam).md::1",
     "type": "qa",
-    "q_en": "Compare the TROSY spectra shown in Figure I.1.1 in the absence and in the presence of Gd³⁺. Answer in particular the following questions: a- What is the result of the addition of Gd³⁺? b- What is the origin of the observed effect? c- Which type of information is obtained from the I*/I₀ ratio?",
+    "q_en": "Compare the TROSY spectra shown in Figure I.1.1 in the absence and in the presence of Gd³⁺. Answer in particular the following questions: a- What is the result of the addition of Gd³⁺? b- What is the origin of the observed effect? c- Which type of information is obtained from the I*/I₀ ratio?\n![图 I.1.1（真题卷 p11）](img/exam-2019-p11.png)",
     "q_zh": "2（来源：Exam 2019）\n比较图 I.1.1 中无 Gd³⁺ 和有 Gd³⁺ 时的 TROSY 谱。特别回答以下问题：a- 加入 Gd³⁺ 的结果是什么？b- 所观测效应的来源是什么？c- 从 I*/I₀ 比值可获得哪类信息？",
     "a": "a. 加 Gd³⁺ 后，特定位置的峰强度下降（主要是叠加谱中的红色峰）。(1 pt)\n加 Gd³⁺ 后特定峰强度下降。（1 分）\nb. 原因是 Gd³⁺ 的顺磁性（PRE 效应）——金属离子上自由电子使 T2（及 T1）弛豫增强，靠近 Gd³⁺ 的残基峰展宽、强度下降。(1 pt)\nGd³⁺ 顺磁（PRE），近处残基峰展宽下降。（1 分）\nc. I\\*/I₀ 比值 ∝ 1/r³（r = Gd³⁺ 与酰胺基团的距离）→ 给出距离信息，距离越近比值越低，从而绘制膜在 K-RAS4B 上的作用位点图。(1 pt)\nI*/I0∝1/r³，得距离信息，映射膜作用位点。（1 分）\nWHY：PRE 效应距离依赖，用强度比值反推\"谁靠近膜表面\"。\nWHY：PRE 距离依赖，比值反推膜接触位点。"
    },
@@ -13563,7 +13563,7 @@
    {
     "id": "Quiz 15 - NMR Isotopic Labeling (Exam).md::3",
     "type": "qa",
-    "q_en": "Which isotopes should be introduced in the Spy protein in order to obtain the spectral information shown in Figure 1? Motivate your suggestion(s).",
+    "q_en": "Which isotopes should be introduced in the Spy protein in order to obtain the spectral information shown in Figure 1? Motivate your suggestion(s).\n![图 1（真题卷 p3）](img/exam-2020-p3.png)",
     "q_zh": "4（来源：Exam 2020）\n为了获得图 1 所示的谱信息，应在 Spy 蛋白中引入哪些同位素？请说明你的建议的理由。",
     "a": "¹⁵N 标记（检测 [¹H,¹⁵N] 相关谱的最低要求）。体系较大（Spy 二聚体 140×2 + Im7 87 ≈ 40 kDa）→ 还需氘代，并可利用 TROSY 效应优化弛豫路径。\n¹⁵N 最低要求；40 kDa 大体系需氘代 + TROSY。\nWHY：大分子线宽大、谱难分辨，氘代 + TROSY 是解析大蛋白的标准组合。\nWHY：大分子需氘代+TROSY 改善谱质。"
    },
@@ -13577,28 +13577,28 @@
    {
     "id": "Quiz 15 - NMR Isotopic Labeling (Exam).md::5",
     "type": "qa",
-    "q_en": "From the comparison of the two 1H,15N-TROSY spectra shown in Figure I.2, can you conclude whether the two domains within the full-length construct interact or are independent?",
+    "q_en": "From the comparison of the two 1H,15N-TROSY spectra shown in Figure I.2, can you conclude whether the two domains within the full-length construct interact or are independent?\n![图 I.2（真题卷 p3）](img/exam-2021-p3.png)",
     "q_zh": "6（来源：Exam 2021）\n通过比较图 I.2 所示的两张 1H,15N-TROSY 谱，你能判断全长构建体中两个结构域是相互作用的还是独立的吗？",
     "a": "Cre 与 CreCat 的 TROSY 谱完全叠加（无化学位移变化、或仅极少数残基极微小变化），也无明显线宽变化（若结合，分子量增 14 kDa 应使线宽增大）→ 全长中两结构域相互独立。\n谱叠加无位移无线宽变化 → 两域独立。\nWHY：域间有相互作用会产生化学位移扰动与线宽变化，都没有说明无接触。\nWHY：有作用会有位移+线宽变化，都没有=独立。"
    },
    {
     "id": "Quiz 15 - NMR Isotopic Labeling (Exam).md::6",
     "type": "qa",
-    "q_en": "Comparing the observed PREs in the presence and in the absence of DNA, what can you conclude? Consider the location of the spin label (green arrow in Figure I.5.A and I.5.B) and the crystal structure shown in Figure I.1.",
+    "q_en": "Comparing the observed PREs in the presence and in the absence of DNA, what can you conclude? Consider the location of the spin label (green arrow in Figure I.5.A and I.5.B) and the crystal structure shown in Figure I.1.\n![图 I.5.A（真题卷 p6）](img/exam-2021-p6.png)\n![图 I.1（真题卷 p3）](img/exam-2021-p3.png)",
     "q_zh": "7（来源：Exam 2021）\n比较在有无 DNA 时观测到的 PRE，你能得出什么结论？请考虑自旋标签的位置（图 I.5.A 与 I.5.B 中的绿色箭头）以及图 I.1 所示的晶体结构。",
     "a": "无 DNA（单体）：低 PRE 区 = C 端 linker、αH、αJ/αK N 端、αM → 由晶体结构（C 图）知 αN 位于 DNA 结合位点。\n单体：αN 占据 DNA 结合位点。\n有 DNA（四聚体）：低 PRE 区 = αF、αG、β1-β2、αI、αL → αN 停靠在单体另一侧（背离 DNA 结合位点）的面上。αN 因接触相邻亚基而移到此替代位置 → DNA 结合只能在四聚体中发生，单体中 DNA 结合位点被 αN 遮蔽。\n四聚体：αN 移开、暴露 DNA 位点 → 仅四聚体能结合 DNA。\nWHY：对比单体/四聚体的 PRE 分布，追踪 αN 螺旋的\"位置切换\"，解释为何单体不能结合 DNA。\nWHY：PRE 追踪 αN 位置切换，解释单体不能结合 DNA。"
    },
    {
     "id": "Quiz 15 - NMR Isotopic Labeling (Exam).md::7",
     "type": "qa",
-    "q_en": "Question 1 (3 points): Tau is a huge protein compared to NMR standards. Here, the 1H,15N-HSQC experiment was obtained on a 15N-labelled protein without deuteration, and a well resolved spectrum was obtained as shown in Fig. 1 on the left. What is the reason for this? What would you observe for a well-folded protein of 50 kDa under identical conditions?",
+    "q_en": "Question 1 (3 points): Tau is a huge protein compared to NMR standards. Here, the 1H,15N-HSQC experiment was obtained on a 15N-labelled protein without deuteration, and a well resolved spectrum was obtained as shown in Fig. 1 on the left. What is the reason for this? What would you observe for a well-folded protein of 50 kDa under identical conditions?\n![图 1（真题卷 p3）](img/exam-2023-p3.png)",
     "q_zh": "8（来源：Exam 2023）\n问题 1（3 分）：与 NMR 的标准样品相比，Tau 是一个巨大的蛋白质。这里，¹H,¹⁵N-HSQC 实验是在未氘代的 ¹⁵N 标记蛋白上获得的，却得到了如图 1 左图所示分辨良好的谱图。原因是什么？在相同条件下，对于一个折叠良好的 50 kDa 蛋白，你会观察到什么？",
     "a": "Tau 是 50 kDa 的固有无序蛋白（IDP）。pH 6 采谱以限制酰胺质子与水交换 (1 pt)；因骨架高度柔性（局部动力学快），酰胺共振尖锐 (1 pt)；且 ¹H 共振分散不大（主要挤在 8.0–8.5 ppm）。同样条件下，折叠良好的 50 kDa 蛋白信号会极宽、宽到不可见 (1 pt)。\nIDP 骨架柔性 → 峰尖；折叠 50 kDa 蛋白则线宽大到不可见。\nWHY：线宽 ∝ 翻滚相关时间 τc；无序蛋白局部快运动使 τc 小、峰尖。\nWHY：线宽∝τc，无序蛋白局部快运动峰尖。"
    },
    {
     "id": "Quiz 15 - NMR Isotopic Labeling (Exam).md::8",
     "type": "qa",
-    "q_en": "Question 2 (3 points): Fig. 1b compares the 1H,15N-HSQC spectra of 15N-labelled Tau in the absence (black) and in the presence (grey) of stabilized MTs (see Fig. 1a). What do you observe and what is a possible reason for the differences between the two spectra? Does Tau interact with MTs?",
+    "q_en": "Question 2 (3 points): Fig. 1b compares the 1H,15N-HSQC spectra of 15N-labelled Tau in the absence (black) and in the presence (grey) of stabilized MTs (see Fig. 1a). What do you observe and what is a possible reason for the differences between the two spectra? Does Tau interact with MTs?\n![图 1b（真题卷 p4）](img/exam-2023-p4.png)\n![图 1a（真题卷 p4）](img/exam-2023-p4.png)",
     "q_zh": "9（来源：Exam 2023）\n问题 2（3 分）：图 1b 比较了 ¹⁵N 标记的 Tau 在无（黑）和有（灰）稳定微管（MT）时的 ¹H,¹⁵N-HSQC 谱（见图 1a）。你观察到什么？两张谱图之间差异的一个可能原因是什么？Tau 是否与微管相互作用？",
     "a": "加 MT 后某些共振（V229、R230、Q276、I278、V309、Y310、K311、L315）消失（灰谱中变宽不可测）(1 pt) → 这些残基所在片段与 MT 作用 (1 pt)。MT 是极大物体，使这些残基峰因化学交换或运动受限而消失。→ Tau 与 MT 相互作用。\n这些残基峰消失 → 其片段与 MT 作用。\nWHY：结合到巨大物体（MT）上 → 有效 τc 剧增 → 峰展宽消失。\nWHY：结合巨大物体 → τc 剧增 → 峰消失。"
    },
@@ -13625,28 +13625,28 @@
    {
     "id": "Quiz 16 - NMR Parameters I (Exam).md::0",
     "type": "qa",
-    "q_en": "Based on the information in Figure I.1, propose an experimental approach for an NMR-based screening of the ten substances and subsequent characterization of a complex, considering that you have one or two 5 µM samples of unlabeled protein and one sample of 0.5 mM 15N-labeled protein. Describe in particular:\na. The samples that you will prepare from the available samples (specify approximate concentrations of the molecules that you will use in the prepared samples);\nb. The NMR experiments that you would perform in a chronological order (eventually specify important details for the data collection);\nc. The expected information that you will retrieve from each experiment and eventual limitations.",
+    "q_en": "Based on the information in Figure I.1, propose an experimental approach for an NMR-based screening of the ten substances and subsequent characterization of a complex, considering that you have one or two 5 µM samples of unlabeled protein and one sample of 0.5 mM 15N-labeled protein. Describe in particular:\na. The samples that you will prepare from the available samples (specify approximate concentrations of the molecules that you will use in the prepared samples);\nb. The NMR experiments that you would perform in a chronological order (eventually specify important details for the data collection);\nc. The expected information that you will retrieve from each experiment and eventual limitations.\n![图 I.1（真题卷 p5）](img/exam-2016-p5.png)",
     "q_zh": "1（来源：Exam 2016）\n根据图 I.1 的信息，提出一个基于 NMR 的十种物质筛选及后续复合物表征的实验方案（考虑你有 1-2 份 5 µM 未标记蛋白样和 1 份 0.5 mM 15N 标记蛋白样）。特别描述：\na. 你要从现有样品制备哪些样品（注明制备样品中分子的近似浓度）；\nb. 按时间顺序要做的 NMR 实验（可注明数据采集的重要细节）；\nc. 每个实验能获得的预期信息及可能的局限。",
     "a": "Step 1（3 pt）配体指纹：每种配体配 500 µL、1 mM 的 DMSO-d6 溶液（5 µL 的 100 mM 母液 + 495 µL DMSO-d6），采 1D ¹H 谱得到每个配体的化学位移\"指纹\"，并圈出无配体信号的区域供后续 STD 使用。\n先采每个配体的 1D ¹H 谱做指纹，并确定无配体共振的区域用于 STD。（3 分）\nStep 1bis：采 0.2 mM ¹⁵N 标记蛋白的 1D ¹H 谱（¹H 采集中对 ¹⁵N 去耦）。\n采 ¹⁵N 标记蛋白 1D 谱，¹H 通道对 ¹⁵N 去耦。\nStep 2（4 pt）STD 筛选：配 500 µL 含 10 种配体（各 5 mM）+ 未标记蛋白（2.5 µM）的混合样；on-resonance 选在蛋白信号处（如 ~0 ppm 甲基区、避开配体），off-resonance 选无任何信号处；差值（或相位循环直接取差）得 STD 谱。目的是找出真正结合的配体，STD 信号强度反映亲和力强弱。\nSTD 实验：10 配体混合 + 未标记蛋白，on/off 共振相减，找出结合配体并按信号强度排序亲和力。（4 分）\nStep 3（3 pt）HSQC 滴定定位：用 0.2 mM ¹⁵N 标记蛋白，逐次加入 0.1–100 当量最佳配体，每次采 ¹⁵N-HSQC，追踪化学位移变化（chemical shift mapping），沿序列画 Δδ 图并标到结构上定义结合面；若加几当量后达平台可测 Kd。\n¹⁵N-HSQC 滴定：追踪化学位移随配体浓度变化，映射结合界面，可求 Kd。（3 分）\nWHY：片段通常亲和力弱（μM–mM），STD 灵敏度高、适合快速\"捞\"结合片段；HSQC 滴定则精确定位结合残基。两步接力。\nWHY：片段亲和力弱，STD 灵敏适合初筛；HSQC 滴定精确定位界面，两步接力。"
    },
    {
     "id": "Quiz 16 - NMR Parameters I (Exam).md::1",
     "type": "qa",
-    "q_en": "How do you interpret the results shown in Figure II.2?",
+    "q_en": "How do you interpret the results shown in Figure II.2?\n![图 II.2（真题卷 p7）](img/exam-2016-p7.png)",
     "q_zh": "2（来源：Exam 2016）\n你如何解释图 II.2 所示的结果？",
     "a": "峰随浓度连续移动 → 在无其它组分时说明形成了更高分子量的聚集体，即 VirB7 寡聚化。峰渐变说明系统处于快交换，故不是高亲和力复合物。把移动残基标到表面发现两个接触区：40–47（柔性 N 端区） 和 85–95（近 C 端），可提出头-尾二聚（head-to-tail dimer） 模型。\n峰随浓度渐变=快交换的寡聚化；两个接触区 40–47 与 85–95 → 头尾二聚模型。\nWHY：浓度依赖 + 快交换 = 弱、可逆的自组装；接触残基的空间分布决定二聚的拓扑（头尾 vs 头头）。\nWHY：浓度依赖快交换=弱可逆自组装；接触残基分布决定二聚拓扑。"
    },
    {
     "id": "Quiz 16 - NMR Parameters I (Exam).md::2",
     "type": "qa",
-    "q_en": "Analyze Figure II.3. What can you conclude on the structural and dynamical characteristics of VirB7 and VirB9 before and after complex formation? You may also consult Figure II.1 in order to help you interpreting the results shown in Figure II.3.F.",
+    "q_en": "Analyze Figure II.3. What can you conclude on the structural and dynamical characteristics of VirB7 and VirB9 before and after complex formation? You may also consult Figure II.1 in order to help you interpreting the results shown in Figure II.3.F.\n![图 II.3（真题卷 p9）](img/exam-2016-p9.png)\n![图 II.1（真题卷 p7）](img/exam-2016-p7.png)\n![图 II.3.F（真题卷 p9）](img/exam-2016-p9.png)",
     "q_zh": "3（来源：Exam 2016）\n分析图 II.3。关于 VirB7 和 VirB9 在复合物形成前后的结构和动力学特征，你能得出什么结论？你也可以参考图 II.1 来帮助你解释图 II.3.F 所示的结果。",
     "a": "VirB7：图 II.3.A/B 显示与 VirB9 有相互作用，C 图显示是 VirB7 的 N 端与 VirB9 作用（化学位移作图定位界面）；化学位移变化大 → N 端发生显著构象变化。图 II.3.F 显示前 40 个残基高度柔性（异核 NOE ≤ 0），40–50 残基中等构象交换、信号弱；结合 VirB9 后 30–40 残基变有序（异核 NOE 趋近 1），与化学位移大变化一致；蛋白其余部分不受影响。\nVirB7 的 N 端与 VirB9 作用并发生大的构象变化；结合后 30–40 残基由柔性变有序（NOE 趋 1），其余部分不变。（VirB7 部分）\nVirB9CT：单独时 ¹H,¹⁵N-HSQC 线宽/强度极不均匀、还有峰缺失 → 部分折叠；加入 VirB7NT（24–49）后谱变得分散好、线宽均匀 → 典型折叠良好谱，即 VirB9CT 在与 VirB7 N 端作用后诱导折叠。\nVirB9CT 单独部分折叠，加 VirB7NT 后诱导折叠成良好结构。（VirB9 部分）\n总结：复合物中两个蛋白都变得结构良好 → 复合物结构可解；相互作用稳定了双方。\n复合物中两蛋白都被稳定、结构良好，可解复合物结构。\nWHY：异核 NOE 和谱分散度是\"折叠 ↔ 无序\"的判据；诱导折叠（folding upon binding）是固有无序蛋白的经典行为。\nWHY：用 NOE 与谱分散判断折叠状态；\"结合诱导折叠\"是 IDP 的典型现象。"
    },
    {
     "id": "Quiz 16 - NMR Parameters I (Exam).md::3",
     "type": "qa",
-    "q_en": "Does any of the three peptides shown in Figure I.1 interact with TTR? Give a brief justification for your answer.",
+    "q_en": "Does any of the three peptides shown in Figure I.1 interact with TTR? Give a brief justification for your answer.\n![图 I.1（真题卷 p21）](img/exam-2017-p21.png)",
     "q_zh": "4（来源：Exam 2017）\n图 I.1 所示三种肽中是否有任何一种与 TTR 相互作用？请简要说明理由。",
     "a": "只有肽 (3) Aβ(12-28) 在 STD 谱有信号 → 它结合 TTR；肽 (1)、(2) 无 STD 信号 → 不结合。说明 C 端最后 8 个氨基酸对结合重要。\n仅 Aβ(12-28) 结合 TTR，说明 C 端末 8 残基关键。\nWHY：有 STD 信号 = 有结合；三种肽覆盖不同区段，反推出结合决定区。\nWHY：有 STD 信号即结合；比对三段序列定位关键区。"
    },
@@ -13688,7 +13688,7 @@
    {
     "id": "Quiz 16 - NMR Parameters I (Exam).md::9",
     "type": "qa",
-    "q_en": "III.2 – Detailed parameters determined from 15N relaxation measurements are reported in Figure III.1 below.\nIII.2.a – What can you say about the relative internal dynamics of W60G β2-microglobulin?",
+    "q_en": "III.2 – Detailed parameters determined from 15N relaxation measurements are reported in Figure III.1 below.\nIII.2.a – What can you say about the relative internal dynamics of W60G β2-microglobulin?\n![图 III.1（真题卷 p25）](img/exam-2017-p25.png)",
     "q_zh": "10（来源：Exam 2017）\nIII.2 – 从 15N 弛豫测量确定的详细参数见下图 III.1。\nIII.2.a – 关于 W60G β2-微球蛋白的相对内部动力学，你能说明什么？",
     "a": "除 N 端、C 端 NOE 值较低（柔性）外，W60G β2-微球蛋白整体呈球状、致密、刚性行为；约 15、55、60 号残基附近缺数据，可能是谱峰重叠或与溶剂化学交换所致。\nW60G 整体球状刚性，仅 N/C 端柔性；15/55/60 附近缺数据（重叠或交换）。\nWHY：刚性区 NOE 高且均匀；末端 NOE 低是末端自由摆动。\nWHY：刚性区 NOE 高而匀，末端低。"
    },
@@ -13716,14 +13716,14 @@
    {
     "id": "Quiz 16 - NMR Parameters I (Exam).md::13",
     "type": "qa",
-    "q_en": "What can you conclude on the relative orientation of K-RAS4B at the bilayer surface from the result of the HADDOCK calculation shown in Figure I.1.2? Is this result in accordance with what you would expect inspecting the distribution of I*/I₀ shown in Fig. I.1.1.C?",
+    "q_en": "What can you conclude on the relative orientation of K-RAS4B at the bilayer surface from the result of the HADDOCK calculation shown in Figure I.1.2? Is this result in accordance with what you would expect inspecting the distribution of I*/I₀ shown in Fig. I.1.1.C?\n![图 I.1.2（真题卷 p11）](img/exam-2019-p11.png)\n![图 I.1.1.C（真题卷 p4）](img/exam-2019-p4.png)",
     "q_zh": "14（来源：Exam 2019）\n从图 I.1.2 所示 HADDOCK 计算结果，你能对 K-RAS4B 在双分子层表面的相对取向得出什么结论？这一结果与你检视图 I.1.1.C 中 I*/I₀ 分布所预期的一致吗？",
     "a": "K-RAS4B 以多种取向与膜表面作用：(1 pt) 要么用螺旋（α3-α4-α5）界面，要么用β 片界面。(1 pt) 第一种构象暴露伴侣结合区（可结合），第二种保护伴侣结合区（阻止结合）。低 I\\*/I₀ 的残基来自 N 端、β2-β3、α3-β5、α4-β6、HVR C 端——这些区域不能同时靠近膜，与 I\\*/I₀ 分布一致。(1 pt)\n多取向：螺旋界面或 β 界面；两种构象交替，与 I*/I0 分布一致。\nWHY：不同构象暴露/遮蔽不同界面，解释了为何多个区域都有低比值但不可同时近膜。\nWHY：构象切换解释多个接触区的共存。"
    },
    {
     "id": "Quiz 16 - NMR Parameters I (Exam).md::14",
     "type": "qa",
-    "q_en": "Question II.1 (2 points): According to the results shown in Figure II.1, what distinguishes the behavior of DNAJB6b and ΔST-DNAJB6b? Do you think that the ΔST-DNAJB6b is a good model for the DNAJB6b protein?",
+    "q_en": "Question II.1 (2 points): According to the results shown in Figure II.1, what distinguishes the behavior of DNAJB6b and ΔST-DNAJB6b? Do you think that the ΔST-DNAJB6b is a good model for the DNAJB6b protein?\n![图 II.1（真题卷 p17）](img/exam-2019-p17.png)",
     "q_zh": "15（来源：Exam 2019）\n问题 II.1（2 分）：根据图 II.1 的结果，DNAJB6b 与 ΔST-DNAJB6b 的行为有何区别？你认为 ΔST-DNAJB6b 是 DNAJB6b 蛋白的良好模型吗？",
     "a": "DNAJB6b 是聚合物，ΔST-DNAJB6b 是单体（SEC：聚合物先洗脱、体积小）。(1 pt) 两者 TROSY 谱叠加（蓝峰在品红谱中都有等价峰）→ 整体折叠保守，ΔST 是好模型。(1 pt)\nWT 聚合、ΔST 单体；谱叠加 → 折叠保守，ΔST 是好模型。\nWHY：删除 S/T 富集区消除聚合，但不改变折叠。\nWHY：删 S/T 区消除聚合，折叠不变。"
    },
@@ -13744,14 +13744,14 @@
    {
     "id": "Quiz 16 - NMR Parameters I (Exam).md::17",
     "type": "qa",
-    "q_en": "Question II.5 (2 points): In order to confirm the existence of one or more domains, the authors analyzed the transverse and longitudinal relaxation rates. From the mean values measured in secondary structure elements, the overall rotational correlation time (τR) was determined. What do you suggest on the domain composition and eventual domain boundaries from the reported values in Fig II.2 C?",
+    "q_en": "Question II.5 (2 points): In order to confirm the existence of one or more domains, the authors analyzed the transverse and longitudinal relaxation rates. From the mean values measured in secondary structure elements, the overall rotational correlation time (τR) was determined. What do you suggest on the domain composition and eventual domain boundaries from the reported values in Fig II.2 C?\n![图 II.2（真题卷 p19）](img/exam-2019-p19.png)",
     "q_zh": "18（来源：Exam 2019）\n问题 II.5（2 分）：为确认是否存在一个或多个结构域，作者分析了横向和纵向弛豫率。由二级结构元件中测得的平均值确定了整体旋转相关时间（τR）。根据图 II.2 C 报告的值，你对结构域组成及可能的域边界有何建议？",
     "a": "R1/R2 分析表明是双结构域蛋白，柔性 linker 在 ~130 残基。(1 pt) N 端与 C 端估算的相关时间不同：域 1 = 5-115（之后 R1 升、R2 降），域 2 = 135-185。(1 pt)\n双域，linker~130；域 1=5-115，域 2=135-185。\nWHY：R2/R1 与 τc（分子大小）相关，两段不同的 τc = 两域独立翻滚。\nWHY：两段不同 τc = 两域独立。"
    },
    {
     "id": "Quiz 16 - NMR Parameters I (Exam).md::18",
     "type": "qa",
-    "q_en": "Which type of data is plotted against Im7 concentration in Figure 1? How were they measured?",
+    "q_en": "Which type of data is plotted against Im7 concentration in Figure 1? How were they measured?\n![图 1（真题卷 p3）](img/exam-2020-p3.png)",
     "q_zh": "19（来源：Exam 2020）\n图 1 中对 Im7 浓度作图的是哪类数据？它们是如何测量的？",
     "a": "化学位移扰动（CSP，单位 ppm）——是 Spy-Im7 混合物中某酰胺共振与 Spy 单独时同一共振的距离。CSP = √[(δ_H)^2 + (γ_N/γ_H × δ_N)²]（加权组合 ¹H 与 ¹⁵N 位移差）。\nCSP = 加权 ¹H/¹⁵N 位移差的组合。\nWHY：CSP 量化结合引起的化学位移变化，是判断结合/定位界面的核心参数。\nWHY：CSP 量化结合位移，定位界面。"
    },
@@ -13779,7 +13779,7 @@
    {
     "id": "Quiz 16 - NMR Parameters I (Exam).md::22",
     "type": "qa",
-    "q_en": "How would you characterize the regions for which the largest CSPs have been identified (residues 27, 30, 61) in Im7 alone regarding the data shown in Figure 3?",
+    "q_en": "How would you characterize the regions for which the largest CSPs have been identified (residues 27, 30, 61) in Im7 alone regarding the data shown in Figure 3?\n![图 3（真题卷 p5）](img/exam-2020-p5.png)",
     "q_zh": "23（来源：Exam 2020）\n根据图 3 所示数据，你如何描述 Im7 单独状态下已鉴定出最大 CSP 的区域（残基 27、30、61）？",
     "a": "除 N 端、C 端外，27-33 区和~60 残基区在 Im7 单独时是柔性的，且后者更动态。\n27-33 与 ~60 区柔性，后者更动态。\nWHY：这两个区（loop）本身柔性，是潜在结合区，结合后发生位移。\nWHY：柔性 loop 是潜在结合区。"
    },
@@ -13793,14 +13793,14 @@
    {
     "id": "Quiz 16 - NMR Parameters I (Exam).md::24",
     "type": "qa",
-    "q_en": "Question 12 (2 points): Is the information obtained here in accordance with the CSPs measured on Spy (Figure 1) and Im7 (Figure 3)?",
+    "q_en": "Question 12 (2 points): Is the information obtained here in accordance with the CSPs measured on Spy (Figure 1) and Im7 (Figure 3)?\n![图 1（真题卷 p3）](img/exam-2020-p3.png)\n![图 3（真题卷 p5）](img/exam-2020-p5.png)",
     "q_zh": "25（来源：Exam 2020）\n问题 12（2 分）：这里获得的信息与在 Spy（图 1）和 Im7（图 3）上测得的 CSP 一致吗？",
     "a": "是。T72C：所有 Im7 残基在 18 Å 内，H1-H2 与 H3-H4 loop 更近；T123C（位于 Spy 凹腔内）：N 端 1-4、20-45（含 H1-H2 loop）、55-65（含 H3-H4 loop）更近（<14 Å），与 CSP 强区（20-38、55-65）一致。Im7 与 Spy 凹腔作用。\nPRE 距离与 CSP 强区完全一致，Im7 结合凹腔。\nWHY：PRE 给距离、CSP 给位移，两者定位的界面应吻合。\nWHY：PRE 距离与 CSP 位移定位的界面应吻合。"
    },
    {
     "id": "Quiz 16 - NMR Parameters I (Exam).md::25",
     "type": "qa",
-    "q_en": "Question 14 (2 points): Regarding only the black spectrum of free Im7M shown in Figure 6, what can you conclude on the effect of the L18A/L19A/L37A triple mutation on Im7?",
+    "q_en": "Question 14 (2 points): Regarding only the black spectrum of free Im7M shown in Figure 6, what can you conclude on the effect of the L18A/L19A/L37A triple mutation on Im7?\n![图 6（真题卷 p8）](img/exam-2020-p8.png)",
     "q_zh": "26（来源：Exam 2020）\n问题 14（2 分）：仅看图 6 中游离 Im7M 的黑色谱，你对 L18A/L19A/L37A 三重突变对 Im7 的影响能得出什么结论？",
     "a": "黑色谱（游离 Im7M）¹H,¹⁵N 相关峰分布极窄 → Im7M 是未折叠蛋白（unstructured）。\nIm7M 谱分散窄 → 未折叠。\nWHY：破坏三个核心疏水残基（L18/L19/L37）使蛋白失去折叠稳定性。\nWHY：破坏核心疏水残基 → 失去折叠。"
    },
@@ -13814,7 +13814,7 @@
    {
     "id": "Quiz 16 - NMR Parameters I (Exam).md::27",
     "type": "qa",
-    "q_en": "How would you characterize the dynamics of the regions highlighted in blue in Figure 3? Justify your conclusion.",
+    "q_en": "How would you characterize the dynamics of the regions highlighted in blue in Figure 3? Justify your conclusion.\n![图 3（真题卷 p5）](img/exam-2021-p5.png)",
     "q_zh": "28（来源：Exam 2021）\n你如何描述图 3 中蓝色高亮区域的动力学？请论证你的结论。",
     "a": "蓝色区异核 NOE 低（<0.5）、R2/R1 低（低于均值 ~30，即 R2 小、T2 长）→ 柔性区。对应三个 loop：β2-β3 loop（197-220）、αJ-K loop（274-287）、αM-N loop（328-333）。\nNOE<0.5、R2/R1 低 → 三个柔性 loop。\nWHY：NOE 低 + R2/R1 低 = ps–ns 快运动 = 柔性 loop。\nWHY：NOE 低+R2/R1 低=柔性。"
    },
@@ -13828,7 +13828,7 @@
    {
     "id": "Quiz 16 - NMR Parameters I (Exam).md::29",
     "type": "qa",
-    "q_en": "What do you observe? What are the consequences of the deletion of the C-terminal helix? How can you explain the observed differences in the spectra shown in Figure I.4?",
+    "q_en": "What do you observe? What are the consequences of the deletion of the C-terminal helix? How can you explain the observed differences in the spectra shown in Figure I.4?\n![图 I.4（真题卷 p5）](img/exam-2021-p5.png)",
     "q_zh": "30（来源：Exam 2021）\n你观察到了什么？删除 C 端螺旋的后果是什么？你如何解释图 I.4 所示谱图的差异？",
     "a": "删除 C 端螺旋后大量信号移动（不仅是相邻残基）→ 这些残基的化学环境改变 → 它们与 C 端螺旋接触，证明 C 端螺旋属于蛋白的结构核心。\n大量信号移动 → 这些残基与 C 端螺旋接触 → 螺旋是核心。\nWHY：远端残基位移说明它们原本与删除的螺旋有空间接触。\nWHY：远端位移=原本与删除螺旋接触。"
    },
@@ -13877,7 +13877,7 @@
    {
     "id": "Quiz 16 - NMR Parameters I (Exam).md::36",
     "type": "qa",
-    "q_en": "Question 6 (4 points): Comparing the spectra shown in Figure 4, can you comment on the binding of each peptide (Tau404-423) and TauR'. Explain!",
+    "q_en": "Question 6 (4 points): Comparing the spectra shown in Figure 4, can you comment on the binding of each peptide (Tau404-423) and TauR'. Explain!\n![图 4（真题卷 p4）](img/exam-2023-p4.png)",
     "q_zh": "37（来源：Exam 2023）\n问题 6（4 分）：比较图 4 所示的谱图，你能评论每种肽 Tau(404-423) 和 TauR′ 的结合吗？请解释！",
     "a": "Tau(404-423) 与 tubulin 无明显 STD（有无 tubulin 谱相同）→ 不结合，与全长 Tau 该域无强度下降一致 (2 pt)。\nTau(404-423) 不结合。\nTauR′(368-401) 有 STD 信号 → 与 tubulin 结合；黑谱是对照（未照射 tubulin），红谱是无 tubulin 对照（均无信号），蓝 STD 谱显示 F328、Y394 残基的饱和转移 (2 pt)。\nTauR′ 结合（F328、Y394 有饱和转移）。\nWHY：STD 信号的有无直接判定各肽是否结合。\nWHY：STD 有无信号判结合。"
    },
@@ -13919,7 +13919,7 @@
    {
     "id": "Quiz 16 - NMR Parameters I (Exam).md::42",
     "type": "qa",
-    "q_en": "Question 1 (2 points): Looking at the chemical shift data represented in Figure 1A and 1B, what can you learn about the double domain compared to the isolated domains? Do the two domains interact?",
+    "q_en": "Question 1 (2 points): Looking at the chemical shift data represented in Figure 1A and 1B, what can you learn about the double domain compared to the isolated domains? Do the two domains interact?\n![图 1A（真题卷 p11）](img/exam-2024-p11.png)",
     "q_zh": "43（来源：Exam 2024）\n问题 1（2 分）：观察图 1A 和 1B 所示的化学位移数据，与孤立结构域相比，你能了解到双结构域的什么信息？两个结构域是否相互作用？",
     "a": "黑峰很多既不与黄峰也不与粉峰重叠 → 双结构域中残基的化学环境与孤立域不同（图 1B 的 CSP 图也显示）(1 pt) → 两域在双结构域构建中相互作用 (1 pt)。\n黑峰不重叠 → 化学环境变 → 两域相互作用。\nWHY：若两域独立，双结构域谱应等于两孤立域谱的叠加。\nWHY：独立则谱应叠加，实际不同=相互作用。"
    },
@@ -13933,7 +13933,7 @@
    {
     "id": "Quiz 16 - NMR Parameters I (Exam).md::44",
     "type": "qa",
-    "q_en": "Question 3 (2 points): Do the relaxation data represented in Figure 1C agree with your conclusion from the chemical shift data? Explain briefly.",
+    "q_en": "Question 3 (2 points): Do the relaxation data represented in Figure 1C agree with your conclusion from the chemical shift data? Explain briefly.\n![图 1C（真题卷 p11）](img/exam-2024-p11.png)",
     "q_zh": "45（来源：Exam 2024）\n问题 3（2 分）：图 1C 所示的弛豫数据与你的化学位移数据结论一致吗？简要解释。",
     "a": "一致。化学位移表明两域相互作用 (1 pt)；弛豫数据表明双域中的两域比孤立域翻滚更慢 (1 pt)。\n一致：位移示作用，弛豫示整体翻滚。\nWHY：两种独立参数得出同一结论，交叉验证。\nWHY：两种参数交叉验证同一结论。"
    },
@@ -13947,7 +13947,7 @@
    {
     "id": "Quiz 16 - NMR Parameters I (Exam).md::46",
     "type": "qa",
-    "q_en": "Question 5 (2 points): Using the information shown in Figure 2, can you conclude whether RRM1-RRM2 binds to RNA?",
+    "q_en": "Question 5 (2 points): Using the information shown in Figure 2, can you conclude whether RRM1-RRM2 binds to RNA?\n![图 2（真题卷 p11）](img/exam-2024-p11.png)",
     "q_zh": "47（来源：Exam 2024）\n问题 5（2 分）：利用图 2 所示的信息，你能判断 RRM1-RRM2 是否与 RNA 结合吗？",
     "a": "结合 (1 pt)：图 2B 有显著化学位移差、图 2A 谱中清晰可见 (1 pt)。\n结合，有显著位移差。\nWHY：RNA 结合改变界面残基化学环境 → 位移。\nWHY：结合改变界面残基化学位移。"
    },
@@ -13961,7 +13961,7 @@
    {
     "id": "Quiz 16 - NMR Parameters I (Exam).md::48",
     "type": "qa",
-    "q_en": "Question 10 (3 points): What can you conclude from the data shown in Figure 4B? Are there differences between the crystal and the solution structures for the two domains interacting with the RNA (indicated by a dashed circle in Figure 4A)?",
+    "q_en": "Question 10 (3 points): What can you conclude from the data shown in Figure 4B? Are there differences between the crystal and the solution structures for the two domains interacting with the RNA (indicated by a dashed circle in Figure 4A)?\n![图 4B（真题卷 p13）](img/exam-2024-p13.png)\n![图 4A（真题卷 p13）](img/exam-2024-p13.png)",
     "q_zh": "49（来源：Exam 2024）\n问题 10（3 分）：从图 4B 所示的数据中你能得出什么结论？对于与 RNA 相互作用的两个结构域（图 4A 中虚线圆圈所示），晶体结构与溶液结构之间是否存在差异？",
     "a": "标签 155（RRM1 N 端）、273、287（RRM2） 的回算 PRE 与实验 PRE 有偏差 (1 pt) → 晶体与溶液中存在差异 (1 pt)，涉及两域相对取向 (1 pt)。\n155/273/287 偏差 → 晶体与溶液域取向不同。\nWHY：回算（晶体）与实验（溶液）PRE 不符 = 两态结构有差异。\nWHY：回算与实验不符=两态结构差异。"
    },
@@ -13982,7 +13982,7 @@
    {
     "id": "Quiz 16 - NMR Parameters I (Exam).md::51",
     "type": "qa",
-    "q_en": "Question 5 (2 points): How are CSPs determined? Which information is obtained from the CSPs shown in Fig 4(B)?",
+    "q_en": "Question 5 (2 points): How are CSPs determined? Which information is obtained from the CSPs shown in Fig 4(B)?\n![图 4（真题卷 p11）](img/exam-2025-p11.png)",
     "q_zh": "52（来源：Exam 2025）\n问题 5（2 分）：CSP 是如何测定的？从图 4(B) 所示的 CSP 中可以获得什么信息？",
     "a": "CSP = 游离态与结合态酰胺共振的加权化学位移差：CSP = √[(δH)² + (0.14·δN)²]。图 4B 的 CSP 沿序列分布给出结合界面残基（位移大的残基直接参与 DNA 结合）。\nCSP=加权位移差；分布定位结合界面。\nWHY：结合改变界面残基化学环境 → 位移大的残基即在界面。\nWHY：位移大的残基在界面。"
    },
@@ -13996,7 +13996,7 @@
    {
     "id": "Quiz 16 - NMR Parameters I (Exam).md::53",
     "type": "qa",
-    "q_en": "Question 7 (2 points): Considering firstly the spectra of the free form in Fig 4(C), describe differences between spectra at 20°C and 37°C, respectively. What is this due to?",
+    "q_en": "Question 7 (2 points): Considering firstly the spectra of the free form in Fig 4(C), describe differences between spectra at 20°C and 37°C, respectively. What is this due to?\n![图 4（真题卷 p11）](img/exam-2025-p11.png)",
     "q_zh": "54（来源：Exam 2025）\n问题 7（2 分）：首先考虑图 4(C) 中游离态的谱图，描述 20°C 和 37°C 谱图之间的差异。这是什么原因造成的？",
     "a": "温度升高（20→37°C）游离态谱出现峰位移/展宽/强度变化，源于构象交换速率加快或温度依赖的化学位移/动力学变化（游离态本身较柔性）。\n温度升高谱变化 → 构象交换/动力学变化。\nWHY：游离 IDP/柔性域的构象交换对温度敏感。\nWHY：游离态构象交换对温度敏感。"
    },
@@ -14010,7 +14010,7 @@
    {
     "id": "Quiz 16 - NMR Parameters I (Exam).md::55",
     "type": "qa",
-    "q_en": "Question 9 (1 point): Are your observations in accordance with the data shown in Fig 1 (B and C)?",
+    "q_en": "Question 9 (1 point): Are your observations in accordance with the data shown in Fig 1 (B and C)?\n![图 1（真题卷 p11）](img/exam-2025-p11.png)",
     "q_zh": "56（来源：Exam 2025）\n问题 9（1 分）：你的观察与图 1（B 和 C）所示的数据一致吗？",
     "a": "一致：DNA 结合使 Sox2 更稳定（图 1 中结合态熔点更高、解析叠比例更低），与\"结合刚性化\"结论吻合。\n一致：结合态更稳定。\nWHY：NMR 动力学结论与热稳定性数据相互印证。\nWHY：NMR 动力学与热稳定性互证。"
    },
@@ -14038,7 +14038,7 @@
    {
     "id": "Quiz 16 - NMR Parameters I (Exam).md::59",
     "type": "qa",
-    "q_en": "Question 14 (5 points): In the same context, what can you conclude from the NMR spectra shown in Figure 6(C), as well as the relaxation data shown in Figure 6(D), on the consequences of the two mutations?",
+    "q_en": "Question 14 (5 points): In the same context, what can you conclude from the NMR spectra shown in Figure 6(C), as well as the relaxation data shown in Figure 6(D), on the consequences of the two mutations?\n![图 6（真题卷 p13）](img/exam-2025-p13.png)",
     "q_zh": "60（来源：Exam 2025）\n问题 14（5 分）：在同一背景下，从图 6(C) 所示的 NMR 谱以及图 6(D) 所示的弛豫数据中，关于这两个突变的后果你能得出什么结论？",
     "a": "图 6C：L122A/F123A 突变使 SEP 峰回到游离位置（红→品红/青）→ 突变破坏 SIM-SEP 相互作用。图 6D：突变体（绿）全长 p47 的 R2/R1 恢复正常（降低） → 消除了 SEP 的异常高 R2/R1（自缔合）。(2 pt)\n突变破坏 SIM-SEP 作用，R2/R1 恢复正常。\n结论：L122、F123 两个疏水残基是 SIM 基序与 SEP 域相互作用的关键（疏水接触）；替换为丙氨酸破坏了 SIM 介导的 SEP 自缔合。(3 pt)\nL122/F123 疏水残基是 SIM-SEP 作用关键。\nWHY：破坏关键疏水残基 → 界面瓦解 → 谱回到游离态 + 弛豫恢复正常，反证这两个残基在界面核心。\nWHY：破坏疏水界面 → 谱回游离 + 弛豫恢复，反证残基在界面。"
    }
@@ -14086,21 +14086,21 @@
    {
     "id": "Quiz 17 - NMR Parameters II (Exam).md::5",
     "type": "qa",
-    "q_en": "Question II.2 (3 points). Comment on the linewidths observed in the different spectra (spectrum of the protein and spectrum of the 970 Da tetrasaccharide) in Figure II.1.b. Can you explain why the N-glycosation yields these relatively sharp signals in the protein's spectrum?",
+    "q_en": "Question II.2 (3 points). Comment on the linewidths observed in the different spectra (spectrum of the protein and spectrum of the 970 Da tetrasaccharide) in Figure II.1.b. Can you explain why the N-glycosation yields these relatively sharp signals in the protein's spectrum?\n![图 II.1.b（真题卷 p13）](img/exam-2018-p13.png)",
     "q_zh": "6（来源：Exam 2018）\n问题 II.2（3 分）。评论图 II.1.b 中不同谱（蛋白的谱和 970 Da 四糖的谱）所观察到的线宽。你能解释为什么 N-糖基化会在蛋白谱中产生这些相对尖锐的信号吗？",
     "a": "四糖 <1 kDa，翻滚快 → 相关时间短 → T1、T2 长 → 线宽窄；蛋白分子量大 → T1、T2 短（R1、R2 快）→ 线宽宽，与观察一致。N-糖基化信号尖锐是因为糖位于蛋白表面、糖环自由快速旋转。\n小分子线宽窄、大蛋白线宽宽；表面糖环自由旋转故尖锐。\nWHY：线宽 ∝ R2 ∝ τc（分子大小）；表面糖基有内部快速运动不受大分子慢翻滚拖累。\nWHY：线宽∝τc；表面糖基内部快运动不受整体慢翻滚影响。"
    },
    {
     "id": "Quiz 17 - NMR Parameters II (Exam).md::6",
     "type": "qa",
-    "q_en": "Question II.3 (2 points). Based on the protein and ligand spectra shown in Figure II.1.b, suggest two saturation frequencies that you would use for the acquisition of the STD-reference and the STD-saturation spectra.",
+    "q_en": "Question II.3 (2 points). Based on the protein and ligand spectra shown in Figure II.1.b, suggest two saturation frequencies that you would use for the acquisition of the STD-reference and the STD-saturation spectra.\n![图 II.1.b（真题卷 p13）](img/exam-2018-p13.png)",
     "q_zh": "7（来源：Exam 2018）\n问题 II.3（2 分）。根据图 II.1.b 所示的蛋白和配体谱，请建议两个饱和频率，用于采集 STD-参照谱和 STD-饱和谱。",
     "a": "饱和谱（饱和蛋白、不饱和配体）：蛋白酰胺质子 ~7 ppm 或甲基 ~1 ppm。参照谱：20 ppm 或 −10 ppm（远离蛋白共振，保证安全）。\n饱和谱选 7 ppm（酰胺）或 1 ppm（甲基）；参照选 20 或 −10 ppm。\nWHY：饱和谱要打在蛋白专属区（避开配体），参照谱要打在完全空白处。\nWHY：饱和谱打蛋白专属区，参照谱打空白区。"
    },
    {
     "id": "Quiz 17 - NMR Parameters II (Exam).md::7",
     "type": "qa",
-    "q_en": "Question II.4 (2 points). Based on the STD spectra shown in Figure II.2, what can you conclude on the glycan specificity of the two proteins SV40 and BKPyV with respect to the GD3 and GM1 glycans?",
+    "q_en": "Question II.4 (2 points). Based on the STD spectra shown in Figure II.2, what can you conclude on the glycan specificity of the two proteins SV40 and BKPyV with respect to the GD3 and GM1 glycans?\n![图 II.2（真题卷 p14）](img/exam-2018-p14.png)",
     "q_zh": "8（来源：Exam 2018）\n问题 II.4（2 分）。根据图 II.2 所示的 STD 谱，关于 SV40 和 BKPyV 两种蛋白对 GD3 和 GM1 聚糖的特异性，你能得出什么结论？",
     "a": "差谱有信号 = 该聚糖与蛋白结合。BKPyV 结合 GD3、几乎不结合 GM1；SV40 结合 GM1。即 BKPyV 特异 GD3，SV40 特异 GM1。\nBKPyV 特异 GD3，SV40 特异 GM1。\nWHY：STD 差谱信号的有无直接指示结合与否。\nWHY：差谱有无信号=是否结合。"
    },
@@ -14121,21 +14121,21 @@
    {
     "id": "Quiz 17 - NMR Parameters II (Exam).md::10",
     "type": "qa",
-    "q_en": "Looking at the 1D spectra presented in Figure I.2.1, do you think that the interaction between Cmpd2 and the nanodiscs could be studied by STD-NMR? What are the conditions for a successful STD experiment and which ones are fulfilled in view of the spectral data presented in Figure I.2.1? If possible, propose a frequency (approximately, in ppm) for the on- and off-resonance saturation experiments.",
+    "q_en": "Looking at the 1D spectra presented in Figure I.2.1, do you think that the interaction between Cmpd2 and the nanodiscs could be studied by STD-NMR? What are the conditions for a successful STD experiment and which ones are fulfilled in view of the spectral data presented in Figure I.2.1? If possible, propose a frequency (approximately, in ppm) for the on- and off-resonance saturation experiments.\n![图 I.2.1（真题卷 p13）](img/exam-2019-p13.png)",
     "q_zh": "11（来源：Exam 2019）\n观察图 I.2.1 所示的一维谱，你认为 Cmpd2 与 nanodisc 之间的相互作用能否用 STD-NMR 研究？成功的 STD 实验需要哪些条件？根据图 I.2.1 的谱数据，哪些条件得到满足？如有可能，为 on-resonance 与 off-resonance 饱和实验提出一个（近似的，以 ppm 计）频率。",
     "a": "on-resonance 5.3/0.8 ppm，off-resonance −10 ppm。\nSTD 成功的三个条件：① 小分子与 nanodisc 弱亲和力（快交换）；② 配体与蛋白/脂的共振互不重叠；③ 配体与蛋白+nanodisc 尺寸差异大（饱和转移效率差异）。(各 1 pt) 条件 ① 未知，但 ②（nanodisc 在 0.8 ppm 有专属共振）和 ③（蛋白+nanodisc 远大于 Cmpd2）满足。(1 pt)\n三条件：弱亲和、谱不重叠、尺寸差异大；②③满足、①未知。\n频率：on-resonance 选脂的 5.3 ppm（AP）或 0.8 ppm（MP）；off-resonance 选 −10 ppm（确保不饱和脂/蛋白）。配体需大量过量。\nWHY：STD 必须饱和\"大分子\"而让\"小配体\"把饱和带走；选脂的专属峰作饱和点。\nWHY：饱和大分子、配体带出饱和。"
    },
    {
     "id": "Quiz 17 - NMR Parameters II (Exam).md::11",
     "type": "qa",
-    "q_en": "Which conclusion can you draw from the comparison of the 1D spectra of Cmpd2 shown in Figure I.2.2? Briefly describe (one sentence per spectrum) how you interpret the spectra of Cmpd2 in presence of K-RAS4B, ND (nanodiscs), and ND-KRAS4B (nanodiscs with bound protein). What is the aim of having acquired the spectrum of ND-KRAS4B shown on the bottom?",
+    "q_en": "Which conclusion can you draw from the comparison of the 1D spectra of Cmpd2 shown in Figure I.2.2? Briefly describe (one sentence per spectrum) how you interpret the spectra of Cmpd2 in presence of K-RAS4B, ND (nanodiscs), and ND-KRAS4B (nanodiscs with bound protein). What is the aim of having acquired the spectrum of ND-KRAS4B shown on the bottom?\n![图 I.2.2（真题卷 p13）](img/exam-2019-p13.png)",
     "q_zh": "12（来源：Exam 2019）\n从图 I.2.2 所示 Cmpd2 一维谱的比较中，你能得出什么结论？简要描述（每个谱一句话）你如何解读 Cmpd2 在 K-RAS4B、ND（nanodisc）和 ND-KRAS4B（结合了蛋白的 nanodisc）存在下的一维谱。采集底部所示 ND-KRAS4B 谱的目的是什么？",
     "a": "Cmpd2 + K-RAS4B：谱略展宽、H6 质子化学位移变化 → 蛋白本身与 Cmpd2 作用。(1 pt) Cmpd2 + ND：峰很宽且移位 → 与 nanodisc 强作用。(1 pt) Cmpd2 + ND-KRAS4B：同样强作用。(1 pt) 底部 ND-KRAS4B 单独谱是对照，用于区分 nanodisc/蛋白自身峰与复合物峰。(1 pt)\n蛋白弱作用、nanodisc 强作用、对照谱辨峰。\nWHY：展宽+位移是结合的标志，展宽越强→结合越强。\nWHY：展宽+位移判结合强弱。"
    },
    {
     "id": "Quiz 17 - NMR Parameters II (Exam).md::12",
     "type": "qa",
-    "q_en": "Analyze the aliphatic region of the 1D spectra shown in Fig. I.2.3, showing the resonances provided by the phospholipids. Do Cmpd2 and the two fragments it contains bind close to the phospholipid zwitterionic head group? Is the binding influenced (enhanced or diminished) in the presence of K-RAS4B?",
+    "q_en": "Analyze the aliphatic region of the 1D spectra shown in Fig. I.2.3, showing the resonances provided by the phospholipids. Do Cmpd2 and the two fragments it contains bind close to the phospholipid zwitterionic head group? Is the binding influenced (enhanced or diminished) in the presence of K-RAS4B?\n![图 I.2.3（真题卷 p13）](img/exam-2019-p13.png)",
     "q_zh": "13（来源：Exam 2019）\n分析图 I.2.3 所示一维谱的脂肪区，这些谱显示磷脂提供的共振。Cmpd2 及其所含的两个片段是否结合在磷脂两性离子头基附近？在 K-RAS4B 存在下，该结合是否受到影响（增强或减弱）？",
     "a": "Ring2（绿）不与 TMP 头基作用（无化学位移扰动）；Frag2（蓝）与 Cmpd2（橙）与 TMP 头基作用（有扰动）。(1 pt) Cmpd2 的 CSP 更大 → 结合更强。K-RAS4B 存在时结合略微增强（CSP 略增），但效果很小（<10%）。(1 pt)\nRing2 不结合，Frag2/Cmpd2 结合 TMP 头基；有蛋白时略增强。\nWHY：TMP 峰（3.22 ppm，胆碱头基）的位移直接反映\"谁靠近头基\"。\nWHY：TMP 峰位移=头基接触。"
    },
@@ -14156,14 +14156,14 @@
    {
     "id": "Quiz 17 - NMR Parameters II (Exam).md::15",
     "type": "qa",
-    "q_en": "Comparing the H/D exchange data shown in Figure 4, for free and bound Im7, what can you conclude? Can you give a possible explanation?",
+    "q_en": "Comparing the H/D exchange data shown in Figure 4, for free and bound Im7, what can you conclude? Can you give a possible explanation?\n![图 4（真题卷 p6）](img/exam-2020-p6.png)",
     "q_zh": "16（来源：Exam 2020）\n比较图 4 所示游离和结合 Im7 的 H/D 交换数据，你能得出什么结论？你能给出一个可能的解释吗？",
     "a": "Im7 单独：3 min 后二级结构区（H1 10-25、H2 35-45、H4 65-70）交换 <50%，螺旋间 loop 全部交换。结合 Spy 后：几乎所有残基 3 min 内交换 → 复合物中所有残基溶剂可及性高、H 键不稳、塑性增加（可能部分解析叠），与 H1-H2 loop 柔性增加一致。\n结合后 H/D 交换大增 → 塑性增加、部分解析叠。\nWHY：H/D 交换反映氢键保护程度；交换快=结构松散/解析叠。\nWHY：H/D 交换反映氢键保护；快=松散。"
    },
    {
     "id": "Quiz 17 - NMR Parameters II (Exam).md::16",
     "type": "qa",
-    "q_en": "What are the characteristics of an unfolded protein with respect to chemical shift, {1H}-15N heteronuclear NOE, H/D exchange? Regarding the data shown in Figures 2, 3, and 4, do you think that the Im7 protein in presence of Spy becomes unfolded?",
+    "q_en": "What are the characteristics of an unfolded protein with respect to chemical shift, {1H}-15N heteronuclear NOE, H/D exchange? Regarding the data shown in Figures 2, 3, and 4, do you think that the Im7 protein in presence of Spy becomes unfolded?\n![图 2（真题卷 p4）](img/exam-2020-p4.png)",
     "q_zh": "17（来源：Exam 2020）\n就化学位移、{1H}-15N 异核 NOE、H/D 交换而言，未折叠蛋白有哪些特征？根据图 2、3、4 所示数据，你认为 Im7 蛋白在 Spy 存在下会变得未折叠吗？",
     "a": "未折叠蛋白特征：化学位移分散窄（¹H 维挤在 7.5–8.5 ppm）；异核 NOE 显著低于 0.5；H/D 交换快（几分钟内 100% 交换）。\n未折叠：位移分散窄、NOE<0.5、H/D 交换快。\n但图 2 橙色谱仍保留分散 → 整体折叠在 2 当量 Spy 下保持，未见未折叠特征。图 3 显示整体柔性增、图 4 显示 H/D 交换增 → 是部分解析叠/向更动态构象系扰动，而非完全解析叠。\n整体折叠保持，但向更动态构象扰动（部分解析叠）。\nWHY：判定\"未折叠\"要看三个标志同时出现；这里只有动态增强、无位移塌缩。\nWHY：三标志同时出现才是未折叠；这里只动态增强。"
    },
@@ -14177,7 +14177,7 @@
    {
     "id": "Quiz 17 - NMR Parameters II (Exam).md::18",
     "type": "qa",
-    "q_en": "Question 16 (3 points): Comparing the average intramolecular PRE data shown in Figure 7 for free and bound Im7M, what can you conclude? Can you give a possible explanation? Think of the role of a chaperone protein.",
+    "q_en": "Question 16 (3 points): Comparing the average intramolecular PRE data shown in Figure 7 for free and bound Im7M, what can you conclude? Can you give a possible explanation? Think of the role of a chaperone protein.\n![图 7（真题卷 p9）](img/exam-2020-p9.png)",
     "q_zh": "19（来源：Exam 2020）\n问题 16（3 分）：比较图 7 中游离和结合 Im7M 的平均分子内 PRE 数据，你能得出什么结论？能给出可能的解释吗？想想伴侣蛋白的作用。",
     "a": "分子内 PRE 平均值：游离 0.75，结合 0.35 → 结合后残基与自旋标签距离变短 → 结合 Spy 后未折叠的 Im7M 变得更紧凑（compact），这可能是后续折叠的前提。\n结合后 Im7M 更紧凑（0.75→0.35）。\nWHY：Iox/Ired 越小=离标签越近=分子越紧；伴侣使未折叠客户先压缩再折叠。\nWHY：比值小=距离近=更紧凑；伴侣先压缩后折叠。"
    },
@@ -14205,14 +14205,14 @@
    {
     "id": "Quiz 17 - NMR Parameters II (Exam).md::22",
     "type": "qa",
-    "q_en": "Question II.3 (1 point): The extent of STD effect is normalized with respect to the most intense response (= 100%). What can we learn from the STD-effect values color-coded in Figure II.3?",
+    "q_en": "Question II.3 (1 point): The extent of STD effect is normalized with respect to the most intense response (= 100%). What can we learn from the STD-effect values color-coded in Figure II.3?\n![图 II.3（真题卷 p8）](img/exam-2021-p8.png)",
     "q_zh": "23（来源：Exam 2021）\n问题 II.3（1 分）：STD 效应程度相对于最强响应归一化（=100%）。从图 II.3 中色标编码的 STD 效应值我们能得出什么？",
     "a": "化合物 1（=d）主要靠疏水苯环与蛋白接触（红色，STD 最强），而羟基朝向外部（STD 弱）。\n苯环紧贴蛋白（强 STD），羟基朝外（弱）。\nWHY：STD 强度 ∝ 与蛋白距离，最强的质子最贴近结合位点。\nWHY：STD 强度∝距离，最强质子最贴近位点。"
    },
    {
     "id": "Quiz 17 - NMR Parameters II (Exam).md::23",
     "type": "qa",
-    "q_en": "Question II.4 (3 points): Using the information shown in Figure II.4, can you conclude whether compound 1 binds to the same site than the reference compound?",
+    "q_en": "Question II.4 (3 points): Using the information shown in Figure II.4, can you conclude whether compound 1 binds to the same site than the reference compound?\n![图 II.4（真题卷 p9）](img/exam-2021-p9.png)",
     "q_zh": "24（来源：Exam 2021）\n问题 II.4（3 分）：用图 II.4 的信息，你能判断化合物 1 是否与参照化合物结合在同一位点吗？",
     "a": "绿谱≈蓝谱+紫谱之和、无强度损失（仅 6.8 ppm 区参照物 STD 轮廓改变）→ 两化合物同时可见且强度相近 → 存在两个不同结合位点；参照物 STD 轮廓部分改变 → 参照物相互作用被扰动 → 两个位点彼此相邻。\n两个不同位点，且彼此相邻。\nWHY：同位点竞争会顶替（一方消失）；同位点共存且仅部分扰动=两个相邻位点。\nWHY：同位点会顶替；共存+部分扰动=相邻两异位点。"
    },
@@ -14240,7 +14240,7 @@
    {
     "id": "Quiz 17 - NMR Parameters II (Exam).md::27",
     "type": "qa",
-    "q_en": "Question 5 (4 points): In the special case of this double-domain construct for which the structure was to be determined, what was the important information the authors looked for? Can you give at least two concrete examples based on the PRE results shown in the graphs of Figure 2?",
+    "q_en": "Question 5 (4 points): In the special case of this double-domain construct for which the structure was to be determined, what was the important information the authors looked for? Can you give at least two concrete examples based on the PRE results shown in the graphs of Figure 2?\n![图 2（真题卷 p4）](img/exam-2022-p4.png)",
     "q_zh": "28（来源：Exam 2022）\n问题 5（4 分）：在这个需要测定结构的双结构域构建体的特殊情况下，作者寻找的重要信息是什么？你能基于图 2 图中的 PRE 结果给出至少两个具体例子吗？",
     "a": "作者想知道 RRM1 与 RRM2 是否有固定的距离与取向，即看 RRM1 上标签与 RRM2 残基（或反之）之间的短距离接触。(1 pt)\n想知道两域相对取向是否固定，看跨域短距离接触。\n例 1：残基 185 上的标签靠近 135（RRM1 内）也靠近 236（RRM2） → 给两域相对取向的距离信息。\n例 1：标签 185 同时近 135 与 RRM2 的 236 → 跨域距离。\n例 2：残基 176 上的标签靠近 ~190（linker 交界）与 ~230（RRM2） → 定相对取向。\n例 2：标签 176 近 190 与 RRM2 的 230 → 定取向。\n例 3：残基 236 上的标签靠近 RRM2 侧 ~210 → 需旋转 RRM2 满足此约束（初始模型不满足）→ 两域应更靠近。\n例 3：标签 236 近 210，要求两域更靠近。\nWHY：跨域的 PRE 距离约束能\"钉死\"两个域的相对排布。\nWHY：跨域 PRE 距离约束定两域排布。"
    },
@@ -14261,14 +14261,14 @@
    {
     "id": "Quiz 17 - NMR Parameters II (Exam).md::30",
     "type": "qa",
-    "q_en": "Question 12 (3 points): What do the spectra in Fig. 5B and 5E correspond to and what do they demonstrate for 3'SL? What can be concluded for the two ligands (Fig. 5 A, B, C, and E)?",
+    "q_en": "Question 12 (3 points): What do the spectra in Fig. 5B and 5E correspond to and what do they demonstrate for 3'SL? What can be concluded for the two ligands (Fig. 5 A, B, C, and E)?\n![图 5B（真题卷 p8）](img/exam-2022-p8.png)\n![图 5（真题卷 p6）](img/exam-2022-p6.png)",
     "q_zh": "31（来源：Exam 2022）\n问题 12（3 分）：图 5B 和 5E 中的谱图对应什么？它们对 3'SL 证明了什么？对两种配体（图 5 A、B、C 和 E）能得出什么结论？",
     "a": "5B = 3'SL 的 off-resonance 谱（200 ppm 饱和无影响，即配体 1D 谱）。(1 pt) 5E = on(−4 ppm) − off 差谱：显示经蛋白被饱和的配体峰。因 off 谱所有峰都在差谱中出现 → 配体与蛋白快交换、全部峰被饱和。(1 pt) 6'SL 行为类似 → 两种聚糖都与 Spike 蛋白作用。(1 pt)\n5B 参照谱、5E 差谱；3'SL 快交换结合；两聚糖都结合。\nWHY：差谱中配体全部峰出现=所有配体质子都参与结合（快交换）。\nWHY：差谱全峰出现=快交换全结合。"
    },
    {
     "id": "Quiz 17 - NMR Parameters II (Exam).md::31",
     "type": "qa",
-    "q_en": "Question 13 (2 points): What can you conclude from the comparison of the STD spectra shown in Figure 6? Can you conclude on the 3'SL-binding site on the different Spike proteins?",
+    "q_en": "Question 13 (2 points): What can you conclude from the comparison of the STD spectra shown in Figure 6? Can you conclude on the 3'SL-binding site on the different Spike proteins?\n![图 6（真题卷 p8）](img/exam-2022-p8.png)",
     "q_zh": "32（来源：Exam 2022）\n问题 13（2 分）：从图 6 所示 STD 谱的比较中你能得出什么结论？你能对不同 Spike 蛋白上的 3'SL 结合位点下结论吗？",
     "a": "6A（武汉株）：差谱有信号 → 3'SL 结合武汉 Spike。Omicron 与突变武汉株：信号几乎消失 → 相互作用被废除。(1 pt) 仅删除武汉 Spike 的 143-145 残基即废除结合 → 残基 143-145 是 3'SL 结合位点的一部分。(1 pt)\n143-145 是 3'SL 结合位点。\nWHY：删除特定残基即丧失结合 → 该残基直接参与结合界面。\nWHY：删特定残基即失结合 → 该残基在界面。"
    },
@@ -14296,7 +14296,7 @@
    {
     "id": "Quiz 17 - NMR Parameters II (Exam).md::35",
     "type": "qa",
-    "q_en": "Question 8 (4 points): In the context of this specific study (determination of the double-domain structure in the complex using the template constructed from the X-ray structures of the individual domains), which is the essential information provided by these data? Can you give three examples from the data shown in Figure 3?",
+    "q_en": "Question 8 (4 points): In the context of this specific study (determination of the double-domain structure in the complex using the template constructed from the X-ray structures of the individual domains), which is the essential information provided by these data? Can you give three examples from the data shown in Figure 3?\n![图 3（真题卷 p13）](img/exam-2024-p13.png)",
     "q_zh": "36（来源：Exam 2024）\n问题 8（4 分）：在这项具体研究的背景下（使用由各结构域的 X 射线结构构建的模板来确定复合物中双结构域的结构），这些数据提供的关键信息是什么？你能从图 3 所示数据中给出三个例子吗？",
     "a": "PRE 给跨域长程距离信息（标签所在域残基与另一域酰胺质子之间），可用于确定两域相对取向 (1 pt)。\n跨域长程距离，定两域相对取向。\n例 1：残基 155（RRM1） 靠近 200、230（RRM1 内，域内）以及 RRM2 的 N 端与 ~300（跨域）。例 2：残基 273（RRM2） 与 RRM1 的 C 端（~230）作用。例 3：残基 287（RRM2） 与 RRM1 的 ~175、220 作用 (共 3 pt)。\n155/273/287 三个标签给跨域距离。\nWHY：跨域距离约束能\"钉死\"两域的相对排布。\nWHY：跨域距离钉死两域排布。"
    },
@@ -14310,28 +14310,28 @@
    {
     "id": "Quiz 17 - NMR Parameters II (Exam).md::37",
     "type": "qa",
-    "q_en": "Question 13 (3 points): What do the PRE data shown in Figure 5B suggest for the overall conformation of the RRM1-RRM2 protein when it binds to U4 or to U13 RNA? Have a look at the positions marked by arrows.",
+    "q_en": "Question 13 (3 points): What do the PRE data shown in Figure 5B suggest for the overall conformation of the RRM1-RRM2 protein when it binds to U4 or to U13 RNA? Have a look at the positions marked by arrows.\n![图 5B（真题卷 p15）](img/exam-2024-p15.png)",
     "q_zh": "38（来源：Exam 2024）\n问题 13（3 分）：当 RRM1-RRM2 蛋白结合 U4 或 U13 RNA 时，图 5B 所示的 PRE 数据对其整体构象有什么提示？请关注箭头标记的位置。",
     "a": "游离 RRM1-RRM2：RRM2 的 318 标签与 RRM1 的 N 端、200、C 端有 PRE → RRM2 折叠回 RRM1 上。\n游离态 RRM2 折叠回 RRM1。\nU4 结合不改变此折叠（谱型与游离相似），因 U4 只结合 RRM2。\nU4 不改变折叠（只结合 RRM2）。\nU13 结合时：与两域都作用，破坏 RRM1-RRM2 之间的相互作用 → RNA 可能插入两域之间。\nU13 破坏域间作用，RNA 插入两域之间。\nWHY：对比游离/U4/U13 的 PRE 谱型，追踪两域相对构象的变化。\nWHY：对比 PRE 谱型追踪构象变化。"
    },
    {
     "id": "Quiz 17 - NMR Parameters II (Exam).md::38",
     "type": "qa",
-    "q_en": "Question 3 (3 points): In very simple words, what type of structural information can be obtained from RDCs (the RDC couplings considered here were 1H/15N couplings)? Do you think that RDCs could allow distinction between the former, unpublished structure (cyan in Fig 3(B), PDB: 2LE4) and the actual solution structure (Fig 3(B), pink)? Give a short explanation.",
+    "q_en": "Question 3 (3 points): In very simple words, what type of structural information can be obtained from RDCs (the RDC couplings considered here were 1H/15N couplings)? Do you think that RDCs could allow distinction between the former, unpublished structure (cyan in Fig 3(B), PDB: 2LE4) and the actual solution structure (Fig 3(B), pink)? Give a short explanation.\n![图 3（真题卷 p10）](img/exam-2025-p10.png)",
     "q_zh": "39（来源：Exam 2025）\n问题 3（3 分）：用非常简单的话说，从 RDC（此处考虑的 RDC 耦合是 ¹H/¹⁵N 耦合）中可以获得什么类型的结构信息？你认为 RDC 能否区分之前未发表的结构（图 3(B) 中的青色，PDB: 2LE4）和实际的溶液结构（图 3(B) 中的粉色）？给出简短解释。",
     "a": "RDC（¹H/¹⁵N 耦合）给键矢量（N-H 键）相对于对齐张量（磁场对齐框架）的取向信息，即长程取向约束。\nRDC 给 N-H 键矢量相对取向（长程取向约束）。\n能区分：若两个结构的螺旋相对取向不同，其 N-H 键矢量的取向分布就不同 → 回算 RDC 与实测 RDC 的吻合度不同。\n能区分：取向不同 → RDC 模式不同。\nWHY：RDC 对整体折叠/域取向敏感，正好能分辨 NOE（短程）难以分辨的相对取向。\nWHY：RDC 敏感整体取向，补 NOE 之短。"
    },
    {
     "id": "Quiz 17 - NMR Parameters II (Exam).md::39",
     "type": "qa",
-    "q_en": "Question 4 (3 points): Looking at the comparison between back-calculated and experimentally measured RDCs (Fig 3(C)), what can you conclude on the overall agreement of the two solution structures (cyan and pink) with the experimental data? Which one agrees better? What can you conclude on the comparison between the DNA-free solution structure (pink) and the DNA-bound structure (PDB: 1GT0, orange)? From your analysis, can you conclude that DNA-binding leads to major structural changes in the DNA-binding domain?",
+    "q_en": "Question 4 (3 points): Looking at the comparison between back-calculated and experimentally measured RDCs (Fig 3(C)), what can you conclude on the overall agreement of the two solution structures (cyan and pink) with the experimental data? Which one agrees better? What can you conclude on the comparison between the DNA-free solution structure (pink) and the DNA-bound structure (PDB: 1GT0, orange)? From your analysis, can you conclude that DNA-binding leads to major structural changes in the DNA-binding domain?\n![图 3（真题卷 p10）](img/exam-2025-p10.png)",
     "q_zh": "40（来源：Exam 2025）\n问题 4（3 分）：观察回算 RDC 与实验测得 RDC 的比较（图 3(C)），关于两个溶液结构（青色和粉色）与实验数据的总体吻合度，你能得出什么结论？哪个吻合得更好？关于无 DNA 的溶液结构（粉色）与 DNA 结合态结构（PDB: 1GT0，橙色）的比较，你能得出什么结论？从你的分析中，你能得出 DNA 结合导致 DNA 结合域发生重大结构变化的结论吗？",
     "a": "粉结构（本工作）与实测 RDC 吻合更好（相关点更贴黑线），青结构（2LE4）吻合较差 → 本工作的溶液结构正确。粉（游离）与橙（DNA 结合）比较：两者 RDC 模式不同 → DNA 结合导致 DNA 结合域发生大的结构变化（螺旋重排）。\n粉结构与 RDC 吻合更好；游离 vs 结合 RDC 不同 → 结合导致大结构变化。\nWHY：RDC 回算与实测的相关性直接衡量结构正确性。\nWHY：RDC 相关性直接衡量结构正确性。"
    },
    {
     "id": "Quiz 17 - NMR Parameters II (Exam).md::40",
     "type": "qa",
-    "q_en": "Question 13 (2 points): What do the data shown in Figures 6(A) and 6(B) suggest?",
+    "q_en": "Question 13 (2 points): What do the data shown in Figures 6(A) and 6(B) suggest?\n![图 6（真题卷 p13）](img/exam-2025-p13.png)",
     "q_zh": "41（来源：Exam 2025）\n问题 13（2 分）：图 6(A) 和 6(B) 所示的数据说明了什么？",
     "a": "图 6A：¹⁵N-SIM 与未标记 SEP 滴定，SIM 峰随 SEP 加入而移动 → SIM 结合 SEP。图 6B：SIM 基序在含 SEP 的构建中螺旋倾向增加 → SIM（预测为 IDR）在结合 SEP 时诱导形成螺旋（folding upon binding）。\nSIM 结合 SEP 并诱导螺旋（折叠）。\nWHY：位移 + 二级结构倾向变化 = IDR 结合诱导折叠。\nWHY：位移+螺旋倾向增=诱导折叠。"
    }
@@ -14351,7 +14351,7 @@
    {
     "id": "Quiz 18 - NMR Structure Calculation (Exam).md::1",
     "type": "qa",
-    "q_en": "During the structure calculation with automatic NOE assignment using the program UNIO'10, a number of clearly visible NOE peaks could not be assigned in spite of the iterative NOE assignment/structure calculation process. Taking into account the results presented in Figure II.2, can you make an assumption about the origin of these NOE peaks? What information can be derived and what can it be used for?",
+    "q_en": "During the structure calculation with automatic NOE assignment using the program UNIO'10, a number of clearly visible NOE peaks could not be assigned in spite of the iterative NOE assignment/structure calculation process. Taking into account the results presented in Figure II.2, can you make an assumption about the origin of these NOE peaks? What information can be derived and what can it be used for?\n![图 II.2（真题卷 p7）](img/exam-2016-p7.png)",
     "q_zh": "2（来源：Exam 2016）\n在用 UNIO'10 程序进行自动 NOE 归属的结构计算过程中，尽管经过了迭代的 NOE 归属/结构计算，仍有一些清晰可见的 NOE 峰无法被归属。结合图 II.2 所示的结果，你能对这些 NOE 峰的来源作出假设吗？可以从中推导出什么信息，这些信息能用于什么？",
     "a": "UNIO'10 迭代指认时假设蛋白是单体，所以分子间接触产生的 NOE 峰因不符合单体距离而无法指认。这些峰实际来自二聚体的分子间 NOE，含宝贵信息——可由其指认与峰体积导出分子间距离约束用于二聚体结构计算。\n程序按单体算，分子间 NOE 与单体距离矛盾无法指认；它们实为二聚体界面信息，可导分子间距离约束。\nWHY：软件假设错（单体）→ 界面 NOE 成\"孤儿峰\"；但孤儿峰恰好标记了二聚界面。\nWHY：单体假设导致界面 NOE 无法归属，但正是这些峰标记了二聚界面。"
    },
@@ -14365,7 +14365,7 @@
    {
     "id": "Quiz 18 - NMR Structure Calculation (Exam).md::3",
     "type": "qa",
-    "q_en": "Question I.1 (3 points). Based on the NMR structures shown in Figure 1 and the structural statistics given in Table 1, how would you evaluate the quality of the NMR structure?",
+    "q_en": "Question I.1 (3 points). Based on the NMR structures shown in Figure 1 and the structural statistics given in Table 1, how would you evaluate the quality of the NMR structure?\n![图 1（真题卷 p9）](img/exam-2018-p9.png)",
     "q_zh": "4（来源：Exam 2018）\n问题 I.1（3 分）。根据图 1 所示的 NMR 结构和表 1 给出的结构统计，你会如何评价该 NMR 结构的质量？",
     "a": "图 1 中 14 个结构与最低能量结构在 CAT 亚域（251-380）与 CWT 的 SH3 样亚域（402-490）叠加良好 → 这两个结构域质量好。表 1 佐证：RMSD < 1 Å、Ramachandran 不利区角度少（0–0.1%）。原因是归属完整度高（>90%） + 长程距离约束多（CAT 42.8%、CWT 46.8%）。\n14 结构叠加好、RMSD<1 Å、不利角少 → 两结构域质量好。\n整体蛋白：CAT 与 CWT 的相对取向不固定，因为两域间约束极少（全长仅 30/4/0 个短/中/长程约束，linker 无 TALOS 约束）→ 本征域间柔性。\n两域相对取向不固定，域间约束少 → 域间柔性。\nWHY：NMR 结构质量看叠加（RMSD）、立体化学（Ramachandran）、约束数量与归属完整度。\nWHY：质量 = 叠加好 + 立体化学合理 + 约束充足。"
    },
@@ -14379,7 +14379,7 @@
    {
     "id": "Quiz 18 - NMR Structure Calculation (Exam).md::5",
     "type": "qa",
-    "q_en": "Question 2 (2 points): Comparing the different structures determined for the Sox2 DBD and shown in Figure 3(B), what can you conclude when comparing the NOE-derived structure described in this work (no DNA, pink) to the previously determined free-state NMR structure (cyan)? What is the main difference between these two structures (if there is one)?",
+    "q_en": "Question 2 (2 points): Comparing the different structures determined for the Sox2 DBD and shown in Figure 3(B), what can you conclude when comparing the NOE-derived structure described in this work (no DNA, pink) to the previously determined free-state NMR structure (cyan)? What is the main difference between these two structures (if there is one)?\n![图 3（真题卷 p10）](img/exam-2025-p10.png)",
     "q_zh": "6（来源：Exam 2025）\n问题 2（2 分）：比较为 Sox2 DBD 测定并显示在图 3(B) 中的不同结构，将本文描述的 NOE 衍生结构（无 DNA，粉色）与先前测定的游离态 NMR 结构（青色）进行比较时，你能得出什么结论？这两个结构之间的主要区别是什么（如果有的话）？",
     "a": "两者基本一致（都是无 DNA 的游离态），确认游离态构象定义良好；主要差异极小（若存在也仅是局部）。真正的大差异是两者（游离态）与 DNA 结合态（1GT0，橙）相比——三个螺旋相对取向不同。\n两者一致（都是游离态）；真正差异是与 DNA 结合态比较。\nWHY：同一状态的独立结构应相互一致；结构差异主要出现在游离↔结合态之间。\nWHY：同态结构应一致；差异在游离↔结合之间。"
    }
