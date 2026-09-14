@@ -194,6 +194,13 @@ def parse_exam(path):
             c = clean(s)
             if not c:
                 continue
+            # 分离图片引用（语言无关，转网站 img/ 路径）
+            imgs = re.findall(r'!\[[^\]]*\]\([^)]+\)', c)
+            for im in imgs:
+                q_en.append(im.replace('attachments/', 'img/'))
+            c = re.sub(r'!\[[^\]]*\]\([^)]+\)', '', c).strip()
+            if not c:
+                continue
             if in_a:
                 a_lines.append(c)
             elif c.startswith('背景') or c.startswith('Given'):

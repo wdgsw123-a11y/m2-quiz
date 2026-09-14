@@ -28,6 +28,16 @@ function stripCJK(text) {
     .join('\n');
 }
 function esc(s) { return (s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
+function renderText(text) {
+  if (!text) return '';
+  return text.split(/(!\[[^\]]*\]\([^)]+\))/g)
+    .map(part => {
+      const m = part.match(/^!\[([^\]]*)\]\(([^)]+)\)$/);
+      return m ? `<img src="${esc(m[2])}" alt="${esc(m[1])}" loading="lazy">` : esc(part);
+    })
+    .join('')
+    .replace(/\n/g, '<br>');
+}
 function hint(isReview, text) { document.getElementById(isReview ? 'card-hint' : 'card-hint').textContent = text; }
 
 /* ---------- 统计 ---------- */
@@ -76,11 +86,11 @@ function renderCard(card, isReview) {
   $(`btn-next${p}`).hidden = true;
 
   const eng = isEnglish();
-  $(`q${p}-en`).innerHTML = esc(card.q_en).replace(/\n/g, '<br>');
+  $(`q${p}-en`).innerHTML = renderText(card.q_en);
   $(`q${p}-zh`).style.display = eng ? 'none' : '';
-  $(`q${p}-zh`).innerHTML = card.q_zh ? esc(card.q_zh).replace(/\n/g, '<br>') : '';
+  $(`q${p}-zh`).innerHTML = renderText(card.q_zh);
   const aText = eng ? stripCJK(card.a || card.explain) : (card.a || card.explain);
-  $(`a${p}-text`).textContent = aText || (eng ? '(no answer)' : '（无答案）');
+  $(`a${p}-text`).innerHTML = renderText(aText) || (eng ? '(no answer)' : '（无答案）');
 
   if (card.type === 'mcq') {
     $cardEl.classList.add('mcq');
